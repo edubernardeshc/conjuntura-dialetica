@@ -1,0 +1,42 @@
+name: Relatório diário
+
+on:
+  schedule:
+    - cron: "17 22 * * *"   # 22:17 UTC = 19:17 em Brasília (relatório do fim do dia)
+  workflow_dispatch:         # permite rodar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write
+
+jobs:
+  gerar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180     # o modo completo é demorado de propósito
+    steps:
+      - name: Baixar o projeto
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Pesquisa completa e análise (modo completo)
+        run: python relatorio_geopolitico.py
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Gerar as páginas do site
+        run: python gerar_site.py
+
+      - name: Publicar (salvar as mudanças no repositório)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git diff --cached --quiet || git commit -m "Relatório $(date -u +%F)"
+          git push
