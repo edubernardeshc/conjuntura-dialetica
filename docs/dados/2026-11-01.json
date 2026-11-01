@@ -1,0 +1,917 @@
+{
+  "avisos_execucao": [
+    "Cota esgotada no modelo 'gemini-flash-latest' (erro 429) ao usar a busca na web.",
+    "Cota esgotada no modelo 'gemini-3-flash-preview' (erro 429) ao usar a busca na web.",
+    "Cota esgotada no modelo 'gemini-3.1-flash-lite' (erro 429) ao usar a busca na web.",
+    "Cota esgotada no modelo 'gemini-pro-latest' (erro 429).",
+    "Cota esgotada no modelo 'gemini-3.1-pro-preview' (erro 429).",
+    "Cota esgotada no modelo 'gemini-flash-latest' (erro 429).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'.",
+    "O modelo de análise principal ('gemini-pro-latest') não respondeu; foram usados: gemini-flash-latest, gemini-3-flash-preview."
+  ],
+  "manchete_do_dia": "Fragmentação Geopolítica e Crises de Reprodução Social Marcam o Cenário Global",
+  "resumo_executivo": "O cenário internacional é marcado por disputas interimperialistas e crises de reprodução social. Enquanto EUA e China mantêm trégua instável em cadeias de suprimentos, conflitos no Sudão, Gaza e Saara Ocidental evidenciam a falência da mediação multilateral e a mercantilização da coerção. Na Europa, mobilizações contra o custo de vida e impasses sobre reparações coloniais tensionam Estados, enquanto o Canadá busca diversificação frente às tarifas estadunidenses. Na África, a economia de pilhagem e a exaustão extrativista aprofundam crises humanitárias.",
+  "itens": [
+    {
+      "regiao": "Global",
+      "titulo": "Ataque cibernético à Binance e as disputas em torno do financiamento norte-coreano",
+      "paises_iso3": [
+        "PRK",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N021",
+        "N033",
+        "N034",
+        "N054",
+        "N068"
+      ],
+      "fatos_verificaveis": [
+        "A corretora Binance sofreu um roubo de cerca de US$ 6,3 bilhões em ativos digitais no final de outubro de 2026.",
+        "A empresa declarou ter coberto cerca de 90% das perdas com recursos próprios e fundos de reserva corporativos, reabrindo saques gradualmente.",
+        "O FBI e empresas de análise em blockchain atribuíram o ataque ao grupo TraderTraitor/Lazarus, associado pelo governo norte-americano à Coreia do Norte.",
+        "O presidente dos Estados Unidos, Donald Trump, afirmou que o governo ainda não tem certeza sobre a autoria do ataque.",
+        "A Coreia do Norte historicamente nega envolvimento em ataques cibernéticos contra plataformas digitais e financeiras."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "A imprensa ocidental e agências federais norte-americanas enquadram o evento como operação assimétrica de um regime isolado para capturar divisas e financiar programas bélicos. Veículos liberais também chamam a atenção para as fragilidades estruturais de segurança e governança no ecossistema de criptoativos, enquanto a declaração presidencial de Trump diverge da certeza taxativa expressa pelo FBI.",
+      "citacao": "Binance will absorb the financial impact of these stolen funds, not our users",
+      "citacao_fonte_id": "N021",
+      "contexto_historico": "Desde a década de 2010, o endurecimento de sanções multilaterais e unilaterais lideradas pelos Estados Unidos e pelo Conselho de Segurança da ONU impôs um severo cerco comercial e financeiro à República Popular Democrática da Coreia. Diante da exclusão de circuitos formais de compensação bancária em moeda estrangeira e da escassez crônica de reservas, relatórios de painéis de especialistas das Nações Unidas e analistas ocidentais têm documentado o recurso a mecanismos não convencionais de captação de recursos, incluindo operações cibernéticas contra sistemas bancários e plataformas de câmbio de moedas digitais.",
+      "relacoes_de_trabalho": "O caso expõe a fissura entre a força de trabalho técnica altamente concentrada pelo Estado norte-coreano em academias militares e órgãos de inteligência e os trabalhadores do setor privado de tecnologia financeira no Ocidente. Enquanto o regime mobiliza mão de obra qualificada em matemática e computação sob disciplina militar para capturar excedente externo, o setor de custódia corporativa de ativos cripto apoia-se em quadros técnicos corporativos que operam redes globais flexíveis e expostas a falhas operacionais e de credenciais.",
+      "contradicao_principal": "O confronto entre o regime de bloqueio e sanções financeiras globais hegemônico e as táticas estatais periféricas de apropriação cibernética de riqueza desregulamentada.",
+      "analise_materialista": "Sob o prisma da economia política, a ascensão do mercado de criptoativos gerou grandes massas de capital financeiro e liquidez internacional fora dos canais bancários sob estrita supervisão regulatória estatal. Para economias submetidas a bloqueios severos, a vulnerabilidade técnica dessas plataformas desregulamentadas converte-se em alvo de extração direta de valor e divisas conversíveis. Ao mesmo tempo, a capacidade da Binance de cobrir perdas estimadas em mais de seis bilhões de dólares evidencia o imenso acúmulo de reservas e taxas de intermediação retidas pelas corretoras monopolistas privadas, que atuam como garantidoras de liquidez de seus ecossistemas. A atribuição da ação a Pyongyang pelo aparato de segurança norte-americano cumpre também a função geopolítica de reforçar a securitização do espaço digital e legitimar controles de capitais em redes distribuídas, ainda que a admissão explícita de incerteza no Executivo norte-americano revele hesitações sobre a resposta diplomática ou punitiva.",
+      "explicacoes_alternativas": "Analistas liberais de segurança cibernética e executivos do setor argumentam que o ataque decorre fundamentalmente de falhas de higiene digital, falta de governança corporativa de chaves privadas e vulnerabilidades no código ou estações de trabalho de engenheiros. Por essa ótica, a autoria seria contingente, refletindo a corrida tecnológica geral de criminosos digitais sofisticados que exploram brechas regulatórias antes da maturação dos padrões de conformidade corporativa.",
+      "hipoteses": [
+        "A liquidação paulatina dos ativos furtados em protocolos descentralizados pode acelerar pressões regulatórias norte-americanas sobre corretoras e serviços de troca instantânea.",
+        "A divergência pública entre as afirmações do FBI e as declarações de Trump pode sinalizar margem de manobra diplomática reservada em eventuais negociações bilaterais futuras."
+      ],
+      "limites_da_evidencia": "A apuração baseia-se exclusivamente em comunicados da Binance, alegações do FBI e firmas de inteligência privada contratadas; não há acesso a dados periciais independentes que comprovem a cadeia de custódia militar norte-coreana.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação da análise materialista para evitar caracterizações imprecisas sobre funções de 'banco central informal' e manter estrita correspondência com os dados fáticos.",
+        "Verificada a integridade literal da citação de BBC World e a atribuição balanceada das declarações divergentes entre o FBI e o Executivo norte-americano.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N021",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Crypto firm Binance covers 90% of losses after $6.3bn hack",
+          "publicado": "2026-11-01",
+          "url": "https://www.bbc.co.uk/news/articles/ckpdg3ql4169o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N033",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Binance resumes customer withdrawals after record $6.3bn hack",
+          "publicado": "2026-11-01",
+          "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
+        },
+        {
+          "id": "N034",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "How crypto hacking funds isolated North Korea’s nuclear programme",
+          "publicado": "2026-10-30",
+          "url": "https://www.theguardian.com/world/2026/oct/30/how-crypto-hacking-funds-isolated-north-korea-nuclear-programme"
+        },
+        {
+          "id": "N054",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "FBI says North Korea behind $6 billion Binance crypto theft",
+          "publicado": "2026-11-01",
+          "url": "https://www.dw.com/en/fbi-says-north-korea-behind-6-billion-binance-crypto-theft/a-79819998?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N068",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Blockchain intelligence firms link North Korea to $6.3B hack on Binance",
+          "publicado": "2026-10-30",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150902/blockchain-intelligence-firms-link-north-korea-to-6-3b-hack-on-binance"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Encerramento da trégua em Oleshky e a guerra de atrito infraestrutural",
+      "paises_iso3": [
+        "RUS",
+        "UKR"
+      ],
+      "fontes_ids": [
+        "N002",
+        "N014",
+        "N043",
+        "N046",
+        "N077"
+      ],
+      "fatos_verificaveis": [
+        "O cessar-fogo localizado de seis dias na região de Kherson, centrado na localidade ocupada de Oleshky, expirou no domingo sem renovação.",
+        "A trégua permitiu a evacuação de centenas de civis da cidade sitiada de Oleshky para territórios controlados por Kiev ou áreas sob controle russo.",
+        "A iniciativa humanitária contou com mediação de Melania Trump e do Papa Leão XIV, segundo as fontes noticiosas.",
+        "Ataques aéreos russos contra a infraestrutura energética em quatro regiões ucranianas deixaram centenas de milhares de residências sem eletricidade.",
+        "A Ucrânia atingiu instalações industriais e de produção de combustível de mísseis na região russa de Rostov, de acordo com o presidente Volodymyr Zelensky."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "Veículos ocidentais e multilaterais ressaltam o sofrimento humanitário dos civis sitiados em Oleshky e a tática russa de degradar a rede elétrica ucraniana antes do inverno. A cobertura também registra a diplomacia personalista envolvendo figuras externas, enquanto comunicados oficiais russos e ucranianos acentuam, respectivamente, o sucesso operacional estrito do corredor humanitário e a urgência de repor mísseis de defesa antiaérea.",
+      "citacao": "Let Oleshky become the starting point for lasting peace.",
+      "citacao_fonte_id": "N002",
+      "contexto_historico": "Desde a invasão russa de fevereiro de 2022 e a retomada ucraniana da margem ocidental do rio Dnipro no final daquele ano, a faixa ribeirinha de Kherson tornou-se uma linha de contato estática e altamente fortificada. Cidades na margem oriental, como Oleshky, permaneceram isoladas sob controle das forças armadas da Federação Russa, sujeitas a fogo constante e escassez de suprimentos, enquanto a estratégia militar russa passou a priorizar a destruição metódica da rede elétrica ucraniana como meio de exaustão econômica e desestabilização da retaguarda civil.",
+      "relacoes_de_trabalho": "A degradação sistemática da matriz energética desorganiza os locais de trabalho e a reprodução social cotidiana em território ucraniano, forçando jornadas de trabalho sob racionamento severo de energia e água. O esforço continuado recai intensamente sobre equipes de manutenção e socorro civil que realizam reparos sob risco constante de bombardeios, enquanto a população remanescente nas zonas de combate enfrenta a perda de condições mínimas de subsistência.",
+      "contradicao_principal": "A incompatibilidade entre pausas humanitárias táticas pontuais e a lógica estratégica de destruição das bases materiais de sobrevivência civil e militar no conflito interestatal.",
+      "analise_materialista": "O cessar-fogo localizado em Oleshky evidencia como pausas operacionais delimitadas podem ser negociadas para gerenciar crises agudas de reprodução biológica da população civil sem alterar a dinâmica de atrito estrutural entre os aparatos estatais beligerantes. A expiração do acordo sem prorrogação e o imediato aprofundamento dos ataques à rede de transmissão de eletricidade revelam que a infraestrutura energética permanece como vetor determinante da correlação de forças: ao privar centros urbanos ucranianos de energia às vésperas do inverno, as forças armadas russas procuram drenar as finanças do Estado ucraniano, elevar custos de sustentação econômica assumidos por parceiros ocidentais e comprometer a logística civil e militar. Em contrapartida, os ataques ucranianos contra complexos industriais de combustíveis em Rostov ilustram a tentativa de impor perdas à base material e produtiva russa, demarcando uma disputa cujo desfecho se assenta na capacidade mútua de reposição industrial de insumos e armamentos.",
+      "explicacoes_alternativas": "Leituras liberais e diplomáticas enfatizam a mediação de figuras políticas e religiosas individuais como catalisadoras de confiança moral, atribuindo a não prorrogação do acordo a intransigências políticas de lideranças em Moscou ou a cálculos táticos temporários de comando militar de curto prazo.",
+      "hipoteses": [
+        "A intensificação dos danos na rede elétrica ucraniana aumentará a pressão sobre governos europeus para novos aportes financeiros e remessas emergenciais de geradores e baterias antiaéreas.",
+        "Corredores humanitários pontuais poderão voltar a ocorrer esporadicamente sem que representem abertura real para negociações de armistício amplo."
+      ],
+      "limites_da_evidencia": "As notícias não detalham o teor exato das negociações para a extensão do cessar-fogo nem o nível consolidado de danos materiais sofridos pela fábrica russa em Rostov.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Substituída a expressão 'duas burguesias de Estado' por 'aparatos estatais beligerantes' para maior precisão conceitual e aderência aos fatos documentados.",
+        "Confirmada a precisão factual das evacuações, da expiração do cessar-fogo e da citação de Al Jazeera English.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N002",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+          "publicado": "2026-11-01",
+          "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss"
+        },
+        {
+          "id": "N014",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
+          "publicado": "2026-11-01",
+          "url": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N043",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Oleshky: Evacuations during first humanitarian truce of war end",
+          "publicado": "2026-11-01",
+          "url": "https://www.france24.com/en/oleshky-evacuations-during-first-humanitarian-truce-of-war-end"
+        },
+        {
+          "id": "N046",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Oleshky residents return to Ukraine",
+          "publicado": "2026-11-01",
+          "url": "https://www.france24.com/en/oleshky-residents-return-to-ukraine"
+        },
+        {
+          "id": "N077",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Ukraine: Oleshky ceasefire offers ‘hope’ for civilians as attacks on aid vehicles continue",
+          "publicado": "2026-10-30",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168712"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América do Norte",
+      "titulo": "Disputa tarifária norte-americana e a tentativa canadense de diversificação com a Europa",
+      "paises_iso3": [
+        "CAN",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N005",
+        "N029",
+        "N057"
+      ],
+      "fatos_verificaveis": [
+        "O primeiro-ministro canadense Mark Carney e o presidente dos EUA Donald Trump conversaram sobre o comércio bilateral às vésperas das eleições legislativas norte-americanas, segundo a Al Jazeera.",
+        "Em agosto, negociações entre Ottawa e Washington haviam sido rompidas após imposição norte-americana de tarifa de 50% sobre 20 bilhões de dólares em exportações canadenses, com retaliação equivalente de Ottawa, de acordo com a Al Jazeera.",
+        "Em cúpula em Montreal, Carney e Ursula von der Leyen anunciaram a 'Aliança para o Futuro' e debateram a proposta de 'membro associado' do Canadá na União Europeia, segundo The Guardian e Deutsche Welle.",
+        "O governo canadense anunciou participação financeira de até 1,6 bilhão de dólares canadenses na fusão entre a empresa canadense Cohere e a alemã Aleph Alpha na área de inteligência artificial, conforme relatado pelo The Guardian."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "A Al Jazeera enfatiza os reflexos da disputa tarifária nas eleições parlamentares dos EUA; The Guardian salienta preocupações de soberania tecnológica e dependência de empresas privadas norte-americanas; a Deutsche Welle foca as resistências internas na UE quanto ao estatuto de associação e os limites da diversificação canadense.",
+      "citacao": "The lesson we've taken, Canadians as a whole, is we're overdependent on the United States.",
+      "citacao_fonte_id": "N057",
+      "contexto_historico": "A integração produtiva da América do Norte consolidou-se historicamente pelo Tratado de Livre Comércio da América do Norte (TLCAN) e sua revisão no USMCA/CUSMA, tornando o Canadá estruturalmente dependente do mercado e dos capitais norte-americanos, ao mesmo tempo em que Ottawa firmou em 2016 o CETA com a União Europeia.",
+      "relacoes_de_trabalho": "A imposição de tarifas transfronteiriças onera cadeias de suprimentos integradas, pressionando custos e empregos industriais no Canadá e atingindo empresas e trabalhadores em estados industriais e agrícolas limítrofes dos EUA, como Michigan e Maine, que enfrentam pressão econômica decorrente das barreiras tarifárias.",
+      "contradicao_principal": "Oposição entre a extrema integração produtiva e geográfica do Canadá ao polo hegemônico norte-americano e a necessidade de a burguesia canadense mitigar a coerção tarifária e a subordinação tecnológica externa.",
+      "analise_materialista": "A movimentação diplomática do Estado canadense reflete a vulnerabilidade de uma economia cuja acumulação de capital depende fortemente do mercado dos Estados Unidos. As tarifas de Washington operam como pressão coercitiva para extrair concessões bilaterais, alavancando a assimetria comercial regional. Em resposta, frações do capital e do Estado canadense buscam compensar essa dependência estreitando laços com o bloco europeu, inclusive por meio de aportes estatais em empreendimentos tecnológicos conjuntos (como o aporte na Cohere-Aleph Alpha) para reduzir a dependência de infraestruturas monopolistas de dados dos EUA. No entanto, a leitura materialista indica que a substituição de fluxos produtivos consolidados pela proximidade geográfica encontra fortes barreiras materiais: o próprio premiê admite a dificuldade de substituir a escala das trocas norte-americanas, tornando a aproximação com a UE complementar e assimétrica.",
+      "explicacoes_alternativas": "Analistas liberais sustentam que os movimentos em Montreal decorrem principalmente do alinhamento ideológico e normativo de democracias liberais na defesa da estabilidade institucional, do multilateralismo e da transição tecnológica contra o protecionismo unilateral.",
+      "hipoteses": [
+        "A ênfase canadense na associação à UE pode atuar primordialmente como instrumento tático de barganha para amenizar termos nas negociações tarifárias em curso com os Estados Unidos."
+      ],
+      "limites_da_evidencia": "As notícias não detalham quais concessões tarifárias específicas estão sobre a mesa entre Trump e Carney nem o arcabouço jurídico final da pretendida associação à União Europeia.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustado o texto de relações de trabalho para não presumir ação de sindicatos específicos, atendo-se ao impacto sobre negócios e custos locais citado pela fonte Al Jazeera English.",
+        "Refinada a formulação da análise materialista para manter precisão conceitual e evitar conclusões categóricas não comprovadas sobre a substituição de mercados.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N005",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Carney signals progress on Canada-US trade deal talks as midterms loom",
+          "publicado": "2026-11-01",
+          "url": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss"
+        },
+        {
+          "id": "N029",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Canada and EU announce new alliance open to like-minded countries",
+          "publicado": "2026-10-30",
+          "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+        },
+        {
+          "id": "N057",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Canadian PM Mark Carney discusses talks with the EU, overdependence on the US and how to deal with Donald Trump in a DW interview.",
+          "publicado": "2026-10-30",
+          "url": "https://www.dw.com/en/canadian-pm-mark-carney-discusses-talks-with-the-eu-overdependence-on-the-us-and-how-to-deal-with-donald-trump-in-a-dw-interview/a-79811469?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "CAN",
+          "pais": "Canada",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 63.5105049692227,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a alta dependência e exposição da economia canadense ao comércio internacional frente a choques protecionistas."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Encerramento da MINURSO e o impasse descolonizatório no Saara Ocidental",
+      "paises_iso3": [
+        "MAR",
+        "DZA"
+      ],
+      "fontes_ids": [
+        "N039",
+        "N071"
+      ],
+      "fatos_verificaveis": [
+        "O mandato da missão de paz da ONU no Saara Ocidental (MINURSO) encerrou-se após o Conselho de Segurança não renovar o seu mandato, segundo a France 24.",
+        "O governo do Marrocos celebrou a decisão de não renovação do mandato da missão, de acordo com a France 24.",
+        "A Frente Polisário, que recebe apoio da Argélia, classificou o fim da missão como inaceitável, segundo a France 24.",
+        "O secretário-geral da ONU, António Guterres, reiterou o compromisso da organização em apoiar uma solução política que assegure a autodeterminação, conforme a UN News."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "A France 24 ressalta o antagonismo entre a reivindicação marroquina e a Frente Polisário apoiada pela Argélia; a UN News enfoca a mensagem institucional de persistência diplomática em prol da autodeterminação sob a ótica multilateral.",
+      "citacao": "The 35-year-old UN peacekeeping mission ⁠in the disputed Western ​Sahara region came to an end Sunday after the Security Council failed to ​renew its mandate.",
+      "citacao_fonte_id": "N039",
+      "contexto_historico": "Instaurada em 1991 para supervisionar o cessar-fogo e organizar um referendo de autodeterminação, a MINURSO operou durante 35 anos em um cenário de paralisia diplomática após a descolonização espanhola inconclusa de 1975 e a ocupação da maior parte do território pelo Marrocos.",
+      "relacoes_de_trabalho": "O conflito prolongado perpetua a divisão entre populações sob a administração marroquina e comunidades sarauís em campos de refugiados no deserto argelino, caracterizadas pela dependência crônica de ajuda humanitária internacional e extrema escassez de trabalho produtivo formal.",
+      "contradicao_principal": "Conflito entre o projeto de controle territorial e soberania de Rabat sobre recursos da região e a reivindicação de autodeterminação e soberania nacional da população sarauí representada pela Frente Polisário.",
+      "analise_materialista": "Análise preliminar em razão da escassez de detalhes nos despachos: a não renovação do mandato da MINURSO evidencia a ineficácia material da mediação multilateral em alterar o balanço de forças no território, onde Marrocos consolidou o controle de fato sobre infraestruturas e rotas econômicas. O encerramento do mecanismo formal da ONU remove uma barreira institucional de contenção, enfraquecendo a capacidade de pressão legal da Frente Polisário e aumentando a probabilidade de reconfiguração tática no confronto regional mediado pela Argélia.",
+      "explicacoes_alternativas": "Representantes diplomáticos e defensores da decisão argumentam que o encerramento decorre do esgotamento funcional de um mandato de 35 anos ineficaz, visando forçar as partes a negociações políticas diretas e mais realistas fora da tutela permanente de forças de paz.",
+      "hipoteses": [
+        "A ausência de forças de paz de monitoramento no terreno pode incentivar o recrudescimento de atritos militares de baixa intensidade ao longo das linhas demarcatórias."
+      ],
+      "limites_da_evidencia": "Os despachos disponibilizados são breves e não especificam as posições de voto dos membros do Conselho de Segurança nem os planos de retirada das tropas de paz no terreno.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Removido o indicador de emprego vulnerável do Marrocos em 'dados_selecionados', pois não sustenta de forma direta o cerne do fato (decisão diplomática do Conselho de Segurança da ONU sobre a MINURSO).",
+        "Análise materialista mantida em formato enxuto e explicitada como preliminar devido à escassez de dados das matérias fornecidas.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N039",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "UN’s peacekeeping mission in disputed Western Sahara ends after 35 years",
+          "publicado": "2026-11-01",
+          "url": "https://www.france24.com/en/africa/20261101-un-s-peacekeeping-mission-in-disputed-western-sahara-ends-after-35-years"
+        },
+        {
+          "id": "N071",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Western Sahara: UN ‘stands ready’ to keep supporting peace efforts as MINURSO mission ends",
+          "publicado": "2026-11-01",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168717"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Mediação no Golfo e cálculo eleitoral dos EUA frente à escalada com o Irã",
+      "paises_iso3": [
+        "USA",
+        "IRN",
+        "QAT"
+      ],
+      "fontes_ids": [
+        "N013",
+        "N061",
+        "N069"
+      ],
+      "fatos_verificaveis": [
+        "O Catar liderou esforços de mediação diplomática durante 72 horas para tentar evitar uma nova rodada de ataques dos EUA ao Irã após as eleições de meio de mandato (segundo a rádio NPR).",
+        "Os EUA mobilizaram dois porta-aviões no Mar Arábico e enviaram um terceiro, o USS Theodore Roosevelt, presença militar na região não vista desde a invasão do Iraque em 2003 (segundo a rádio NPR).",
+        "O secretário de Defesa dos EUA, Pete Hegseth, demitiu o tenente-general do Exército Brett Sylvia, planejador do Pentágono, em meio a investigações sobre vazamentos e preparativos militares (segundo a rádio NPR).",
+        "O conflito contra o Irã e a disparada nos preços dos combustíveis tornaram-se tópicos de pressão política interna antes do pleito norte-americano (segundo a rede Al Jazeera)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "A Al Jazeera focaliza as consequências econômicas da guerra nos combustíveis e o desgaste político no Congresso dos EUA. A NPR enfatiza atritos de comando militar no Pentágono e as manobras defensivas das lideranças do Golfo para barrar hostilidades ampliadas.",
+      "citacao": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks",
+      "citacao_fonte_id": "N061",
+      "contexto_historico": "As tensões entre Washington e Teerã sucedem anos de atrito sobre soberania regional e controle do estreito de Ormuz. As monarquias do Conselho de Cooperação do Golfo, que abrigam infraestrutura militar norte-americana, buscam salvaguardar suas rotas de exportação de hidrocarbonetos para não se tornarem alvos em conflagrações assimétricas.",
+      "relacoes_de_trabalho": "O financiamento da projeção bélica externa contrasta com a degradação das condições de reprodução da classe trabalhadora nos EUA, exposta à inflação energética e cortes em proteções estatais (como os vetos a programas de renegociação hipotecária para veteranos descritos pela NPR).",
+      "contradicao_principal": "A exigência de projeção hegemônica militar dos EUA em choque com os custos econômicos imediatos que a alta do petróleo causa no consumo doméstico.",
+      "analise_materialista": "A concentração naval no Mar Arábico indica o uso do aparato militar para sustentar a primazia geopolítica de Washington e cercar concorrentes regionais. Todavia, a leitura materialista sugere que essa estratégia enfrenta entraves domésticos: a alta dos combustíveis impõe perdas ao poder aquisitivo do eleitorado, gerando atritos às vésperas de pleitos legislativos. A iniciativa diplomática do Catar responde à necessidade concreta das monarquias do Golfo de blindar as rotas marítimas de exportação energética contra retaliações. Ademais, expurgos na alta cúpula do Pentágono evidenciam tensões institucionais na condução de um eventual conflito aberto.",
+      "explicacoes_alternativas": "Analistas do campo realista e institucionalista argumentam que a presença de três porta-aviões visa unicamente restabelecer a dissuasão convencional contra ofensivas iranianas, enquanto a diplomacia de Doha seria uma iniciativa autônoma de segurança regional e as demissões refletiriam disciplina gerencial do Executivo.",
+      "hipoteses": [
+        "A contenção militar momentânea responde mais ao calendário eleitoral dos EUA do que a uma desaceleração real dos planos bélicos."
+      ],
+      "limites_da_evidencia": "Não há informações sobre as contrapartidas operacionais discutidas nas reuniões em Doha nem confirmação oficial iraniana sobre o alcance do diálogo.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação da análise materialista para manter tom hipotético em relação às intenções estratégicas e reafirmada a dependência das alegações de mediação de fonte única (NPR).",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N013",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "How will the Iran war shape the outcome of the US midterm vote?",
+          "publicado": "2026-11-01",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss"
+        },
+        {
+          "id": "N061",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+          "publicado": "2026-11-01",
+          "url": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war"
+        },
+        {
+          "id": "N069",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
+          "publicado": "2026-10-30",
+          "url": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRN",
+          "pais": "Iran, Islamic Rep.",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 60.2426223967467,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a alta exposição e dependência da economia iraniana quanto ao comércio transfronteiriço e rotas marítimas."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Bombardeios em Gaza e cerco a Hebron aprofundam desapropriação territorial",
+      "paises_iso3": [
+        "ISR",
+        "PSE"
+      ],
+      "fontes_ids": [
+        "N004",
+        "N015",
+        "N079"
+      ],
+      "fatos_verificaveis": [
+        "Ataques aéreos israelenses deixaram ao menos oito mortos em Gaza, incluindo um menino de quatro anos na Cidade de Gaza e cinco policiais em Khan Younis (segundo a BBC, citando autoridades hospitalares e o ministério local).",
+        "O cerco militar israelense à cidade de Hebron, iniciado em 23 de outubro após disparos contra militares de Israel, deslocou quase 5.000 pessoas (segundo a Al Jazeera).",
+        "O escritório de direitos humanos da ONU (ACNUDH) denunciou a destruição sistemática de infraestrutura civil e o empurramento da população em Gaza para áreas cada vez menores, sob alerta de limpeza étnica (segundo a ONU).",
+        "As forças militares de Israel declararam ter alvejado operativos armados, sem detalhar provas imediatas (segundo a BBC)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "A BBC enfatiza a ruptura de cessar-fogo formal e alegações de ambas as partes. A Al Jazeera focaliza a punição coletiva e os milhares de expulsos em Hebron. O informe da ONU adota a gramática jurídica de violações graves e o risco sistemático de limpeza étnica.",
+      "citacao": "Israeli forces continue to push Palestinians into ever-smaller areas of the Gaza Strip while destroying civilian infrastructure and attacking displacement sites",
+      "citacao_fonte_id": "N079",
+      "contexto_historico": "Desde a ocupação de 1967, o Estado israelense opera o controle fragmentado da Cisjordânia e o isolamento de Gaza. A ofensiva recente sucede o ataque liderado pelo Hamas em outubro de 2023 e desmantela as bases mínimas de reprodução física da população palestina.",
+      "relacoes_de_trabalho": "A destruição da infraestrutura de Gaza e os bloqueios em Hebron liquidam postos de trabalho e atividades produtivas civis (como o patrulhamento rotineiro atingido em Khan Younis), forçando os trabalhadores a uma condição de total subsistência e dependência de socorro humanitário.",
+      "contradicao_principal": "A expansão e controle demográfico-territorial israelense em oposição à permanência material da população palestina em sua terra de origem.",
+      "analise_materialista": "A análise materialista sugere que a continuidade das operações militares sob vigência formal de cessar-fogo atua na desarticulação da infraestrutura física e institucional palestina. O ataque a forças policiais locais em Khan Younis e a destruição reiterada de refúgios precarizam a gestão cotidiana e os meios de sobrevivência coletiva. Na Cisjordânia, medidas de cerco coletivo como a relatada em Hebron tendem a acelerar o isolamento espacial e a inviabilização econômica das comunidades sob ocupação.",
+      "explicacoes_alternativas": "A doutrina militar de segurança de Israel defende que os cercos na Cisjordânia e as incursões aéreas em Gaza constituem operações estritamente defensivas de contraterrorismo, voltadas a desarticular combatentes que usam instalações civis como escudo.",
+      "hipoteses": [
+        "A intensificação simultânea de operações na Cisjordânia e em Gaza visa criar fatos consumados de transferência demográfica definitiva."
+      ],
+      "limites_da_evidencia": "As fontes não fornecem relatórios completos sobre a propriedade dos imóveis atingidos em Hebron nem comprovação conclusiva da afiliação dos mortos em Khan Younis.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Status de checagem rebaixado para parcialmente corroborado e confiança para média, dado que a contagem de 5.000 deslocados em Hebron decorre unicamente da Al Jazeera; redação analítica ajustada para evitar atribuições categóricas de intencionalidade.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N004",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Thousands displaced from Hebron as Israel carries on siege",
+          "publicado": "2026-11-01",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss"
+        },
+        {
+          "id": "N015",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Israeli strikes in Gaza kill eight including child, hospitals say",
+          "publicado": "2026-11-01",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N079",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "UN rights office warns of deepening displacement ‘nightmare’ in Gaza",
+          "publicado": "2026-10-30",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168707"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "PSE",
+          "pais": "West Bank and Gaza",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 24.42,
+          "ano": "2022",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia o patamar estrutural de desemprego e colapso prévio da inserção laboral palestina sob bloqueio."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Guerra no Sudão e a disputa diplomática em torno do apoio emiradense às RSF",
+      "paises_iso3": [
+        "SDN",
+        "ARE"
+      ],
+      "fontes_ids": [
+        "N001",
+        "N027"
+      ],
+      "fatos_verificaveis": [
+        "A diplomata emiradense Lana Nusseibeh foi indicada para o cargo de secretária-geral da ONU, gerando contestação de ativistas sudaneses e organizações de direitos humanos devido a denúncias de que os Emirados Árabes Unidos fornecem apoio às Forças de Apoio Rápido (RSF), segundo The Guardian.",
+        "Lana Nusseibeh negou as acusações de cumplicidade dos EAU e declarou que, caso eleita, apoiaria missões de apuração da ONU para prestação de contas sobre o conflito, de acordo com The Guardian.",
+        "As Forças de Apoio Rápido derivam historicamente das milícias Janjaweed armadas pelo regime sudanês nos anos 2000 em Darfur e são chefiadas por Mohamed Hamdan Dagalo (Hemedti), segundo Africa Is a Country.",
+        "A cidade de El Fasher foi alvo de ofensiva e tomada pelas RSF, ação que a ONU classificou como portadora de indícios de genocídio, conforme noticiado por The Guardian."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "Africa Is a Country enfatiza a historicidade da repressão violenta pelo Estado sudanês, a dominação patriarcal e a metamorfose das milícias em RSF. The Guardian privilegia a repercussão institucional no Conselho de Segurança da ONU e o impacto das denúncias de ONGs sobre a idoneidade da diplomacia de Abu Dhabi.",
+      "citacao": "Electing [the UAE’s] senior diplomat as secretary general would hand leadership of (UN) institutions to that government’s chief defender",
+      "citacao_fonte_id": "N027",
+      "contexto_historico": "A contrainsurgência deflagrada pelo governo de Omar al-Bashir em Darfur a partir de 2003 terceirizou operações militares a milícias Janjaweed. Institucionalizadas posteriormente sob a denominação de Forças de Apoio Rápido (RSF) sob o comando de Hemedti, essas forças consolidaram poder autônomo. A queda de Bashir em 2019 culminou na ruptura e confronto aberto entre o exército regular e as RSF em 2023.",
+      "relacoes_de_trabalho": "A dinâmica bélica desestruturou a reprodução social de camponeses e pastores em Darfur, impelindo populações despossuídas para o refúgio, para economias de espoliação e para o trabalho degradado em circuitos informais de mineração e rotas comerciais controladas por milícias armadas.",
+      "contradicao_principal": "Contradição entre a soberania popular e a integridade do território sudanês e os interesses materiais e de projeção geopolítica de capitais regionais do Golfo.",
+      "analise_materialista": "O conflito expressa o esfacelamento do monopólio da violência estatal sudanesa e a mercantilização da coerção física por frações armadas associadas a fluxos transnacionais de pilhagem. A leitura materialista sugere que a aproximação de facções locais a centros de acumulação do Golfo responde a disputas pelo controle de minérios estratégicos como o ouro e rotas comerciais no Mar Vermelho. Contudo, cabe ressalvar explicitamente que a alegação central de suporte militar e logístico estatal direto dos Emirados Árabes Unidos baseia-se em relatórios de ativistas e ONGs e é veementemente refutada pelo governo emiradense, devendo ser compreendida analiticamente como hipótese informada por interesses geopolíticos, e não fato estabelecido.",
+      "explicacoes_alternativas": "A diplomacia institucional emiradense argumenta que a indicação de sua diplomata visa fortalecer a representação do Sul Global na governança multilateral e defende que sua política externa busca a estabilidade regional e o diálogo político, repelindo as acusações de envolvimento militar com paramilitares.",
+      "hipoteses": [
+        "A candidatura emiradense atua na defesa dos interesses de inserção internacional de Abu Dhabi diante do risco de investigações multilaterais sobre o Sudão."
+      ],
+      "limites_da_evidencia": "Os registros limitam-se a depoimentos de ativistas, porta-vozes de ONGs e comunicados diplomáticos, carecendo de provas materiais independentes sobre canais financeiros e armamentos.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação dos fatos e da análise para demarcar categoricamente que a cumplicidade direta dos EAU constitui alegação de fontes da sociedade civil refutada por Abu Dhabi.",
+        "Mantido status 'não verificado' em razão da ausência de verificação web independente."
+      ],
+      "fontes": [
+        {
+          "id": "N001",
+          "nome": "Africa Is a Country",
+          "campo": "Crítica africanista / esquerda",
+          "perfil_editorial": "Revista e blog crítico sobre a África, de perspectiva progressista.",
+          "titulo_original": "El Fasher, a year later",
+          "publicado": "2026-10-30",
+          "url": "https://africasacountry.com/2026/10/the-arithmetic-of-el-fasher"
+        },
+        {
+          "id": "N027",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+          "publicado": "2026-10-30",
+          "url": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "SDN",
+          "pais": "Sudan",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 39.6653000762195,
+          "ano": "2022",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a alta vulnerabilidade do emprego no Sudão antes do agravamento do conflito bélico."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global",
+      "titulo": "Disputa por cadeias de suprimentos e trégua instável entre Estados Unidos e China",
+      "paises_iso3": [
+        "USA",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N032"
+      ],
+      "fatos_verificaveis": [
+        "Estados Unidos e China estenderam até janeiro a trégua tarifária alcançada no ano anterior, conforme noticiado pelo The Guardian.",
+        "O governo dos Estados Unidos impôs barreiras a exportações de semicondutores, investimentos e maquinários para a China, além de destinar recursos a projetos domésticos de minerais críticos, segundo The Guardian.",
+        "A China impôs restrições de exportação de terras raras, ímãs e tecnologias em inteligência artificial e energia solar, de acordo com The Guardian.",
+        "A Agência Internacional de Energia estimou que uma interrupção no fornecimento de ímãs de terras raras chineses poderia custar anualmente cerca de 1,5 trilhão de dólares aos Estados Unidos e à Europa, segundo The Guardian."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "The Guardian apresenta o atrito entre as duas potências como uma marcha velada rumo a uma guerra econômica estrutural, centrada no controle e no estrangulamento de nós logísticos e cadeias globais de suprimentos.",
+      "citacao": "the world is marching toward an economic war of potentially epic proportions, one that, history suggests, could well spill over into the real thing.",
+      "citacao_fonte_id": "N032",
+      "contexto_historico": "Desde 2018, as tarifas alfandegárias punitivas foram combinadas com controles de transferências tecnológicas e vetos a semicondutores pelos EUA. Em resposta sistemática, o planejamento econômico chinês intensificou a busca de autossuficiência e transformou seu domínio sobre a extração e refino de terras raras em mecanismo de retaliação geoeconômica.",
+      "relacoes_de_trabalho": "A pressão sobre cadeias de insumos críticos impacta os custos de reprodução da força de trabalho industrial global, enquanto os esforços de relocalização produtiva enfrentam assimetrias salariais e gargalos de qualificação laboral nos centros capitalistas centrais.",
+      "contradicao_principal": "Contradição entre a busca norte-americana por hegemonia em design tecnológico e finanças e o controle material das forças produtivas e do processamento de insumos básicos pela China.",
+      "analise_materialista": "A trégua momentânea oculta a intensificação da disputa interimperialista pelos alicerces materiais da produção. Como os dados e premissas deste item derivam exclusivamente de uma única análise jornalística do The Guardian, a tese de estrangulamento sistêmico deve ser tomada como preliminar. Sob o ponto de vista materialista, o recurso a controles de exportação de terras raras e equipamentos para semicondutores reflete uma fase em que o capital monopolista recorre ao poder coercitivo dos respectivos Estados para proteger sua taxa de lucro e conter o desenvolvimento técnico de concorrentes, explicitando os limites materiais da divisão internacional do trabalho liberalizada.",
+      "explicacoes_alternativas": "Vertentes liberais e institucionalistas interpretam a tensão como resultado de retórica nacionalista e distorções tarifárias induzidas por populismo político interno, sustentando que salvaguardas diplomáticas e acordos de mercado conseguiriam restaurar o livre comércio e a estabilidade das cadeias globais.",
+      "hipoteses": [
+        "A prorrogação da trégua tarifária até janeiro responde à necessidade imediata de mitigar pressões inflacionárias conjunturais sem alterar o ímpeto de dissociação tecnológica."
+      ],
+      "limites_da_evidencia": "O item apoia-se em uma única fonte de imprensa, focada em projeções macroeconômicas sem detalhamento de dados setoriais ou documentos primários de acordos.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixada a confiança de 'média' para 'baixa' em estrito cumprimento à regra de fonte única para matérias de caráter analítico/opinativo.",
+        "Inserida na análise materialista a ressalva mandatória sobre a dependência de fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N032",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "The US-China trade war seems to have subsided – but the sense of calm is misleading",
+          "publicado": "2026-11-01",
+          "url": "https://www.theguardian.com/world/2026/nov/01/us-china-trade-war-trump-xi"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "CHN",
+          "pais": "China",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 24.7344421687689,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia a expressiva participação da manufatura na composição do PIB chinês."
+        },
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 10.5250313827085,
+          "ano": "2021",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a menor proporção manufatureira no produto norte-americano, fundamento de sua dependência externa."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Mobilizações contra o custo de vida e militarização na França e Alemanha",
+      "paises_iso3": [
+        "FRA",
+        "DEU"
+      ],
+      "fontes_ids": [
+        "N017",
+        "N044",
+        "N065"
+      ],
+      "fatos_verificaveis": [
+        "Mais de 320 mil pessoas protestaram em cidades francesas contra a carestia e a degradação na educação, segundo dados oficiais do Ministério do Interior divulgados pela imprensa (BBC, France 24 e NPR).",
+        "As autoridades francesas mobilizaram cerca de 70 mil policiais e agentes da gerdarmaria, registrando centenas de detenções (de cerca de 300 a mais de 770, segundo NPR e France 24/BBC), com uso de gás lacrimogêneo e imposição de toques de recolher noturnos em áreas de Paris.",
+        "Na Alemanha, atos convocados pelo coletivo 'Gen Z regelt' ocorreram em dezenas de cidades contra o custo de vida, cortes sociais e o serviço militar, culminando em saques e confrontos em Frankfurt, Colônia, Berlim e Hamburgo, segundo a BBC e a NPR."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "A BBC enfatiza a dimensão criminal e os distúrbios violentos em Frankfurt, repercutindo acusações policiais de infiltração por 'extremistas de esquerda'. A France 24 ressalta o caráter predominantemente pacífico das marchas na França. A NPR destaca as queixas materiais dos estudantes (moradias precárias e custo de vida) e as restrições preventivas impostas pelo governo e pela Justiça francesa às manifestações.",
+      "citacao": "What matters most to us is better support for the health and education systems.",
+      "citacao_fonte_id": "N017",
+      "contexto_historico": "A Europa ocidental atravessa pressões inflacionárias acumuladas sobre itens essenciais e serviços públicos após choques energéticos e restrições orçamentárias. Na França, as passeatas dão continuidade a sucessivos ciclos de contestação juvenil e sindical contra medidas de contenção fiscal. Na Alemanha, o debate em torno de limites de endividamento público e da recomposição orçamentária da defesa afeta diretamente a destinação de recursos para a juventude e infraestrutura social.",
+      "relacoes_de_trabalho": "A participação de estudantes e categorias sindicais (como a central francesa CGT) reflete o encarecimento das condições materiais de reprodução social. O peso dos aluguéis, alimentos e a infraestrutura estudantil deficitária corroem o poder aquisitivo das famílias trabalhadoras. A resistência manifestada por jovens alemães à conscrição obrigatória evidencia a recusa em direcionar força de trabalho e recursos fiscais ao setor militar em prejuízo dos sistemas de saúde e ensino.",
+      "contradicao_principal": "Tensão entre as reivindicações sociais por financiamento da seguridade e serviços civis básicos e a diretriz estatal de contenção de gastos sociais combinada a prioridades de defesa e segurança.",
+      "analise_materialista": "A leitura materialista sugere que as mobilizações na França e na Alemanha traduzem o desgaste da reprodução social diante da inflação e do subfinanciamento de serviços vitais, como moradia, saúde e educação. A simultânea oposição à conscrição militar na Alemanha aponta para o atrito entre a ampliação dos gastos em defesa e as demandas por garantias sociais civis. Por outro lado, a gestão estatal tem recorrido prioritariamente a medidas de contenção espacial e policiamento repressivo (deslocamento das marchas para as bordas das cidades, toques de recolher e retórica de contenção de distúrbios). Essa resposta institucional tende a enquadrar o mal-estar distributivo sob a chave da ordem pública e da defesa da propriedade privada comercial, procurando isolar a contestação econômica.",
+      "explicacoes_alternativas": "Porta-vozes governamentais e corporações policiais sustentam que as manifestações cívicas foram cooptadas por grupos radicais empenhados na pilhagem do comércio e em confrontos físicos com forças de segurança. A partir dessa perspectiva, as ordens de dispersão, bloqueios viários e detenções respondem estritamente à salvaguarda da segurança pública e do patrimônio urbano, independentemente do mérito das reivindicações econômicas.",
+      "hipoteses": [
+        "A continuidade do arrocho nos serviços públicos essenciais pode ampliar a articulação entre movimentos estudantis e sindicatos organizados em mobilizações coordenadas."
+      ],
+      "limites_da_evidencia": "As informações baseiam-se em coberturas jornalísticas preliminares de fim de semana, com disparidades no balanço de detenções e sem dados consolidados sobre paralisações formais do trabalho na Alemanha.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Mantida a classificação 'não verificado' por ausência de pesquisa web independente.",
+        "Calibrada a descrição factual para evidenciar que as menções a sindicatos referem-se à atuação de segurança/acompanhamento (ex.: CGT), evitando afirmar ocorrência generalizada de greves sem respaldo das fontes."
+      ],
+      "fontes": [
+        {
+          "id": "N017",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Shops looted as German cost-of-living protests turn violent",
+          "publicado": "2026-11-01",
+          "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N044",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "France reports largely peaceful protests",
+          "publicado": "2026-11-01",
+          "url": "https://www.france24.com/en/france-reports-largely-peaceful-protests"
+        },
+        {
+          "id": "N065",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "France seethes again as youth-led protests sweep Europe",
+          "publicado": "2026-10-31",
+          "url": "https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "FRA",
+          "pais": "France",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 7.542,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a taxa de desemprego na França, contexto material da instabilidade de inserção econômica dos jovens manifestantes."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Disputa sobre reparações coloniais e contenção diplomática britânica na Commonwealth",
+      "paises_iso3": [
+        "GBR",
+        "ATG"
+      ],
+      "fontes_ids": [
+        "N028"
+      ],
+      "fatos_verificaveis": [
+        "Segundo alegações de Ralph Gonsalves publicadas pelo The Guardian, negociadores britânicos e canadenses atuaram enfaticamente para barrar a inclusão formal de reparações pela escravidão na pauta oficial da cúpula da Commonwealth em Antígua e Barbuda.",
+        "O Ministério das Relações Exteriores do Reino Unido (FCDO) rejeitou expressamente a acusação, declarando que o país atuou de boa-fé e não ditou vetos às propostas de outros integrantes do bloco.",
+        "O primeiro-ministro britânico concordou em abrir um diálogo estruturado sobre o assunto e considerar um pedido de desculpas, postura acolhida por líderes regionais como o presidente da Guiana, Irfaan Ali, segundo a matéria do The Guardian."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramentos_comparados": "The Guardian destaca a articulação das nações caribenhas e enquadra o governo britânico como um interlocutor relutante que teria sido forçado a aceitar o diálogo ('kicking and screaming'). Em contrapartida, o comunicado do FCDO apresenta a diplomacia britânica como aberta à interlocução de boa-fé e foca a pauta oficial em cooperação econômica, clima e financiamento sustentável.",
+      "citacao": "We categorically reject this completely untrue accusation. The UK has approached this conversation in good faith",
+      "citacao_fonte_id": "N028",
+      "contexto_historico": "A acumulação primitiva e o desenvolvimento financeiro britânico estiveram historicamente vinculados ao tráfico transatlântico e à exploração mercantil das plantations nas Índias Ocidentais. Com a aprovação da abolição em 1833, a indenização estatal financiada pelo tesouro britânico beneficiou proprietários de escravizados, enquanto as populações libertas e as colônias permaneceram desprovidas de compensações materiais, condicionando desigualdades estruturais duradouras.",
+      "relacoes_de_trabalho": "O movimento reparatório contemporâneo postula que a riqueza acumulada pela metrópole colonial decorreu da apropriação não remunerada da força de trabalho escravizada. A discussão levantada pelos governos caribenhos propõe vincular reparações a apoios institucionais e financeiros voltados a compensar as carências infraestruturais herdadas do regime colonial.",
+      "contradicao_principal": "Conflito entre as demandas do Caribe por reparação econômica do desenvolvimento histórico e a resistência institucional britânica contra a assunção de responsabilidades financeiras retroativas.",
+      "analise_materialista": "Conforme apuração isolada do The Guardian, a relutância britânica em institucionalizar a temática de reparações sinaliza o empenho do Estado imperial em evitar a formalização de passivos pecuniários derivados da espoliação colonial. A base material do capitalismo britânico beneficiou-se diretamente do sistema escravista. Ao aceitar um 'diálogo estruturado' e aventar desculpas formais, a liderança britânica busca acomodar as tensões políticas no âmbito multilateral da Commonwealth, oferecendo concessões diplomáticas e simbólicas para desidratar reivindicações materiais imediatas, como transferências diretas ou alívio soberano de dívidas.",
+      "explicacoes_alternativas": "A diplomacia do Reino Unido sustenta que a pauta da Commonwealth deve concentrar-se pragmaticamente em desafios contemporâneos e de cooperação mútua — incluindo transição climática, comércio e capacitação de jovens —, afirmando que contestações retrospectivas prejudicam o consenso e a eficácia de projetos econômicos conjuntos entre os 56 países-membros.",
+      "hipoteses": [
+        "A estruturação das negociações deve priorizar iniciativas multilaterais de investimento e fundos climáticos geridos por agências financeiras internacionais, em substituição a transferências reparatórias diretas."
+      ],
+      "limites_da_evidencia": "A denúncia sobre o veto à pauta assenta-se unicamente nas declarações de uma liderança política caribenha divulgadas por um único veículo jornalístico e expressamente rebatidas pelo governo britânico.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Confirmada a atribuição explícita das denúncias ao ex-primeiro-ministro caribenho Ralph Gonsalves, conforme The Guardian World.",
+        "Mantida a confiança baixa e o campo de dados oficiais vazio devido à inexistência de indicadores para GBR ou ATG na tabela fornecida."
+      ],
+      "fontes": [
+        {
+          "id": "N028",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
+          "publicado": "2026-11-01",
+          "url": "https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Mineração informal e a externalização de custos do capital na África do Sul",
+      "paises_iso3": [
+        "ZAF"
+      ],
+      "fontes_ids": [
+        "N026"
+      ],
+      "fatos_verificaveis": [
+        "Atividade de mineradores ilegais (zama zamas) em poços abandonados em Joanesburgo",
+        "Existência de 6.100 minas abandonadas e 1.170 aberturas inseguras segundo o ministro Gwede Mantashe",
+        "Morte de 93 pessoas em poço de Stilfontein em 2025 após bloqueio policial de suprimentos",
+        "Estimativa de US$ 1 bilhão em ouro exportado ilegalmente em 2019"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramento_comparados": "O Guardian adota uma perspectiva liberal de direitos humanos, destacando o sofrimento dos mineradores e a negligência das empresas, enquanto cita a retórica de políticos locais que utilizam os mineradores (muitos migrantes) como bodes expiatórios para falhas de infraestrutura urbana.",
+      "citacao": "failure of mining companies to fulfil their legal obligation to seal mining shafts when they cease operating.",
+      "citacao_fonte_id": "N026",
+      "contexto_historico": "A África do Sul foi o maior produtor mundial de ouro por mais de um século, até 2007. O desenvolvimento de Joanesburgo está intrinsecamente ligado à corrida do ouro de 1884. Com o esgotamento de veios superficiais e o aumento dos custos de extração profunda, grandes mineradoras abandonaram operações, deixando um passivo ambiental e social massivo que o Estado não conseguiu regular ou remediar.",
+      "relacoes_de_trabalho": "Os 'zama zamas' representam uma forma de trabalho informal extrema, operando nos poros do capital extrativista. A força de trabalho é composta majoritariamente por migrantes do Lesoto, Moçambique e Zimbábue, configurando um exército industrial de reserva regional que assume riscos de morte para extrair valor de ativos descartados pela indústria formal.",
+      "contradicao_principal": "O conflito entre a necessidade de lucro das mineradoras (que externalizam custos de fechamento de minas) e a sobrevivência de trabalhadores marginalizados.",
+      "analise_materialista": "A mineração ilegal na África do Sul não é um fenômeno de criminalidade isolada, mas uma manifestação da fase de exaustão do modelo extrativista clássico. Quando a taxa de lucro da extração industrial cai devido à profundidade geológica, o capital retira-se, deixando a infraestrutura degradada. O Estado, em vez de impor a responsabilidade ambiental às corporações, recorre à repressão violenta contra a força de trabalho informal que reocupa esses espaços. A criminalização dos 'zama zamas' cumpre uma função ideológica: desvia a atenção da falha regulatória estatal e da pilhagem histórica das mineradoras transnacionais, enquanto o ouro extraído informalmente acaba reingressando nas cadeias de valor globais através de redes de contrabando, mantendo a transferência de riqueza para o centro do sistema sem os custos da legalidade trabalhista.",
+      "explicacoes_alternativas": "A visão institucionalista argumenta que o problema reside na fraqueza do 'estado de direito' e na corrupção policial, sugerindo que a solução seria o fortalecimento do aparato de segurança e a formalização de pequenas minas para atrair novos investimentos estrangeiros.",
+      "hipoteses": [
+        "A retórica xenofóbica contra mineradores migrantes é utilizada para angariar apoio eleitoral em distritos afetados pelo colapso de serviços públicos.",
+        "Redes de corrupção no alto escalão político facilitam a exportação do ouro ilegal, desencorajando o fechamento efetivo dos poços."
+      ],
+      "limites_da_evidencia": "A notícia não identifica quais empresas específicas detinham as concessões das minas agora abandonadas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Confirmada a distinção entre a versão política e a técnica sobre os sinkholes.",
+        "Mantida a cifra de mortes em Stilfontein conforme relato de 2025 na fonte The Guardian World.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N026",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+          "publicado": "2026-10-30",
+          "url": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Crise multidimensional na RD Congo: Ebola, fome e conflito estrutural",
+      "paises_iso3": [
+        "COD"
+      ],
+      "fontes_ids": [
+        "N025",
+        "N078"
+      ],
+      "fatos_verificaveis": [
+        "Mais de 5.000 mortes registradas no atual surto de Ebola na RDC",
+        "Taxa de letalidade de 48,6% para a cepa Bundibugyo",
+        "28 milhões de pessoas em situação de insegurança alimentar segundo a ONU",
+        "Epicentro da epidemia na província de Ituri, uma zona de conflito armado"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível).",
+      "enquadramento_comparados": "A BBC foca nos desafios médicos e na violência contra agentes de saúde, tratando o conflito como um obstáculo logístico. A ONU enfatiza a intersecção entre fome, clima e guerra, apelando para a assistência humanitária multilateral.",
+      "citacao": "More than 28 million people in the Democratic Republic of the Congo (DRC) are not getting enough to eat",
+      "citacao_fonte_id": "N078",
+      "contexto_historico": "A RDC vive um estado de guerra crônica, especialmente no leste (Ituri e Kivu), desde a década de 1990. A disputa pelo controle de minerais estratégicos (coltan, ouro, cobalto) alimenta milícias e fragmenta a autoridade estatal, impedindo a consolidação de um sistema de saúde pública capaz de responder a surtos recorrentes de Ebola.",
+      "relacoes_de_trabalho": "A desestruturação da economia agrária pelo conflito e pelos choques climáticos empurra a população para a insegurança alimentar extrema. O trabalho de saúde em zonas de conflito é marcado pela alta periculosidade e pela desconfiança das comunidades locais frente a intervenções externas.",
+      "contradicao_principal": "A coexistência de imensa riqueza em recursos naturais com a incapacidade biológica de reprodução da vida (fome e doença).",
+      "analise_materialista": "A crise na RDC exemplifica a 'economia de pilhagem' na periferia do capitalismo. A epidemia de Ebola não é um desastre natural, mas uma patologia social exacerbada pela destruição da infraestrutura estatal. A província de Ituri, rica em recursos, é mantida em estado de guerra por interesses que se beneficiam da ausência de regulação soberana. Nesse vácuo, a saúde pública torna-se impossível. A resistência da população às medidas sanitárias (ataques a médicos) deve ser lida como uma reação política à alienação: o Estado e as agências internacionais aparecem para conter vírus que ameaçam a segurança global, mas são ausentes na garantia de alimentação e segurança cotidiana. A fome de 28 milhões de pessoas é a base material que torna qualquer surto viral uma catástrofe absoluta, resultando da despossessão sistêmica.",
+      "explicacoes_alternativas": "Análises biomédicas focam na ausência de vacina para a cepa Bundibugyo e em falhas de comunicação cultural, sugerindo que a solução é puramente técnica e educativa.",
+      "hipoteses": [
+        "O surto de Ebola é utilizado por atores armados para restringir a movimentação de rivais e consolidar controle territorial sob pretexto sanitário.",
+        "A insegurança alimentar crônica é um subproduto da economia de guerra para forçar o recrutamento em milícias."
+      ],
+      "limites_da_evidencia": "Não há dados quantitativos sobre o financiamento das milícias em Ituri nas fontes fornecidas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a análise materialista para focar na despossessão sistêmica em vez de controle populacional deliberado.",
+        "Validada a letalidade da cepa Bundibugyo.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N025",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+          "publicado": "2026-10-31",
+          "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N078",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "DR Congo: Hunger deepens for millions amid conflict, Ebola and climate shocks",
+          "publicado": "2026-10-30",
+          "url": "https://news.un.org/feed/view/en/story/2026/10/1168708"
+        }
+      ],
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-01",
+  "gerado_em": "2026-11-01T23:35:57+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-flash-latest",
+    "gemini-3-flash-preview"
+  ],
+  "modelo": "gemini-flash-latest, gemini-3-flash-preview",
+  "fontes_consultadas": {
+    "Brasil de Fato": "vazio",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_413",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "ok",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 80,
+  "textos_integrais_lidos": 23,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 45.0,
+  "aviso_metodologico": "Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
