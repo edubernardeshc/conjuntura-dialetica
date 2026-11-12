@@ -1,4 +1,4 @@
-"""
+
 Relatório de Conjuntura Geopolítica (análise histórico-dialética materialista)
 
 DOIS MODOS:
@@ -1304,4 +1304,3 @@ def main(modo="completo"):
 
 
 if __name__ == "__main__":
-    sys.exit(main("rapido" if "--rapido" in sys.argv else "completo"))
