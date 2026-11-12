@@ -1,4 +1,4 @@
-
+"""
 Relatório de Conjuntura Geopolítica (análise histórico-dialética materialista)
 
 DOIS MODOS:
@@ -81,6 +81,7 @@ FUSO_BRASILIA = timezone(timedelta(hours=-3), "BRT")
 
 PERFIS = {
     "rapido": {
+        "modo": "rapido",
         "rotulo": "RÁPIDO (teste)",
         "noticias_por_fonte": 3,
         "max_grupos": 3,
@@ -88,11 +89,12 @@ PERFIS = {
         "texto_completo": False,
         "verificacao_web": False,
         "revisao": False,
-        "modelos_selecao": ["gemini-3.1-flash-lite", "gemini-flash-latest"],
-        "modelos_analise": ["gemini-3.1-flash-lite", "gemini-flash-latest"],
+        "modelos_selecao": ["gemini-3.1-flash-lite", "gemini-3.8-flash"],
+        "modelos_analise": ["gemini-3.1-flash-lite", "gemini-3.8-flash"],
         "modelos_verificacao": [],
     },
     "completo": {
+        "modo": "completo",
         "rotulo": "COMPLETO (diário)",
         "noticias_por_fonte": 12,
         "max_grupos": 12,
@@ -100,9 +102,9 @@ PERFIS = {
         "texto_completo": True,
         "verificacao_web": True,
         "revisao": True,
-        "modelos_selecao": ["gemini-flash-latest", "gemini-3-flash-preview", "gemini-3.1-flash-lite"],
-        "modelos_analise": ["gemini-pro-latest", "gemini-3.1-pro-preview", "gemini-flash-latest", "gemini-3-flash-preview"],
-        "modelos_verificacao": ["gemini-flash-latest", "gemini-3-flash-preview", "gemini-3.1-flash-lite"],
+        "modelos_selecao": ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.1-flash-lite"],
+        "modelos_analise": ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.6-flash", "gemini-3.1-flash-lite"],
+        "modelos_verificacao": ["gemini-3.8-flash", "gemini-3.7-flash", "gemini-3.1-flash-lite"],
     },
 }
 
@@ -334,14 +336,18 @@ FORMATO: responda apenas com JSON válido, em português, exatamente neste esque
 }
 """
 
+_REGRA_ITENS = (
+    '11. Produza EXATAMENTE um item em "itens" para CADA "FATO" apresentado em <noticias>, '
+    "na mesma ordem. Não omita nenhum.\n"
+)
+
 SISTEMA_ANALISE = (
-    _INTRO_ANALISTA + _REGRAS
-    + "11. Produza EXATAMENTE um item em \"itens\" para CADA \"FATO\" apresentado em <noticias>, na mesma ordem. Não omita nenhum.\n"
-    + _REGRA_REFERENCIAL + _METODO + _FORMATO
+    _INTRO_ANALISTA + _REGRAS + _REGRA_ITENS + _REGRA_REFERENCIAL + _METODO + _FORMATO
 ).strip()
 
-SISTEMA_REVISAO = (
-    """
+# O texto do revisor fica em uma variável própria, fechada logo abaixo, para evitar
+# qualquer problema de aspas triplas misturadas com parênteses e "+".
+_TEXTO_REVISAO = """
 Você é revisor cético de uma mesa de economia política internacional. Receba o <rascunho> (JSON com itens de análise) e as
 mesmas evidências usadas para escrevê-lo. Sua tarefa é CORRIGIR o rascunho, não reescrevê-lo do zero:
 a) remova ou reescreva qualquer afirmação factual que as evidências não sustentem; corrija atribuições de fonte;
@@ -356,8 +362,8 @@ h) confira "referencial": só ids de <referencial_teorico>, conceito realmente a
    sobre o fato atual; remova (tire da lista) fichas forçadas ou decorativas.
 Responda apenas com JSON: {"itens": [ ... ]} no mesmo esquema do rascunho, mais "revisao_notas".
 """
-    + _REGRAS + _REGRA_REFERENCIAL
-).strip()
+
+SISTEMA_REVISAO = (_TEXTO_REVISAO + _REGRAS + _REGRA_REFERENCIAL).strip()
 
 
 # ==============================================================================
@@ -402,8 +408,14 @@ def descrever_erro(e):
     return f"{type(e).__name__} código={codigo} status={status} | {mensagem[:300]}"
 
 
+_JA_LISTOU = []
+
+
 def listar_modelos(client):
-    """Quando nenhum modelo é aceito, mostra os nomes que a sua conta aceita."""
+    """Quando nenhum modelo é aceito, mostra os nomes que a sua conta aceita (uma vez por execução)."""
+    if _JA_LISTOU:
+        return
+    _JA_LISTOU.append(True)
     try:
         nomes = []
         for m in client.models.list():
@@ -503,6 +515,47 @@ def chamar_gemini(client, modelos, sistema, conteudo, json_mode=True, ferramenta
 
 def chamar_json(client, modelos, sistema, conteudo):
     return chamar_gemini(client, modelos, sistema, conteudo, json_mode=True)[1]
+
+
+def descobrir_modelos(client):
+    """
+    Lê a lista de modelos que a conta aceita e devolve {'flash': [...], 'lite': [...], 'pro': [...]},
+    do mais novo para o mais antigo (versões estáveis antes das 'preview'). Retorna None se não conseguir.
+    Nomes que não seguem o padrão (apelidos como '-latest' e códigos experimentais) são ignorados.
+    """
+    try:
+        nomes = [m.name.replace("models/", "") for m in client.models.list()
+                 if "generateContent" in (getattr(m, "supported_actions", None) or [])]
+    except Exception:  # noqa: BLE001
+        return None
+
+    def pegar(sufixo):
+        achados = []
+        for n in nomes:
+            m = re.fullmatch(rf"gemini-(\d+)(?:\.(\d+))?-{sufixo}(-preview)?", n)
+            if m:
+                achados.append((1 if m.group(3) else 0, -int(m.group(1)), -int(m.group(2) or 0), n))
+        return [item[-1] for item in sorted(achados)]
+
+    return {"flash": pegar("flash"), "lite": pegar("flash-lite"), "pro": pegar("pro")}
+
+
+def aplicar_modelos_descobertos(client, cfg):
+    """Troca as listas fixas de modelos pelas que a conta realmente aceita hoje."""
+    d = descobrir_modelos(client)
+    if not d or not (d["flash"] or d["lite"]):
+        print("⚠️ Não consegui ler a lista de modelos da conta; usando os nomes padrão.")
+        return cfg
+    pago = os.environ.get("GEMINI_PLANO_PAGO", "").strip().lower() in ("1", "true", "sim", "yes")
+    novo = dict(cfg)
+    if cfg["modo"] == "rapido":
+        novo["modelos_selecao"] = novo["modelos_analise"] = d["lite"][:2] + d["flash"][:2]
+    else:
+        novo["modelos_selecao"] = novo["modelos_verificacao"] = d["flash"][:3] + d["lite"][:2]
+        novo["modelos_analise"] = (d["pro"][:2] if pago else []) + d["flash"][:4] + d["lite"][:2]
+    print(f"🔧 Modelos escolhidos automaticamente — análise: {', '.join(novo['modelos_analise'][:3])}"
+          + ("..." if len(novo["modelos_analise"]) > 3 else ""))
+    return novo
 
 
 def com_override(lista, variavel):
@@ -623,7 +676,7 @@ def selecionar_fatos(client, cfg, noticias, paises_validos):
     lista_paises = "\n".join(f"{c}={nome}" for c, nome in sorted(paises_validos.items()))
     resultado = chamar_json(
         client,
-        com_override(cfg["modelos_selecao"], "GEMINI_MODEL_RAPIDO") if cfg is PERFIS["rapido"] else cfg["modelos_selecao"],
+        com_override(cfg["modelos_selecao"], "GEMINI_MODEL_RAPIDO") if cfg["modo"] == "rapido" else cfg["modelos_selecao"],
         SISTEMA_SELECAO.format(max_grupos=cfg["max_grupos"]),
         f"<noticias>\n{catalogo}\n</noticias>\n\n<codigos_paises>\n{lista_paises or '(lista indisponível: use ISO3 padrão)'}\n</codigos_paises>",
     )
@@ -917,6 +970,11 @@ def humanizar_ids(texto, indice, biblioteca=None):
     return re.sub(r"\b[NT]\d{3}\b", troca, texto)
 
 
+_CAMPOS_PROSA = ("fatos_verificaveis", "enquadramentos_comparados", "contexto_historico", "relacoes_de_trabalho",
+                 "contradicao_principal", "analise_materialista", "explicacoes_alternativas", "hipoteses",
+                 "limites_da_evidencia", "checagem_resumo")
+
+
 def humanizar_item(item, indice, biblioteca=None):
     for campo in _CAMPOS_PROSA + ("titulo", "revisao_notas"):
         v = item.get(campo)
@@ -1006,9 +1064,6 @@ def validar_e_enriquecer(resultado, indice, tabela, biblioteca=None):
 
 
 _RE_NUMERO = re.compile(r"(\d[\d.,]*\d|\d)\s*(%|por cento|(?:bilh|milh|trilh)\w*)?", re.IGNORECASE)
-_CAMPOS_PROSA = ("fatos_verificaveis", "enquadramentos_comparados", "contexto_historico", "relacoes_de_trabalho",
-                 "contradicao_principal", "analise_materialista", "explicacoes_alternativas", "hipoteses",
-                 "limites_da_evidencia", "checagem_resumo")
 
 
 def para_numero(token):
@@ -1170,6 +1225,7 @@ def main(modo="completo"):
     inicio_execucao = time.time()
     client = criar_cliente(obter_variavel("GEMINI_API_KEY"))
     print(f"☭ Modo {cfg['rotulo']}")
+    cfg = aplicar_modelos_descobertos(client, cfg)
 
     fichas = carregar_fichas()
     total = 5 + int(cfg["texto_completo"]) + int(cfg["verificacao_web"]) + int(bool(fichas))
@@ -1304,3 +1360,4 @@ def main(modo="completo"):
 
 
 if __name__ == "__main__":
+    sys.exit(main("rapido" if "--rapido" in sys.argv else "completo"))
