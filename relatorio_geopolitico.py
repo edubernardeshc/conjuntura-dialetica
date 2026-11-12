@@ -25,6 +25,7 @@ Variáveis de ambiente:
   PASTA_SAIDA            (opcional, padrão docs/dados)
 """
 
+import hashlib
 import html
 import json
 import math
@@ -56,6 +57,13 @@ except ImportError:
 # CONFIGURAÇÕES
 # ==============================================================================
 PASTA_SAIDA = Path(os.environ.get("PASTA_SAIDA", "docs/dados"))
+
+PASTA_REFERENCIAL = Path(os.environ.get("PASTA_REFERENCIAL", "referencial"))
+ARQ_FICHAS = PASTA_REFERENCIAL / "fichas.json"
+ARQ_VERIFICACAO = PASTA_REFERENCIAL / "verificacao.json"
+VALIDADE_VERIFICACAO_DIAS = 7
+MAX_REFERENCIAL_POR_ITEM = 3
+LIMITE_BYTES_OBRA = 8 * 1024 * 1024
 
 TIMEOUT_SEGUNDOS = 15
 LIMITE_BYTES_FEED = 2 * 1024 * 1024       # 2 MB por feed
@@ -180,6 +188,9 @@ INDICADORES = {
 STATUS_CHECAGEM = ("corroborado", "parcialmente corroborado", "divergente", "não verificado")
 
 AVISO_METODOLOGICO = (
+    "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). "
+    "Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de "
+    "leitura, não provas. "
     "Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. "
     "Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são "
     "conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do "
@@ -244,7 +255,7 @@ REGRAS DE INTEGRIDADE (inegociáveis):
    Prefira dados do país central do fato (ex.: o país atacado, sancionado ou em crise), não o de um país periférico à história.
 3. CONTEXTO HISTÓRICO: cite só processos, eventos e datas amplamente documentados. Se não tiver certeza de uma data ou cifra,
    descreva o processo de forma geral e reduza a confiança. Nunca invente decretos, tratados, datas, cifras ou citações.
-4. CITAÇÃO: trecho literal de até 25 palavras, copiado de UMA notícia fornecida, com o id dela em "citacao_fonte_id".
+4. CITAÇÃO: trecho literal de até 15 palavras, copiado de UMA notícia fornecida, com o id dela em "citacao_fonte_id".
    Se não houver trecho adequado, deixe "citacao" e "citacao_fonte_id" vazios.
 5. Mantenha camadas separadas: fatos verificáveis / contexto histórico / análise materialista / hipóteses.
    RASTREABILIDADE: cada afirmação da análise materialista deve poder ser ligada a um fato listado ou a um dado. Se for inferência
@@ -255,6 +266,8 @@ REGRAS DE INTEGRIDADE (inegociáveis):
    análise proporcional e curta (até 80 palavras), marcada como preliminar, e evite teorias amplas que os fatos não sustentam.
    PRECISÃO CONCEITUAL: use as categorias teóricas com rigor. Ex.: "privatização" é a transferência de ativos ou serviços públicos ao
    setor privado, e não o mesmo que depender de um fornecedor privado; "monopólio da força" e "soberania" têm sentidos específicos.
+   "Mais-valia" é o valor excedente produzido pelo trabalho assalariado e apropriado pelo capital: roubo, hackeamento, saque ou
+   sanção não são mais-valia (descreva-os como apropriação, expropriação ou transferência de riqueza, conforme o caso).
    Não escreva em tom de fato o que é interpretação (evite "o capital impõe...", prefira "a leitura materialista sugere...").
 6. O mesmo rigor vale para todos os campos: critique os enquadramentos de TODAS as fontes, inclusive as de esquerda, as estatais e as do Sul Global.
 7. Só use o eixo "Ocidente/OTAN vs Sul Global/BRICS" quando os fatos sustentarem; não force o esquema onde ele não explica.
@@ -264,6 +277,14 @@ REGRAS DE INTEGRIDADE (inegociáveis):
 10. "status_checagem": "corroborado" (fontes independentes de campos distintos confirmam o núcleo do fato), "parcialmente corroborado",
     "divergente" (versões conflitantes sobre o núcleo do fato) ou "não verificado" (sem confirmação independente ou sem <verificacao_web>).
     "checagem_resumo": o que foi confirmado, o que diverge e o que ficou sem confirmação (até 60 palavras).
+"""
+
+_REGRA_REFERENCIAL = """
+12. REFERENCIAL TEÓRICO: <referencial_teorico> lista fichas (id | conceito | autor, obra, seção | usar quando | trecho). Em "referencial",
+    escolha de 0 a 3 fichas cujo conceito ajude de fato a explicar o fato do item e use SOMENTE ids dessa lista; o código anexa o trecho e o link.
+    Em "como_se_aplica", explique em até 40 palavras como o conceito se aplica a ESTE fato. Os autores não comentaram este fato:
+    nunca escreva que o autor "diria", "confirma" ou "prova" algo sobre ele. O conceito é ferramenta de leitura, não prova nem argumento de
+    autoridade. Não use o vocabulário do conceito se os fatos não o sustentarem; se nenhuma ficha servir, deixe a lista vazia.
 """
 
 _METODO = """
@@ -301,6 +322,7 @@ FORMATO: responda apenas com JSON válido, em português, exatamente neste esque
       "contexto_historico": "até 150 palavras",
       "relacoes_de_trabalho": "até 150 palavras",
       "dados_selecionados": [{"pais_iso3": "BRA", "indicador": "SL.UEM.TOTL.ZS", "por_que_importa": "frase curta"}],
+      "referencial": [{"ficha_id": "T014", "como_se_aplica": "até 40 palavras"}],
       "contradicao_principal": "até 60 palavras",
       "analise_materialista": "até 220 palavras (bem menos se a evidência for escassa)",
       "explicacoes_alternativas": "a versão mais forte das explicações rivais, sem caricatura (até 100 palavras)",
@@ -315,7 +337,7 @@ FORMATO: responda apenas com JSON válido, em português, exatamente neste esque
 SISTEMA_ANALISE = (
     _INTRO_ANALISTA + _REGRAS
     + "11. Produza EXATAMENTE um item em \"itens\" para CADA \"FATO\" apresentado em <noticias>, na mesma ordem. Não omita nenhum.\n"
-    + _METODO + _FORMATO
+    + _REGRA_REFERENCIAL + _METODO + _FORMATO
 ).strip()
 
 SISTEMA_REVISAO = (
@@ -329,10 +351,12 @@ c) confira se a análise materialista parte de interesses materiais e relações
 d) rebaixe "confianca" quando houver lacunas; nunca a eleve sem nova evidência;
 e) mantenha o mesmo número de itens, os mesmos "fontes_ids" e a mesma estrutura de campos;
 f) preserve "dados_selecionados" (pais_iso3 e indicador) quando forem pertinentes; não escreva números de memória;
-g) acrescente em cada item "revisao_notas": lista curta do que você alterou ou ressalvou (vazia se nada mudou).
+g) acrescente em cada item "revisao_notas": lista curta do que você alterou ou ressalvou (vazia se nada mudou);
+h) confira "referencial": só ids de <referencial_teorico>, conceito realmente aplicável ao fato e "como_se_aplica" sem atribuir ao autor opinião
+   sobre o fato atual; remova (tire da lista) fichas forçadas ou decorativas.
 Responda apenas com JSON: {"itens": [ ... ]} no mesmo esquema do rascunho, mais "revisao_notas".
 """
-    + _REGRAS
+    + _REGRAS + _REGRA_REFERENCIAL
 ).strip()
 
 
@@ -398,7 +422,16 @@ def listar_modelos(client):
 # ------------------------------------------------------------------------------
 _INDISPONIVEIS = set()   # modelos que deram 404 nesta execução
 _MODELOS_USADOS = []     # modelos que realmente responderam
-_AVISOS = []             # limitações encontradas nesta execução (aparecem no terminal, no JSON e na página)
+_AVISOS = []             # limitações livres desta execução
+_PROBLEMAS = {}          # tipo -> lista de modelos (agrupados para uma mensagem curta)
+_COOLDOWN = {}           # (modelo, usa_busca) -> instante até o qual o modelo é pulado (cota esgotada)
+COOLDOWN_COTA_SEG = 900  # 15 min
+
+
+def registrar_problema(tipo, modelo):
+    lista = _PROBLEMAS.setdefault(tipo, [])
+    if modelo not in lista:
+        lista.append(modelo)
 
 
 def registrar_aviso(texto):
@@ -412,6 +445,13 @@ def chamar_gemini(client, modelos, sistema, conteudo, json_mode=True, ferramenta
     quando ele não existe (404) ou não está acessível. Retorna (resposta, dado).
     """
     candidatos = [m for m in modelos if m not in _INDISPONIVEIS] or list(modelos)
+    usa_busca = bool(ferramentas)
+    ativos = [m for m in candidatos if _COOLDOWN.get((m, usa_busca), 0) <= time.time()]
+    if ativos:
+        candidatos = ativos
+    elif usa_busca:
+        # busca na web sem cota em todos os modelos: não insiste (evita gastar minutos à toa)
+        raise RuntimeError("busca na web sem cota em todos os modelos (pulando por alguns minutos)")
     ultimo_erro = None
     for modelo in candidatos:
         for tentativa in range(1, TENTATIVAS_GEMINI + 1):
@@ -437,20 +477,18 @@ def chamar_gemini(client, modelos, sistema, conteudo, json_mode=True, ferramenta
                 print(f"  ⚠️ [{modelo}] tentativa {tentativa}/{TENTATIVAS_GEMINI} falhou: {descrever_erro(e)}")
                 if codigo == 404:
                     _INDISPONIVEIS.add(modelo)
-                    registrar_aviso(f"Modelo '{modelo}' indisponível (erro 404).")
+                    registrar_problema("404", modelo)
                     print("  ℹ️ Modelo indisponível; tentando o próximo da lista.")
                     break
                 if codigo in (400, 401, 403):
                     if "api key" in str(e).lower():
                         raise RuntimeError(f"Chave de API inválida: {descrever_erro(e)}")
-                    registrar_aviso(f"Modelo '{modelo}' recusou o pedido (erro {codigo})"
-                                    + (" ao usar a busca na web" if ferramentas else "")
-                                    + ". Pode exigir o plano pago do Google AI Studio.")
+                    registrar_problema("recusa_busca" if usa_busca else "recusa", modelo)
                     print("  ℹ️ Modelo não aceitou o pedido; tentando o próximo da lista.")
                     break
                 if codigo == 429 and tentativa >= 2:
-                    registrar_aviso(f"Cota esgotada no modelo '{modelo}' (erro 429)"
-                                    + (" ao usar a busca na web" if ferramentas else "") + ".")
+                    registrar_problema("cota_busca" if usa_busca else "cota", modelo)
+                    _COOLDOWN[(modelo, usa_busca)] = time.time() + COOLDOWN_COTA_SEG
                     print("  ℹ️ Cota deste modelo esgotada; tentando o próximo da lista.")
                     break
                 if tentativa < TENTATIVAS_GEMINI:
@@ -637,6 +675,118 @@ def buscar_textos_completos(grupos, indice):
 
 
 # ==============================================================================
+# BIBLIOTECA DE REFERENCIAL TEÓRICO (fichas conferidas nas páginas do MIA)
+# ==============================================================================
+def carregar_fichas():
+    try:
+        dados = json.loads(ARQ_FICHAS.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return []
+    return [f for f in dados if isinstance(f, dict) and f.get("id") and f.get("url") and f.get("trechos")]
+
+
+def hash_ficha(f):
+    return hashlib.sha1((f["url"] + "|" + "|".join(f["trechos"])).encode("utf-8")).hexdigest()[:12]
+
+
+def texto_da_pagina(url):
+    """Texto da página inteira (sem truncar), para conferir se o trecho da ficha existe."""
+    bruto = baixar_com_limite(url, LIMITE_BYTES_OBRA)
+    try:
+        html_txt = bruto.decode("utf-8")
+    except UnicodeDecodeError:
+        html_txt = bruto.decode("cp1252", errors="ignore")
+    partes = []
+    if trafilatura is not None:
+        try:
+            partes.append(trafilatura.extract(bruto, include_comments=False, include_tables=False, favor_recall=True) or "")
+        except Exception:  # noqa: BLE001
+            pass
+    partes.append(limpar_html(html_txt))
+    return re.sub(r"\[\d+\]", " ", " ".join(partes))  # tira marcas de nota de rodapé
+
+
+def verificar_biblioteca(fichas, forcar=False):
+    """
+    Confere se algum 'trecho' de cada ficha existe literalmente na página indicada.
+    Resultados ficam em cache por 7 dias (referencial/verificacao.json). Retorna id -> status.
+    """
+    hoje = datetime.now(FUSO_BRASILIA).date()
+    try:
+        cache = json.loads(ARQ_VERIFICACAO.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        cache = {}
+
+    resultado, pendentes = {}, []
+    for f in fichas:
+        c = cache.get(f["id"])
+        recente = False
+        if c and c.get("hash") == hash_ficha(f):
+            try:
+                recente = (hoje - datetime.strptime(c["verificado_em"], "%Y-%m-%d").date()).days <= VALIDADE_VERIFICACAO_DIAS
+            except (KeyError, ValueError):
+                recente = False
+        if recente and not forcar:
+            resultado[f["id"]] = c
+        else:
+            pendentes.append(f)
+
+    def sem_digitos(txt):
+        # marcas de nota de rodapé podem vir coladas na palavra ("society2"): comparamos também sem números
+        return re.sub(r"\s+", " ", re.sub(r"\d+", "", txt)).strip()
+
+    def baixar(url):
+        time.sleep(0.4)  # gentileza com o servidor do MIA
+        try:
+            return url, normalizar(texto_da_pagina(url)), None
+        except Exception as e:  # noqa: BLE001
+            return url, "", type(e).__name__
+
+    paginas = {}
+    with ThreadPoolExecutor(max_workers=3) as pool:
+        for url, texto, erro in pool.map(baixar, sorted({f["url"] for f in pendentes})):
+            paginas[url] = (texto, erro)
+
+    for f in pendentes:
+        texto, erro = paginas[f["url"]]
+        texto_sd = sem_digitos(texto) if not erro else ""
+        achado = next((t for t in f["trechos"]
+                       if not erro and (normalizar(t) in texto or sem_digitos(normalizar(t)) in texto_sd)), None)
+        resultado[f["id"]] = {
+            "ok": achado is not None,
+            "trecho": achado,
+            "motivo": "" if achado else (f"a página não abriu ({erro})" if erro else "trecho não encontrado na página"),
+            "hash": hash_ficha(f),
+            "verificado_em": hoje.isoformat(),
+        }
+
+    try:
+        PASTA_REFERENCIAL.mkdir(parents=True, exist_ok=True)
+        ARQ_VERIFICACAO.write_text(json.dumps(resultado, ensure_ascii=False, indent=2), encoding="utf-8")
+    except OSError:
+        pass
+    return resultado
+
+
+def montar_biblioteca(fichas, status):
+    """Somente fichas com trecho conferido entram na análise. Retorna id -> ficha (com 'trecho_verificado')."""
+    return {f["id"]: {**f, "trecho_verificado": status[f["id"]]["trecho"]}
+            for f in fichas if status.get(f["id"], {}).get("ok")}
+
+
+def bloco_referencial(biblioteca):
+    if not biblioteca:
+        return ""
+    linhas = [
+        f"{f['id']} | {f['conceito']} | {f['autor']}, {f['obra']} ({f['ano']}), {f['secao']} | usar quando: {f['quando_usar']} | "
+        f"trecho: \"{f['trecho_verificado']}\""
+        for f in biblioteca.values()
+    ]
+    return ("\n\n<referencial_teorico formato='id | conceito | autor, obra (ano), seção | usar quando | trecho'>\n"
+            + "\n".join(linhas) + "\n</referencial_teorico>")
+
+
+# ==============================================================================
 # ETAPA 4: DADOS REAIS (BANCO MUNDIAL)
 # ==============================================================================
 def buscar_indicador(iso3, codigo):
@@ -698,8 +848,11 @@ def extrair_fontes_grounding(resposta):
 
 
 def verificar_fatos_na_web(client, cfg, grupos, indice):
-    ok = 0
+    ok, falhas_seguidas = 0, 0
     for n, g in enumerate(grupos, 1):
+        if falhas_seguidas >= 2:
+            print("  ⏭️ Busca na web indisponível: pulando os fatos restantes.")
+            break
         print(f"  • Verificando fato {n} de {len(grupos)}: {g['tema'][:70]}")
         alegacoes = "\n".join(
             f"- ({indice[i]['fonte']} | {indice[i]['campo']}) {indice[i]['titulo']}: {indice[i]['resumo'][:400]}"
@@ -713,15 +866,17 @@ def verificar_fatos_na_web(client, cfg, grupos, indice):
             )
             g["verificacao"] = {"texto": texto.strip()[:3000], "fontes": extrair_fontes_grounding(resposta)}
             ok += 1
+            falhas_seguidas = 0
         except RuntimeError as e:
-            print(f"  ⚠️ Verificação indisponível para este fato: {e}")
+            falhas_seguidas += 1
+            print(f"  ⚠️ Verificação indisponível para este fato: {str(e)[:160]}")
     return ok
 
 
 # ==============================================================================
 # ETAPAS 6 e 7: ANÁLISE E REVISÃO CRÍTICA
 # ==============================================================================
-def montar_conteudo_analise(grupos, indice, tabela, inicio=1):
+def montar_conteudo_analise(grupos, indice, tabela, inicio=1, biblioteca=None):
     blocos = []
     for i, g in enumerate(grupos, inicio):
         blocos.append(f"=== FATO {i}: {g['tema']} (países: {', '.join(g['paises_iso3']) or 'n/d'}) ===")
@@ -746,24 +901,34 @@ def montar_conteudo_analise(grupos, indice, tabela, inicio=1):
     return (
         f"<noticias>\n{noticias_txt}\n</noticias>\n\n"
         f"<dados_oficiais formato='codigo_pais (nome) | indicador | descricao | valor | ano'>\n{dados_txt}\n</dados_oficiais>"
+        + bloco_referencial(biblioteca)
     )
 
 
-def humanizar_ids(texto, indice):
-    """Troca ids internos (ex.: N011) pelo nome da fonte, para o leitor."""
-    return re.sub(r"\bN\d{3}\b", lambda m: indice[m.group(0)]["fonte"] if m.group(0) in indice else m.group(0), texto)
+def humanizar_ids(texto, indice, biblioteca=None):
+    """Troca ids internos (N011 = notícia, T014 = ficha) por nomes legíveis."""
+    def troca(m):
+        i = m.group(0)
+        if i in indice:
+            return indice[i]["fonte"]
+        if biblioteca and i in biblioteca:
+            return f"{biblioteca[i]['autor']}, {biblioteca[i]['obra']}"
+        return i
+    return re.sub(r"\b[NT]\d{3}\b", troca, texto)
 
 
-def humanizar_item(item, indice):
+def humanizar_item(item, indice, biblioteca=None):
     for campo in _CAMPOS_PROSA + ("titulo", "revisao_notas"):
         v = item.get(campo)
         if isinstance(v, list):
-            item[campo] = [humanizar_ids(str(x), indice) for x in v]
+            item[campo] = [humanizar_ids(str(x), indice, biblioteca) for x in v]
         elif isinstance(v, str):
-            item[campo] = humanizar_ids(v, indice)
+            item[campo] = humanizar_ids(v, indice, biblioteca)
+    for r in item.get("referencial", []):
+        r["como_se_aplica"] = humanizar_ids(r.get("como_se_aplica", ""), indice, biblioteca)
 
 
-def validar_e_enriquecer(resultado, indice, tabela):
+def validar_e_enriquecer(resultado, indice, tabela, biblioteca=None):
     """Confere ids, links, citações e números. O modelo não controla URLs nem valores."""
     itens_validos = []
     for item in resultado.get("itens", []):
@@ -784,9 +949,16 @@ def validar_e_enriquecer(resultado, indice, tabela):
             for i in ids
         ]
         item["fontes_ids"] = ids
+        item["cobertura"] = {
+            "fontes": len({indice[i]["fonte"] for i in ids}),      # veículos distintos
+            "artigos": len(ids),
+            "campos": len({indice[i]["campo"] for i in ids}),
+        }
 
         # Citação: precisa existir literalmente no texto da fonte indicada
         cit = str(item.get("citacao", "")).strip()
+        if len(cit.split()) > 30:
+            cit = ""  # citação longa demais: descartada
         cid = item.get("citacao_fonte_id", "")
         if cit and cid in indice:
             n = indice[cid]
@@ -811,7 +983,22 @@ def validar_e_enriquecer(resultado, indice, tabela):
         if item.get("status_checagem") not in STATUS_CHECAGEM:
             item["status_checagem"] = "não verificado"
         item["revisao_notas"] = como_lista_texto(item.get("revisao_notas"))
-        humanizar_item(item, indice)
+
+        # Referencial teórico: só fichas da biblioteca conferida; trecho e link vêm da ficha, não do modelo
+        refs, usados = [], set()
+        brutas = item.get("referencial")
+        for r in (brutas if isinstance(brutas, list) else []):
+            f = (biblioteca or {}).get(r.get("ficha_id")) if isinstance(r, dict) else None
+            if not f or f["id"] in usados:
+                continue
+            usados.add(f["id"])
+            refs.append({
+                "ficha_id": f["id"], "conceito": f["conceito"], "autor": f["autor"], "obra": f["obra"],
+                "ano": f["ano"], "secao": f["secao"], "url": f["url"], "trecho": f["trecho_verificado"],
+                "idioma": f.get("idioma", "en"), "como_se_aplica": str(r.get("como_se_aplica", ""))[:500],
+            })
+        item["referencial"] = refs[:MAX_REFERENCIAL_POR_ITEM]
+        humanizar_item(item, indice, biblioteca)
         itens_validos.append(item)
 
     resultado["itens"] = itens_validos
@@ -855,6 +1042,7 @@ def conferir_numeros(item, indice, tabela, texto_verificacao=""):
         " ".join(como_lista_texto(item.get(c))) if isinstance(item.get(c), list) else str(item.get(c, ""))
         for c in _CAMPOS_PROSA
     )
+    prosa += " " + " ".join(r.get("como_se_aplica", "") for r in item.get("referencial", []))
     conhecidos = numeros_do_texto(texto_verificacao)
     for i in item.get("fontes_ids", []):
         n = indice[i]
@@ -888,7 +1076,7 @@ def conferir_numeros(item, indice, tabela, texto_verificacao=""):
     item["numeros_nao_verificados"] = list(dict.fromkeys(nao_verificados))[:10]
 
 
-def analisar_em_lotes(client, cfg, grupos, indice, tabela):
+def analisar_em_lotes(client, cfg, grupos, indice, tabela, biblioteca=None):
     """Analisa poucos fatos por chamada e, no modo completo, passa cada lote pela revisão crítica."""
     modelos = com_override(cfg["modelos_analise"], "GEMINI_MODEL_ANALISE" if cfg["revisao"] else "GEMINI_MODEL_RAPIDO")
     itens, manchete, resumo = [], "", ""
@@ -898,7 +1086,7 @@ def analisar_em_lotes(client, cfg, grupos, indice, tabela):
         paises_lote = {p for g in lote for p in g["paises_iso3"]}
         tabela_lote = {k: v for k, v in tabela.items() if k[0] in paises_lote}
         print(f"  • Analisando fatos {inicio + 1} a {inicio + len(lote)} de {len(grupos)}...")
-        conteudo = montar_conteudo_analise(lote, indice, tabela_lote, inicio=inicio + 1)
+        conteudo = montar_conteudo_analise(lote, indice, tabela_lote, inicio=inicio + 1, biblioteca=biblioteca)
         try:
             bruto = chamar_json(client, modelos, SISTEMA_ANALISE, conteudo)
         except RuntimeError as e:
@@ -920,7 +1108,7 @@ def analisar_em_lotes(client, cfg, grupos, indice, tabela):
             except RuntimeError as e:
                 print(f"    ⚠️ Revisão indisponível; mantendo o rascunho ({e})")
 
-        validado = validar_e_enriquecer(bruto, indice, tabela_lote)
+        validado = validar_e_enriquecer(bruto, indice, tabela_lote, biblioteca)
         for item in validado["itens"]:
             grupo = next((g for g in lote if set(g["ids"]) & set(item["fontes_ids"])), None)
             verif = grupo.get("verificacao") if grupo else None
@@ -930,7 +1118,8 @@ def analisar_em_lotes(client, cfg, grupos, indice, tabela):
                 # Sem pesquisa independente não existe "corroborado": o código impõe isso.
                 status_original, confianca_original = item["status_checagem"], item["confianca"]
                 item["status_checagem"] = "não verificado"
-                item["checagem_resumo"] = "Sem verificação independente na web nesta execução (modo rápido ou verificação indisponível)."
+                item["checagem_resumo"] = ("Modo rápido: sem verificação independente na web." if not cfg["verificacao_web"]
+                                           else "A verificação independente na web não estava disponível nesta execução.")
                 if item["confianca"] == "alta":
                     item["confianca"] = "média"
                 if status_original != "não verificado" or confianca_original != item["confianca"]:
@@ -982,7 +1171,8 @@ def main(modo="completo"):
     client = criar_cliente(obter_variavel("GEMINI_API_KEY"))
     print(f"☭ Modo {cfg['rotulo']}")
 
-    total = 5 + int(cfg["texto_completo"]) + int(cfg["verificacao_web"])
+    fichas = carregar_fichas()
+    total = 5 + int(cfg["texto_completo"]) + int(cfg["verificacao_web"]) + int(bool(fichas))
     etapa = 0
 
     def cabecalho(titulo):
@@ -1026,8 +1216,21 @@ def main(modo="completo"):
         verificados = verificar_fatos_na_web(client, cfg, grupos, indice)
         print(f"✓ {verificados} de {len(grupos)} fatos verificados na web.")
 
+    biblioteca, ignoradas = {}, []
+    if fichas:
+        cabecalho("📚 Conferindo a biblioteca de referencial teórico")
+        status_bib = verificar_biblioteca(fichas)
+        biblioteca = montar_biblioteca(fichas, status_bib)
+        ignoradas = [f["id"] for f in fichas if f["id"] not in biblioteca]
+        print(f"✓ {len(biblioteca)} de {len(fichas)} fichas conferidas nas páginas do MIA.")
+        for f in fichas:
+            if f["id"] in ignoradas:
+                print(f"  ⚠️ Ficha {f['id']} ({f['conceito'][:50]}) ignorada: {status_bib[f['id']]['motivo']}")
+    else:
+        print("\n⚠️ Biblioteca de referencial teórico não encontrada (referencial/fichas.json).")
+
     cabecalho("🧠 Análise histórico-dialética" + (" + revisão crítica" if cfg["revisao"] else ""))
-    itens, manchete, resumo = analisar_em_lotes(client, cfg, grupos, indice, tabela)
+    itens, manchete, resumo = analisar_em_lotes(client, cfg, grupos, indice, tabela, biblioteca)
     if not itens:
         print("❌ Nenhum item válido após a análise e a validação.")
         return 1
@@ -1039,7 +1242,20 @@ def main(modo="completo"):
     if sintese and sintese[0]:
         manchete, resumo = sintese
 
-    avisos = list(_AVISOS)
+    avisos = []
+    descricoes = {
+        "cota_busca": "Busca na web sem cota (erro 429) nos modelos",
+        "recusa_busca": "Busca na web recusada (erro 400/403) nos modelos",
+        "cota": "Sem cota na hora da chamada (erro 429) nos modelos",
+        "recusa": "Pedido recusado (erro 400/403) nos modelos",
+        "404": "Modelos indisponíveis (erro 404)",
+    }
+    for tipo, texto in descricoes.items():
+        if _PROBLEMAS.get(tipo):
+            avisos.append(f"{texto}: {', '.join(_PROBLEMAS[tipo])}.")
+    if _PROBLEMAS.get("cota") or _PROBLEMAS.get("cota_busca") or _PROBLEMAS.get("recusa_busca"):
+        avisos.append("Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).")
+    avisos.extend(_AVISOS)
     if cfg["verificacao_web"]:
         if verificados == 0:
             avisos.append("A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'.")
@@ -1050,7 +1266,13 @@ def main(modo="completo"):
     if cfg["revisao"] and cfg["modelos_analise"][0] not in _MODELOS_USADOS:
         avisos.append(f"O modelo de análise principal ('{cfg['modelos_analise'][0]}') não respondeu; foram usados: {', '.join(_MODELOS_USADOS)}.")
 
+    if not fichas:
+        avisos.append("Biblioteca de referencial teórico não encontrada: a análise usou apenas o conhecimento geral do modelo.")
+    elif len(biblioteca) < len(fichas):
+        avisos.append(f"Referencial teórico: {len(biblioteca)} de {len(fichas)} fichas conferidas; as demais foram ignoradas.")
+
     resultado = {
+        "biblioteca": {"fichas_total": len(fichas), "fichas_conferidas": len(biblioteca), "ignoradas": ignoradas},
         "avisos_execucao": avisos,
         "manchete_do_dia": manchete,
         "resumo_executivo": resumo,

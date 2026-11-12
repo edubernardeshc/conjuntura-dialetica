@@ -69,6 +69,9 @@ th,td{text-align:left;padding:6px 8px;border-bottom:1px solid var(--linha);verti
 .chk.corroborado{color:var(--alta)}.chk.parcial{color:var(--media)}.chk.divergente{color:var(--baixa)}
 .contradicao{border-left:4px solid var(--destaque);background:var(--chip);padding:8px 14px;border-radius:0 8px 8px 0;margin:14px 0}
 .contradicao b{font:700 .75rem system-ui,sans-serif;text-transform:uppercase;letter-spacing:1px;color:var(--suave);display:block}
+ul.ref{list-style:none;margin:4px 0;padding:0}
+ul.ref li{margin:10px 0;font:.9rem/1.5 system-ui,sans-serif}
+ul.ref .trecho{font:italic .95rem Georgia,serif}
 .teste{background:var(--baixa);color:#fff;font:600 .85rem system-ui,sans-serif;padding:8px 14px;border-radius:8px;margin:14px 0}
 footer{font:.8rem/1.5 system-ui,sans-serif;color:var(--suave);border-top:1px solid var(--linha);padding-top:14px;margin-top:30px}
 ul.arquivo{list-style:none;margin:0;padding:0}
@@ -160,6 +163,17 @@ def secao(titulo, corpo, aberta=False):
 # ------------------------------------------------------------------------------
 # Blocos da página
 # ------------------------------------------------------------------------------
+def cobertura_chip(item):
+    cob = item.get("cobertura") or {}
+    veiculos = cob.get("fontes", len(item.get("fontes", [])))
+    artigos = cob.get("artigos", veiculos)
+    campos = cob.get("campos", 1)
+    if veiculos <= 1:
+        extra = f" ({e(artigos)} matérias)" if artigos > 1 else ""
+        return f'<span class="chk">Fonte única{extra}</span>'
+    return f'<span class="chk">{e(veiculos)} veículos · {e(campos)} campo(s) editorial(is)</span>'
+
+
 def render_item(item):
     conf = item.get("confianca", "baixa")
     classe_conf = {"alta": "alta", "média": "media"}.get(conf, "baixa")
@@ -173,7 +187,7 @@ def render_item(item):
         f'<span class="tag">{e(item.get("regiao", "Global"))}</span>'
         f'<span class="conf {classe_conf}">Confiança {e(conf)}</span>'
         f'<span class="chk {classe_chk}">Checagem: {e(status_chk)}</span>'
-        + ('<span class="chk">Fonte única</span>' if len(item.get("fontes", [])) == 1 else "")
+        + cobertura_chip(item)
         + (f'<span>{e(paises)}</span>' if paises else "")
         + "</div>",
         f'<h3>{e(item.get("titulo", "Sem título"))}</h3>',
@@ -183,7 +197,7 @@ def render_item(item):
     if fatos:
         partes.append(secao("Fatos", "<ul>" + "".join(f"<li>{e(f)}</li>" for f in fatos) + "</ul>", aberta=True))
 
-    if item.get("checagem_resumo"):
+    if item.get("checagem_resumo") and not (status_chk == "não verificado" and not item.get("pesquisa_web_fontes")):
         partes.append(secao("Checagem independente", f"<p>{e(item['checagem_resumo'])}</p>", aberta=True))
 
     if item.get("enquadramentos_comparados"):
@@ -203,6 +217,18 @@ def render_item(item):
 
     if item.get("analise_materialista"):
         partes.append(secao("Análise materialista", f"<p>{e(item['analise_materialista'])}</p>", aberta=True))
+
+    refs = [r for r in (item.get("referencial") or []) if isinstance(r, dict)]
+    if refs:
+        lis = "".join(
+            f'<li><strong>{e(r.get("conceito"))}</strong> — {e(r.get("autor"))}, <em>{e(r.get("obra"))}</em> ({e(r.get("ano"))}), {e(r.get("secao"))}.'
+            f'<br><span class="trecho">“{e(r.get("trecho"))}”</span>'
+            + (" (trecho no original, em inglês)" if r.get("idioma") == "en" else "")
+            + f' — <a href="{e(url_segura(r.get("url")))}" target="_blank" rel="noopener noreferrer">ler a obra no MIA</a>'
+            f'<br>{e(r.get("como_se_aplica"))}</li>'
+            for r in refs
+        )
+        partes.append(secao("Referencial teórico (ferramenta de leitura, não prova)", f'<ul class="ref">{lis}</ul>', aberta=True))
 
     partes.append(secao("Contexto histórico", f"<p>{e(item['contexto_historico'])}</p>" if item.get("contexto_historico") else ""))
     partes.append(secao("Trabalho e relações de produção", f"<p>{e(item['relacoes_de_trabalho'])}</p>" if item.get("relacoes_de_trabalho") else ""))
@@ -308,7 +334,7 @@ def render_relatorio(rel, base=""):
 <div class="filtros" id="filtros"></div>
 {itens}
 <footer>Gerado automaticamente em {e(rel.get("gerado_em", ""))} com o modelo {e(rel.get("modelo", ""))}.
-{e(rel.get("total_noticias_coletadas", ""))} notícias coletadas.{e(detalhes_txt)} Nenhuma fonte é neutra: confira sempre as matérias originais.</footer>
+{e(rel.get("total_noticias_coletadas", ""))} notícias coletadas.{e(detalhes_txt)} Trechos curtos e links de obras: Marxists Internet Archive (marxists.org). Nenhuma fonte é neutra: confira sempre as matérias originais.</footer>
 """
     return moldura(f"{TITULO_SITE} — {data_extenso(rel.get('data', ''))}", corpo, base, JS_FILTRO)
 

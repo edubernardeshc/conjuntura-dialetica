@@ -1,0 +1,764 @@
+[
+  {
+    "id": "T001",
+    "conceito": "Fetichismo da mercadoria",
+    "autor": "Karl Marx",
+    "obra": "O Capital, Livro I",
+    "ano": 1867,
+    "secao": "cap. 1, seção 4",
+    "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch01.htm",
+    "trechos": [
+      "the fantastic form of a relation between things"
+    ],
+    "quando_usar": "relações sociais que aparecem como relações entre coisas: preços, mercados, moedas, ativos financeiros",
+    "tags": [
+      "mercadoria",
+      "fetichismo",
+      "preço",
+      "cripto"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T002",
+    "conceito": "Grau de exploração do trabalho (mais-valia)",
+    "autor": "Karl Marx",
+    "obra": "O Capital, Livro I",
+    "ano": 1867,
+    "secao": "cap. 9",
+    "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch09.htm",
+    "trechos": [
+      "an exact expression for the degree of exploitation of labour-power by capital"
+    ],
+    "quando_usar": "salários, lucro, produtividade, intensidade do trabalho, distribuição entre capital e trabalho",
+    "tags": [
+      "mais-valia",
+      "exploração",
+      "salário",
+      "lucro"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T003",
+    "conceito": "Jornada de trabalho e sede de trabalho vivo",
+    "autor": "Karl Marx",
+    "obra": "O Capital, Livro I",
+    "ano": 1867,
+    "secao": "cap. 10",
+    "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch10.htm",
+    "trechos": [
+      "Capital is dead labour, that, vampire-like, only lives by sucking living labour"
+    ],
+    "quando_usar": "jornada, ritmo e intensidade do trabalho, superexploração, disputas por horas e direitos trabalhistas",
+    "tags": [
+      "jornada",
+      "trabalho",
+      "superexploração"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T004",
+    "conceito": "Acumulação de riqueza e de miséria (lei geral)",
+    "autor": "Karl Marx",
+    "obra": "O Capital, Livro I",
+    "ano": 1867,
+    "secao": "cap. 25 (ed. inglesa; cap. 23 nas edições brasileiras)",
+    "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm",
+    "trechos": [
+      "accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation",
+      "Accumulation of wealth at one pole is, therefore, at the same time accumulation of misery"
+    ],
+    "quando_usar": "desemprego, precarização, desigualdade crescente, exército industrial de reserva",
+    "tags": [
+      "desemprego",
+      "desigualdade",
+      "precarização",
+      "exército de reserva"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T005",
+    "conceito": "Acumulação primitiva, violência e colonialismo",
+    "autor": "Karl Marx",
+    "obra": "O Capital, Livro I",
+    "ano": 1867,
+    "secao": "cap. 31 (ed. inglesa; cap. 24 nas edições brasileiras)",
+    "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch31.htm",
+    "trechos": [
+      "capital comes dripping from head to foot, from every pore, with blood and dirt",
+      "the extirpation, enslavement and entombment in mines of the aboriginal population"
+    ],
+    "quando_usar": "expropriação de terras e recursos, saque colonial, violência estatal na origem de mercados e fortunas",
+    "tags": [
+      "acumulação primitiva",
+      "colonialismo",
+      "expropriação"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T006",
+    "conceito": "Método dialético: o que está de cabeça para baixo",
+    "autor": "Karl Marx",
+    "obra": "Posfácio à 2ª edição de O Capital",
+    "ano": 1873,
+    "secao": "Posfácio",
+    "url": "https://www.marxists.org/archive/marx/works/1867-c1/p3.htm",
+    "trechos": [
+      "It must be turned right side up again"
+    ],
+    "quando_usar": "explicar o método: partir da vida material, não das ideias; ler contradições como motor do processo",
+    "tags": [
+      "dialética",
+      "método"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T007",
+    "conceito": "O ser social determina a consciência",
+    "autor": "Karl Marx",
+    "obra": "Prefácio à Contribuição à Crítica da Economia Política",
+    "ano": 1859,
+    "secao": "Prefácio",
+    "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm",
+    "trechos": [
+      "It is not the consciousness of men that determines their existence",
+      "not the consciousness of men that determines their being",
+      "determines their consciousness"
+    ],
+    "quando_usar": "explicar por que discursos e ideologias de governos e mídia refletem posições materiais",
+    "tags": [
+      "ideologia",
+      "consciência",
+      "ser social"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T008",
+    "conceito": "Modo de produção condiciona a vida social e política",
+    "autor": "Karl Marx",
+    "obra": "Prefácio à Contribuição à Crítica da Economia Política",
+    "ano": 1859,
+    "secao": "Prefácio",
+    "url": "https://www.marxists.org/archive/marx/works/1859/critique-pol-economy/preface.htm",
+    "trechos": [
+      "conditions the general process of social, political and intellectual life"
+    ],
+    "quando_usar": "ligar eventos políticos e culturais à base econômica (base e superestrutura)",
+    "tags": [
+      "modo de produção",
+      "base",
+      "superestrutura"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T009",
+    "conceito": "Vida material e produção das ideias",
+    "autor": "Karl Marx e Friedrich Engels",
+    "obra": "A Ideologia Alemã",
+    "ano": 1846,
+    "secao": "Parte I (Feuerbach)",
+    "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
+    "trechos": [
+      "Life is not determined by consciousness, but consciousness by life",
+      "of conceptions, of consciousness, is at first directly interwoven with the material activity"
+    ],
+    "quando_usar": "método materialista: partir de como as pessoas produzem a vida, e não do que dizem ou pensam",
+    "tags": [
+      "materialismo histórico",
+      "consciência",
+      "método"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T010",
+    "conceito": "As ideias da classe dominante",
+    "autor": "Karl Marx e Friedrich Engels",
+    "obra": "A Ideologia Alemã",
+    "ano": 1846,
+    "secao": "Parte I (Feuerbach), seção B, 'Classe dominante e ideias dominantes'",
+    "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
+    "trechos": [
+      "The ideas of the ruling class are in every epoch the ruling ideas"
+    ],
+    "quando_usar": "propaganda, enquadramentos da mídia, narrativas oficiais, hegemonia ideológica",
+    "tags": [
+      "ideologia",
+      "classe dominante",
+      "mídia"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T011",
+    "conceito": "Divisão do trabalho e formas de propriedade",
+    "autor": "Karl Marx e Friedrich Engels",
+    "obra": "A Ideologia Alemã",
+    "ano": 1846,
+    "secao": "Parte I (Feuerbach)",
+    "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
+    "trechos": [
+      "just so many different forms of ownership"
+    ],
+    "quando_usar": "como a divisão do trabalho e a propriedade organizam classes, cidades e Estados",
+    "tags": [
+      "divisão do trabalho",
+      "propriedade"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T012",
+    "conceito": "A luta de classes como motor da história",
+    "autor": "Karl Marx e Friedrich Engels",
+    "obra": "Manifesto do Partido Comunista",
+    "ano": 1848,
+    "secao": "cap. 1",
+    "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+    "trechos": [
+      "is the history of class struggles",
+      "The history of all hitherto existing society is the history of class struggles"
+    ],
+    "quando_usar": "greves, protestas, conflitos entre capital e trabalho, disputas de classe",
+    "tags": [
+      "luta de classes",
+      "greve",
+      "protesto"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T013",
+    "conceito": "Mercado mundial e produção cosmopolita",
+    "autor": "Karl Marx e Friedrich Engels",
+    "obra": "Manifesto do Partido Comunista",
+    "ano": 1848,
+    "secao": "cap. 1",
+    "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+    "trechos": [
+      "given a cosmopolitan character to production and consumption in every country"
+    ],
+    "quando_usar": "globalização, cadeias globais de valor, tarifas, comércio exterior",
+    "tags": [
+      "mercado mundial",
+      "globalização",
+      "comércio"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T014",
+    "conceito": "Imperialismo como estágio monopolista do capitalismo",
+    "autor": "V. I. Lenin",
+    "obra": "Imperialismo, fase superior do capitalismo",
+    "ano": 1916,
+    "secao": "cap. 7",
+    "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+    "trechos": [
+      "imperialism is the monopoly stage of capitalism",
+      "Monopoly is the transition from capitalism to a higher system"
+    ],
+    "quando_usar": "rivalidade entre potências, monopólios, capital financeiro, disputas por mercados e recursos",
+    "tags": [
+      "imperialismo",
+      "monopólio",
+      "capital financeiro"
+    ],
+    "idioma": "en",
+    "direitos": "Domínio público (aviso do MIA na obra)"
+  },
+  {
+    "id": "T015",
+    "conceito": "Exportação de capital",
+    "autor": "V. I. Lenin",
+    "obra": "Imperialismo, fase superior do capitalismo",
+    "ano": 1916,
+    "secao": "cap. 4",
+    "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+    "trechos": [
+      "Typical of the latest stage of capitalism, when monopolies rule, is the export of capital"
+    ],
+    "quando_usar": "investimentos externos, empréstimos, dívida, fundos soberanos, dependência financeira",
+    "tags": [
+      "exportação de capital",
+      "investimento",
+      "dívida"
+    ],
+    "idioma": "en",
+    "direitos": "Domínio público (aviso do MIA na obra)"
+  },
+  {
+    "id": "T016",
+    "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+    "autor": "V. I. Lenin",
+    "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+    "ano": 1920,
+    "secao": "Prefácio",
+    "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+    "trechos": [
+      "a world system of colonial oppression and of the financial strangulation"
+    ],
+    "quando_usar": "relação entre países centrais e periféricos, dependência, sanções, dívida externa",
+    "tags": [
+      "colonialismo",
+      "dependência",
+      "sanções"
+    ],
+    "idioma": "en",
+    "direitos": "Domínio público (aviso do MIA na obra)"
+  },
+  {
+    "id": "T017",
+    "conceito": "Estados usurários e Estados devedores (rentismo)",
+    "autor": "V. I. Lenin",
+    "obra": "Imperialismo, fase superior do capitalismo",
+    "ano": 1916,
+    "secao": "cap. 8",
+    "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm",
+    "trechos": [
+      "a handful of usurer states and a vast majority of debtor states"
+    ],
+    "quando_usar": "dívida soberana, credores e devedores, rentismo, parasitismo financeiro",
+    "tags": [
+      "rentismo",
+      "dívida",
+      "parasitismo"
+    ],
+    "idioma": "en",
+    "direitos": "Domínio público (aviso do MIA na obra)"
+  },
+  {
+    "id": "T018",
+    "conceito": "Superlucros monopolistas e suborno de camadas do operariado (aristocracia operária)",
+    "autor": "V. I. Lenin",
+    "obra": "Imperialismo, fase superior do capitalismo",
+    "ano": 1916,
+    "secao": "cap. 8",
+    "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm",
+    "trechos": [
+      "the economic possibility of such bribery, whatever its form may be, requires high monopolist profits",
+      "creates the economic possibility of bribing the upper strata of the proletariat"
+    ],
+    "quando_usar": "divisões dentro da classe trabalhadora, sindicatos conciliadores, trabalhadores do centro versus periferia",
+    "tags": [
+      "aristocracia operária",
+      "sindicatos"
+    ],
+    "idioma": "en",
+    "direitos": "Domínio público (aviso do MIA na obra)"
+  },
+  {
+    "id": "T019",
+    "conceito": "O Estado como produto de antagonismos de classe",
+    "autor": "V. I. Lenin",
+    "obra": "O Estado e a Revolução",
+    "ano": 1917,
+    "secao": "cap. 1",
+    "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+    "trechos": [
+      "The state is a product and a manifestation of the irreconcilability of class antagonisms"
+    ],
+    "quando_usar": "repressão policial, leis, aparato militar, papel do Estado em conflitos sociais",
+    "tags": [
+      "Estado",
+      "repressão",
+      "classes"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T020",
+    "conceito": "Nações oprimidas e nações opressoras",
+    "autor": "V. I. Lenin",
+    "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+    "ano": 1920,
+    "secao": "Teses",
+    "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+    "trechos": [
+      "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations"
+    ],
+    "quando_usar": "relação entre potências e países dependentes, intervenções, tutela, sanções",
+    "tags": [
+      "questão nacional",
+      "colonial",
+      "opressão"
+    ],
+    "idioma": "en",
+    "direitos": "Copyleft (GNU FDL), Lenin Internet Archive"
+  },
+  {
+    "id": "T021",
+    "conceito": "Direito das nações à autodeterminação",
+    "autor": "V. I. Lenin",
+    "obra": "O direito das nações à autodeterminação",
+    "ano": 1914,
+    "secao": "seção 1",
+    "url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch01.htm",
+    "trechos": [
+      "the political separation of these nations from alien national bodies"
+    ],
+    "quando_usar": "independência, secessão, separatismos, soberania nacional, ocupação",
+    "tags": [
+      "autodeterminação",
+      "soberania",
+      "separatismo"
+    ],
+    "idioma": "en",
+    "direitos": "Domínio público (aviso do MIA na obra)"
+  },
+  {
+    "id": "T022",
+    "conceito": "A lei da unidade dos contrários",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Sobre a Contradição",
+    "ano": 1937,
+    "secao": "seção 1 a 2",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+    "trechos": [
+      "the law of the unity of opposites, is the basic law of materialist dialectics"
+    ],
+    "quando_usar": "formular o método: todo processo contém forças opostas em unidade e luta",
+    "tags": [
+      "contradição",
+      "dialética"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T023",
+    "conceito": "Contradição principal",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Sobre a Contradição",
+    "ano": 1937,
+    "secao": "seção 4",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+    "trechos": [
+      "one of them is necessarily the principal contradiction",
+      "determine or influence the existence and development of the other contradictions"
+    ],
+    "quando_usar": "identificar entre várias disputas qual move e condiciona as demais",
+    "tags": [
+      "contradição principal"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T024",
+    "conceito": "Antagonismo como uma forma da luta de contrários",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Sobre a Contradição",
+    "ano": 1937,
+    "secao": "seção 7",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+    "trechos": [
+      "Antagonism is one form, but not the only form, of the struggle of opposites"
+    ],
+    "quando_usar": "distinguir conflitos que levam à ruptura de conflitos que se resolvem sem ruptura",
+    "tags": [
+      "antagonismo",
+      "conflito"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T025",
+    "conceito": "Análise concreta de condições concretas",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Sobre a Contradição",
+    "ano": 1937,
+    "secao": "seção 3",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+    "trechos": [
+      "the living soul of Marxism"
+    ],
+    "quando_usar": "evitar esquemas prontos: cada caso exige análise das suas condições específicas",
+    "tags": [
+      "análise concreta",
+      "método"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T026",
+    "conceito": "O pensamento traz a marca de classe",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Sobre a Prática",
+    "ano": 1937,
+    "secao": "seção sobre a prática social",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_16.htm",
+    "trechos": [
+      "every kind of thinking, without exception, is stamped with the brand of a class"
+    ],
+    "quando_usar": "enquadramentos das fontes, ideologia de veículos e de governos",
+    "tags": [
+      "ideologia",
+      "classe",
+      "fontes"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T027",
+    "conceito": "Quem são os inimigos e quem são os amigos (análise de classes)",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Análise das classes na sociedade chinesa",
+    "ano": 1926,
+    "secao": "abertura",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_1.htm",
+    "trechos": [
+      "Who are our enemies? Who are our friends?"
+    ],
+    "quando_usar": "mapear as classes e frações de classe envolvidas num conflito e seus interesses",
+    "tags": [
+      "classes",
+      "análise de classes"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T028",
+    "conceito": "Sem investigação não há direito à palavra",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Contra o culto dos livros",
+    "ano": 1930,
+    "secao": "seção 1",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm",
+    "trechos": [
+      "No investigation, no right to speak"
+    ],
+    "quando_usar": "método: investigar os fatos antes de afirmar; desconfiar de conclusões sem evidência",
+    "tags": [
+      "investigação",
+      "método",
+      "fatos"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T029",
+    "conceito": "Contradições antagônicas e não antagônicas",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Sobre a justa solução das contradições no seio do povo",
+    "ano": 1957,
+    "secao": "seção 1",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-5/mswv5_58.htm",
+    "trechos": [
+      "The contradictions between ourselves and the enemy are antagonistic"
+    ],
+    "quando_usar": "distinguir conflitos de natureza distinta dentro de países e entre blocos",
+    "tags": [
+      "contradições",
+      "antagônico"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T030",
+    "conceito": "Sociedade semicolonial e semifeudal",
+    "autor": "Mao Tsé-Tung",
+    "obra": "Sobre a Nova Democracia",
+    "ano": 1940,
+    "secao": "seção 1",
+    "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-2/mswv2_26.htm",
+    "trechos": [
+      "a semi-colonial and semi-feudal society",
+      "semi-colonial and semi-feudal"
+    ],
+    "quando_usar": "países dependentes: como o imperialismo e estruturas agrárias pré-capitalistas se combinam",
+    "tags": [
+      "semicolonial",
+      "periferia",
+      "dependência"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T031",
+    "conceito": "Exploração do campesinato colonial pelo capital imperialista",
+    "autor": "Ho Chi Minh",
+    "obra": "Relatório sobre as questões nacional e colonial (V Congresso da Internacional Comunista)",
+    "ano": 1924,
+    "secao": "Relatório",
+    "url": "https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/07/08.htm",
+    "trechos": [
+      "the native peoples are unremittingly exploited by French imperialist capital"
+    ],
+    "quando_usar": "exploração de populações rurais e de países dependentes por capital estrangeiro",
+    "tags": [
+      "colonialismo",
+      "campesinato",
+      "imperialismo"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T032",
+    "conceito": "Expropriação de terras e propriedade privada imposta",
+    "autor": "Ho Chi Minh",
+    "obra": "Relatório sobre as questões nacional e colonial (V Congresso da Internacional Comunista)",
+    "ano": 1924,
+    "secao": "Relatório",
+    "url": "https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/07/08.htm",
+    "trechos": [
+      "abolished the right of collective ownership and replaced it by private ownership"
+    ],
+    "quando_usar": "grilagem, privatização de terras comunais, concessões a empresas estrangeiras",
+    "tags": [
+      "terra",
+      "expropriação",
+      "propriedade"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T033",
+    "conceito": "Trabalho compulsório sob companhias coloniais",
+    "autor": "Ho Chi Minh",
+    "obra": "Relatório sobre as questões nacional e colonial (V Congresso da Internacional Comunista)",
+    "ano": 1924,
+    "secao": "Relatório",
+    "url": "https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/07/08.htm",
+    "trechos": [
+      "compelled to work for the companies, all the time, and only for the companies"
+    ],
+    "quando_usar": "trabalho forçado, dependência de empresas, condições análogas à escravidão em cadeias produtivas",
+    "tags": [
+      "trabalho forçado",
+      "empresas",
+      "colonialismo"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T034",
+    "conceito": "Monoculturas impostas e fome",
+    "autor": "Ho Chi Minh",
+    "obra": "Relatório sobre as questões nacional e colonial (V Congresso da Internacional Comunista)",
+    "ano": 1924,
+    "secao": "Relatório",
+    "url": "https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/07/08.htm",
+    "trechos": [
+      "French capitalism has never hesitated to drive each region in turn to famine"
+    ],
+    "quando_usar": "fome e insegurança alimentar ligadas à agricultura de exportação e a interesses industriais externos",
+    "tags": [
+      "fome",
+      "monocultura",
+      "exportação"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T035",
+    "conceito": "Frente única entre trabalhadores da metrópole e das colônias",
+    "autor": "Ho Chi Minh",
+    "obra": "Relatório sobre as questões nacional e colonial (V Congresso da Internacional Comunista)",
+    "ano": 1924,
+    "secao": "Relatório",
+    "url": "https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/07/08.htm",
+    "trechos": [
+      "the united front of the masses of the metropolitan country and colonies"
+    ],
+    "quando_usar": "internacionalismo operário, solidariedade entre trabalhadores de centro e periferia, migração",
+    "tags": [
+      "internacionalismo",
+      "frente única",
+      "migração"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "id": "T036",
+    "conceito": "Socialismo e libertação das nações oprimidas",
+    "autor": "Ho Chi Minh",
+    "obra": "O caminho que me levou ao leninismo",
+    "ano": 1960,
+    "secao": "texto completo",
+    "url": "https://www.marxists.org/reference/archive/ho-chi-minh/works/1960/04/x01.htm",
+    "trechos": [
+      "only socialism and communism can liberate the oppressed nations and the working people"
+    ],
+    "quando_usar": "libertação nacional ligada à emancipação dos trabalhadores",
+    "tags": [
+      "libertação nacional",
+      "socialismo"
+    ],
+    "idioma": "en",
+    "direitos": "Edição do MIA; conferir direitos da tradução"
+  },
+  {
+    "conceito": "Independência política formal e dependência econômica, financeira e militar",
+    "autor": "V. I. Lenin",
+    "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+    "ano": 1920,
+    "secao": "Teses, ponto 11",
+    "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+    "trechos": [
+      "set up states that are wholly dependent upon them economically, financially and militarily"
+    ],
+    "quando_usar": "Estados formalmente independentes sob tutela econômica, financeira ou militar de potências; bases, dívidas, sanções, condicionalidades",
+    "tags": [
+      "dependência",
+      "soberania formal",
+      "tutela"
+    ],
+    "idioma": "en",
+    "direitos": "Copyleft (GNU FDL), Lenin Internet Archive",
+    "id": "T037"
+  },
+  {
+    "conceito": "União dos trabalhadores de todas as nações e países",
+    "autor": "V. I. Lenin",
+    "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+    "ano": 1920,
+    "secao": "Teses, ponto 4",
+    "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+    "trechos": [
+      "closer union of the proletarians and the working masses of all nations and countries"
+    ],
+    "quando_usar": "solidariedade e divisões entre trabalhadores de diferentes países; greves e lutas com dimensão internacional",
+    "tags": [
+      "internacionalismo",
+      "união",
+      "trabalhadores"
+    ],
+    "idioma": "en",
+    "direitos": "Copyleft (GNU FDL), Lenin Internet Archive",
+    "id": "T038"
+  }
+]
