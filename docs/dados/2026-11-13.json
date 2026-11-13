@@ -1,0 +1,1288 @@
+{
+  "biblioteca": {
+    "fichas_total": 38,
+    "fichas_conferidas": 38,
+    "ignoradas": []
+  },
+  "avisos_execucao": [
+    "Busca na web sem cota (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite.",
+    "Sem cota na hora da chamada (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash.",
+    "Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'."
+  ],
+  "manchete_do_dia": "Contradições monopolistas, disputas energéticas e tensões geopolíticas reorganizam o cenário global",
+  "resumo_executivo": "Contradições monopolistas na infraestrutura tecnológica (Nvidia e Microsoft) expõem vulnerabilidades digitais globais. No campo geopolítico, destacam-se o rearranjo de segurança europeu, tensões no Oriente Médio (Ormuz, Gaza e o pacto Turquia-Catar) e a intervenção salvadorenha no Haiti. Paralelamente, disputas por petróleo no Atlântico Sul, a crise alimentar no Sudão, impasses no financiamento climático da COP31 e a fusão entre capital financeiro e poder estatal no Paraguai evidenciam profundas assimetrias na divisão internacional do trabalho.",
+  "itens": [
+    {
+      "regiao": "América do Norte",
+      "titulo": "Crise na Nvidia e as contradições do controle imperialista de semicondutores",
+      "paises_iso3": [
+        "USA",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N020",
+        "N033",
+        "N036",
+        "N049",
+        "N064",
+        "N065"
+      ],
+      "fatos_verificaveis": [
+        "Jensen Huang renunciou ao cargo de CEO da Nvidia após revelações de relações extraconjugais e suspeitas relatadas por agências de inteligência dos EUA sobre espionagem chinesa envolvendo uma executiva da cliente Megaspeed.",
+        "O secretário do Tesouro dos EUA, Scott Bessent, culpou publicamente o Departamento de Comércio liderado por Howard Lutnick por lentidão em incluir a Megaspeed na lista de restrições de exportação.",
+        "Segundo o The Guardian e a BBC, comissões do Congresso dos EUA convocaram Huang e Lutnick para depor sobre a fiscalização de controles de exportação de chips avançados de inteligência artificial.",
+        "A CFO Colette Kress assumiu interinamente o comando da Nvidia em meio a quedas no valor de mercado da empresa após as revelações."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A imprensa liberal e pública ocidental oscila entre o escândalo pessoal/corporativo ('falhas morais' de Huang) e o alarme de segurança nacional frente à espionagem chinesa. Meios econômicos enfatizam a fragilidade do modelo financeiro circular da IA e as disputas burocráticas dentro da administração Trump.",
+      "citacao": "any leakage is very frustrating because it hurts our great companies in the AI race",
+      "citacao_fonte_id": "N020",
+      "contexto_historico": "Desde o governo Trump em 2018 e aprofundado sob a administração Biden em 2022, os EUA utilizam controles de exportação de tecnologias avançadas e semicondutores para tentar deter o desenvolvimento industrial e militar autônomo da China. A Nvidia emergiu como monopólio quase absoluto no fornecimento de hardware para modelos avançados de inteligência artificial, criando forte interdependência entre a receita corporativa norte-americana e a demanda do mercado chinês e do leste asiático.",
+      "relacoes_de_trabalho": "O setor de inteligência artificial e semicondutores mobiliza uma divisão internacional do trabalho altamente estratificada. Engenheiros e desenvolvedores de software no centro imperialista detêm alta remuneração atrelada a ações, enquanto a base manufatureira de semicondutores depende da força de trabalho técnica em Taiwan e do fornecimento de insumos minerais e montagem eletrônica em economias periféricas e semiperiféricas, submetidas a ritmos intensos de produção.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "O controle de chips reflete a disputa entre monopólios tecnológicos de potências imperialistas rivais pela hegemonia sobre forças produtivas essenciais."
+        },
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra o conflito entre o caráter transnacional da circulação de mercadorias e as fronteiras regulatórias e tarifárias nacionais."
+        }
+      ],
+      "contradicao_principal": "Contradição entre a necessidade do capital monopolista norte-americano de realizar lucros no vasto mercado chinês e a exigência geopolítica do Estado imperialista dos EUA de bloquear o salto tecnológico da China.",
+      "analise_materialista": "Uma leitura materialista sugere que a crise na liderança da Nvidia expressa contradições concretas da atual fase monopolista. O papel central da empresa no fornecimento de hardware de ponta para IA confere-lhe peso sistêmico, inclusive através de arranjos de financiamento circular com desenvolvedores. Contudo, as tentativas estatais norte-americanas de restringir o fluxo tecnológico para a China colidem diretamente com a realização do lucro privado em mercados externos de grande escala. As divergências públicas entre o Tesouro e o Comércio evidenciam fissuras sobre o ritmo e o alcance de tais restrições. Enquanto aparatos de segurança buscam vetar intermediários em entrepostos comerciais como Cingapura, frações do capital relutam em abdicar de receitas volumosas. O foco jornalístico centrado no comportamento pessoal de executivos opera como envoltório moral que obscurece disputas interestatais pela infraestrutura computacional determinante para a produtividade do trabalho global.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional sustenta que o caso decorre fundamentalmente de falhas de governança corporativa, quebra de regras éticas pelo executivo-chefe e lapsos burocráticos de supervisão nas agências reguladoras. Argumenta-se que controles de exportação transparentes e investigação parlamentar bastam para restaurar a integridade da segurança nacional sem alterar a estrutura de mercado.",
+      "hipoteses": [
+        "A pressão sobre o Departamento de Comércio pode resultar em endurecimento regulatório e maior rigor na fiscalização de vendas intermediadas por entrepostos no Sudeste Asiático."
+      ],
+      "limites_da_evidencia": "Não há acesso a evidências materiais independentes sobre as alegações de espionagem, baseadas estritamente em relatórios confidenciais da inteligência norte-americana citados na imprensa.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Rebaixada a confiança de 'alta' para 'média', pois a alegação nuclear de espionagem decorre exclusivamente de vazamentos de inteligência dos EUA não comprovados documentalmente.",
+        "Ajustado o status_checagem para 'parcialmente corroborado', uma vez que todas as fontes pertencem ao mesmo campo de mídia ocidental e a acusação de espionagem não foi confirmada de forma neutra.",
+        "Refinada a análise materialista para modular o tom afirmativo sobre causas estruturais e delimitar as alegações de inteligência como versões sob apuração.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N020",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+          "publicado": "2026-11-13",
+          "url": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N033",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Nvidia scandal: US treasury chief blames Lutnick’s commerce department over alleged lack of action",
+          "publicado": "2026-11-13",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china"
+        },
+        {
+          "id": "N036",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+          "publicado": "2026-11-12",
+          "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair"
+        },
+        {
+          "id": "N049",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "The Nvidia affair: Are markets about to fall out of love with AI?",
+          "publicado": "2026-11-13",
+          "url": "https://www.france24.com/en/americas/20261113-the-nvidia-affair-are-markets-about-to-fall-out-of-love-with-ai"
+        },
+        {
+          "id": "N064",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Nvidia CEO steps down. And, Sen. Chris Van Hollen to run for majority leader",
+          "publicado": "2026-11-13",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153532/up-first-newsletter-nvidia-jensen-huang-colette-kress-ukraine-russia-chris-van-hollen"
+        },
+        {
+          "id": "N065",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Nvidia's interim CEO inherits risky AI bets and a legal mess",
+          "publicado": "2026-11-13",
+          "url": "https://www.npr.org/2026/11/13/nx-s1-6038868/nvidia-interim-ceo-colette-kress-ai-bets-investigation-lutnick"
+        }
+      ],
+      "cobertura": {
+        "fontes": 4,
+        "artigos": 6,
+        "campos": 4
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 30769700000000,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a escala da economia norte-americana que ancora os megamonopólios tecnológicos."
+        },
+        {
+          "pais_iso3": "CHN",
+          "pais": "China",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 24.7344421687689,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o peso manufatureiro chinês e sua pressão por absorver hardware estratégico para transformação produtiva."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Bloqueio no Estreito de Ormuz e estrangulamento imperialista contra o Irã",
+      "paises_iso3": [
+        "IRN",
+        "USA",
+        "BHR"
+      ],
+      "fontes_ids": [
+        "N014",
+        "N054",
+        "N063",
+        "N073"
+      ],
+      "fatos_verificaveis": [
+        "Segundo o Corpo da Guarda Revolucionária Islâmica do Irã (IRGC), um navio de gás liquefeito pegou fogo no Estreito de Ormuz após colidir com minas navais ao utilizar rota não autorizada.",
+        "O IRGC alegou ter destruído uma instalação de radar de alerta precoce dos EUA no Bahrein; o Comando Central dos EUA negou danos e afirmou ter interceptado dois drones iranianos.",
+        "Os EUA impõem bloqueio naval contra o transporte de petróleo iraniano e escoltam navios de países árabes aliados por rotas próximas a Omã.",
+        "Autoridades dos EUA, como o secretário de Estado Marco Rubio, declararam que o estrangulamento econômico e o bloqueio de ativos visam inviabilizar o financiamento estatal e das forças de segurança do Irã."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "Veículos ocidentais e estatais destacam a ameaça iraniana à livre navegação e ao fornecimento global de energia. O Irã enquadra suas ações como defesa de soberania sobre águas territoriais e retaliação a ataques norte-americanos, enquanto a ONU foca no risco de desestabilização regional.",
+      "citacao": "The pain that they're feeling is, eventually you have to eat.",
+      "citacao_fonte_id": "N063",
+      "contexto_historico": "O Estreito de Ormuz é a garganta estratégica por onde historicamente transita cerca de um quinto do petróleo e frações decisivas do gás liquefeito mundiais. As tensões atuais decorrem de décadas de cerco militar e sanções unilaterais impostas pelos EUA ao Irã desde a Revolução de 1979, agravadas por ataques aéreos coordenados entre EUA e Israel e a instalação permanente de bases militares navais no Golfo, como a Quinta Frota no Bahrein.",
+      "relacoes_de_trabalho": "O bloqueio de fluxos vitais e as sanções afetam diretamente a reprodução material da classe trabalhadora regional, gerando recessão econômica, inflação de bens de subsistência e precarização severa tanto no Irã quanto nos países do Golfo que dependem da importação de mercadorias e de força de trabalho migrante intensamente explorada.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "O bloqueio naval e o congelamento de receitas financeiras iranianas operam como instrumentos de estrangulamento econômico que asfixiam a capacidade material do país dependente."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "A presença militar norte-americana no Bahrein exemplifica Estados formalmente independentes cuja segurança e infraestrutura estratégica permanecem subordinadas à potência imperialista."
+        }
+      ],
+      "contradicao_principal": "Contradição entre o controle territorial e militar de rotas estratégicas de escoamento de hidrocarbonetos exercido pelo Irã e a imposição da ordem hegemônica de livre circulação subordinada aos EUA e aliados regionais.",
+      "analise_materialista": "Sob uma perspectiva materialista, a crise em Ormuz evidencia o papel do aparato militar na regulação dos fluxos de mercadorias e na coerção sobre receitas petrolíferas autônomas. As declarações de autoridades norte-americanas admitindo que o cerco visa pressionar a subsistência básica sugerem que o estrangulamento financeiro e comercial opera como arma de desgaste material prolongada. Em resposta ao isolamento e às perdas comerciais decorrentes do bloqueio à exportação de óleo cru, o Estado iraniano mobiliza sua posição geográfica estratégica para impor custos à circulação regional. Concomitantemente, a presença naval norte-americana protegendo rotas seletivas para aliados explicita a articulação entre coerção estatal e continuidade da acumulação petrolífera internacional. Esse choque atinge cadeias de fertilizantes e energia, repercutindo em tendências recessivas e encarecendo a reprodução da classe trabalhadora na região e internacionalmente.",
+      "explicacoes_alternativas": "A visão da segurança internacional e do direito marítimo sustenta que a ação ocidental visa estritamente proteger a liberdade universal de navegação em águas internacionais contra atos predatórios de sabotagem de um regime autoritário e garantir a estabilidade do suprimento energético global.",
+      "hipoteses": [
+        "A inviabilidade de um acordo formal a curto prazo tenderá a consolidar uma rotinização de atritos militares de baixa intensidade no estreito, aumentando os custos globais de seguro marítimo e frete de insumos essenciais."
+      ],
+      "limites_da_evidencia": "Não é possível verificar de forma independente as perdas materiais reais resultantes dos disparos contra alvos no Bahrein e Sirik devido às narrativas militares opostas e à falta de inspeção neutra.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Modulado o tom na análise materialista para manter a separação rigorosa entre interpretação analítica e fatos estritos.",
+        "Verificada a exatidão textual da citação de Marco Rubio (10 palavras) e a correspondência dos indicadores quantitativos em relação aos países centrais da disputa.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N014",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "IRGC says tanker caught fire after hitting mines in Strait of Hormuz",
+          "publicado": "2026-11-13",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/irgc-says-tanker-caught-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
+        },
+        {
+          "id": "N054",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Iran targeted US radar system in Bahrain",
+          "publicado": "2026-11-13",
+          "url": "https://www.dw.com/en/iran-targeted-us-radar-system-in-bahrain/a-79942640?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N063",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "What's Trump's strategy now with Iran? To keep things as they are",
+          "publicado": "2026-11-13",
+          "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are"
+        },
+        {
+          "id": "N073",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Security Council LIVE: Fragile Gulf calm tested as threats to Hormuz shipping mount",
+          "publicado": "2026-11-13",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168804"
+        }
+      ],
+      "cobertura": {
+        "fontes": 4,
+        "artigos": 4,
+        "campos": 4
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRN",
+          "pais": "Iran, Islamic Rep.",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 60.2426223967467,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a alta vulnerabilidade da economia iraniana ao corte de fluxos comerciais sob cerco naval e sanções."
+        },
+        {
+          "pais_iso3": "BHR",
+          "pais": "Bahrain",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 157.480869430187,
+          "ano": "2024",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia a extrema dependência externa do Bahrein, onde estão sediadas instalações militares dos EUA envolvidas no atrito."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Diplomacia de paz, arquitetura de segurança continental e tensões geopolíticas entre potências",
+      "paises_iso3": [
+        "RUS",
+        "UKR",
+        "USA",
+        "FRA",
+        "DEU"
+      ],
+      "fontes_ids": [
+        "N019",
+        "N045",
+        "N052",
+        "N061",
+        "N066",
+        "N069",
+        "N070",
+        "N071"
+      ],
+      "fatos_verificaveis": [
+        "Enviados dos EUA (Jared Kushner e Steve Witkoff) intermediaram conversas diplomáticas com representantes da Rússia e da Ucrânia em Abu Dhabi, seguidas de reuniões com Vladimir Putin em Moscou e com Volodymyr Zelenskyy em Dublin (segundo BBC World, Deutsche Welle, NPR World).",
+        "Rússia e Ucrânia concordaram em realizar uma troca de prisioneiros em grande escala durante as negociações em Abu Dhabi (segundo NPR World, NPR World, NPR World).",
+        "A diplomacia russa recolocou na pauta a exigência de revisão da arquitetura de segurança europeia e o recuo da infraestrutura militar da OTAN para limites prévios (segundo BBC World, Deutsche Welle, NPR World).",
+        "Líderes e diplomatas da União Europeia expressaram insatisfação com a exclusão inicial das potências europeias da mesa direta de negociações e criticaram a inclusão da segurança continental ampla antes do estabelecimento de um cessar-fogo (segundo BBC World, Deutsche Welle, Deutsche Welle)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública ocidental (BBC, DW, NPR, France 24) retrata o pleito russo por uma nova arquitetura de segurança como 'armadilha' e propaganda estratégica destinada a enfraquecer a OTAN e contornar a exigência imediata de cessar-fogo. As fontes destacam também as frustrações dos governos europeus diante do risco de um arranjo direto entre Washington e Moscou sobre a segurança do continente.",
+      "citacao": "the Europeans squabble like spiders in a jar",
+      "citacao_fonte_id": "N066",
+      "contexto_historico": "As exigências de Moscou remetem aos rascunhos de tratados apresentados em dezembro de 2021, que buscavam garantias vinculantes de não ampliação da OTAN a leste (incluindo Ucrânia e Geórgia) e o recuo de infraestruturas militares da aliança nos países integrados após o fim da União Soviética. A discussão se insere na erosão continuada dos pactos de segurança pós-Guerra Fria, como o Memorando de Budapeste (1994) e a Ata Fundacional OTAN-Rússia (1997), em meio a sucessivas ondas de expansão da aliança ocidental e a intervenções militares russas.",
+      "relacoes_de_trabalho": "A proliferação do conflito mobilizou parcelas substanciais da força de trabalho ucraniana e russa para o esforço de guerra ou mobilização militar. Na Europa ocidental e central, a reconfiguração dos suprimentos energéticos e o aumento dos gastos com defesa pressionam os orçamentos públicos e os salários reais da classe trabalhadora.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "A disputa pelo redesenho das alianças continentais reflete a rivalidade inter-imperialista por esferas de influência e segurança geopolítica no continente europeu."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "A busca de garantias de segurança ilustra a vulnerabilidade de Estados intermediários e periféricos subordinados às decisões e acordos estratégicos entre grandes potências."
+        }
+      ],
+      "contradicao_principal": "Contradição antagônica entre o projeto geopolítico de hegemonia e contenção territorial do bloco ocidental (EUA/OTAN) e as exigências da Rússia por uma esfera de segurança exclusiva na Eurásia.",
+      "analise_materialista": "A leitura materialista sugere que a negociação sobre a guerra na Ucrânia transborda a disputa territorial imediata, integrando um rearranjo mais amplo do equilíbrio geopolítico entre grandes potências. A insistência do Kremlin em pautar a segurança europeia busca institucionalizar a neutralização da Ucrânia e frear o avanço militar da OTAN, redefinindo o perímetro defensivo exigido pelo capital estatal e oligárquico russo. Por sua vez, a hesitação dos governos europeus revela a dependência da Europa Ocidental em relação à infraestrutura militar e decisória dos EUA, evidenciando a limitação de sua autonomia estratégica. A mediação direta de Washington reflete a tentativa de recalibrar custos de compromisso internacional sem renunciar à capacidade de barganha sobre o mercado de defesa e energia continental. O processo demonstra a subordinação das soberanias nacionais às dinâmicas de poder e às exigências dos complexos industrial-militares dos Estados centrais.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional argumenta que a paz sustentável depende do respeito estrito às normas multilaterais, à soberania territorial e ao direito soberano das nações de escolher suas alianças de segurança, enquadrando as exigências russas como ultimatos revisionistas antidemocráticos.",
+      "hipoteses": [
+        "A marginalização inicial da União Europeia na negociação direta pode acelerar a pressão interna por maior endividamento comum voltado à indústria de defesa europeia.",
+        "A barganha sobre a arquitetura de segurança continental pode ser vinculada a futuras flexibilizações no regime de sanções sobre o setor de commodities e energia russo."
+      ],
+      "limites_da_evidencia": "A ausência dos termos contratuais ou documentos oficiais negociados impede determinar se haverá concessões territoriais efetivas ou compromissos formais sobre a expansão da OTAN.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustado o nível de confiança de alto para médio em razão da indefinição quanto aos termos finais e ao formato de participação da UE nas rodadas seguintes.",
+        "Confirmada a rigidez das citações textuais e da rasteabilidade factual nas notícias fornecidas.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N019",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "publicado": "2026-11-13",
+          "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N045",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Hurry up and wait: Europe wants a place at the table, ‘must make up its mind’ over Ukraine",
+          "publicado": "2026-11-13",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261113-hurry-up-and-wait-europe-wants-a-place-at-the-table-must-make-up-its-mind-over-ukraine"
+        },
+        {
+          "id": "N052",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "The dangers of revising Europe's security architecture",
+          "publicado": "2026-11-13",
+          "url": "https://www.dw.com/en/the-dangers-of-revising-europe-s-security-architecture/a-79943049?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N061",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "EU leaders tussle over whom to send to Ukraine, Russia peace talks",
+          "publicado": "2026-11-12",
+          "url": "https://www.dw.com/en/eu-leaders-tussle-over-whom-to-send-to-ukraine-russia-peace-talks/a-79935468?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N066",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
+          "publicado": "2026-11-12",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks"
+        },
+        {
+          "id": "N069",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Former Ukrainian foreign minister discusses how to bridge gaps between Ukraine, Russia",
+          "publicado": "2026-11-12",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037759/ukraine-ex-foreign-minister"
+        },
+        {
+          "id": "N070",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Former U.S. Ambassador William Taylor discusses the latest Russia-Ukraine talks",
+          "publicado": "2026-11-12",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037526/former-u-s-ambassador-william-taylor-discusses-the-latest-russia-ukraine-talks"
+        },
+        {
+          "id": "N071",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "U.S. officials set to meet with Putin, Zelenskyy following Abu Dhabi peace talks",
+          "publicado": "2026-11-12",
+          "url": "https://www.npr.org/2026/11/12/nx-s1-6037558/u-s-officials-set-to-meet-with-putin-zelenskyy-following-abu-dhabi-peace-talks"
+        }
+      ],
+      "cobertura": {
+        "fontes": 4,
+        "artigos": 8,
+        "campos": 4
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Acordo de defesa mútua entre Catar e Turquia e dissuasão militar regional",
+      "paises_iso3": [
+        "QAT",
+        "TUR"
+      ],
+      "fontes_ids": [
+        "N007",
+        "N043"
+      ],
+      "fatos_verificaveis": [
+        "Catar e Turquia assinaram um acordo de defesa mútua estipulando uma resposta unificada em caso de ataque a qualquer um dos signatários (segundo Al Jazeera English, France 24).",
+        "O pacto entre Turquia e Catar sucede o Acordo de Defesa Conjunta de Meca firmado em agosto entre Turquia, Paquistão e Arábia Saudita (segundo France 24)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera enfatiza o fortalecimento da parceria estratégica e o objetivo de reforçar a dissuasão militar sem buscar escalada iminente. A France 24 destaca o compromisso de resposta unificada e contextualiza o tratado em relação a pactos militares anteriores envolvendo a Turquia na região.",
+      "citacao": "pledging a unified response to any attack on either country",
+      "citacao_fonte_id": "N043",
+      "contexto_historico": "O acordo formaliza um alinhamento político-militar de longo prazo entre Ancara e Doha. Esse alinhamento ganhou centralidade durante o bloqueio imposto ao Catar em 2017 por países vizinhos do Golfo, quando a Turquia manteve apoio militar e logístico ao país petroleiro. O novo tratado reflete o rearranjo continuado de alianças militares no Oriente Médio.",
+      "relacoes_de_trabalho": "O fortalecimento da cooperação em defesa envolve o setor industrial-militar turco e investimentos catarenses, sem detalhes nas matérias sobre o impacto nas condições da força de trabalho ou contratações no setor de defesa.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "A formalização de pactos de defesa mútua reflete a competição entre potências regionais pela consolidação de blocos de proteção e projeção geopolítica."
+        }
+      ],
+      "contradicao_principal": "Contradição entre o objetivo de estabilização de segurança por potências médias e a crescente polarização em blocos militares concorrentes no Oriente Médio.",
+      "analise_materialista": "Análise preliminar (evidência escassa): A assinatura do pacto de defesa mútua expressa a convergência material entre o capital financeiro catarense — amplamente investido no mercado turco — e o aparato militar-industrial da Turquia. Em um cenário regional marcado por instabilidades e pela reconfiguração das alianças no Golfo, o acordo busca assegurar rotas comerciais e blindar ativos estratégicos contra potenciais agressões externas. A associação entre os recursos energéticos do Catar e a projeção militar da Turquia consolida um eixo defensivo autônomo voltado à preservação de esferas de interesse comum.",
+      "explicacoes_alternativas": "A teoria realista das relações internacionais interpreta a aliança como uma reação mecânica ao dilema de segurança regional, onde Estados buscam formalizar parcerias de dissuasão mútua para conter ameaças externas e equilibrar forças na região.",
+      "hipoteses": [
+        "O pacto pode indicar a consolidação de uma rede mais ampla de segurança unindo a Turquia a atores estatais no Golfo e no Sul da Ásia."
+      ],
+      "limites_da_evidencia": "Matérias jornalísticas sucintas sem detalhamento das cláusulas contratuais, obrigações operacionais ou disposições sobre bases militares inviabilizam análises aprofundadas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Mantida a marcação de análise preliminar em virtude da escassez de detalhes nas notícias.",
+        "Verificada a perfeita correspondência dos fatos e atribuições com as fontes Al Jazeera English e France 24.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N007",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Qatar and Turkiye send message of deterrence with new defence pact",
+          "publicado": "2026-11-13",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss"
+        },
+        {
+          "id": "N043",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Turkey and Qatar pledge unified stance against attacks in mutual defence pact",
+          "publicado": "2026-11-13",
+          "url": "https://www.france24.com/en/middle-east/20261113-turkey-and-qatar-pledge-unified-stance-against-attacks-in-mutual-defence-pact"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América Latina",
+      "titulo": "Disputa jurídico-política sobre recursos petrolíferos no Atlântico Sul",
+      "paises_iso3": [
+        "ARG",
+        "GBR"
+      ],
+      "fontes_ids": [
+        "N031"
+      ],
+      "fatos_verificaveis": [
+        "Segundo o jornal The Guardian, a Argentina solicitou ao Tribunal Internacional do Direito do Mar (TIDM) medidas cautelares para suspender a exploração petrolífera britânica no campo Sea Lion, na bacia norte das Malvinas.",
+        "A representação do Reino Unido sustentou que o tribunal carece de jurisdição sobre soberania e que a paralisação traria prejuízos às empresas e à população insular."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "O The Guardian destaca a ironia legal argentina contra doutrinas coloniais do século XVII, contrapondo-a à retórica britânica centrada na defesa dos impactos econômicos locais e em argumentos técnicos de jurisdição marítima.",
+      "citacao": "put an end to the last vestiges of colonialism",
+      "citacao_fonte_id": "N031",
+      "contexto_historico": "A disputa pela soberania das Ilhas Malvinas/Falklands opõe Argentina e Reino Unido há séculos, tendo culminado no conflito armado de 1982. A Resolução da ONU de 1976 exortou ambas as partes a evitar ações unilaterais de alteração da situação enquanto o contencioso persistir.",
+      "relacoes_de_trabalho": "A exploração de hidrocarbonetos projeta a apropriação de renda energética por petroleiras financeirizadas e pelo enclave insular, enquanto a classe trabalhadora da periferia sul-americana permanece desprovida dos frutos da extração de recursos da sua margem continental.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "A corrida pela reserva petrolífera exemplifica a disputa do capital monopolista e das potências centrais por áreas de controle de matérias-primas estratégicas."
+        }
+      ],
+      "contradicao_principal": "A oposição entre o pleito de integridade territorial de um país dependente e o controle imperialista unilateral de recursos naturais por uma potência central.",
+      "analise_materialista": "A leitura materialista preliminar sugere que a disputa no Tribunal Internacional do Direito do Mar expressa a busca por assegurar direitos de exploração sobre reservas energéticas estratégicas. Ao separar a exploração comercial do contencioso de soberania, o Reino Unido busca blindar fluxos corporativos sob estabilidade jurídica insular. Por sua vez, a ofensiva argentina articula o direito à soberania territorial com a tentativa de capturar rendas petrolíferas para minorar vulnerabilidades estruturais.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional defende que o caso diz respeito puramente à interpretação técnica da Convenção sobre o Direito do Mar e ao direito de autodeterminação dos residentes insulares, priorizando a segurança jurídica de contratos privados de exploração.",
+      "hipoteses": [
+        "A retórica soberanista do governo argentino serve como mecanismo de coesão política interna sem romper compromisos de pagamento de dívidas com o centro financeiro."
+      ],
+      "limites_da_evidencia": "A evidência restringe-se aos relatos orais de advogados durante a audiência preliminar informados por uma única fonte jornalística, sem acesso ao teor integral dos contratos petrolíferos ou às peças cautelares.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixada a confiança para 'baixa' devido à dependência de fonte única.",
+        "Ajustada a análise materialista para tom preliminar e extensão inferior a 80 palavras."
+      ],
+      "fontes": [
+        {
+          "id": "N031",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+          "publicado": "2026-11-11",
+          "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "ARG",
+          "pais": "Argentina",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 30.364633685192,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a inserção comercial da economia argentina frente a restrições externas."
+        },
+        {
+          "pais_iso3": "GBR",
+          "pais": "United Kingdom",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 4002587541846.01,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o porte econômico da potência colonial envolvida no contencioso."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Devastação infraestrutural, chuvas e estagnação política na Faixa de Gaza",
+      "paises_iso3": [
+        "PSE",
+        "ISR",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N058",
+        "N075",
+        "N078",
+        "N084"
+      ],
+      "fatos_verificaveis": [
+        "Segundo a UNICEF relatada pela DW, chuvas fortes mataram pelo menos seis pessoas em Gaza, enquanto autoridades locais informaram o alagamento de 70 mil tendas e 200 mil pessoas afetadas.",
+        "Um ataque aéreo israelense atingiu o Hospital Nasser em Khan Younis, deixando seis mortos e 27 feridos, segundo relatórios das Nações Unidas.",
+        "As negociações do Conselho da Paz (BoP) para reconstrução e governança de Gaza estão paralisadas devido às exigências de desarmamento prévio do Hamas e manutenção de presença militar israelense."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle salienta o sofrimento dos civis diante das enchentes e expõe o impasse político do plano norte-americano, enquanto os comunicados da ONU focam na urgência humanitária de suprimentos invernais e na denúncia dos bombardeios à infraestrutura médica.",
+      "citacao": "Lives are at stake",
+      "citacao_fonte_id": "N075",
+      "contexto_historico": "A destruição quase total da infraestrutura de Gaza decorre da ofensiva militar israelense iniciada após outubro de 2023. O controle militar israelense estabeleceu linhas de demarcação que confinam a maioria da população de cerca de 2 milhões de residentes em áreas restritas e vulneráveis a intempéries.",
+      "relacoes_de_trabalho": "A completa aniquilação das bases materiais de reprodução da vida desestruturou o mercado de trabalho local, reduzindo os trabalhadores palestinos à subsistência prévia sob tendas alagadas e dependência direta de auxílio externo restrito.",
+      "referencial": [
+        {
+          "ficha_id": "T004",
+          "conceito": "Acumulação de riqueza e de miséria (lei geral)",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 25 (ed. inglesa; cap. 23 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm",
+          "trecho": "accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation",
+          "idioma": "en",
+          "como_se_aplica": "A destruição da infraestrutura e o confinamento sob chuva e bombardeios ilustram a acumulação extrema de miséria no polo oprimido do conflito."
+        },
+        {
+          "ficha_id": "T020",
+          "conceito": "Nações oprimidas e nações opressoras",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations",
+          "idioma": "en",
+          "como_se_aplica": "As restrições de movimento e bloqueio de ajuda humanitária expressam a relação de dominação sobre uma nação oprimida."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a lógica de ocupação e dominação militar colonial e a necessidade fundamental de sobrevivência biológica e autodeterminação da população palestina.",
+      "analise_materialista": "A leitura materialista sugere que a paralisia nas iniciativas de reconstrução revela as contradições dos mecanismos diplomáticos tutelados pelos Estados Unidos, que priorizam arranjos de segurança e desarmamento em detrimento da recomposição imediata das condições materiais de vida. A restrição de acesso a insumos humanitários e suprimentos de inverno atua como mecanismo de coerção sobre a população civil despossuída. A destruição contínua de hospitais e saneamento inviabiliza a reprodução autônoma da vida social, consolidando a dependência da ajuda externa subordinada a interesses geopolíticos.",
+      "explicacoes_alternativas": "Análises ocidentais hegemônicas atribuem a estagnação da reconstrução prioritariamente à recusa das facções palestinas em entregar armas e às exigências de segurança israelenses para conter riscos operacionais.",
+      "hipoteses": [
+        "A retenção prolongada de ajuda para o inverno visa acelerar a inviabilidade habitacional das áreas periféricas da delimitação militar, forçando novos deslocamentos populacionais."
+      ],
+      "limites_da_evidencia": "Falta acesso direto de verificadores independentes ao terreno para mensurar com precisão a proporção exata de suprimentos bloqueados nos postos de controle de fronteira.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustado o enquadramento do texto da análise materialista para tom analítico adequado.",
+        "Mantida a validação factual e a atribuição estrita das cifras às respectivas notícias e relatórios das Nações Unidas.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N058",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Humanitarian situation in Gaza worsens amid political deadlock",
+          "publicado": "2026-11-13",
+          "url": "https://www.dw.com/en/humanitarian-situation-in-gaza-worsens-amid-political-deadlock/a-79931403?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N075",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "‘Lives are at stake’: Humanitarians call for swift entry of winter supplies in Gaza",
+          "publicado": "2026-11-13",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168799"
+        },
+        {
+          "id": "N078",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Six killed in Israeli airstrike on Gaza’s Nasser Hospital",
+          "publicado": "2026-11-12",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168796"
+        },
+        {
+          "id": "N084",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Gaza winter aid: ‘No more delay’, Fletcher tells governments stalling on support",
+          "publicado": "2026-11-11",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168788"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 4,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "PSE",
+          "pais": "West Bank and Gaza",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 24.42,
+          "ano": "2022",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o nível estrutural de desemprego e colapso econômico nos territórios palestinos."
+        },
+        {
+          "pais_iso3": "ISR",
+          "pais": "Israel",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 610777842873.595,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mede o poderio econômico do Estado ocupante em contraste com o território bloqueado."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global",
+      "titulo": "Impasse no financiamento climático e assimetria entre emissores e vulneráveis na COP31",
+      "paises_iso3": [
+        "TUR"
+      ],
+      "fontes_ids": [
+        "N074",
+        "N080",
+        "N081"
+      ],
+      "fatos_verificaveis": [
+        "Segundo a ONU News, o Secretário-Geral António Guterres alertou na COP31 que triplicar o financiamento de adaptação cobriria menos de um terço das necessidades dos países vulneráveis.",
+        "Agências da ONU lançaram em Antalya uma plataforma com a meta de mobilizar mais de 3 bilhões de dólares em financiamento de risco até 2030."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "As publicações da ONU enfatizam o apelo à justiça climática e a urgência de plataformas multilaterais de risco, enquanto minimizam as contradições políticas internas das potências centrais na alocação de recursos.",
+      "citacao": "tripling adaptation funding for vulnerable countries would meet less than a third",
+      "citacao_fonte_id": "N074",
+      "contexto_historico": "Desde a Convenção-Quadro da ONU sobre Mudança do Clima e o Acordo de Paris, negociações internacionais esbarram na resistência dos países de industrialização consolidada em financiar os custos de adaptação da periferia global.",
+      "relacoes_de_trabalho": "Eventos climáticos extremos degradam condições de trabalho agrícola e urbano no Sul Global, impulsionando deslocamentos forçados e a expansão do trabalho informal e precário.",
+      "referencial": [
+        {
+          "ficha_id": "T020",
+          "conceito": "Nações oprimidas e nações opressoras",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations",
+          "idioma": "en",
+          "como_se_aplica": "O conceito expõe a clivagem entre potências poluidoras e nações vulneráveis, em que os custos da degradação ambiental recaem sobre os países dependentes."
+        }
+      ],
+      "contradicao_principal": "A contradição entre as exigências de adaptação das populações vulneráveis e a recusa dos centros de capital em arcar com os custos ambientais de seu desenvolvimento histórico.",
+      "analise_materialista": "A disputa sobre o financiamento climático na COP31 reflete a assimetria da divisão internacional do trabalho. Segundo relatos da ONU, a cobertura para adaptação permanece distante das necessidades reais. A tentativa de suprir essa lacuna via plataformas de financiamento de risco introduz lógicas financeiras na gestão de desastres sem alterar os padrões de emissão ou transferir recursos produtivos de forma vinculante às nações periféricas.",
+      "explicacoes_alternativas": "Analistas liberais e diplomatas argumentam que o déficit orçamentário se deve a restrições fiscais conjunturais dos países doadores e defendem que parcerias público-privadas suprirão a escassez de recursos.",
+      "hipoteses": [
+        "A dependência de instrumentos de mercado e contribuições voluntárias continuará gerando déficit no financiamento de adaptação dos países periféricos."
+      ],
+      "limites_da_evidencia": "Os dados derivam unicamente de notas institucionais da ONU, sem detalhamento dos compromissos financeiros por parte dos governos doadores.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustado o status de checagem para 'não verificado' devido à ausência de checagem web externa e dependência exclusiva de notícias institucionais da ONU.",
+        "Rebaixada a confiança para 'baixa' em função da limitação da base documental a uma única instituição."
+      ],
+      "fontes": [
+        {
+          "id": "N074",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "COP31: Climate finance falls short as calls grow for polluters to pay",
+          "publicado": "2026-11-13",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168802"
+        },
+        {
+          "id": "N080",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "New platform aims to get money moving before disaster strikes",
+          "publicado": "2026-11-12",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168794"
+        },
+        {
+          "id": "N081",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "COP31: Cities rise up the climate agenda as leaders face demands for action",
+          "publicado": "2026-11-12",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168792"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 3,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América Latina",
+      "titulo": "Intervenção militar salvadorenha no Haiti e alinhamento estratégico com os EUA",
+      "paises_iso3": [
+        "HTI",
+        "SLV",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N053",
+        "N083"
+      ],
+      "fatos_verificaveis": [
+        "O presidente de El Salvador, Nayib Bukele, afirmou ter destruído o quartel-general da gangue 400 Mawozo no Haiti por meio de uma força-tarefa conjunta.",
+        "Segundo a DW, o Primeiro-Ministro haitiano Alix Didier Fils-Aimé elogiou o engajamento das tropas salvadorenhas que atuam em coordenação com a Força de Supressão de Gangues (GSF) apoiada pela ONU.",
+        "Relatório da ONU registrou mais de 1.000 mortos no Haiti entre julho e setembro de 2026, com mais da metade das mortes ligadas a operações de forças de segurança e empresas militares privadas.",
+        "O presidente dos EUA, Donald Trump, declarou em novembro de 2026 dar autonomia a Bukele para atuar conforme considerar necessário no Haiti."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A DW destaca os questionamentos sobre a legalidade da intervenção, o papel discreto dos EUA e a inacessibilidade do modelo salvadorenho diante da estrutura social haitiana, enquanto as autoridades haitianas e salvadorenhas apresentam a ação como êxito policial.",
+      "citacao": "its justice system is largely paralyzed and criminal groups resemble militias",
+      "citacao_fonte_id": "N053",
+      "contexto_historico": "O Haiti vivencia recorrentes intervenções militares e missões internacionais de segurança que não alteraram o quadro de fragilidade institucional nem a ascensão de grupos armados após o colapso do aparato estatal.",
+      "relacoes_de_trabalho": "A paralisia econômica e o controle territorial por milícias forçam a maioria da população trabalhadora haitiana a atividades de subsistência de altíssima vulnerabilidade informal.",
+      "referencial": [
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "A presença militar estrangeira e de empresas privadas explicita a tutela externa sobre um Estado com soberania fragilizada."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a imposição de contenção militar externa e a incerteza quanto à reconstrução das bases econômicas e institucionais de sustentação do Estado haitiano.",
+      "analise_materialista": "A intervenção salvadorenha no Haiti, realizada com o respaldo dos EUA e auxílio de empresas militares privadas, demonstra a exportação de modelos punitivos estatais para a gestão de crises periféricas. Especialistas ouvidos pela DW apontam que o Haiti carece de estrutura prisional e judiciária para replicar o modelo salvadorenho. A leitura materialista indica que a ação militar busca reprimir a violência urbana imediata sem modificar a dependência externa ou a vulnerabilidade estrutural do trabalho no Haiti.",
+      "explicacoes_alternativas": "A visão oficial do governo haitiano sustenta que o apoio militar externo de El Salvador é uma medida emergencial indispensável para restaurar a ordem pública e conter gangues armadas.",
+      "hipoteses": [
+        "A intervenção focada no aparato repressivo sem recomposição dos serviços públicos e do emprego formal não estancará a formação de grupos armados no Haiti."
+      ],
+      "limites_da_evidencia": "Faltam verificações independentes sobre o número de baixas civis e sobre a exata delimitação de comando entre as forças salvadorenhas, a GSF e as empresas privadas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Atribuídas expressamente a Nayib Bukele as alegações de destruição do quartel-general de gangue.",
+        "Preservada a análise materialista balizada nas declarações de especialistas e notícias reportadas.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N053",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Why does El Salvador's Bukele have troops in Haiti?",
+          "publicado": "2026-11-13",
+          "url": "https://www.dw.com/en/why-does-el-salvador-s-bukele-have-troops-in-haiti/a-79940771?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N083",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Haiti: More than 1,000 killed between July and September, UN report reveals",
+          "publicado": "2026-11-12",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168789"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "HTI",
+          "pais": "Haiti",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 76.0358540841877,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o grau extremo de precarização e vulnerabilidade no mercado de trabalho haitiano."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América Latina",
+      "titulo": "Processamento judicial de ex-presidente paraguaio por colapso do Ueno Bank",
+      "paises_iso3": [
+        "PRY"
+      ],
+      "fontes_ids": [
+        "N010"
+      ],
+      "fatos_verificaveis": [
+        "O ex-presidente Santiago Peña foi imputado por associação criminosa, lesão de confiança e autofavorecimento (self-dealing) por suposto envolvimento no colapso do Ueno Bank, segundo a promotoria do Paraguai citada pela Al Jazeera.",
+        "O banco Ueno geria mais de 800 milhões de dólares em fundos públicos e pensões estatais durante a presidência de Peña, segundo a Al Jazeera.",
+        "O Banco Central do Paraguai informou ter devolvido depósitos a mais de 1,8 milhão de poupadores, enquanto três ex-funcionários do órgão regulador foram detidos acusados de ciência prévia dos problemas do banco, conforme a Al Jazeera.",
+        "A agência Fitch colocou a nota soberana do Paraguai sob observação para possível rebaixamento, segundo a Al Jazeera."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera (Al Jazeera English) enfatiza a dimensão criminal, o conflito de interesses de Peña e o risco financeiro soberano decorrente da má gestão e corrupção sistêmica.",
+      "citacao": "placed Paraguay’s sovereign rating on watch for a possible downgrade",
+      "citacao_fonte_id": "N010",
+      "contexto_historico": "O Paraguai historicamente apresenta um sistema financeiro concentrado com estreita vinculação entre elites políticas e o setor bancário. A expansão de fintechs impulsionou a bancarização de folhas de pagamento e fundos de previdência pública nos últimos anos.",
+      "relacoes_de_trabalho": "O colapso atinge trabalhadores paraguaios cujos fundos de pensão e poupanças foram canalizados para sustentar a liquidez de uma instituição financeira privada vinculada a lideranças políticas.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "O conceito auxilia na compreensão de como frações do aparato estatal são capturadas pelo capital financeiro para redirecionar fundos públicos e socializar perdas privadas."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a apropriação de fundos públicos de previdência pelo capital financeiro e o direito da classe trabalhadora à preservação de suas economias e meios de subsistência.",
+      "analise_materialista": "Esta análise é preliminar devido à disponibilidade de uma única fonte (Al Jazeera English). A fusão entre capital financeiro e poder executivo no Paraguai evidencia como o aparato estatal foi instrumentalizado para inflar os ativos do Ueno Bank mediante transferência de depósitos públicos. A crise de liquidez e as subsequentes detenções refletem o estouro dessa bolha e os conflitos entre frações da classe dominante, transferindo o risco sistêmico para as contas públicas e para o sovereign rating do país.",
+      "explicacoes_alternativas": "A perspectiva institucionalista argumenta que o colapso resultou de falhas individuais de governança corporativa, conduta criminosa pontual de executivos e supervisão regulatória deficiente, sanadas pelas instituições judiciais do país.",
+      "hipoteses": [
+        "O processo criminal contra Peña foi acelerado por disputas entre frações oligárquicas rivais no Congresso paraguaio após sua destituição por impeachment."
+      ],
+      "limites_da_evidencia": "A análise limita-se aos dados fornecidos pela Al Jazeera (Al Jazeera English), sem informações detalhadas sobre a localização exata dos ativos transferidos ao exterior.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Corrigida a tradução de 'self-dealing' no primeiro fato verificável (substituído 'prevaricação' por 'autofavorecimento').",
+        "Ajustada a descrição da detenção dos ex-funcionários do Banco Central para refletir precisamente a acusação de conhecimento prévio trazida por Al Jazeera English."
+      ],
+      "fontes": [
+        {
+          "id": "N010",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Paraguay’s ex-president Pena faces new charge over Ueno bank collapse",
+          "publicado": "2026-11-13",
+          "url": "https://www.aljazeera.com/news/2026/11/13/paraguays-ex-president-pena-faces-new-charge-over-ueno-bank-collapse?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Alegações de recrutamento de combatentes indonésios pela Rússia no conflito ucraniano",
+      "paises_iso3": [
+        "UKR",
+        "RUS",
+        "IDN"
+      ],
+      "fontes_ids": [
+        "N037"
+      ],
+      "fatos_verificaveis": [
+        "A Ucrânia alegou ter capturado o primeiro prisioneiro de guerra de nacionalidade indonésia na região de Zaporizhzhia, segundo o projeto governamental ucraniano 'I Want to Live' citado pelo The Guardian.",
+        "O projeto ucraniano alega que 283 indonésios foram recrutados nos primeiros nove meses de 2026 para combater pela Rússia, comparados a no máximo 10 nos três anos anteriores, segundo o The Guardian.",
+        "O Ministério das Relações Exteriores da Indonésia pediu a Moscou que impeça o recrutamento de seus nacionais e a polícia indonésia identificou redes de tráfico humano que prometiam empregos de logística para atrair combatentes, segundo o The Guardian."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "O The Guardian (The Guardian World) enquadra o fato pelo prisma do recrutamento militar desesperado e do tráfico de pessoas, enquanto a diplomacia indonésia foca no combate ao crime transnacional e na proteção consular.",
+      "citacao": "identified a human trafficking syndicate targeting its nationals that used social media",
+      "citacao_fonte_id": "N037",
+      "contexto_historico": "Com o prolongamento do conflito russo-ucraniano iniciado em 2022, os combatentes enfrentam exigências de recomposição de efetivo militar, estimulando o fluxo transnacional de trabalhadores contratados de diversas regiões periféricas.",
+      "relacoes_de_trabalho": "Trabalhadores vulneráveis do Sul Global são atraídos por promessas de emprego logístico e direcionados a contratos de contratação militar sob condições de extrema precarização no campo de batalha.",
+      "referencial": [
+        {
+          "ficha_id": "T004",
+          "conceito": "Acumulação de riqueza e de miséria (lei geral)",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 25 (ed. inglesa; cap. 23 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm",
+          "trecho": "accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation",
+          "idioma": "en",
+          "como_se_aplica": "Explica como a precarização estrutural da força de trabalho no Sul Global empurra trabalhadores vulneráveis para circuitos transnacionais de contratação militar."
+        }
+      ],
+      "contradicao_principal": "A contradição entre as necessidades de recomposição de tropas estatais em conflitos de alta intensidade e a precarização da força de trabalho periférica explorada por redes informais de contratação.",
+      "analise_materialista": "Esta análise é preliminar devido à dependência de fonte única (The Guardian World). Sob a ótica materialista, o recrutamento de trabalhadores do Sudeste Asiático e da África pela Rússia reflete a internacionalização do mercado de força de trabalho militar diante das restrições de mobilização doméstica. A assimetria econômica global e o desemprego vulnerável nas nações periféricas transformam a escassez de perspectivas locais em insumo para contratação mercenária indireta.",
+      "explicacoes_alternativas": "A interpretação liberal/jurídica sustentada pelas autoridades indonésias reduz o fenômeno à ação ilícita de quadrilhas transnacionais de estelionato e tráfico humano que exploram desinformação em redes sociais.",
+      "hipoteses": [
+        "A contratação de combatentes estrangeiros busca minorar o custo político interno de novas ondas de mobilização compulsória na sociedade russa."
+      ],
+      "limites_da_evidencia": "As estatísticas de recrutamento provêm exclusivamente de estimativas de órgãos oficiais ucranianos e de declarações policiais indonésias, sem checagem independente em território russo.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Verificados os fatos verificáveis e a atribuição estrita de fontes segundo a notícia The Guardian World.",
+        "Mantida a indicação de análise preliminar devido à presença de fonte única com alegações de um dos lados do conflito."
+      ],
+      "fontes": [
+        {
+          "id": "N037",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
+          "publicado": "2026-11-11",
+          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "RUS",
+          "pais": "Russian Federation",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 2.133,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "O baixo desemprego na Rússia reduz a margem interna para mobilização de força de trabalho, estimulando a busca de combatentes no exterior."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Cortes de financiamento agravam crise alimentar e de deslocamento no Sudão",
+      "paises_iso3": [
+        "SDN"
+      ],
+      "fontes_ids": [
+        "N079"
+      ],
+      "fatos_verificaveis": [
+        "O diretor executivo do Programa Mundial de Alimentos (PMA) alertou que cortes de financiamento estão agravando a crise de fome no Sudão, segundo a UN News (UN News).",
+        "A declaração seguiu-se à primeira missão de campo do diretor ao Sudão, onde esteve com famílias deslocadas pelo conflito armado, segundo a UN News (UN News)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A UN News aborda a situação sob a perspectiva da assistência humanitária multilateral e da escassez de recursos, sem detalhar as frações políticas em disputa no Sudão nem identificar quais países doadores reduziram as dotações orçamentárias.",
+      "citacao": "Aid is the ‘only hope’ for millions in Sudan",
+      "citacao_fonte_id": "N079",
+      "contexto_historico": "O Sudão vivencia conflitos armados e instabilidade política recorrentes, associados a disputas pelo controle do aparato estatal e de recursos naturais estratégicos, em um quadro marcado pelo histórico colonial e por ingerências externas no Chifre da África.",
+      "relacoes_de_trabalho": "Os confrontos militares e o deslocamento forçado inviabilizam a agricultura de subsistência e desorganizam o comércio local, empurrando a população trabalhadora rural para a informalidade extrema e a dependência direta da ajuda humanitária.",
+      "referencial": [],
+      "contradicao_principal": "A oposição entre a necessidade material de sobrevivência das populações deslocadas e a dependência de fluxos de ajuda humanitária sujeitos a cortes orçamentários de Estados doadores.",
+      "analise_materialista": "Análise preliminar (evidência escassa): A interrupção da produção agrícola pelo conflito armado desorganiza a reprodução física dos trabalhadores rurais no Sudão, tornando-os dependentes da assistência externa. A redução do financiamento ao Programa Mundial de Alimentos expõe a vulnerabilidade de populações periféricas frente às oscilações de verbas de Estados doadores. A crise revela a contradição entre a necessidade imediata de sobrevivência e a dependência de fluxos financeiros internacionais instáveis.",
+      "explicacoes_alternativas": "Leituras liberais e institucionais explicam o déficit de atendimento humanitário como resultado de restrições orçamentárias conjunturais dos países doadores, fadiga de cooperação internacional ou dificuldades logísticas impostas pela insegurança em zonas de combate.",
+      "hipoteses": [
+        "A redução dos repasses ao PMA pode refletir o redirecionamento dos orçamentos de ajuda externa das potências doadoras para conflitos de maior relevância geopolítica direta."
+      ],
+      "limites_da_evidencia": "A única fonte disponível (UN News) é um informe institucional sintético que não especifica quais governos cortaram verbas nem apresenta o montante detalhado do déficit financeiro.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Removida a ficha teórica Ho Chi Minh, Relatório sobre as questões nacional e colonial (V Congresso da Internacional Comunista) por não haver menção a monoculturas de exportação nas evidências.",
+        "Encurtada a análise materialista para atender ao limite de 80 palavras aplicável a itens com evidência escassa."
+      ],
+      "fontes": [
+        {
+          "id": "N079",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Aid is the ‘only hope’ for millions in Sudan, WFP chief warns, as funding cuts deepen hunger crisis",
+          "publicado": "2026-11-12",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168793"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global",
+      "titulo": "Vulnerabilidade e centralização monopolista na infraestrutura digital global",
+      "paises_iso3": [
+        "USA",
+        "GBR"
+      ],
+      "fontes_ids": [
+        "N011",
+        "N015",
+        "N016",
+        "N017",
+        "N038"
+      ],
+      "fatos_verificaveis": [
+        "Uma falha técnica em servidores da Microsoft afetou serviços globais como Outlook, Teams e Copilot por mais de 20 horas em 74 países, segundo Al Jazeera (Al Jazeera English), BBC (BBC World) e The Guardian (The Guardian World).",
+        "A Microsoft atribuiu o problema a uma sobrecarga ocorrida durante uma atualização de capacidade de rede, descartando ataque cibernético, segundo a BBC (BBC World, BBC World) e The Guardian (The Guardian World).",
+        "A interrupção impactou o Congresso dos EUA, ministérios na Noruega, o serviço público de saúde britânico (NHS), linhas ferroviárias e instituições financeiras internacionais, segundo Al Jazeera (Al Jazeera English) e BBC (BBC World).",
+        "A Microsoft reporta mais de 430 a 450 milhões de assinantes comerciais do Microsoft 365 e valor de mercado superior a US$ 3,8 trilhões, segundo Al Jazeera (Al Jazeera English) e BBC (BBC World)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A BBC enfatiza a extensão operacional da falha e os transtornos no cotidiano de usuários e serviços essenciais. O Guardian foca na desrupção sobre ferramentas de inteligência artificial e conectores corporativos. A Al Jazeera ressalta os riscos de comunicação governamental e os prejuízos logísticos e financeiros globais.",
+      "citacao": "stark reminder of how heavily businesses and vital services rely on a small group",
+      "citacao_fonte_id": "N015",
+      "contexto_historico": "A centralização da infraestrutura digital em poucas multinacionais de tecnologia dos EUA resulta do processo de concentração de capital ocorrido nas últimas décadas, no qual serviços essenciais de comunicação e armazenamento em nuvem passaram a ser controlados por um oligopólio privado.",
+      "relacoes_de_trabalho": "A paralisia dos sistemas de gestão e e-mail interrompeu a jornada de trabalho de milhões de assalariados nos setores público e privado, demonstrando a subordinação direta do trabalho vivo à continuidade operacional da infraestrutura digital privada.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "A concentração da infraestrutura de comunicação em poucas corporações transnacionais exemplifica o estágio monopolista do capitalismo."
+        },
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Evidencia o caráter cosmopolita e interconectado da produção e dos serviços dependentes de uma mesma malha tecnológica global."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a natureza altamente socializada da infraestrutura digital global e a sua apropriação e controle privado sob lógica monopolista.",
+      "analise_materialista": "A leitura materialista sugere que o apagão nos serviços da Microsoft expõe a centralização e monopolização da infraestrutura de comunicação digital. A dependência de órgãos estatais, redes de saúde e transporte em dezenas de países em relação a poucas corporações evidencia como funções vitais da sociedade articulam-se a serviços privados controlados a partir do centro do capital. Sob a ótica do materialismo histórico, manifesta-se a contradição entre o caráter socializado do trabalho e da administração e o controle privado dos meios técnicos de comunicação. A estabilidade relativa das ações da empresa nos mercados financeiros, segundo noticiado, reflete a posição de mercado de um monopólio consolidado.",
+      "explicacoes_alternativas": "Analistas do setor de tecnologia e abordagens liberais enquadram o incidente como uma falha operacional ou de engenharia inevitável em sistemas complexos de nuvem, defendendo o aprimoramento de protocolos internos e planos de contingência técnica.",
+      "hipoteses": [
+        "A busca por eficiência e redução de custos operacionais na implementação de atualizações de rede pode ter fragilizado etapas de teste e segurança corporativa."
+      ],
+      "limites_da_evidencia": "Os dados disponíveis limitam-se às declarações públicas da própria Microsoft e aos relatos de impacto na imprensa, sem acesso a auditorias independentes sobre a infraestrutura técnica da empresa.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Removida a seleção de dados oficiais em 'dados_selecionados', pois os indicadores de PIB disponíveis não sustentam diretamente o argumento sobre a infraestrutura de TI.",
+        "Ajustado o tom da análise materialista para evitar afirmativas categóricas e reforçar o enquadramento analítico.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N011",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Microsoft says services still returning amid widespread outage",
+          "publicado": "2026-11-13",
+          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-says-services-still-returning-amid-widespread-outage?traffic_source=rss"
+        },
+        {
+          "id": "N015",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+          "publicado": "2026-11-13",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N016",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Why is Microsoft's outage lasting so long and will emails be lost?",
+          "publicado": "2026-11-13",
+          "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N017",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Watch: How a server outage took down Microsoft Teams and Outlook",
+          "publicado": "2026-11-13",
+          "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N038",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+          "publicado": "2026-11-13",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 5,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-13",
+  "gerado_em": "2026-11-13T23:41:51+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-3.8-flash",
+    "gemini-3.7-flash",
+    "gemini-3.6-flash"
+  ],
+  "modelo": "gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "fontes_consultadas": {
+    "Brasil de Fato": "erro_http_404",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_413",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "ok",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 84,
+  "textos_integrais_lidos": 26,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 43.7,
+  "aviso_metodologico": "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de leitura, não provas. Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
