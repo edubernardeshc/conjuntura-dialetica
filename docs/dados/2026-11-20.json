@@ -1,0 +1,1316 @@
+{
+  "biblioteca": {
+    "fichas_total": 38,
+    "fichas_conferidas": 38,
+    "ignoradas": []
+  },
+  "avisos_execucao": [
+    "Busca na web sem cota (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite.",
+    "Sem cota na hora da chamada (erro 429) nos modelos: gemini-3.7-flash, gemini-3.8-flash.",
+    "Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'.",
+    "O modelo de análise principal ('gemini-3.8-flash') não respondeu; foram usados: gemini-3.6-flash."
+  ],
+  "manchete_do_dia": "Disputas por recursos energéticos, tecnologia e rotas estratégicas marcam a conjuntura internacional",
+  "resumo_executivo": "Confrontos e ataques no Leste Europeu e Oriente Médio visam rotas de combustíveis e infraestrutura, enquanto os EUA ampliam o protecionismo tecnológico contra a China e fecham acordos petrolíferos na Venezuela. Na Europa e África, a UE gerencia os impactos do Brexit e concede empréstimos ao Egito para controlar fluxos migratórios. Por fim, o Quênia enfrenta pressões fiscais decorrentes da dívida pública, e eventos globais como a COP31 expõem limites multilaterais.",
+  "itens": [
+    {
+      "regiao": "Europa",
+      "titulo": "Acordo Reino Unido-UE busca mitigar perdas do Brexit mantendo limites de integração",
+      "paises_iso3": [
+        "GBR"
+      ],
+      "fontes_ids": [
+        "N009",
+        "N016",
+        "N046",
+        "N055",
+        "N068"
+      ],
+      "fatos_verificaveis": [
+        "Reino Unido e União Europeia fecharam acordos em Bruxelas para simplificar inspeções do comércio agroalimentar, conectar seus sistemas de licenças de carbono e criar um programa de mobilidade para até 100.000 jovens de cada lado.",
+        "As estimativas sobre o impacto econômico diferem nas reportagens: o Tesouro britânico estima impulso de até £17 bilhões por ano (BBC), enquanto a agência AFP cita estimativa de £3,8 bilhões anuais e proteção de £6,5 bilhões em exportações industriais (DW).",
+        "Impasses persistem sobre as anuidades universitárias para estudantes europeus no Reino Unido, e o governo britânico reafirmou que não retornará ao mercado único ou à união aduaneira nesta legislatura."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "Mídias públicas ocidentais enquadram o evento como um avanço pragmático para reduzir custos operacionais e reatar laços. A oposição britânica de direita denuncia perda de soberania e subserviência regulatória a Bruxelas. A Al Jazeera ressalta que o acordo não restaura os benefícios plenos da integração comunitária.",
+      "citacao": "A closer partnership with Europe is good for working people",
+      "citacao_fonte_id": "N055",
+      "contexto_historico": "Uma década após o referendo de 2016 que aprovou a saída britânica da União Europeia, a economia do Reino Unido enfrenta atritos comerciais crescentes e custos burocráticos. Governos sucessivos buscaram renegociar aspectos das barreiras alfandegárias. O governo do Partido Trabalhista deu início a um processo de reaproximação diplomática, mantendo contudo o compromisso de não adesão ao mercado único.",
+      "relacoes_de_trabalho": "O programa de mobilidade para jovens atende à demanda de setores de serviços e agricultura por mão de obra regulada e temporária no Reino Unido pós-Brexit, oferecendo em contrapartida aos jovens trabalhadores oportunidades de estudo e trabalho na Europa sem restabelecer a livre circulação irrestrita.",
+      "referencial": [
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Explica como a integração das forças produtivas e do comércio internacional força o capital a buscar a eliminação de atritos regulatórios e alfandegários."
+        }
+      ],
+      "contradicao_principal": "A necessidade do capital britânico de acessar sem barreiras o mercado consumidor europeu versus a exigência política interna de manter soberania formal e recusar a livre circulação ampla.",
+      "analise_materialista": "A reaproximação entre Londres e Bruxelas revela limites colocados pelas cadeias globais de valor aos processos de desacoplamento regional. A leitura materialista indica que a fragmentação regulatória encareceu a circulação de mercadorias para o capital britânico. Ao harmonizar normas sanitárias e conectar o mercado de carbono, o Estado atua para rebaixar custos de circulação e conter perdas das frações industriais e agrárias. A aceitação de regras europeias a partir de 2028 sem poder de voto nas instâncias decisórias reflete um alinhamento passivo aceito como custo para minorar prejuízos acumulados. O esquema de mobilidade juvenil responde à necessidade corporativa de gerir a oferta de força de trabalho precarizada e qualificada sem restabelecer os direitos formais da cidadania comunitária.",
+      "explicacoes_alternativas": "A perspectiva liberal e governamental interpreta o acordo como uma vitória do pragmatismo econômico que reduz a burocracia e expande oportunidades sem violar os limites do Brexit. A crítica conservadora enxerga a medida como uma rendição que transforma o Reino Unido em receptor passivo de normas comunitárias.",
+      "hipoteses": [
+        "A cooperação técnica e regulatória em carbono e agronegócio criará pressão para a ampliação progressiva do alinhamento a outros setores industriais nas próximas legislaturas."
+      ],
+      "limites_da_evidencia": "Ainda não há dados consolidados sobre o repasse efetivo da redução de custos operacionais aos preços finais praticados com os consumidores, nem definição sobre as taxas acadêmicas universitárias.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação do segundo fato verificável para explicitar a divergência de estimativas financeiras entre as fontes (BBC vs DW/AFP).",
+        "Suavizado o tom da análise materialista para reforçar o caráter analítico da interpretação sobre alinhamento regulatório.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N009",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Can the UK and EU turn the page on Brexit?",
+          "publicado": "2026-11-20",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/can-the-uk-and-eu-turn-the-page-on-brexit?traffic_source=rss"
+        },
+        {
+          "id": "N016",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+          "publicado": "2026-11-20",
+          "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N046",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "UK and EU strike ‘landmark’ deal to rebuild ties after Brexit",
+          "publicado": "2026-11-20",
+          "url": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit"
+        },
+        {
+          "id": "N055",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "EU and UK strike 'landmark deal' to strengthen ties after Brexit",
+          "publicado": "2026-11-20",
+          "url": "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N068",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "The U.K. and EU hold a rare summit to strengthen ties",
+          "publicado": "2026-11-20",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154576/uk-eu-summit"
+        }
+      ],
+      "cobertura": {
+        "fontes": 5,
+        "artigos": 5,
+        "campos": 5
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "GBR",
+          "pais": "United Kingdom",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 62.4573294634195,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a relevância do comércio exterior na economia britânica e o impacto de barreiras regulatórias com a UE."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Cúpula trilateral em Shenzhen expõe disputas geopolíticas e gestão de riscos entre potências",
+      "paises_iso3": [
+        "USA",
+        "CHN",
+        "RUS"
+      ],
+      "fontes_ids": [
+        "N045",
+        "N049",
+        "N065",
+        "N071",
+        "N073"
+      ],
+      "fatos_verificaveis": [
+        "Os presidentes Donald Trump (EUA), Xi Jinping (China) e Vladimir Putin (Rússia) realizaram uma cúpula trilateral em Shenzhen à margem da APEC.",
+        "Os resultados formais anunciados limitaram-se ao compromisso de continuar conversas sobre redução de riscos nucleares e à proposta de estabelecer diretrizes conjuntas de inteligência artificial entre EUA e China.",
+        "O presidente dos EUA declarou que concorda com a venda de chips de tecnologia anterior para a China, mantendo restrições sobre tecnologias de ponta."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A imprensa ocidental e parlamentares da oposição nos EUA sublinham a falta de resultados práticos e o risco de validação de esferas de influência das potências rivais. A cobertura estatal russa projeta o evento como demonstração de ruptura do isolamento diplomático do Kremlin.",
+      "citacao": "When great powers are at peace, the world is secure",
+      "citacao_fonte_id": "N073",
+      "contexto_historico": "A reunião ocorre em meio a sanções ocidentais contra a Rússia decorrentes do conflito na Ucrânia e a disputas tarifárias e tecnológicas entre EUA e China sobre semicondutores e inteligência artificial, num cenário de debates sobre a consolidação de um arranjo multipolar.",
+      "relacoes_de_trabalho": "A corrida pela infraestrutura de inteligência artificial e semicondutores impulsiona a demanda por centros de dados e insumos energéticos, gerando pressões sobre comunidades locais e trabalhadores nos setores industrial e tecnológico.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Analisa o confronto e as negociações diretas entre blocos de capital monopolista e potências imperialistas pela partilha de áreas de influência."
+        }
+      ],
+      "contradicao_principal": "A rivalidade geopolítica entre o bloco ocidental e a parceria China-Rússia versus a interdependência econômica e o risco de desestabilização dos mercados globais.",
+      "analise_materialista": "O encontro em Shenzhen reflete movimentos de acomodação tática no sistema internacional. A interpretação materialista sugere que a presença russa reforça a posição de Moscou contra as tentativas de isolamento financeiro lideradas por Washington. Para Pequim, a cúpula evidencia centralidade diplomática e capacidade de gerir restrições tecnológicas. A sinalização dos EUA sobre a exportação de chips maduros ilustra o dilema de frações do capital de tecnologia estadunidense, que buscam conter o avanço industrial chinês sem perder acesso ao maior mercado consumidor de semicondutores do mundo.",
+      "explicacoes_alternativas": "A ótica institucional liberal interpreta a cúpula como uma tentativa de diplomacia direta voltada para a gestão de riscos e estabilização de crises, ressaltando que a falta de compromissos vinculantes demonstra a incapacidade das lideranças de superar desconfianças mútuas.",
+      "hipoteses": [
+        "A flexibilização das restrições sobre chips de geração anterior responde a pressões do setor de tecnologia dos EUA para evitar a substituição total de importações por concorrentes chineses."
+      ],
+      "limites_da_evidencia": "Não há informações detalhadas nas reportagens sobre os termos concretos das futuras diretrizes de IA nem sobre o teor exato das conversas a portas fechadas quanto à guerra na Ucrânia.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Mantida a estrutura original e checagem de fatos alinhada às reportagens da NPR e France 24.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N045",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "🔴Watch live: Trump holds press conference after meeting with Xi, Putin",
+          "publicado": "2026-11-20",
+          "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin"
+        },
+        {
+          "id": "N049",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Trump hails 'fantastic' relationships with China's Xi, Russia's Putin after three-way talks",
+          "publicado": "2026-11-20",
+          "url": "https://www.france24.com/en/americas/20261120-watch-live-trump-holds-press-conference-meeting-xi-putin"
+        },
+        {
+          "id": "N065",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Trump touts meeting with Xi and Putin but offers little results",
+          "publicado": "2026-11-20",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047594/trump-asia-trip-xi-putin-press-conference"
+        },
+        {
+          "id": "N071",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Top House Democrat questions what Trump accomplished in Xi-Putin summit",
+          "publicado": "2026-11-19",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit"
+        },
+        {
+          "id": "N073",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Trump, Xi and Putin meet as global alliances hang in the balance",
+          "publicado": "2026-11-19",
+          "url": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 5,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 30769700000000,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Exibe o volume absoluto da economia estadunidense e sua base material na disputa de hegemonia global."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América do Norte",
+      "titulo": "Protecionismo tecnológico e disputa de infraestrutura para IA nos EUA",
+      "paises_iso3": [
+        "USA"
+      ],
+      "fontes_ids": [
+        "N006",
+        "N007",
+        "N022",
+        "N037"
+      ],
+      "fatos_verificaveis": [
+        "Donald Trump ameaçou impor impostos e penalidades elevadas contra empresas de tecnologia dos EUA que construírem data centers de IA no exterior.",
+        "O presidente dos EUA declarou que a intenção da medida é impedir que a China tome controle desses centros de dados e supere os EUA no desenvolvimento de inteligência artificial.",
+        "Trump admitiu que a proposta não possuía detalhes regulatórios formulados e que não havia informado previamente os membros de seu próprio gabinete.",
+        "A declaração ocorreu no contexto do recente anúncio de novas regras que exigem licença para exportação e acesso remoto a chips computacionais avançados dos EUA."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "Al Jazeera e BBC enfatizam o tom geopolítico de rivalidade com a China e o anúncio sem prévio aviso aos assessores. BBC e The Guardian ressaltam a dimensão doméstica, apontando que a rejeição popular ao ruído e consumo de energia de data centers impulsionou vitórias democratas nas eleições de meio de mandato, levando corporações como Meta e Google a buscarem acordos no Canadá e Finlândia.",
+      "citacao": "We're not going to allow our companies to build data centres outside of our country",
+      "citacao_fonte_id": "N022",
+      "contexto_historico": "A infraestrutura física de inteligência artificial tornou-se elemento central da disputa geoeconômica global entre Estados Unidos e China. O processamento de dados para modelos de IA exige investimentos massivos em servidores de alta performance e grande suprimento contínuo de energia elétrica. Nos EUA, a expansão acelerada desses centros tem gerado insatisfação local e disputas sobre o custo de energia. Paralelamente, a política externa dos EUA tem intensificado o protecionismo e os controles de exportação de semicondutores para evitar a transferência de capacidade computacional à China.",
+      "relacoes_de_trabalho": "A operação de data centers caracteriza-se por elevada intensidade de capital e baixa absorção de mão de obra direta permanente, concentrando empregos temporários na construção civil e elevando a demanda sobre a infraestrutura energética local.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Explica a disputa entre potências por monopólios tecnológicos estratégicos e pela retenção de infraestrutura crítica de dados."
+        },
+        {
+          "ficha_id": "T015",
+          "conceito": "Exportação de capital",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 4",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+          "trecho": "Typical of the latest stage of capitalism, when monopolies rule, is the export of capital",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra a tentativa do Estado de restringir a exportação de capital tecnológico para manter o controle territorial dos ativos estratégicos."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a tendência do capital monopolista de tecnologia de expandir sua infraestrutura globalmente para reduzir custos e a exigência do Estado norte-americano de reter a infraestrutura sob seu controle territorial por razões geoeconômicas.",
+      "analise_materialista": "A ameaça de tributação contra corporações de tecnologia que constroem data centers no exterior reflete a tentativa do Estado norte-americano de disciplinar a mobilidade do capital em prol da segurança estratégica nacional. A expansão da inteligência artificial exige recursos computacionais e energéticos crescentes, impulsionando empresas como Meta e Google a buscar jurisdições com custos mais favoráveis e menor oposição comunitária, a exemplo de projetos no Canadá e na Finlândia. Contudo, a rivalidade estratégica com a China leva o governo dos EUA a tentar reter a base física de processamento dentro de suas fronteiras. A leitura materialista sugere que a exigência de retenção territorial entra em choque com a busca do capital por otimização de custos em escala global, ao mesmo tempo em que pode intensificar contradições locais quanto ao consumo de energia e impactos ambientais no território norte-americano.",
+      "explicacoes_alternativas": "Análises de corte liberal-institucional consideram que a fala do presidente é precipuamente retórica política populista voltada ao eleitorado insatisfeito com os impactos locais dos data centers, carecendo de viabilidade jurídica ou regulatória imediata.",
+      "hipoteses": [
+        "A declaração pode ser utilizada como instrumento de pressão do governo para forçar empresas de tecnologia a oferecerem contrapartidas financeiras e energéticas às comunidades locais nos EUA."
+      ],
+      "limites_da_evidencia": "Não há proposta regulatória formalmente apresentada nem confirmação de endosso prévio por instâncias do gabinete norte-americano.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Corrigido vício de digitação em fato verificável ('imposing' alterado para 'impor').",
+        "Ajustada a redação da análise materialista para explicitar o tom analítico-hipotético em conformidade com as diretrizes da mesa.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N006",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Trump threatens tax on US tech firms building AI data centres abroad",
+          "publicado": "2026-11-20",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_trump-tax-us-tech-firms-ai-data-centres-abroad-201126?traffic_source=rss"
+        },
+        {
+          "id": "N007",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Trump defends Putin relationship, warns AI data centres must stay in US",
+          "publicado": "2026-11-20",
+          "url": "https://www.aljazeera.com/news/2026/11/20/trump-defends-putin-relationship-warns-ai-data-centres-must-stay-in-us?traffic_source=rss"
+        },
+        {
+          "id": "N022",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Trump threatens ban on US firms building AI data centres overseas",
+          "publicado": "2026-11-20",
+          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N037",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Trump threatens ‘tremendous penalties’ on US tech firms that build datacenters abroad",
+          "publicado": "2026-11-20",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 4,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 25.0160172978284,
+          "ano": "2024",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a taxa de abertura comercial dos EUA no contexto de propostas de restrição e taxação sobre a expansão externa corporativa."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Decisão histórica da CIJ sobre o genocídio Rohingya e os limites do direito internacional",
+      "paises_iso3": [
+        "MMR",
+        "BGD",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N031",
+        "N058",
+        "N069",
+        "N074",
+        "N085"
+      ],
+      "fatos_verificaveis": [
+        "A Corte Internacional de Justiça (CIJ) decidiu por 9 votos a 6 que o Estado de Myanmar é responsável pelo crime de genocídio contra a minoria étnica Rohingya.",
+        "A CIJ rejeitou o argumento de Myanmar de que as ações militares de 2017 constituíam operações legítimas de combate à insurgência.",
+        "A corte determinou que Myanmar adote medidas para prevenir a repetição dos crimes, realize reformas legais, investigue os responsáveis e pague reparações ou compensações às vítimas.",
+        "O governo militar de Myanmar classificou a decisão como 'injusta' e indicou que fará pronunciamento formal após análise.",
+        "Segundo The Guardian, autoridades dos EUA criticaram juízes da CIJ e sinalizaram possibilidade de sanções contra a corte caso houvesse flexibilização dos critérios de intenção genocida, temendo a criação de precedentes aplicáveis a forças norte-americanas ou aliadas."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "NPR, Deutsche Welle e órgãos da ONU destacam a validação judicial do sofrimento dos Rohingya e o marco histórico para a justiça internacional. The Guardian enfatiza o ambiente geopolítico e as pressões de Washington contra tribunais internacionais por receio de precedentes jurídicos.",
+      "citacao": "casualties and damage far in excess of what was justified by military necessity",
+      "citacao_fonte_id": "N058",
+      "contexto_historico": "A minoria muçulmana Rohingya em Rakhine enfrentou décadas de negação de cidadania e discriminação estatal em Myanmar. Em 2016 e 2017, a repressão militar provocou a morte de milhares de pessoas e forçou centenas de milhares a fugirem para Bangladesh. A ação movida pela Gâmbia em 2019 culminou no primeiro julgamento da CIJ a responsabilizar diretamente um Estado pelo crime de genocídio sob a Convenção de 1948.",
+      "relacoes_de_trabalho": "Privados de direitos civis e cidadania, os Rohingya foram sistematicamente marginalizados do mercado de trabalho formal em Myanmar e vivem majoritariamente em campos de refugiados no Bangladesh, dependentes de ajuda internacional e submetidos a condições de extrema vulnerabilidade econômica.",
+      "referencial": [
+        {
+          "ficha_id": "T020",
+          "conceito": "Nações oprimidas e nações opressoras",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar a estrutura de opressão e negação de direitos imposta pelo Estado de Myanmar contra a minoria étnica Rohingya."
+        },
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra o emprego do aparelho militar e repressivo do Estado como instrumento de dominação e expropriação de minorias desprovidas de poder."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a autoridade jurídica formal das decisões do direito internacional humanitário e a ausência de mecanismos coercitivos próprios para forçar o cumprimento por Estados soberanos munidos de aparato militar.",
+      "analise_materialista": "A decisão da CIJ representa o reconhecimento formal da violência estatal sofrida pelos Rohingya, mas põe em evidência os limites materiais das instituições multilaterais. A análise materialista indica que o Estado de Myanmar utilizou seu aparato repressivo para desapropriar e expulsar a população Rohingya de seu território. Embora a decisão judicial estabeleça a obrigação de reparação e prevenção, a CIJ não dispõe de força coercitiva direta para impor a execução de suas sentenças sem a concordância das potências e instâncias decisórias globais. Paralelamente, as ressalvas e ameaças de sanções por parte de autoridades dos EUA a órgãos judiciais internacionais, reportadas na imprensa, ilustram a contradição entre o discurso de universalidade dos direitos humanos e a tutela dos interesses geopolíticos das grandes potências.",
+      "explicacoes_alternativas": "Perspectivas liberais sustentam que a condenação possui elevado valor normativo e reputacional, servindo de base para o isolamento diplomático de regimes infratores e para o fortalecimento de sanções econômicas multilaterais.",
+      "hipoteses": [
+        "A oposição de grandes potências ao alcance das cortes internacionais pode desestimular a eficácia prática e o cumprimento das determinações de reparação."
+      ],
+      "limites_da_evidencia": "A ausência de mecanismos de coerção direta da ONU impede determinar a probabilidade concreta de pagamento efetivo de compensações ou de repatriação segura.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Inserida atribuição explícita às declarações dos EUA ('segundo The Guardian') conforme a Regra de Integridade 1.",
+        "Ajustada a redação para assegurar estrita separação entre fatos documentados e interpretações analíticas.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N031",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
+          "publicado": "2026-11-18",
+          "url": "https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court"
+        },
+        {
+          "id": "N058",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Myanmar genocide ruling: Rohingya say struggle for justice not over",
+          "publicado": "2026-11-20",
+          "url": "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N069",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "The U.N.'s top court rules Myanmar committed genocide against the Rohingya",
+          "publicado": "2026-11-19",
+          "url": "https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya"
+        },
+        {
+          "id": "N074",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "‘You will not be alone’: General Assembly President tells Rohingya refugees after genocide ruling",
+          "publicado": "2026-11-20",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168853"
+        },
+        {
+          "id": "N085",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "World’s top court finds Myanmar guilty of genocide against Rohingya",
+          "publicado": "2026-11-19",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168836"
+        }
+      ],
+      "cobertura": {
+        "fontes": 4,
+        "artigos": 5,
+        "campos": 4
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "MMR",
+          "pais": "Myanmar",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 62.8911874336601,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Ilustra o elevado percentual de trabalho vulnerável na estrutura econômica de Myanmar, cenário em que grupos minoritários sofrem marginalização extrema."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global | África",
+      "titulo": "COP31: Estrangulamento financeiro e transição justa na periferia",
+      "paises_iso3": [
+        "TUR",
+        "UGA"
+      ],
+      "fontes_ids": [
+        "N057",
+        "N062",
+        "N078",
+        "N083"
+      ],
+      "fatos_verificaveis": [
+        "Segundo reportagens da ONU (UN News, UN News), no rascunho do acordo da COP31 em Antália (Turquia), referências explícitas ao afastamento dos combustíveis fósseis foram retiradas, provocando contestação de países europeus, africanos, latino-americanos e do Pacífico.",
+        "Segundo dados da Comissão Econômica da ONU para a África citados pela Deutsche Welle (Deutsche Welle), o continente africano recebeu cerca de US$ 52 bilhões em financiamento climático em 2022, perante uma necessidade anual estimada de US$ 190 bilhões, sendo a maior parte sob a forma de empréstimos.",
+        "Segundo a Deutsche Welle (Deutsche Welle), a ministra do Meio Ambiente de Uganda defendeu a exploração de petróleo do projeto de oleoduto East African Crude Oil Pipeline (EACOP) e a expansão hidrelétrica no âmbito de uma 'transição justa', ressaltando que mais de 90% dos domicílios ugandenses dependem de biomassa para cozinhar."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A imprensa da ONU enfatiza a perda de ambição diplomática e o impasse multilateral entre 200 países. A emissora pública alemã DW destaca as exigências de financiamento dos países africanos e os dilemas de governos periféricos em utilizar recursos fósseis para suprir necessidades energéticas imediatas ante a insuficiência de doações do centro.",
+      "citacao": "Developing countries face a double injustice: They bear the brunt of climate change",
+      "citacao_fonte_id": "N057",
+      "contexto_historico": "O Acordo de Paris de 2015 fixou metas Globais de contenção da temperatura, mas a arquitetura financeira internacional manteve assimetrias entre países desenvolvidos e nações periféricas. A África emite menos de 4% dos gases de efeito estufa globais, contudo sofre impactos desproporcionais decorrentes de eventos climáticos extremos.",
+      "relacoes_de_trabalho": "A dependência de biomassa (lenha e carvão) por mais de 90% das famílias em Uganda evidencia uma estrutura de reprodução social baseada no trabalho doméstico de subsistência e na coleta precarizada. A falta de infraestrutura elétrica restringe a produtividade e a criação de empregos formais, mantendo expressiva parcela da população no trabalho vulnerável.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "Serve como chave de leitura para examinar como a predominância de empréstimos no financiamento climático pode reproduzir mecanismos de endividamento dos países periféricos."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar o contraste entre a soberania política formal e a dependência financeira e tecnológica dos Estados dependentes na gestão da transição energética."
+        }
+      ],
+      "contradicao_principal": "A contradição entre as exigências de descarbonização impostas ao Sul Global e a ausência de financiamento não reembolsável por parte dos países centrais historicamente emissores.",
+      "analise_materialista": "A leitura materialista sugere que o impasse na COP31 reflete as contradições do capitalismo global no tratamento da crise ecológica. Enquanto governos de países centrais pressionam por metas de mitigação, a oferta de financiamento dá-se majoritariamente via empréstimos, o que tende a aprofundar o endividamento soberano das nações dependentes. Em países periféricos como Uganda, onde a infraestrutura energética é insuficiente e a base reprodutiva assenta no uso de biomassa, frações estatais buscam em projetos extrativos (como o oleoduto operado pela transnacional TotalEnergies) a geração de divisas necessárias para investimentos públicos. Esse quadro indica que a transição energética orientada pela lógica mercantil impõe limites à redistribuição dos custos ambientais e condiciona o Sul Global ao extrativismo de recursos primários.",
+      "explicacoes_alternativas": "A abordagem liberal-institucional atribui a paralisia diplomática à falta de vontade política dos governos e à pressão de lobbies empresariais, sustentando que parcerias público-privadas e mercados de carbono seriam suficientes para cobrir as lacunas de financiamento.",
+      "hipoteses": [
+        "A predominância de crédito oneroso no financiamento climático agravará restrições orçamentárias e pressões fiscais em países periféricos.",
+        "A escassez de doações internacionais incentivará governos africanos a buscarem parcerias para exploração mineral e de petróleo com blocos econômicos concorrentes."
+      ],
+      "limites_da_evidencia": "Os dados das notícias cobrem declarações políticas e estimativas agregadas da ONU, mas não detalham os juros e prazos específicos dos contratos de empréstimos climáticos concedidos a Uganda.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustadas as atribuições diretas de fatos às fontes (ONU e DW).",
+        "Removido dado secundário não diretamente correlacionado de 'dados_selecionados'.",
+        "Rebaixada a confiança de 'alta' para 'média' devido à limitação de detalhes nos termos dos empréstimos climáticos.",
+        "Ajustado 'como_se_aplica' do referencial teórico para manter linguagem estritamente analítica sem atribuir opiniões a autores.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N057",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Africa at COP31: Will climate cash finally flow?",
+          "publicado": "2026-11-20",
+          "url": "https://www.dw.com/en/africa-at-cop31-will-climate-cash-finally-flow/a-80002269?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N062",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Uganda minister at COP31: 'We need a just transition'",
+          "publicado": "2026-11-19",
+          "url": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N078",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "COP31: Countries demand stronger climate deal as talks in Antalya reach final day",
+          "publicado": "2026-11-20",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168845"
+        },
+        {
+          "id": "N083",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "COP31: Ambition goes missing as fossil fuel language drops from draft deal",
+          "publicado": "2026-11-19",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168839"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 4,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "UGA",
+          "pais": "Uganda",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 74.3929848931282,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a elevada proporção de trabalho vulnerável em Uganda, refletindo a fragilidade social perante choques ambientais e a escassez de infraestrutura."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Escalada militar no Leste Europeu e contradições do cerco geopolítico",
+      "paises_iso3": [
+        "UKR",
+        "RUS",
+        "EST",
+        "POL"
+      ],
+      "fontes_ids": [
+        "N012",
+        "N020",
+        "N021",
+        "N061"
+      ],
+      "fatos_verificaveis": [
+        "Segundo o governo estoniano citado pela Al Jazeera (Al Jazeera English), a Estônia aprovou o fechamento rodoviário de suas fronteiras com a Rússia por seis meses a partir de 1º de dezembro, alegando prevenção contra atos de sabotagem; o Ministério das Relações Exteriores da Rússia acusou Tallinn de tentar construir uma 'nova Cortina de Ferro'.",
+        "Segundo autoridades polonesas citadas pela BBC (BBC World), um míssil russo Kh-101 e outros dois objetos voadores violaram o espaço aéreo da Polônia caindo no sudeste do país durante o exercício militar 'Koalicja 2026' realizado por integrantes da aliança ocidental.",
+        "Segundo o presidente ucraniano Volodymyr Zelensky citado pela BBC (BBC World), a Rússia efetuou um ataque massivo com mais de 110 mísseis e 400 drones, danificando pontes em Kiev e a estação ferroviária de Sknyliv em Lviv.",
+        "Segundo a Deutsche Welle (Deutsche Welle), a Ucrânia rejeitou uma proposta do governo russo de trégua humanitária de cinco dias na cidade de Kostiantynivka, sob a justificativa de que a medida seria usada por Moscou para recompor tropas."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A imprensa britânica (BBC) enfatiza a violação do espaço aéreo polonês como provocação russa diante de exercícios militares ocidentais. A Al Jazeera destaca os protestos diplomáticos de Moscou contra o isolamento promovido pela Estônia. A DW documenta a desconfiança ucraniana quanto ao uso tático-militar de propostas de trégua por parte da Rússia.",
+      "citacao": "It will reduce opportunities to exploit cross-border movement to recruit people",
+      "citacao_fonte_id": "N012",
+      "contexto_historico": "A expansão da OTAN no Leste Europeu e o conflito militar direto iniciado em 2022 reconfiguraram as fronteiras dos países Bálticos e da Polônia em zonas militarizadas e de aplicação de restrições econômicas e de circulação entre a Europa e a Rússia.",
+      "relacoes_de_trabalho": "A destruição de infraestruturas de transporte como pontes e estações ferroviárias impacta a circulação diária e as condições de reprodução da força de trabalho urbana na Ucrânia. Paralelamente, o direcionamento de recursos estatais para o esforço de guerra amplia a mobilização militar em detrimento do setor produtivo civil.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Oferece fundamentação para analisar o conflito e as disputas fronteiriças no Leste Europeu no contexto de rivalidades geopolíticas por esferas de influência e controle territorial."
+        },
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "Auxilia na observação do papel do aparelho estatal na mobilização coercitiva de fronteiras, sanções e forças armadas em momentos de escalada belicista."
+        }
+      ],
+      "contradicao_principal": "O confronto geopolítico entre o bloco OTAN/EUA e a Rússia pelo controle das zonas fronteiriças e entroncamentos logísticos na Europa Oriental.",
+      "analise_materialista": "A análise materialista sugere que os ataques contra infraestruturas de transporte em Kiev e Lviv visam interromper a circulação de mercadorias, insumos e equipamentos militares ocidentais que sustentam a capacidade logística do Estado ucraniano. Em paralelo, a decisão da Estônia de encerrar a passagem rodoviária na fronteira oriental ilustra a fragmentação das redes de transporte regionais e a imposição de barreiras estatais à movimentação de pessoas. As incursões de mísseis na Polônia durante manobras militares de países ocidentais indicam fricções diretas entre aparelhos armados de blocos rivais, enquanto propostas de pausamento humanitário passam a integrar o cálculo de reposicionamento de forças no terreno.",
+      "explicacoes_alternativas": "A narrativa liberal de segurança internacional sustenta que as tensões e violações territoriais resultam unicamente da agressão expansionista russa contra a soberania de vizinhos, demandando o reforço permanente da dissuasão militar coletiva da OTAN.",
+      "hipoteses": [
+        "A degradação continuada de pontes e ferrovias na Ucrânia aumentará o custo de transporte de mercadorias e a dependência de suporte financeiro externo para manutenção da economia civil.",
+        "O fechamento de fronteiras pelos países Bálticos consolidará o desacoplamento de longo prazo entre as redes de transporte da União Europeia e a infraestrutura russa."
+      ],
+      "limites_da_evidencia": "As notícias disponíveis reportam as alegações das autoridades polonesas e de oficiais da OTAN, mas não trazem conclusões independentes sobre se a queda do míssil na Polônia decorreu de falha técnica ou de ação deliberada.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Inseridas atribuições explícitas a fontes em fatos que envolvem alegações de governos (Estônia, Polônia, Ucrânia, Rússia).",
+        "Esvaziado o campo 'dados_selecionados' por ausência de dados macroeconômicos em <dados_oficiais> que fundamentem diretamente a escalada militar pontual.",
+        "Rebaixada a confiança de 'alta' para 'média' devido à ausência de verificação independente da trajetória e intenção do míssil na Polônia.",
+        "Refinado o campo 'como_se_aplica' das fichas teóricas para assegurar uso puramente conceitual.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N012",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Russia complains of ‘new Iron Curtain’ as Estonia shuts its borders",
+          "publicado": "2026-11-20",
+          "url": "https://www.aljazeera.com/news/2026/11/20/russia-complains-of-new-iron-curtain-as-estonia-shuts-its-borders?traffic_source=rss"
+        },
+        {
+          "id": "N020",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk",
+          "publicado": "2026-11-20",
+          "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N021",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Russia targets Kyiv crossings days after Ukraine hits Crimean Bridge",
+          "publicado": "2026-11-20",
+          "url": "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N061",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Putin proposes second humanitarian ceasefire — is it a trap?",
+          "publicado": "2026-11-19",
+          "url": "https://www.dw.com/en/putin-proposes-second-humanitarian-ceasefire-is-it-a-trap/a-79996772?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 4,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Disputa pelo monopólio da força e controle petrolífero em Jurf al-Sakhar",
+      "paises_iso3": [
+        "IRQ",
+        "IRN"
+      ],
+      "fontes_ids": [
+        "N005",
+        "N063"
+      ],
+      "fatos_verificaveis": [
+        "O Primeiro-Ministro iraquiano Ali al-Zaidi determinou o cercamento de Jurf al-Sakhar por forças de segurança estatais e fixou prazo para o desarmamento de grupos armados autônomos.",
+        "A milícia Kataib Hezbollah, aliada do Irã e integrante das Forças de Mobilização Popular (PMF), recusou-se a desocupar a área controlada por ela desde a expulsão do Estado Islâmico.",
+        "Segundo relatório do governo iraquiano citado pela Deutsche Welle, a milícia é acusada de contrabando de centenas de milhões de dólares em petróleo desviado de oleodutos estatais desde 2021 (alegação negada pelo grupo)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera enfatiza o discurso governamental de restauração do controle estatal e combate à corrupção. A Deutsche Welle destaca o risco de guerra civil, o peso da influência iraniana, o sectarismo religioso, a denúncia de contrabando de petróleo e a pressão dos EUA para enfraquecer aliados de Teerã.",
+      "citacao": "assert state control, curb corruption and disarm groups operating outside government authority",
+      "citacao_fonte_id": "N005",
+      "contexto_historico": "Desde a invasão anglo-americana de 2003 e a luta contra o Estado Islâmico a partir de 2014, o aparato coercitivo do Estado iraquiano fragmentou-se. As Forças de Mobilização Popular (PMF) formaram um complexo paramilitar com assento parlamentar e forte vinculação com o Irã. Jurf al-Sakhar foi transformada em fortaleza militarizada pela Kataib Hezbollah, impedindo o retorno dos moradores deslocados no conflito.",
+      "relacoes_de_trabalho": "Com reduzida absorção de força de trabalho no setor manufatureiro e expressivo desemprego, a economia informal e o recrutamento por estruturas paramilitares funcionam como amortecedores sociais e mecanismos de redistribuição da renda petrolífera e para-estatal.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "Explica a tentativa do governo central iraquiano de reestabelecer a autoridade do aparato militar estatal contra a concorrência de forças paramilitares autônomas."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra as limitações da soberania do Estado iraquiano, cujas decisões de segurança sofrem forte ingerência e pressões de potências externas como EUA e Irã."
+        }
+      ],
+      "contradicao_principal": "O confronto entre a tentativa do governo iraquiano de centralizar o controle de recursos e da força e o poder autônomo das milícias armadas financiadas pela renda petrolífera e alinhadas ao Irã.",
+      "analise_materialista": "A ofensiva sobre Jurf al-Sakhar indica como a disputa pelo poder político no Iraque está amarrada ao controle da infraestrutura de transporte e extração de petróleo. O desvio de oleodutos estatais por frações paramilitares representa um mecanismo informal de apropriação do excedente petrolífero para o financiamento de aparatos paralelos. O governo busca reassegurar a arrecadação pública e responder às pressões norte-americanas, mas enfrenta a resistência de forças integradas ao próprio bloco parlamentar governista.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional sustenta que a operação militar é um movimento técnico de consolidação da ordem constitucional, fortalecimento da governança democrática e erradicação da corrupção e da criminalidade organizada na região.",
+      "hipoteses": [
+        "A operação militar pode resultar em um acordo de acomodação burocrática, onde a milícia integra formalmente quadros da segurança pública sem abdicar do controle sobre as redes locais de contrabando."
+      ],
+      "limites_da_evidencia": "Os valores exatos do contrabando de petróleo e detalhes de instalações secretas em Jurf al-Sakhar fundamentam-se em relatórios governamentais e rumores não auditados independentemente.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Atribuída ao relatório governamental a acusação do contrabando de petróleo.",
+        "Ajustada a redação da análise materialista para manter precisão conceitual.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N005",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Iraq PM targets militia stronghold in bid to assert state control",
+          "publicado": "2026-11-20",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/aje-onl-nf_iraq-pm-targets-militia-stronghold-jurf-al-sakhar-201126?traffic_source=rss"
+        },
+        {
+          "id": "N063",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Iraq's risky standoff: The state vs. Iran-allied militias",
+          "publicado": "2026-11-19",
+          "url": "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRQ",
+          "pais": "Iraq",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 15.485,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "O elevado desemprego formal cria a base material para o recrutamento e dependência de jovens por milícias paramilitares."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América Latina",
+      "titulo": "Reordenação imperialista e concessões petrolíferas na Venezuela pós-intervenção",
+      "paises_iso3": [
+        "VEN",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N036"
+      ],
+      "fatos_verificaveis": [
+        "Segundo o The Guardian, o Secretário de Defesa dos EUA, Pete Hegseth, realizou visita oficial a Caracas e reuniu-se com a presidente interina da Venezuela, Delcy Rodríguez.",
+        "A visita seguiu-se à captura do ex-presidente Nicolás Maduro por forças especiais americanas em 3 de janeiro de 2026.",
+        "Foi anunciado um acordo energético envolvendo reservas estimadas em 65 bilhões de barris de petróleo, concomitantemente a negociações sobre a presença de tropas americanas no país."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A representação oficial dos EUA enquadra a visita como ato de libertação, cooperação militar e abertura de oportunidades econômicas mútuas. Já a cobertura jornalística e analistas locais caracterizam a presença militar como imposição de subordinação da soberania às diretrizes de Washington.",
+      "citacao": "the single most sophisticated military operation in the history of Latin America",
+      "citacao_fonte_id": "N036",
+      "contexto_historico": "Após duas décadas de governo chavista pautado pelo nacionalismo energético e confronto com os EUA, o colapso econômico venezuelano e as sanções financeiras debilitaram o Estado. A ação militar de forças especiais dos EUA em janeiro de 2026 capturou o chefe de Estado, levando a liderança remanescente a negociar termos de transição e cooperação com Washington.",
+      "relacoes_de_trabalho": "A crise econômica e a precarização do mercado de trabalho venezuelano preparam o terreno para a reestruturação do setor extrativo sob diretrizes de corporações estrangeiras.",
+      "referencial": [
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se à condição de um Estado com governo nominalmente soberano, porém condicionado militar e economicamente por diretrizes de uma potência externa."
+        },
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra o interesse geopolítico e econômico na garantia do controle e exploração de recursos energéticos estratégicos por corporações e forças do centro imperialista."
+        }
+      ],
+      "contradicao_principal": "A oposição entre o discurso de cooperação mútua e a subordinação das riquezas petrolíferas venezuelanas às exigências estratégicas dos EUA.",
+      "analise_materialista": "Em análise preliminar, baseada em fonte única, a visita militar norte-americana e o anúncio de acordos petrolíferos de grande porte sinalizam a busca dos EUA por assegurar o controle de reservas energéticas estratégicas na Venezuela. A reorientação da liderança interina venezuelana reflete a coerção econômica e militar exercida após a captura de Maduro, condicionando a gestão dos recursos naturais do país às exigências de segurança e suprimento do capital norte-americano.",
+      "explicacoes_alternativas": "A interpretação diplomática oficial norte-americana sustenta que o pacto encerra um ciclo de isolamento autoritário, restabelece a estabilidade geopolítica no Hemisfério Ocidental e garante os investimentos necessários para reestruturar a infraestrutura nacional dilapidada.",
+      "hipoteses": [
+        "A presença permanente de tropas americanas sob o pretexto de cooperação militar visa desmantelar preventivamente qualquer tentativa de reorganização de movimentos sociais ou frações armadas anti-imperialistas."
+      ],
+      "limites_da_evidencia": "As informações contidas no relato derivam de cobertura de fonte única, carecendo de detalhes contratuais e confirmação por outros veículos.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Atribuídos os fatos ao veículo The Guardian por se tratar de fonte única.",
+        "Reduzida a extensão da análise materialista para atender ao limite de 80 palavras aplicável a relatos de fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N036",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "Hegseth uses Venezuela visit to boast of Maduro’s capture by US military",
+          "publicado": "2026-11-18",
+          "url": "https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "VEN",
+          "pais": "Venezuela, RB",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 37.2977434036572,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "A alta taxa de emprego vulnerável reflete a fragilidade socioeconômica estrutural em meio à reordenação política do país."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Gestão de fluxos migratórios e assistência financeira da UE ao Egito",
+      "paises_iso3": [
+        "EGY"
+      ],
+      "fontes_ids": [
+        "N032"
+      ],
+      "fatos_verificaveis": [
+        "A Comissão Europeia é acusada em reportagem do jornal The Guardian de manipular dados sobre programas sociais egípcios para liberar empréstimos.",
+        "Documentos vazados da União Europeia indicavam cumprimento de metas do programa de transferência de renda Takaful e Karama, apesar de dados indicarem redução no total de famílias atendidas.",
+        "A eurodeputada Tineke Strik anunciou o envio de questionamento formal à Comissão Europeia sobre as avaliações de desempenho social do Egito."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A imprensa liberal ocidental de centro-esquerda enquadra o caso como uma contradição entre a retórica europeia de defesa dos direitos humanos e a real geopolítica de contenção migratória. Não há outras fontes disponíveis no material para confronto direto de posições.",
+      "citacao": "European Commission has been accused of sugarcoating figures to enable it to release funds",
+      "citacao_fonte_id": "N032",
+      "contexto_historico": "O governo egípcio busca estabilização econômica em meio a severas restrições à imprensa e oposição política. Paralelamente, a União Europeia tem formalizado parcerias financeiras com governos do Norte da África para assegurar a contenção de fluxos migratórios em direção ao Mediterrâneo.",
+      "relacoes_de_trabalho": "A eventual redução ou exclusão de cadastros em programas sociais de transferência de renda pressiona trabalhadores formais e informais a aceitar condições ocupacionais degradantes para manter a subsistência básica.",
+      "referencial": [
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra como acordos de financiamento mantêm o Estado egípcio subordinado às condicionalidades econômicas e políticas de blocos centrais."
+        }
+      ],
+      "contradicao_principal": "A contradição entre o imperativo europeu de segurança e contenção migratória e a exigência formal do cumprimento de metas sociais e direitos humanos.",
+      "analise_materialista": "Em caráter preliminar, devido ao apoio em fonte única, a leitura materialista indica que a concessão de empréstimos europeus ao Egito opera como mecanismo geopolítico para contingenciamento migratório. Ao priorizar a estabilização do regime do Cairo em detrimento da fiscalização de metas sociais, a União Europeia subordina exigências formais de direitos humanos à segurança de suas fronteiras, enquanto repassa os custos das revisões cadastrais e da austeridade à classe trabalhadora egípcia.",
+      "explicacoes_alternativas": "Análises institucionais argumentam que as alterações nos dados decorrem de processos técnicos de recertificação burocrática para combate a fraudes e que a assistência financeira busca primordialmente a estabilização macroeconômica egípcia.",
+      "hipoteses": [
+        "A flexibilização na avaliação das metas sociais visou acelerar os repasses para evitar o colapso financeiro do Egito e conter novas pressões migratórias."
+      ],
+      "limites_da_evidencia": "As alegações apoiam-se em documentos vazados e apurações de um único veículo de imprensa, sem confirmações oficiais conclusivas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Análise materialista reduzida para menos de 80 palavras e explicitamente marcada como preliminar por basear-se em fonte única (regra de evidência escassa)."
+      ],
+      "fontes": [
+        {
+          "id": "N032",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "European Commission accused of sugarcoating figures to release funds to Egypt",
+          "publicado": "2026-11-18",
+          "url": "https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "EGY",
+          "pais": "Egypt, Arab Rep.",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 23.9436161508244,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mede a parcela de trabalhadores em situação de vulnerabilidade atingidos por ajustes nas políticas sociais."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Escalada no Estreito de Ormuz e disputas orçamentárias de defesa no Congresso norte-americano",
+      "paises_iso3": [
+        "IRN",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N066",
+        "N067",
+        "N072"
+      ],
+      "fatos_verificaveis": [
+        "O Irã intensificou os ataques contra embarcações comerciais e petroleiros no Estreito de Ormuz, segundo a rádio pública norte-americana NPR.",
+        "Forças dos EUA realizaram ataques a posições na Ilha de Qeshm, enquanto o Irã direcionou drones contra radares e sistemas de defesa norte-americanos na região.",
+        "Senadores democratas articulam o bloqueio de verbas para operações militares contra o Irã por meio da lei orçamentária de emergência nos EUA."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A rádio pública norte-americana cobre os eventos focando nos riscos à navegação e nos atritos políticos em Washington, enquanto parlamentares republicanos defendem as ações militares como prerrogativa do Executivo para proteção nacional.",
+      "citacao": "Iran's attacks on ships in the Strait of Hormuz are ramping up",
+      "citacao_fonte_id": "N072",
+      "contexto_historico": "O Estreito de Ormuz constitui uma rota fundamental para o fluxo mundial de petróleo e gás. As tensões na região envolvem sanções econômicas, operações navais e atritos militares recorrentes entre os EUA, aliados locais e o Irã.",
+      "relacoes_de_trabalho": "Os ataques a navios comerciais expõem marinheiros a riscos diretos, enquanto equipes de contenção ambiental trabalham sob exposição a substâncias nocivas para mitigar vazamentos de combustíveis nas praias.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Auxilia na compreensão do conflito naval como parte da disputa imperialista pelo controle de rotas de circulação e suprimentos energéticos."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a projeção de poder dos EUA para assegurar o livre trânsito de recursos energéticos e as ações táticas iranianas para romper o cerco econômico e militar.",
+      "analise_materialista": "Os confrontos no Estreito de Ormuz e as disputas políticas no Congresso dos EUA refletem o peso decisivo das rotas globais de abastecimento de combustíveis no sistema econômico internacional. O esforço de setores parlamentares em Washington para restringir o financiamento militar esbarra no imperativo do aparato de Estado em garantir a segurança dos fluxos comerciais e defender interesses estratégicos na região. A troca de ataques entre forças norte-americanas e alvos iranianos demonstra como a instabilidade geopolítica gera impactos imediatos no frete marítimo e na integridade ambiental das zonas costeiras. O impasse em Washington evidencia também as fissuras internas na classe política norte-americana sobre os custos econômicos e institucionais da manutenção de intervenções militares prolongadas no exterior.",
+      "explicacoes_alternativas": "Análises baseadas no realismo diplomático sustentam que as operações navais buscam estritamente proteger o direito internacional de livre navegação e impedir o encarecimento da energia global provocado por agressões unilaterais.",
+      "hipoteses": [
+        "A intensificação das ações navais pelo Irã busca elevar o custo político da presença dos EUA e forçar concessões em sanções econômicas."
+      ],
+      "limites_da_evidencia": "Os detalhes dos incidentes navais e das negociações orçamentárias baseiam-se apenas nos relatos fornecidos pela rede pública NPR.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Verificados atribuição de fontes à rádio pública NPR e enquadramento analítico; estrutura mantida."
+      ],
+      "fontes": [
+        {
+          "id": "N066",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+          "publicado": "2026-11-20",
+          "url": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army"
+        },
+        {
+          "id": "N067",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+          "publicado": "2026-11-20",
+          "url": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress"
+        },
+        {
+          "id": "N072",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Iran's attacks on ships in the Strait of Hormuz escalate",
+          "publicado": "2026-11-19",
+          "url": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 3,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRN",
+          "pais": "Iran, Islamic Rep.",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 60.2426223967467,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o peso do comércio exterior na estrutura econômica iraniana e a relevância das vias marítimas."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Novo projeto fiscal no Quênia busca elevar arrecadação sob pressão da dívida pública",
+      "paises_iso3": [
+        "KEN"
+      ],
+      "fontes_ids": [
+        "N002"
+      ],
+      "fatos_verificables": [
+        "O governo do Quênia elaborou o Projeto de Lei de Finanças de 2026 projetando arrecadar cerca de 98,9 bilhões de xelins quenianos em receitas adicionais, segundo N002.",
+        "A meta revisada de receita tributária governamental subiu de aproximadamente 2,6 trilhões de xelins no ano fiscal de 2026 para 2,86 trilhões no ano fiscal de 2027, segundo N002.",
+        "A Assembleia Nacional aprovou o projeto em 18 de junho e o presidente William Ruto o sancionou em 23 de junho de 2026, após parlamentares retirarem propostas polêmicas como o aumento do imposto sobre telefonia móvel, segundo N002."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A publicação crítica de esquerda enquadra a legislação fiscal como continuidade da pressão estatal sobre os orçamentos domésticos da população trabalhadora para responder ao endividamento, ressaltando o ambiente de insatisfação popular remanescente dos protestos massivos de 2024.",
+      "citacao": "the Treasury still needs more revenue",
+      "citacao_fonte_id": "N002",
+      "contexto_historico": "Em 2024, intensos protestos populares contra o projeto fiscal (Finance Bill) culminaram na invasão do Parlamento em 25 de junho e na retirada inicial do texto pelo governo. Contudo, propostas arrecadatórias foram reapresentadas de forma fatiada através de múltiplos projetos de lei em 2024 e 2025. O movimento reflete a contínua vulnerabilidade do Estado queniano perante compromissos de serviço da dívida externa e deficit orçamentário.",
+      "relacoes_de_trabalho": "As alterações tributárias afetam diretamente o salário líquido dos trabalhadores formais (via retenções de imposto de renda) e elevam o custo de vida das famílias ao incidir sobre o consumo popular, telecomunicações, serviços digitais e importação de roupas usadas (mitumba), pressionando a renda real da força de trabalho urbana e informal.",
+      "referencial": [
+        {
+          "ficha_id": "T017",
+          "conceito": "Estados usurários e Estados devedores (rentismo)",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 8",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm",
+          "trecho": "a handful of usurer states and a vast majority of debtor states",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se ao analisar a posição do Quênia como Estado devedor submetido à extração de receitas internas para remunerar o capital financeiro."
+        }
+      ],
+      "contradicao_principal": "A exigência do Estado de intensificar a arrecadação tributária para honrar dívidas financeiras versus a capacidade limite das famílias trabalhadoras de absorver a perda de renda real.",
+      "analise_materialista": "Esta análise preliminar indica que a reestruturação tributária no Quênia reflete a pressão do endividamento público sobre o Estado. O Tesouro busca expandir a arrecadação alterando impostos sobre consumo e salários, o que tende a descarregar o ajuste orçamentário sobre trabalhadores e o setor informal. A remoção de itens controversos pelo Parlamento sinaliza o receio governamental de reativar a insatisfação popular e os conflitos sociais observados em 2024.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional defende que a reforma fiscal é indispensável para garantir a consolidação orçamentária, manter a solvência soberana e criar um ambiente macroeconômico estável capaz de atrair investimentos estrangeiros.",
+      "hipoteses": [
+        "A fragmentação das medidas arrecadatórias em diversos projetos de lei foi uma tática consciente do Executivo para diluir a oposição popular e evitar protestos massivos unificados."
+      ],
+      "limites_da_evidencia": "A análise fundamenta-se em uma única fonte secundária, sem detalhamento oficial sobre a composição atual da dívida soberana ou dados diretos da execução orçamentária.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Reduzida a extensão da análise materialista para menos de 80 palavras e assinalado seu caráter preliminar por haver evidência de fonte única.",
+        "Rebaixado o nível de confiança de média para baixa devido às lacunas de cobertura e ausência de confirmação independente."
+      ],
+      "fontes": [
+        {
+          "id": "N002",
+          "nome": "Africa Is a Country",
+          "campo": "Crítica africanista / esquerda",
+          "perfil_editorial": "Revista e blog crítico sobre a África, de perspectiva progressista.",
+          "titulo_original": "Kenya’s litmus test",
+          "publicado": "2026-11-19",
+          "url": "https://africasacountry.com/2026/11/kenyas-litmus-test"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global",
+      "titulo": "EUA ampliam investigações e controles para proibir vazamento de chips de IA para a China",
+      "paises_iso3": [
+        "USA",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N004",
+        "N039"
+      ],
+      "fatos_verificables": [
+        "O Departamento de Comércio dos EUA (BIS) anunciou norma exigindo licença especial para compras de chips avançados de IA por data centers localizados na Tailândia, Indonésia, Malásia, Cingapura e Brasil, visando evitar o desvio indireto para a China, segundo N004.",
+        "A Procuradoria-Geral da Califórnia emitiu intimação investigativa contra a Nvidia para apurar se semicondutores exportados foram parar na China e se a empresa enganou investidores, após a renúncia do ex-CEO Jensen Huang, segundo N039.",
+        "A comissão de Assuntos Externos da Câmara dos EUA informou que o governo aprovou a exportação de 879 mil chips da Nvidia e AMD para empresas chinesas entre dezembro de 2025 e maio de 2026, enquanto parlamentares pressionam por maior regulação, segundo N004."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera foca a disputa bipartidária no Congresso dos EUA sobre hegemonia tecnológica e regulação industrial. O The Guardian destaca o escândalo corporativo, a desvalorização acionária da Nvidia e o impacto das investigações sobre governança e legislação de valores mobiliários.",
+      "citacao": "companies cannot mislead their investors",
+      "citacao_fonte_id": "N039",
+      "contexto_historico": "A rivalidade geopolítica e econômica entre os EUA e a China tem como eixo central o controle das tecnologias de semicondutores de ponta. Washington impôs sucessivas rodadas de controles de exportação para restringir o desenvolvimento tecnológico militar e industrial chinês, levando empresas ocidentais a buscar rotas comerciais alternativas por meio de centros de dados em países terceiros.",
+      "relacoes_de_trabalho": "A corrida pelo domínio da inteligência artificial mobiliza grandes contingentes de trabalho altamente qualificado no setor de tecnologia nos EUA e na China, ao mesmo tempo em que propostas legislativas norte-americanas buscam coibir a exploração de trabalhadores no setor de tecnologia.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Conceitua a disputa entre potências pelo controle monopolista de forças produtivas e tecnologias estratégicas no capitalismo corporativo."
+        }
+      ],
+      "contradicao_principal": "O impulso das corporações monopolistas de tecnologia em maximizar vendas no mercado global versus os imperativos de segurança nacional e contenção geopolítica exercidos pelo Estado norte-americano.",
+      "analise_materialista": "A leitura materialista sugere que o acirramento das investigações sobre exportações de semicondutores reflete contradições entre a busca de lucros do capital corporativo e as estratégias geopolíticas do Estado imperialista. Enquanto empresas de tecnologia são investigadas por suposta exploração de brechas regulatórias e triangulações em terceiros países para atender à demanda chinesa, o Estado norte-americano mobiliza sanções e controles administrativos para reter a hegemonia sobre tecnologias estratégicas.",
+      "explicacoes_alternativas": "A interpretação liberal e jurídica enfatiza que as ações das autoridades buscam garantir a aplicação imparcial da lei, proteger os investidores contra declarações corporativas enganosas e preservar a segurança nacional contra espionagem e violações de sanções.",
+      "hipoteses": [
+        "Corporações de tecnologia continuarão a desenvolver arquiteturas de hospedagem de dados e subsidiárias internacionais para contornar restrições enquanto a demanda chinesa por capacidade computacional mantiver margens de lucro elevadas."
+      ],
+      "limites_da_evidencia": "Os fatos disponíveis reportam investigações e acusações judiciais e parlamentares em andamento, sem sentença definitiva sobre a responsabilidade corporativa direta da diretoria da Nvidia nas triangulações de exportação.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação da análise materialista para pontuar as triangulações corporativas como objeto de apuração e não como fato conclusivo.",
+        "Rebaixada a confiança de alta para média em razão de as apurações judiciais e investigações parlamentares ainda estarem em andamento.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N004",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "US lawmakers push for tougher AI chip rules amid China export crackdown",
+          "publicado": "2026-11-20",
+          "url": "https://www.aljazeera.com/economy/2026/11/20/us-lawmakers-push-for-tougher-ai-chip-rules-amid-china-export-crackdown?traffic_source=rss"
+        },
+        {
+          "id": "N039",
+          "nome": "The Guardian World",
+          "campo": "Imprensa liberal ocidental (centro-esquerda)",
+          "perfil_editorial": "Jornal britânico de linha liberal/centro-esquerda, mantido por um trust sem acionista controlador.",
+          "titulo_original": "California investigates Nvidia over whether chip exports ended up in China",
+          "publicado": "2026-11-20",
+          "url": "https://www.theguardian.com/technology/2026/nov/20/california-investigates-nvidia-over-whether-chip-exports-ended-up-in-china"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 30769700000000,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Dimensiona o volume da economia norte-americana que sustenta os gastos dominantes em infraestrutura e computação de IA."
+        },
+        {
+          "pais_iso3": "CHN",
+          "pais": "China",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 24.7344421687689,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia o peso da base manufatureira chinesa e sua demanda por componentes de alta tecnologia para manter o desenvolvimento industrial."
+        }
+      ],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-20",
+  "gerado_em": "2026-11-20T23:22:41+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-3.6-flash"
+  ],
+  "modelo": "gemini-3.6-flash",
+  "fontes_consultadas": {
+    "Brasil de Fato": "erro_http_404",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_413",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "ok",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 85,
+  "textos_integrais_lidos": 30,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 19.8,
+  "aviso_metodologico": "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de leitura, não provas. Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
