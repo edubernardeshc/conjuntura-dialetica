@@ -1,0 +1,1272 @@
+{
+  "biblioteca": {
+    "fichas_total": 38,
+    "fichas_conferidas": 38,
+    "ignoradas": []
+  },
+  "avisos_execucao": [
+    "Busca na web sem cota (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite.",
+    "Sem cota na hora da chamada (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash.",
+    "Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'."
+  ],
+  "manchete_do_dia": "Intervenções estatais, rivalidades geopolíticas e conflitos trabalhistas tensionam a economia global",
+  "resumo_executivo": "O cenário internacional reflete crescentes rivalidades geopolíticas e intervenções estatais. Os EUA aplicam coerções financeiras ao Irã e restrições tecnológicas via Nvidia, enquanto a UE busca acordos na Indonésia e impostos digitais. Desdobramentos militares alcançam o Mar Báltico e a Líbia, simultaneamente ao fracasso da COP31 em financiamento climático. Paralelamente, paralisações trabalhistas na Bélgica e em Bangladesh, disputas de influência na Ásia e a violência armada no México expõem fraturas no sistema global.",
+  "itens": [
+    {
+      "regiao": "Global",
+      "titulo": "Intervenção presidencial na Nvidia e restrições tecnológicas contra a China",
+      "paises_iso3": [
+        "USA",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N002",
+        "N011",
+        "N014",
+        "N027",
+        "N030",
+        "N034"
+      ],
+      "fatos_verificables": [
+        "O conselho de administração da Nvidia reconduziu Jensen Huang ao cargo de CEO menos de duas semanas após sua renúncia, segundo a Al Jazeera e a BBC.",
+        "O presidente dos EUA, Donald Trump, afirmou publicamente ter tido papel decisivo na reintegração de Huang junto ao conselho da empresa.",
+        "O Departamento de Comércio dos EUA anunciou a intenção de incluir a empresa Megaspeed (Cingapura) em sua lista de sanções comerciais por suposta violação de controles de exportação de chips de IA para a China.",
+        "O governo chinês negou que a ex-executiva da Megaspeed atue como espiã e criticou o uso do caso como pretexto para bloqueio tecnológico."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública ocidental (BBC, France 24) prioriza potenciais riscos à segurança nacional e normas de governança corporativa. A Al Jazeera enfatiza a contradição entre a intervenção direta do Executivo norte-americano e os preceitos liberais de autonomia empresarial.",
+      "citacao": "Jensen is the right person to lead NVIDIA, and that his reinstatement is in",
+      "citacao_fonte_id": "N002",
+      "contexto_historico": "Desde 2022, os EUA impõem controles de exportação progressivos contra a China para restringir o acesso a semicondutores avançados, centro nevrálgico da disputa tecnológica e da infraestrutura de inteligência artificial global.",
+      "relacoes_de_trabalho": "As notícias não detalham negociações sindicais, mas a oscilação drástica do valor de mercado impacta planos de remuneração acionária comuns entre trabalhadores técnicos e de engenharia no Vale do Silício.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar a intervenção estatal direta sobre a liderança de um monopólio tecnológico como traço da articulação entre o Estado imperialista e corporações estratégicas na disputa internacional por mercados."
+        }
+      ],
+      "contradicao_principal": "A tensão entre a necessidade do capital transnacional de realizar lucros no mercado chinês e o imperativo geopolítico do Estado norte-americano de conter o avanço tecnológico de potências concorrentes.",
+      "analise_materialista": "A intervenção do Executivo dos EUA na recomposição da diretoria da Nvidia relativiza na prática a separação formal entre Estado e livre mercado. No capitalismo contemporâneo, semicondutores de alto desempenho configuram meios de produção fundamentais tanto para a rentabilidade do capital financeiro quanto para a soberania técnico-militar. A forte desvalorização acionária provocada pela saída de Huang expôs a dependência dos mercados financeiros em relação ao complexo de inteligência artificial. A articulação estatal para estabilizar o comando da firma e a simultânea imposição de sanções extraterritoriais à Megaspeed indicam o recurso à coerção política e jurídica para resguardar posições monopolistas e bloquear a apropriação de tecnologia por competidores externos.",
+      "explicacoes_alternativas": "Analistas liberais de governança sustentam que a intervenção presidencial feriu a prerrogativa autônoma dos acionistas e expôs fragilidades institucionais. Defensores do governo norte-americano sustentam que a medida foi imperativo de estabilidade de mercado e segurança nacional.",
+      "hipoteses": [
+        "A pressão governamental sobre a diretoria buscou evitar liquidações em cadeia de fundos com alta exposição aos ativos de IA.",
+        "A inclusão da Megaspeed na lista de restrições visa desarticular intermediários regionais no Sudeste Asiático que abastecem o setor produtivo chinês."
+      ],
+      "limites_da_evidencia": "Detalhes das investigações em curso conduzidas pelo DOJ e pela SEC, bem como os relatórios de inteligência sobre espionagem, não são de domínio público.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação da análise materialista para manter rigor conceitual e tom analítico, evitando determinismos.",
+        "Refinada a formulação dos fatos verificáveis para atribuir claramente a negação chinesa e os anúncios oficiais norte-americanos.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N002",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "What Nvidia’s Jensen Huang’s return means for Washington and Wall Street?",
+          "publicado": "2026-11-23",
+          "url": "https://www.aljazeera.com/economy/2026/11/23/what-nvidias-jensen-huangs-return-means-for-washington-and-wall-street?traffic_source=rss"
+        },
+        {
+          "id": "N011",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Jensen Huang reinstated as Nvidia chief: How did we get here?",
+          "publicado": "2026-11-23",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/jensen-huang-reinstated-as-nvidia-chief-how-did-we-get-here?traffic_source=rss"
+        },
+        {
+          "id": "N014",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+          "publicado": "2026-11-23",
+          "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N027",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Trump backs Nvidia boss's return but top Democrat vows probe",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe"
+        },
+        {
+          "id": "N030",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Nvidia reinstates Huang as CEO after Trump intervention",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/nvidia-reinstates-huang-as-ceo-after-trump-intervention"
+        },
+        {
+          "id": "N034",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "🔴Democrats vow probe after Trump admits role in Huang's return as Nvidia CEO",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 6,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Ataques navais ucranianos no porto de Bengasi e a divisão da Líbia",
+      "paises_iso3": [
+        "UKR",
+        "RUS",
+        "LBY"
+      ],
+      "fontes_ids": [
+        "N015",
+        "N016",
+        "N026",
+        "N028",
+        "N029",
+        "N050",
+        "N063"
+      ],
+      "fatos_verificables": [
+        "A Ucrânia reivindicou ataque com drones navais contra a corveta russa Merkury e o cargueiro MV Angara no porto de Bengasi, na Líbia, segundo declarações de Volodymyr Zelensky.",
+        "Imagens de satélite e vídeos verificados pela BBC mostram a embarcação atingida em chamas e parcialmente naufragada no porto líbio.",
+        "Tanto a administração de Trípoli quanto a de Bengasi condenaram o ataque e rejeitaram o envolvimento da infraestrutura líbia no conflito internacional.",
+        "A Missão da ONU na Líbia (UNSMIL) solicitou investigação transparente e instou contenção para que o território não seja convertido em campo de batalha externo.",
+        "A administração do leste líbio (GNS) acusou o governo de Trípoli de conceder abrigo a operadores militares ucranianos."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A imprensa ocidental foca na capacidade assimétrica e no alcance de longo alcance das forças de Kyiv. A ONU e as administrações locais centram-se na violação da soberania líbia e nos riscos de desestabilização regional.",
+      "citacao": "Libya cannot afford, and must not become, a battleground for foreign conflicts",
+      "citacao_fonte_id": "N063",
+      "contexto_historico": "A Líbia vive fragmentação institucional e militar desde a derrocada do regime de Muammar Gaddafi em 2011 com apoio da OTAN. O leste é controlado pelas forças do general Khalifa Haftar, com vínculos com a Rússia, enquanto o oeste sedia o governo reconhecido pela ONU.",
+      "relacoes_de_trabalho": "Os relatos não trazem informes sobre greves ou pautas salariais locais, mas o bombardeio a instalações portuárias coloca em risco direto a segurança e o trabalho de estivadores e marinheiros mercantes.",
+      "referencial": [
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Serve para analisar a fragilidade de um Estado formalmente independente que, fragmentado internamente, tem sua infraestrutura subordinada aos interesses operacionais de potências estrangeiras."
+        }
+      ],
+      "contradicao_principal": "A oposição entre os imperativos militares e logísticos das potências em guerra e o interesse de preservação da integridade e soberania do território líbio.",
+      "analise_materialista": "O ataque em Bengasi evidencia a extensão do conflito militar europeu sobre formações sociais periféricas debilitadas. A dissolução da autoridade central líbia a partir de 2011 gerou um espaço de soberania fragmentada, no qual facções locais transacionam o uso de recursos logísticos (portos e bases) em troca de respaldo bélico e diplomático de potências estrangeiras. A ancoragem de meios navais russos no Mediterrâneo responde a necessidades materiais de abastecimento e projeção estratégica, atraindo operações assimétricas ucranianas destinadas a golpear a retaguarda logística russa. O episódio ilustra como a dependência político-militar de atores locais converte infraestruturas civis e portuárias periféricas em alvos subsidiários de conflagrações externas.",
+      "explicacoes_alternativas": "Comentaristas de segurança ocidentais tratam a ação como exercício legítimo de autodefesa contra alvos militares da Rússia no exterior. Representantes diplomáticos e analistas jurídicos priorizam o enquadramento de desrespeito às normas internacionais de navegação e à neutralidade territorial líbia.",
+      "hipoteses": [
+        "Equipes ucranianas podem ter operado mediante facilitação logística discreta a partir do oeste da Líbia.",
+        "Moscou pode intensificar acordos de segurança com forças de Bengasi para reforçar defesas antiaéreas e navais no norte da África."
+      ],
+      "limites_da_evidencia": "Não há balanço independente e detalhado de vítimas a bordo dos navios, nem confirmação autônoma sobre a extensão exata do apoio estatal recebido por operadores ucranianos em solo líbio.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Inclusa confirmação visual independente por imagens de satélite e BBC Verify nos fatos verificáveis.",
+        "Corrigido deslize gramatical no contexto histórico ('a derrocada').",
+        "Adequado o vocabulário da análise materialista para garantir precisão quanto à dinâmica de dependência e fragmentação territorial.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N015",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+          "publicado": "2026-11-23",
+          "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N016",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "What strike on Russian ship in Libya says about spread of Ukraine war",
+          "publicado": "2026-11-23",
+          "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N026",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Libya's east seeks UN probe into claims Ukrainian military present in west",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west"
+        },
+        {
+          "id": "N028",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "How far will Ukraine war spread? Kyiv targets Russian vessels in Libya",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/tv-shows/the-debate/20261123-how-far-will-ukraine-war-spread-kyiv-targets-russian-vessels-in-libya"
+        },
+        {
+          "id": "N029",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Ukraine claims it sank Russian warship off Libya",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/ukraine-claims-it-sank-russian-warship-off-libya"
+        },
+        {
+          "id": "N050",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+          "publicado": "2026-11-23",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+        },
+        {
+          "id": "N063",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Libya: UN mission urges probe into Benghazi port attacks",
+          "publicado": "2026-11-23",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168857"
+        }
+      ],
+      "cobertura": {
+        "fontes": 4,
+        "artigos": 7,
+        "campos": 4
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global",
+      "titulo": "Fracasso da COP31 expõe fraturas geopolíticas e impasse no financiamento climático",
+      "paises_iso3": [
+        "TUR",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N018",
+        "N049",
+        "N054",
+        "N064",
+        "N066"
+      ],
+      "fatos_verificables": [
+        "A cúpula da COP31 em Antalya, Turquia, encerrou-se sem a aprovação de um pacto global final após dois dias de prorrogação (segundo N018, N049, N054, N066).",
+        "A União Europeia recusou qualquer acordo que não determinasse explicitamente a transição para fora dos combustíveis fósseis, enquanto países produtores como Arábia Saudita e Rússia se opuseram a essa formulação (segundo N018, N049, N054).",
+        "Os Estados Unidos não enviaram delegação oficial ao evento devido à decisão do governo Trump de retirar o país das negociações climáticas internacionais (segundo N018, N049).",
+        "Enquanto as negociações ocorriam, Donald Trump, Xi Jinping e Vladimir Putin emitiram uma declaração conjunta em Shenzhen prevendo o aumento da produção de petróleo refinado (segundo N018).",
+        "Cerca de 130 governos apoiaram a exigência de linguagem explícita sobre o afastamento dos combustíveis fósseis (segundo N018)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública ocidental (BBC, NPR) enfatizou o impasse diplomático em torno das palavras sobre combustíveis fósseis e a fratura da governança internacional. A ONU (UN News) enquadrou o resultado como um fracasso dos governos em responder à urgência científica e defendeu a justiça climática. Delegados de países árabes e da Rússia (citados pela BBC) enquadraram a disputa na responsabilidade histórica do Norte industrializado e denunciaram o financiamento baseado em empréstimos como mecanismo de dependência colonial.",
+      "citacao": "The transition away from fossil fuels in the real world is inevitable",
+      "citacao_fonte_id": "N054",
+      "contexto_historico": "O processo multilateral sobre mudança do clima assenta-se no consenso entre cerca de 200 países. Embora o Acordo de Paris de 2015 tenha estabelecido a meta de limitar o aquecimento global a 1,5 °C, e a COP28 em Dubai tenha registrado compromisso de transição fora dos combustíveis fósseis, as divergências sobre financiamento aos países em desenvolvimento permanecem um ponto central de atrito.",
+      "relacoes_de_trabalho": "A reestruturação da matriz energética incide sobre a divisão internacional do trabalho. O encerramento do uso de hidrocarbonetos sem financiamento adequado ameaça provocar destruição de empregos nas regiões dependentes do extrativismo fóssil no Sul global. A transferência de encargos por meio de empréstimos restringe a capacidade estatal de assegurar uma transição justa para a classe trabalhadora periférica.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se à crítica do delegado russo ao financiamento climático baseado em empréstimos, enquadrado como mecanismo de dependência."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a necessidade material de contenção do aquecimento global e a dependência estrutural da acumulação de capital baseada na extração e queima de combustíveis fósseis.",
+      "analise_materialista": "A leitura materialista sugere que o impasse na COP31 expressa contradições entre frações do capital vinculadas às tecnologias de descarbonização e setores estatais e privados dependentes da renda e extração de combustíveis fósseis. Enquanto países centrais exigem metas de transição sem assegurar financiamento não reembolsável às nações periféricas, a manutenção de fluxos via endividamento tende a reforçar a subordinação do Sul global. Além disso, a ausência de delegação oficial dos EUA e a cooperação paralela entre EUA, China e Rússia para ampliação de derivados de petróleo em Shenzhen indicam a prevalência dos interesses nacionais de acumulação energética sobre os acordos multilaterais da ONU.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional sustenta que o fracasso decorreu de regras processuais inadequadas, em especial a regra do consenso entre quase 200 países, o que permitiu que um grupo minoritário de estados produtores de petróleo vetasse a deliberação da maioria.",
+      "hipoteses": [
+        "A paralisia das negociações no âmbito da COP impulsionará acordos climáticos paralelos em blocos regionais ou minilaterais."
+      ],
+      "limites_da_evidencia": "Os dados disponíveis cobrem declarações públicas e relatos de imprensa sobre as reuniões da COP31, sem acesso aos detalhes das negociações a portas fechadas sobre fluxos financeiros.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Removido o indicador de comércio exterior da Turquia por não sustentar diretamente a análise do impasse no financiamento climático global.",
+        "Ajustado o tom da análise materialista para enfatizar o caráter interpretativo da contradição entre acumulação fóssil e governança multilateral.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N018",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "What failure of COP31 reveals about a divided world",
+          "publicado": "2026-11-23",
+          "url": "https://www.bbc.co.uk/news/articles/cky970n83rvjo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N049",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
+          "publicado": "2026-11-23",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+        },
+        {
+          "id": "N054",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Climate change talks fall apart in final hours over fossil fuels",
+          "publicado": "2026-11-22",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6046195/cop31-climate-talks-close-disappointment"
+        },
+        {
+          "id": "N064",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Guterres laments COP31 outcome, urges climate justice from Barbados",
+          "publicado": "2026-11-22",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168856"
+        },
+        {
+          "id": "N066",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "COP31 ends without climate pact as UN chief warns there is ‘no ambiguity in the science’",
+          "publicado": "2026-11-22",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168855"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 5,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Sanções financeiras dos EUA e retaliação militar iraniana acentuam conflito regional",
+      "paises_iso3": [
+        "IRN",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N004",
+        "N009",
+        "N036"
+      ],
+      "fatos_verificables": [
+        "O Departamento do Tesouro dos EUA aplicou sanções a mais de duas dúzias de empresas de fachada, casas de câmbio e executivos ligados ao sistema bancário paralelo do Irã sob a Operação Economic Outcast (segundo N004).",
+        "Segundo autoridades dos EUA, a campanha de sanções levou o rial iraniano a novas mínimas e impulsionou a inflação no país para cerca de 90% (segundo N004).",
+        "O Irã retomou ataques a alvos militares dos EUA e instalações civis em países do Golfo (segundo N009).",
+        "Tribunais iranianos ordenaram que os EUA paguem US$ 290 bilhões em reparações por ações históricas contra o país (segundo N036)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A cobertura norte-americana enquadra as sanções como esforço legítimo para desmantelar redes financeiras ilícitas de um regime adverso. Veículos do Catar e da França destacam o impacto regional dos ataques retaliatórios do Irã e as medidas judiciais de Teerã contra o cerco econômico e a presença militar dos EUA.",
+      "citacao": "Iran's shadow banking system is the last financial lifeline",
+      "citacao_fonte_id": "N004",
+      "contexto_historico": "O confronto entre Estados Unidos e Irã envolve décadas de sanções econômicas, pressões diplomáticas e conflitos indiretos. O uso da infraestrutura bancária internacional ancorada no dólar busca restringir a capacidade do Estado iraniano de transacionar divisas e comercializar hidrocarbonetos no mercado global.",
+      "relacoes_de_trabalho": "A pressão sobre o sistema cambial e a aceleração inflacionária corroem o poder de compra dos salários da classe trabalhadora iraniana. O estrangulamento do comércio formal tende a expandir o trabalho informal e a precarização das condições de vida.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se ao uso de sanções bancárias e bloqueios de divisas como formas de coerção e estrangulamento financeiro."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Explica a tentativa de limitação da autonomia de um Estado mediante instrumentos econômicos, financeiros e militares."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a centralidade do dólar usada como ferramenta de coerção geoeconômica e as tentativas do Estado iraniano de preservar vias materiais de comercialização e reprodução econômica.",
+      "analise_materialista": "A análise materialista indica que o bloqueio às casas de câmbio e empresas do setor petroquímico iraniano utiliza a centralidade do sistema financeiro controlado pelos EUA como mecanismo de coerção geoeconômica e estrangulamento da receita estatal. Ao limitar o acesso de Teerã a divisas, a estratégia de sanções transfere os custos do conflito geopolítico para a população trabalhadora via desvalorização cambial e surto inflacionário. Em contrapartida, o Estado iraniano responde mediante ações militares contra infraestruturas e bases no Golfo, além de demandas de reparação jurídica, evidenciando como a disputa por reprodução econômica e soberania desdobra-se em aperto militar e instabilidade regional.",
+      "explicacoes_alternativas": "A perspectiva realista de relações internacionais argumenta que as sanções financeiras e a presença militar dos EUA constituem medidas de dissuasão necessárias para conter ações desestabilizadoras e o programa militar do Irã no Oriente Médio.",
+      "hipoteses": [
+        "A intensificação das sanções financeiras impulsionará o uso de rotas de liquidação alternativas fora do sistema bancário ocidental."
+      ],
+      "limites_da_evidencia": "A extensão exata dos danos causados pelos ataques no Golfo e a dimensão precisa dos fluxos financeiros informais iranianos não contam com verificação independente nas fontes disponíveis.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Removido o PIB dos EUA de dados_selecionados para manter foco estrito no país sancionado (Irã), conforme regras de integridade.",
+        "Ajustado a redação do fato sobre a inflação de 90% para deixar explícito que se trata de uma estimativa/alegação atribuída a autoridades dos EUA.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N004",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+          "publicado": "2026-11-23",
+          "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss"
+        },
+        {
+          "id": "N009",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Iran hits US bases and civilian sites in the Gulf after a lull",
+          "publicado": "2026-11-23",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss"
+        },
+        {
+          "id": "N036",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Iran's courts order US to pay $290 billion in damages",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 3,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRN",
+          "pais": "Iran, Islamic Rep.",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 39.5225758630272,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a proporção de emprego vulnerável no país submetido a sanções financeiras."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Acordo CEPA entre União Europeia e Indonésia e a disputa por insumos estratégicos",
+      "paises_iso3": [
+        "IDN"
+      ],
+      "fontes_ids": [
+        "N047"
+      ],
+      "fatos_verificaveis": [
+        "A União Europeia e a Indonésia assinaram o Acordo de Parceria Econômica Abrangente (CEPA) e o Acordo de Proteção de Investimentos (IPA), visando reduzir barreiras comerciais e atrair investimentos em veículos elétricos, eletrônicos e produtos farmacêuticos, segundo a Deutsche Welle.",
+        "O pacto prevê a eliminação de tarifas sobre cerca de 98% das exportações da UE para a Indonésia e inclui um protocolo dedicado ao óleo de palma para abordar questões socioambientais, segundo a Deutsche Welle."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle enquadra o acordo como um novo capítulo de cooperação liberal, destacando a meta europeia de diversificar parceiros diante de dificuldades comerciais com a China e os EUA, além da estimativa de economia tarifária para empresas europeias.",
+      "citacao": "in a time when others are closing their doors, we keep ours open.",
+      "citacao_fonte_id": "N047",
+      "contexto_historico": "As negociações do CEPA duraram quase dez anos, tendo as preocupações ambientais e de desmatamento ligadas à produção de óleo de palma como um dos principais obstáculos regulatórios.",
+      "relacoes_de_trabalho": "A integração comercial e a atração de investimentos estrangeiros incidem sobre uma estrutura de mercado de trabalho indonésio com elevada proporção de emprego vulnerável.",
+      "referencial": [
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "O conceito de mercado mundial ajuda a examinar como acordos de livre comércio expandem a circulação cosmopolita de mercadorias e inserem economias periféricas em novas cadeias de valor."
+        },
+        {
+          "ficha_id": "T015",
+          "conceito": "Exportação de capital",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 4",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+          "trecho": "Typical of the latest stage of capitalism, when monopolies rule, is the export of capital",
+          "idioma": "en",
+          "como_se_aplica": "A exportação de capital auxilia na compreensão do interesse de blocos centrais em assegurar garantias jurídicas de investimento em setores estratégicos da periferia."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a busca do capital europeu por insumos industriais e a demanda indonésia por vazão de suas exportações primárias sem barreiras regulatórias.",
+      "analise_materialista": "A leitura materialista sugere que a conclusão do acordo responde à necessidade da União Europeia de diversificar fornecedores de insumos estratégicos frente a tensões comerciais com EUA e China. Para a Indonésia, a eliminação de tarifas favorece exportações de base agrícola, como óleo de palma, enquanto o acordo de investimento blinda o capital europeu em setores de alta tecnologia. A fonte única exige cautela analítica sobre os termos contratuais.",
+      "explicacoes_alternativas": "A interpretação liberal sustenta que o tratado representa um avanço multilateral focado no ganho mútuo, na criação de empregos e no alinhamento de padrões de sustentabilidade ambiental entre os parceiros.",
+      "hipoteses": [
+        "O protocolo sobre óleo de palma pode transferir os custos de adequação regulatória prioritariamente para pequenos produtores indonésios."
+      ],
+      "limites_da_evidencia": "A análise fundamenta-se em uma única notícia de imprensa europeia, sem acesso ao texto final do acordo ou a outras coberturas jornalísticas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a análise materialista para manter tom hipotético e concisão diante de fonte única.",
+        "Ajustada a redação dos fatos e do status de checagem conforme as regras de integridade."
+      ],
+      "fontes": [
+        {
+          "id": "N047",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "EU and Indonesia sign trade deal",
+          "publicado": "2026-11-21",
+          "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IDN",
+          "pais": "Indonesia",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 43.3912070511204,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mede o grau de abertura e inserção do comércio exterior na economia indonésia."
+        },
+        {
+          "pais_iso3": "IDN",
+          "pais": "Indonesia",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 49.9563947518921,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica o elevado percentual de emprego vulnerável na estrutura ocupacional do país."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Assistência financeira da Índia ao Nepal e disputa geoestratégica na Ásia do Sul",
+      "paises_iso3": [
+        "IND",
+        "NPL"
+      ],
+      "fontes_ids": [
+        "N020",
+        "N039"
+      ],
+      "fatos_verificaveis": [
+        "A Índia anunciou um pacote de apoio financeiro de 1,6 bilhão de dólares ao Nepal para reconstrução pós-inundações e infraestrutura, composto por doações e linhas de crédito, segundo a BBC e a Deutsche Welle.",
+        "Os dois países concordaram em expandir a conectividade rodoviária e ferroviária e conceder ao Nepal acesso aos portos indianos de Kandla e Paradip, mantendo pendentes divergências territoriais e de rotas aéreas, conforme a BBC e a DW."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A BBC salienta o contraste geracional entre os líderes e as preocupações de segurança indianas relativas aos aeroportos nepaleses com presença chinesa. A Deutsche Welle enfatiza a opção pragmática do primeiro-ministro do Nepal em focar nas demandas socioeconômicas e de reconstrução imediatas.",
+      "citacao": "treated as an equal by its powerful neighbours",
+      "citacao_fonte_id": "N020",
+      "contexto_historico": "O Nepal é um país sem litoral localizado entre Índia e China, com histórico de dependência comercial em relação a Nova Deli e pendências territoriais nas regiões de Kalapani, Lipulekh e Limpiyadhura.",
+      "relacoes_de_trabalho": "A reduzida base industrial do Nepal e o impacto de desastres naturais mantêm a maior parte de sua força de trabalho dependente do setor primário, de empregos vulneráveis e da migração laboral.",
+      "referencial": [
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar como Estados politicamente soberanos mantêm dependência econômica e infraestrutural em relação a potências regionais vizinhas."
+        },
+        {
+          "ficha_id": "T015",
+          "conceito": "Exportação de capital",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 4",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+          "trecho": "Typical of the latest stage of capitalism, when monopolies rule, is the export of capital",
+          "idioma": "en",
+          "como_se_aplica": "Auxilia a examinar a concessão de empréstimos e linhas de crédito como instrumento de vinculação econômica e projeção de influência em países periféricos."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a urgência nepalesa de obter recursos externos para reconstrução e a assimetria estrutural de poder e infraestrutura em relação à Índia.",
+      "analise_materialista": "A leitura materialista sugere que a concessão de crédito e doações por Nova Deli atua para integrar a infraestrutura do Nepal à economia indiana e mitigar a expansão da influência chinesa na região. Devido ao déficit de infraestrutura e à necessidade de reconstrução estimada em 4,8 bilhões de dólares, o governo nepalês prioriza o fluxo de capital e a vazão portuária, congelando temporariamente disputas territoriais. A retenção de acordos aéreos pela Índia indica a contenção estratégica contra projetos com participação de capital chinês.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional sustenta que o acordo expressa cooperação diplomática pragmática e solidariedade humanitária voltada à recuperação do Nepal após desastres naturais.",
+      "hipoteses": [
+        "A hesitação indiana em liberar espaço aéreo visa desencorajar o uso de infraestruturas aeroportuárias construídas com capital chinês."
+      ],
+      "limites_da_evidencia": "As reportagens não detalham as taxas de juros nem as condicionalidades específicas das linhas de crédito concedidas pela Índia.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a análise materialista para garantir rastreabilidade direta aos fatos e dados reportados.",
+        "Confirmada a precisão do uso das fichas teóricas sem atribuir opiniões anacrônicas aos autores.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N020",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "India pledges $1.6bn to Nepal in reset of ties",
+          "publicado": "2026-11-23",
+          "url": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N039",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+          "publicado": "2026-11-23",
+          "url": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "NPL",
+          "pais": "Nepal",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 76.9782128968763,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a elevada proporção de trabalhadores em condições vulneráveis no Nepal."
+        },
+        {
+          "pais_iso3": "IND",
+          "pais": "India",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 3956067115771.63,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia a marcante disparidade de escala econômica entre Índia e Nepal."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Greve geral paralisa transportes e serviços na Bélgica contra plano de austeridade fiscal",
+      "paises_iso3": [
+        "BEL"
+      ],
+      "fontes_ids": [
+        "N024",
+        "N035"
+      ],
+      "fatos_verificables": [
+        "Uma greve contra medidas de austeridade paralisou o tráfego aéreo nos aeroportos de Zaventem (Bruxelas) e Charleroi, além de afetar severamente o metrô da capital, escolas e serviços públicos na Bélgica (segundo BBC World e France 24).",
+        "O porta-voz do Aeroporto de Bruxelas informou a operação cancelada de 404 voos, afetando mais de 50.000 passageiros (segundo BBC World).",
+        "O primeiro-ministro Bart De Wever manteve negociações com a coalizão governamental de cinco partidos para aprovar um orçamento de corte de custos, enfrentando oposição do partido socialista Vooruit quanto a reduções em pensões e saúde (segundo BBC World e France 24)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "BBC World detalha os impactos operacionais e o impasse político interno na coalizão governamental belga, dando voz a passageiros, professores e líderes sindicais. France 24 enfatiza o ultimato temporal assumido pelo primeiro-ministro para pactuar o orçamento de cortes até o fim do ano sob risco de colapso do governo.",
+      "citacao": "no more money is being invested in education",
+      "citacao_fonte_id": "N024",
+      "contexto_historico": "A Bélgica apresenta histórico recorrente de governos de coalizão fragilizados e complexas negociações fiscais para cumprimento das regras de endividamento da União Europeia. As políticas de contenção de gastos públicos e reformas previdenciárias têm sido objeto de contestação contínua pelas centrais sindicais belgas, como a FGTB e a CSC, em períodos de elevação do custo de vida e ajuste fiscal.",
+      "relacoes_de_trabalho": "A mobilização envolveu setores estratégicos como controladores de tráfego aéreo, operadores de transporte urbano e trabalhadores da educação e serviços públicos. Os sindicatos protestam contra a degradação dos serviços públicos, propostas de cortes em pensões e saúde, e medidas de flexibilização patronal, como a eliminação de compensações para feriados que caem em fins de semana.",
+      "referencial": [
+        {
+          "ficha_id": "T012",
+          "conceito": "A luta de classes como motor da história",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "is the history of class struggles",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra o conflito de classes direto entre os trabalhadores mobilizados e o Estado como gestor das exigências de consolidação fiscal."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a exigência estatal-capitalista de ajuste fiscal para redução dos custos de endividamento e a resistência da classe trabalhadora à perda de direitos e à degradação dos serviços públicos.",
+      "analise_materialista": "A paralisação geral na Bélgica expõe a contradição estrutural do capitalismo europeu contemporâneo na gestão de suas crises orçamentárias. Pressionado por parâmetros fiscais, o Estado busca recompor suas contas descarregando o ônus sobre a classe trabalhadora, por meio do contingenciamento de gastos em educação, saúde e previdência social. A leitura materialista revela que a disputa política no interior da coalizão de governo reflete o conflito distributivo fundamental: as frações dominantes tentam preservar a solvência financeira do Estado e a rentabilidade do capital sem recorrer a impostos progressivos sobre a riqueza, enquanto os trabalhadores utilizam a greve para interromper a circulação e forçar a preservação do fundo público social.",
+      "explicacoes_alternativas": "Analistas de perspectiva liberal-institucional argumentam que a consolidação fiscal é indispensável para assegurar a sustentabilidade das contas públicas e evitar o aumento do custo dos empréstimos soberanos, sustentando que sem contenção de despesas o país arrisca a perda de estabilidade econômica no longo prazo.",
+      "hipoteses": [
+        "A inflexibilidade do partido Vooruit e a pressão sindical podem provocar a dissolução da coalizão governamental caso não haja taxação sobre fortunas."
+      ],
+      "limites_da_evidencia": "Os relatos não apresentam o detalhamento numérico completo das metas de corte orçamentário pretendidas pelo primeiro-ministro Bart De Wever.",
+      "confianca": "média",
+      "revisao_notas": [
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N024",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Flights cancelled in Belgium due to cost-of-living strike",
+          "publicado": "2026-11-23",
+          "url": "https://www.bbc.co.uk/news/articles/cwdr155e2d05o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N035",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Airports, public transport shut down amid national strike in Belgium",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/video/20261123-airports-public-transport-shut-down-amid-national-strike-in-belgium"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "BEL",
+          "pais": "Belgium",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 5.906,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a taxa de desemprego oficial no mercado de trabalho belga."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Trabalhadores do setor têxtil em Bangladesh rejeitam proposta patronal e mantêm greves por reajuste",
+      "paises_iso3": [
+        "BGD"
+      ],
+      "fontes_ids": [
+        "N012"
+      ],
+      "fatos_verificables": [
+        "Representantes dos trabalhadores têxteis de Bangladesh rejeitaram a proposta de piso salarial apresentada pelos donos de fábricas no conselho salarial promovido pelo governo (segundo Al Jazeera).",
+        "O salário mínimo atual da categoria é de cerca de 12.500 takas (US$ 100) por mês, enquanto os trabalhadores exigem 32.000 takas (US$ 258) para o piso regular e 30.000 takas (US$ 241) para aprendizes (segundo Al Jazeera).",
+        "A indústria têxtil de Bangladesh gera cerca de US$ 38 bilhões anuais, responde por quatro quintos das receitas de exportação do país e emprega cerca de quatro milhões de pessoas (segundo Al Jazeera).",
+        "Paralisações fecharam cerca de 500 das mais de 4.000 fábricas do país, e a associação patronal BGMEA estimou perdas de US$ 428 milhões na produção de 317 fábricas entre 1º e 18 de novembro (segundo Al Jazeera)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera contrasta o enorme volume de receitas de exportação da indústria têxtil em Bangladesh (US$ 38 bilhões anuais) com os salários extremamente baixos pagos aos operários, destacando o uso patronal da legislação de 'sem trabalho, sem salário' para sufocar financeiramente os grevistas.",
+      "citacao": "falls far short of what we have been demanding",
+      "citacao_fonte_id": "N012",
+      "contexto_historico": "Bangladesh consolidou-se como o segundo maior exportador mundial de vestuário, atraindo marcas transnacionais devido aos baixos custos trabalhistas. As negociações periódicas do salário mínimo no país são marcadas por intensos conflitos e repressão, tendo a revisão de 2023 fixado o piso em 12.500 takas sob forte protesto sindical.",
+      "relacoes_de_trabalho": "O setor emprega cerca de 4 milhões de pessoas sob intensa superexploração. Diante da inflação sobre alimentos e moradia, a legislação trabalhista permite aos industriais invocar dispositivos de 'sem trabalho, sem salário', fechando plantas e cortando vencimentos para reprimir a mobilização da categoria.",
+      "referencial": [
+        {
+          "ficha_id": "T002",
+          "conceito": "Grau de exploração do trabalho (mais-valia)",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 9",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch09.htm",
+          "trecho": "an exact expression for the degree of exploitation of labour-power by capital",
+          "idioma": "en",
+          "como_se_aplica": "Explica a elevada taxa de extração de mais-valia evidente na discrepância entre o volume exportado e os salários de subsistência."
+        },
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Demonstra como a produção têxtil local é subordinada ao mercado mundial e à divisão internacional do trabalho."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a necessidade patronal e transnacional de reter baixos custos salariais para garantir competitividade global e a necessidade dos trabalhadores de obter rendimentos mínimos para sua sobrevivência física.",
+      "analise_materialista": "De forma preliminar, o conflito na indústria têxtil de Bangladesh reflete a posição do país na divisão internacional do trabalho como provedor de mão de obra barata para as cadeias globais. A acumulação do capital fabril local e global apoia-se na superexploração do trabalho operário. A recusa patronal em conceder reajustes, respaldada por mecanismos legais de suspensão salarial durante paralisações, indica como o aparato institucional atua para reprimir o preço da força de trabalho e manter margens de lucro no mercado mundial.",
+      "explicacoes_alternativas": "Representantes patronais sustentam que aumentos salariais expressivos inviabilizariam financeiramente as fábricas locais e comprometeriam a competitividade das exportações do país frente a outros concorrentes mundiais, podendo levar ao encerramento definitivo de empresas e ao desemprego massivo.",
+      "hipoteses": [
+        "A prolongada suspensão da produção pode acelerar a intervenção direta do governo no conselho salarial ou levar à transferência de encomendas para outros centros produtivos da Ásia."
+      ],
+      "limites_da_evidencia": "A análise baseia-se em uma única fonte noticiosa que não divulga o valor numérico exato da contraproposta sigilosa apresentada pelos donos de fábricas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Análise materialista encurtada para menos de 80 palavras e sinalizada como preliminar devido à presença de fonte única (Al Jazeera English)."
+      ],
+      "fontes": [
+        {
+          "id": "N012",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Protesting Bangladesh garment workers reject pay offer",
+          "publicado": "2026-11-23",
+          "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "BGD",
+          "pais": "Bangladesh",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 57.3482885655112,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o elevado patamar de vulnerabilidade ocupacional na força de trabalho de Bangladesh."
+        }
+      ],
+      "numeros_nao_verificados": [
+        "4 milhões"
+      ]
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Incursão aérea russa e ataque ucraniano a cargueiro no Mar Báltico",
+      "paises_iso3": [
+        "FIN",
+        "RUS",
+        "UKR"
+      ],
+      "fontes_ids": [
+        "N033",
+        "N046"
+      ],
+      "fatos_verificaveis": [
+        "A Finlândia convocou o embaixador russo após suspeita de violação de seu espaço aéreo por um helicóptero russo perto de Loviisa em 21 de novembro de 2026.",
+        "O incidente ocorreu poucas horas após o navio cargueiro russo Sparta II, sancionado pelos EUA, ser atingido por drones ucranianos no Golfo da Finlândia e derivar para águas finlandesas."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "Fontes públicas ocidentais enquadram o evento destacando a violação da soberania finlandesa após a adesão à OTAN e sustentam o direito de defesa da Ucrânia contra a agressão russa.",
+      "citacao": "A Russian helicopter is suspected of violating Finnish airspace",
+      "citacao_fonte_id": "N046",
+      "contexto_historico": "A entrada da Finlândia na OTAN transformou o Mar Báltico em zona direta de atrito geopolítico entre a aliança atlântica e a Rússia, intensificando a vigilância sobre a rota de suprimentos russa para o exclave de Kaliningrado.",
+      "relacoes_de_trabalho": "Trabalhadores da marinha mercante operam em condições de alto risco em zonas de conflito, onde navios civis sancionados são integrados à logística militar de Estados em guerra.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "O conceito auxilia a analisar a disputa geopolítica entre potências por posições e rotas estratégicas no Mar Báltico."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a expansão da infraestrutura militar da OTAN e a manutenção do acesso marítimo e aéreo estratégico da Rússia no Báltico.",
+      "analise_materialista": "O transbordamento das hostilidades ucranianas para o Golfo da Finlândia evidencia como o conflito geopolítico reconfigura o controle das rotas comerciais e militares marítimas. A utilização do Sparta II, embarcação sob sanções norte-americanas, ilustra a convergência entre logística comercial e aparato de defesa estatal em contexto de guerra de atrito. A incursão do helicóptero russo, descrita pelo governo finlandês como possível missão de resgate ou monitoramento, reflete o acirramento da vigilância fronteiriça após o alargamento da OTAN. A leitura materialista indica que episódios de fricção na fronteira finlandesa derivam da disputa estrutural pela contenção de linhas de suprimento estratégicas.",
+      "explicacoes_alternativas": "A abordagem liberal-institucional sustenta que a reação da Finlândia decorre estritamente do dever soberano de defender a integridade territorial e cumprir normas de direito internacional violadas por Moscou.",
+      "hipoteses": [
+        "A incursão do helicóptero russo visava monitorar a operação de evacuação e evitar a apreensão da carga do Sparta II por autoridades finlandesas."
+      ],
+      "limites_da_evidencia": "As notícias não detalham o tipo de carga transportada pelo cargueiro nem a intenção operacional exata do helicóptero russo, além de não registrarem a versão oficial do governo russo.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixada a confiança de alta para média devido à ausência da versão oficial russa sobre a suposta incursão aérea e sobre o estado do navio.",
+        "Ajustada a redação de como_se_aplica do referencial V. I. Lenin, Imperialismo, fase superior do capitalismo para evitar atribuir conclusões sobre o fato atual diretamente ao autor.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N033",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Finland summons Russian ambassador after suspected airspace violation",
+          "publicado": "2026-11-23",
+          "url": "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation"
+        },
+        {
+          "id": "N046",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Russian helicopter suspected of violating Finnish airspace",
+          "publicado": "2026-11-21",
+          "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América do Norte",
+      "titulo": "Prisão de líder cartelar e escalada de violência armada no México",
+      "paises_iso3": [
+        "MEX"
+      ],
+      "fontes_ids": [
+        "N025",
+        "N045",
+        "N058"
+      ],
+      "fatos_verificaveis": [
+        "Forças especiais mexicanas prenderam Fausto Isidro Meza Flores ('Chapo Isidro') em Guasave, Sinaloa, em operação realizada após coordenação de inteligência com órgãos dos EUA.",
+        "A operação e as retaliações posteriores causaram mortes (incluindo quatro soldados mexicanos) e deixaram barricadas e veículos queimados pela cidade."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "As fontes britânica, alemã e norte-americana tratam a captura como vitória de segurança e cooperação bilateral, ressaltando o pânico vivido pela população de Guasave.",
+      "citacao": "Heavy gunfire, helicopters and burning trucks marked Mexico's Sinaloa state",
+      "citacao_fonte_id": "N058",
+      "contexto_historico": "A estratégia de captura de lideranças de cartéis no México, impulsionada em conjunto com Washington, gera historicamente a fragmentação de grupos criminosos e a intensificação da violência por controle territorial.",
+      "relacoes_de_trabalho": "A informalidade e a vulnerabilidade social no campo e nas periferias mexicanas fornecem a base social recrutada como exército de reserva para as operações armadas dos cartéis.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "O conceito auxilia na análise do emprego do aparato militar-policial do Estado na contenção de grupos armados rivais no território."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Permite examinar como um Estado formalmente soberano atua sob forte pressão política e coordenação de inteligência da potência central."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a imposição de operações de segurança sob pressão externa dos EUA e a incapacidade do Estado de eliminar as bases socioeconômicas do crime organizado.",
+      "analise_materialista": "A prisão de Meza Flores evidencia a relação de dependência securitária entre o governo mexicano e os EUA. O narcotráfico opera como uma cadeia produtiva transnacional de mercadorias ilícitas altamente rentável, movida pela demanda do mercado consumidor estadunidense e alimentada pela disponibilidade de mão de obra desprovida de alternativas econômicas formais. A resposta militarizada do Estado, centrada na eliminação física ou captura de lideranças, não altera a estrutura de acumulação desse capital ilícito; em vez disso, desencadeia disputas de facção e retaliações armadas que atingem a população trabalhadora local.",
+      "explicacoes_alternativas": "Análises de segurança pública liberal enfatizam que a captura de alvos de alto perfil desarticula o comando estratégico das organizações criminosas e fortalece o Estado de direito.",
+      "hipoteses": [
+        "A pressão de Washington por ações decisivas contra cartéis acelerou a execução da operação de captura pelas forças armadas mexicanas."
+      ],
+      "limites_da_evidencia": "Não há informações detalhadas sobre os termos do acordo de inteligência entre os órgãos dos EUA e do México nem confirmação de pedido imediato de extradição.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixada a confiança de alta para média em razão da ausência de detalhes operacionais sobre a coordenação entre EUA e México.",
+        "Ajustada a redação dos campos como_se_aplica dos referenciais V. I. Lenin, O Estado e a Revolução e V. I. Lenin, Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista) para assegurar o uso estritamente analítico das categorias.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N025",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Mexican soldiers attacked in wake of drug lord's arrest",
+          "publicado": "2026-11-23",
+          "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N045",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Mexican special forces arrest drug kingpin 'Chapo Isidro'",
+          "publicado": "2026-11-21",
+          "url": "https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N058",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Cartel leader captured in northern Mexico in a bloody firefight that left 11 dead",
+          "publicado": "2026-11-21",
+          "url": "https://www.npr.org/2026/11/21/nx-s1-6049672/cartel-boss-el-chapo-isidro-detained"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 3,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "MEX",
+          "pais": "Mexico",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 25.3099549208398,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mede a proporção da força de trabalho em inserção vulnerável, base de recrutamento para redes ilícitas."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Disputa pelo Orçamento da UE: Imposto Digital e Fraturas do Capitalismo Europeu",
+      "paises_iso3": [
+        "FRA"
+      ],
+      "fontes_ids": [
+        "N048"
+      ],
+      "fatos_verificaveis": [
+        "O Presidente do Conselho Europeu, António Costa, propôs uma nova minuta do orçamento da UE (2028-2034) reduzida em 204 bilhões de euros em relação ao rascunho anterior para atender a críticas de membros do norte europeu, segundo a Deutsche Welle.",
+        "A proposta inclui uma taxa de 3% sobre o faturamento líquido anual de atividades digitais para empresas com receita digital a partir de 50 milhões de euros na UE e 750 milhões de euros no mundo, conforme a Deutsche Welle.",
+        "A França rejeitou a proposta de Costa alegando que ela fica muito aquém do necessário para garantir o suporte de renda a agricultores via Política Agrícola Comum (PAC), segundo a Deutsche Welle."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A cobertura da mídia pública alemã (DW) enquadra a proposta orçamentária como um esforço de mediação pragmática entre exigências de austeridade do norte europeu e prioridades da UE. A reação francesa é enquadrada sob o prisma da defesa dos subsídios à agricultura nacional, destacando a falta de consenso prévio.",
+      "citacao": "keep national contributions at a reasonable level",
+      "citacao_fonte_id": "N048",
+      "contexto_historico": "A negociação dos quadros financeiros plurianuais da União Europeia historicamente contrapõe países 'frugais' do norte, defensores de orçamentos enxutos, a países do sul e oeste que demandam fundos de coesão e subsídios à Política Agrícola Comum (PAC), em vigor desde a década de 1960. O avanço de multinacionais de tecnologia gerou esforços da UE para tributar receitas digitais obtidas em seu mercado interno.",
+      "relacoes_de_trabalho": "O financiamento da PAC afeta diretamente as condições de reprodução e renda do trabalho agrícola na França. A taxação proposta incide sobre corporações do setor digital cujos modelos de negócio se apoiam em intensa intermediação e trabalho plataformizado.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "O conceito de monopólio e rivalidade entre capitais auxilia no exame de tentativas estatais de tributar receitas digitais de corporações transnacionais."
+        },
+        {
+          "ficha_id": "T023",
+          "conceito": "Contradição principal",
+          "autor": "Mao Tsé-Tung",
+          "obra": "Sobre a Contradição",
+          "ano": 1937,
+          "secao": "seção 4",
+          "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+          "trecho": "one of them is necessarily the principal contradiction",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar a contradição entre a recomposição das receitas públicas do bloco e o financiamento de frações nacionais do capital produtivo e agrário."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a necessidade de financiamento do orçamento comunitário europeu via tributação do capital transnacional e as disputas entre Estados-membros pela distribuição e retenção de fundos públicos.",
+      "analise_materialista": "Com base em fonte única (DW), a proposta de um imposto digital sobre grandes empresas de tecnologia expressa a tentativa do aparato estatal comunitário europeu de apropriar parcelas de receitas de monopólios transnacionais para aliviar as contribuições diretas dos Estados-membros. A leitura materialista sugere que a recusa imediata da França revela como o orçamento da UE funciona como arena de disputa entre frações de classe e setores econômicos: enquanto governos do norte pressionam pela contenção de gastos, o setor agrário francês depende dos subsídios da PAC para sua sustentabilidade. O arranjo institucional busca conciliar essas pressões sem alterar as estruturas do mercado comunitário.",
+      "explicacoes_alternativas": "A perspectiva liberal e institucionalista sustenta que a proposta orçamentária busca balancear a responsabilidade fiscal com a criação de recursos próprios sustentáveis, modernizando a arrecadação sem sobrecarregar os orçamentos dos Estados-membros nem sufocar a inovação tecnológica.",
+      "hipoteses": [
+        "A oposição francesa busca barganhar concessões no montante final da PAC antes da cúpula de líderes em Bruxelas.",
+        "O imposto digital enfrentará forte oposição diplomática e retaliações comerciais dos Estados Unidos, sede da maioria das gigantes de tecnologia afetadas."
+      ],
+      "limites_da_evidencia": "A análise baseia-se unicamente em um despacho da Deutsche Welle (Deutsche Welle), sem acesso ao texto oficial integral da minuta ou às posições detalhadas dos demais Estados-membros.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a terminologia na análise materialista para evitar uso impreciso do termo mais-valia em relação a tributação estatal.",
+        "Suavizado o tom das inferências da análise para refletir caráter interpretativo baseado em fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N048",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "EU takes aim at tech giants in tax proposal",
+          "publicado": "2026-11-21",
+          "url": "https://www.dw.com/en/eu-takes-aim-at-tech-giants-in-tax-proposal/a-80009255?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Impasse no Mar do Sul da China: Assimetria Geopolítica e Rotas de Comércio Global",
+      "paises_iso3": [
+        "CHN",
+        "PHL"
+      ],
+      "fontes_ids": [
+        "N043"
+      ],
+      "fatos_verificaveis": [
+        "Filipinas e China não alcançaram um acordo final sobre o Código de Conduta para o Mar do Sul da China durante a presidência filipina da ASEAN em 2026, apesar de 80% do texto ter sido negociado, segundo a Deutsche Welle.",
+        "Os principais pontos de desacordo incluem a indefinição sobre o caráter juridicamente vinculante do código e sua abrangência geográfica, conforme peritos citados na Deutsche Welle.",
+        "A ASEAN opera sob o princípio do consenso, permitindo que divergências entre membros alinhados à China (como Camboja e Laos) e membros em confronto (como Filipinas e Vietnã) impeçam posições unificadas, segundo a Deutsche Welle."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública alemã (DW) enquadra o impasse como um cálculo estratégico da China para evitar restrições legais e manter sua flexibilidade, sublinhando a fragmentação interna da ASEAN e o ceticismo de especialistas ocidentais quanto à eficácia de um código não vinculante.",
+      "citacao": "no consensus on whether the code of conduct should be legally binding",
+      "citacao_fonte_id": "N043",
+      "contexto_historico": "A negociação por um Código de Conduta no Mar do Sul da China arrasta-se há 12 anos. A região abriga rotas marítimas de navegação comercial de grande relevância global, zonas de pesca e reservas potenciais de recursos energéticos, sobre as quais a China projeta reivindicações territoriais.",
+      "relacoes_de_trabalho": "O conflito marítimo afeta o trabalho e a subsistência de comunidades pesqueiras locais no Sudeste Asiático, sujeitas a disputas territoriais e à concorrência com frotas de pesca industrial.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Auxilia na leitura da competição entre potências pelo controle de rotas marítimas comerciais e recursos naturais de interesse estratégico."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se ao exame da relação entre a autonomia política formal de Estados periféricos e suas assimetrias econômicas frente a potências regionais."
+        }
+      ],
+      "contradicao_principal": "A oposição entre os imperativos de segurança e controle de rotas comerciais por potências regionais e a busca de Estados dependentes pelo resguardo de territorialidade e recursos locais.",
+      "analise_materialista": "Segundo despacho único da DW (Deutsche Welle), a dificuldade de estabelecer um Código de Conduta juridicamente vinculante expressa assimetrias de poder material no Sudeste Asiático. A leitura materialista sugere que a garantia de rotas de navegação no Mar do Sul da China vincula-se ao peso do comércio exterior na economia chinesa. Pequim demonstra reticência em submeter suas ações a marcos normativos estritos que limitem sua atuação na região. Simultaneamente, a ASEAN reflete heterogeneidade de interesses: países com estreitos laços de investimento com a China evitam apoiar termos rígidos, enquanto nações costeiras buscam proteção territorial. As mediações diplomáticas enfrentam barreiras estruturais impostas pelas divergências em torno da apropriação dos recursos e rotas estratégicas.",
+      "explicacoes_alternativas": "A análise institucionalista argumenta que a ausência de um acordo decorre das complexidades normativas do direito internacional do mar e da regra de consenso da ASEAN, que dificulta a construção de confiança interpessoal e diplomática necessária para compromissos legais rígidos.",
+      "hipoteses": [
+        "A China manterá a preferência por negociações bilaterais com Estados da ASEAN para exercer maior poder de barganha econômico.",
+        "A ausência de regras vinculantes aumentará o risco de incidentes táticos envolvendo guardas costeiras no mar."
+      ],
+      "limites_da_evidencia": "Análise restrita aos fatos e interpretações relatados pela Deutsche Welle (Deutsche Welle), sem manifestação direta de documentos oficiais dos governos envolvidos.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Corrigida a chave fatos_verificables para fatos_verificaveis no esquema do item.",
+        "Ajustada a redação da análise materialista para tonalidade interpretativa adequada a relato de fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N043",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "China, ASEAN countries struggle over South China Sea code of conduct",
+          "publicado": "2026-11-22",
+          "url": "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "CHN",
+          "pais": "China",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 37.9563878652312,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": ""
+        }
+      ],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-23",
+  "gerado_em": "2026-11-23T23:47:18+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-3.6-flash",
+    "gemini-3.8-flash"
+  ],
+  "modelo": "gemini-3.6-flash, gemini-3.8-flash",
+  "fontes_consultadas": {
+    "Brasil de Fato": "erro_http_404",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_413",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "erro_http_403",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 68,
+  "textos_integrais_lidos": 25,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 36.7,
+  "aviso_metodologico": "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de leitura, não provas. Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
