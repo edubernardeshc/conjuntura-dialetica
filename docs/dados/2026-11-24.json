@@ -1,0 +1,1252 @@
+{
+  "biblioteca": {
+    "fichas_total": 38,
+    "fichas_conferidas": 38,
+    "ignoradas": []
+  },
+  "avisos_execucao": [
+    "Busca na web sem cota (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite.",
+    "Sem cota na hora da chamada (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash.",
+    "Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'."
+  ],
+  "manchete_do_dia": "Rivalidades geopolíticas e disputas por recursos intensificam pressões na economia global",
+  "resumo_executivo": "As rivalidades materiais e geopolíticas se aceleram em múltiplas frentes. No setor tecnológico, casos envolvendo Nvidia e Huawei destacam a busca por monopolização e controle financeiro. A dimensão militar expande-se com o transbordamento da guerra na Ucrânia para a Líbia, a rivalidade espacial entre OTAN e Rússia e ataques à infraestrutura ucraniana. Paralelamente, a apropriação de recursos e sanções impactam a renda petrolífera no Curdistão iraquiano, o suprimento de cobalto na RD Congo e o acesso a medicamentos no Irã.",
+  "itens": [
+    {
+      "regiao": "América do Norte",
+      "titulo": "Retorno de Jensen Huang à Nvidia e a disputa de semicondutores",
+      "paises_iso3": [
+        "USA",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N005",
+        "N015",
+        "N023",
+        "N028",
+        "N030",
+        "N032",
+        "N051"
+      ],
+      "fatos_verificaveis": [
+        "Jensen Huang reassumiu o comando da Nvidia com apoio de Donald Trump após renunciar devido a relações extraconjugais e suspeitas ligadas a desvio de chips para a China",
+        "O procurador-geral dos EUA, Todd Blanche, evitou esclarecer em coletiva se o Departamento de Justiça investigou Huang diretamente",
+        "O Departamento de Comércio dos EUA prepara sanções contra a intermediária Megaspeed e endurece restrições ao acesso chinês a semicondutores avançados"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A imprensa ocidental e comercial destaca os riscos institucionais, conflitos de interesse da Casa Branca e o alívio de Wall Street com a recuperação das ações; analistas franceses apontam a simbiose entre elites tecnológicas e o poder político; veículos chineses classificam as acusações de espionagem como caça às bruxas movida por setores hawkish de Washington.",
+      "citacao": "Nvidia is anything but a good corporate citizen",
+      "citacao_fonte_id": "N015",
+      "contexto_historico": "A indústria de semicondutores converteu-se no nó central da concorrência interimperialista contemporânea. Desde as medidas de restrição tecnológica iniciadas no final da década de 2010, Washington tem recorrido a controles de exportação do Departamento de Comércio para retardar o desenvolvimento da inteligência artificial e da infraestrutura de dados na China.",
+      "relacoes_de_trabalho": "O setor de inteligência artificial apoia-se em uma divisão do trabalho extremamente concentrada em termos de apropriação de valor. Enquanto engenheiros e projetistas de software de alto escalão nos EUA desfrutam de remunerações atreladas a ações, a montagem e a fabricação pesada dos semicondutores dependem do trabalho manufatureiro no Leste Asiático e de redes de fornecimento subordinadas às ordens das multinacionais ocidentais.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Permite compreender a formação de cartéis monopolistas na área de chips de inteligência artificial e sua imbricação orgânica com a política de poder do Estado nacional."
+        }
+      ],
+      "contradicao_principal": "A dependência da receita do monopólio tecnológico em mercados consumidores externos em oposição à estratégia estatal de isolamento e contenção geopolítica da China.",
+      "analise_materialista": "O retorno de Jensen Huang à presidência da Nvidia ilustra o peso determinante das exigências de valorização do capital financeiro sobre as diretrizes formais de segurança nacional do Estado capitalista. Como produtora quase hegemônica dos circuitos integrados indispensáveis à infraestrutura de inteligência artificial, a Nvidia transformou-se em pilar sistêmico de Wall Street. As sanções de exportação concebidas para restringir a indústria tecnológica chinesa ameaçam diretamente a taxa de lucro das grandes firmas estadunidenses, incentivando manobras de intermediação e acordos entre a elite política e executivos corporativos. A atuação da presidência em favor da cúpula da empresa evidencia como a busca pela estabilidade das bolsas de valores pode condicionar a conduta do aparato estatal.",
+      "explicacoes_alternativas": "Abordagens liberais e de governança argumentam que o retorno de Huang decorreu meramente do reconhecimento de seu valor administrativo e capacidade de inovação, indispensáveis para manter a liderança tecnológica norte-americana frente à concorrência internacional em um mercado aberto.",
+      "hipoteses": [
+        "A pressão governamental sobre a diretoria da Nvidia decorre do receio de desvalorização contínua dos fundos de índice e da carteira de ativos ligada à IA em Wall Street",
+        "A expansão de canais terceirizados em países neutros continuará sendo utilizada para contornar controles alfandegários estritos"
+      ],
+      "limites_da_evidencia": "Registros detalhados de eventuais apurações confidenciais do FBI sobre Huang e os termos exatos das conversas entre a presidência e o conselho da Nvidia permanecem sob sigilo institucional.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustadas formulações da análise para garantir estrita rastreabilidade com os fatos reportados nas matérias fornecidas.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N005",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Todd Blanche declines to confirm if Nvidia’s Jensen Huang was investigated",
+          "publicado": "2026-11-24",
+          "url": "https://www.aljazeera.com/news/2026/11/24/todd-blanche-declines-to-confirm-if-nvidias-jensen-huang-was-investigated?traffic_source=rss"
+        },
+        {
+          "id": "N015",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "US attorney general dodges questions about Nvidia investigation",
+          "publicado": "2026-11-24",
+          "url": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N023",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "What Jensen Huang's return teaches China's Xi about Trump",
+          "publicado": "2026-11-24",
+          "url": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N028",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Tech executives' investment in Trump 'clearly paying off' as Huang reinstated at Nvidia",
+          "publicado": "2026-11-24",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261124-tech-executives-investment-in-trump-clearly-paying-off-as-huang-reinstated-at-nvidia"
+        },
+        {
+          "id": "N030",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "'Quid pro quo’: Nvidia too big to fail or ‘too close to personal interest of people around Trump’?",
+          "publicado": "2026-11-24",
+          "url": "https://www.france24.com/en/quid-pro-quo-nvidia-too-big-to-fail-or-too-close-to-personal-interest-of-people-around-trump"
+        },
+        {
+          "id": "N032",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Did Nvidia knowingly send chips to China 'cutout'? Was there ‘pay-to-play’ involving Trump, Lutnick?",
+          "publicado": "2026-11-24",
+          "url": "https://www.france24.com/en/tv-shows/spotlight/20261124-did-nvidia-knowingly-send-chips-to-china-cutout-was-there-pay-to-play-involving-trump-lutnick"
+        },
+        {
+          "id": "N051",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
+          "publicado": "2026-11-24",
+          "url": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
+        }
+      ],
+      "cobertura": {
+        "fontes": 4,
+        "artigos": 7,
+        "campos": 4
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 30769700000000,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a magnitude da economia estadunidense, na qual a capitalização de mercado da Nvidia afeta diretamente os índices financeiros centrais."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global",
+      "titulo": "Condenação judicial da Huawei e a barreira da propriedade intelectual",
+      "paises_iso3": [
+        "CHN",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N007",
+        "N018"
+      ],
+      "fatos_verificaveis": [
+        "Um júri federal nos Estados Unidos condenou a Huawei por conspiração para roubo de segredos comerciais e fraude bancária em transações ligadas ao Irã",
+        "A Huawei foi absolvida da acusação central de organização criminosa (RICO), apresentada pela promotoria federal",
+        "A defesa da Huawei anunciou que recorrerá das condenações e sustentou que a rejeição da tese de organização criminosa desmantela o argumento central do governo americano"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A acusação norte-americana apresenta a empresa como instrumento desleal e sistemático de apropriação indevida de tecnologia; a defesa e a perspectiva empresarial chinesa qualificam a ação como perseguição política e uso instrumental do judiciário para conter o avanço industrial de concorrentes asiáticos.",
+      "citacao": "repudiated the central government narrative in the case",
+      "citacao_fonte_id": "N007",
+      "contexto_historico": "A ofensiva contra a Huawei recrudesceu em 2018 com o pedido de extradição e prisão de sua diretora financeira no Canadá e sua posterior inclusão na lista restritiva do comércio dos EUA. O processo insere-se na transição da empresa de fabricante de equipamentos para fornecedora líder em infraestrutura de telecomunicações e tecnologias móveis.",
+      "relacoes_de_trabalho": "O modelo produtivo da Huawei apoia-se em um massivo contingente de assalariados especializados, contando com mais de duzentos mil empregados em pesquisa e desenvolvimento e manufatura. A disputa sobre segredos industriais expõe a disputa entre centros monopolistas pelo controle do trabalho intelectual e patentes desenvolvidas por trabalhadores qualificados.",
+      "referencial": [
+        {
+          "ficha_id": "T011",
+          "conceito": "Divisão do trabalho e formas de propriedade",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "A Ideologia Alemã",
+          "ano": 1846,
+          "secao": "Parte I (Feuerbach)",
+          "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01a.htm",
+          "trecho": "just so many different forms of ownership",
+          "idioma": "en",
+          "como_se_aplica": "Serve para analisar a propriedade intelectual como forma jurídica capitalista destinada a reservar frações de valor e limitar o acesso produtivo a forças rivais."
+        }
+      ],
+      "contradicao_principal": "O uso de regras jurídicas e financeiras pelo centro imperialista para proteger monopólios de patentes frente à rápida autonomização e escalada produtiva da indústria chinesa.",
+      "analise_materialista": "O julgamento da Huawei explicita o emprego das instituições jurídicas e das normas de propriedade intelectual como instrumentos econômicos de preservação de posições monopolistas. As leis de patentes e o controle sobre fluxos bancários em dólares operam como barreiras erguidas pelas potências estabelecidas para conter o avanço técnico de concorrentes externos. A absolvição do delito de formação de quadrilha demonstra as contradições empíricas da tentativa de enquadrar o desenvolvimento industrial corporativo como mera criminalidade de tipo mafioso. Ao buscar restringir a Huawei nos mercados ocidentais e sancionar suas transações, os Estados Unidos recorrem a mecanismos estatais para compensar disputas na infraestrutura de telecomunicações.",
+      "explicacoes_alternativas": "A interpretação institucional liberal defende que o processo decorre unicamente da aplicação imparcial de leis contratuais e penais, destinadas a punir espionagem industrial e fraudes financeiras para preservar a integridade do mercado internacional.",
+      "hipoteses": [
+        "A condenação pontual nos EUA terá efeito marginal sobre as receitas globais da Huawei, dado seu reordenamento prévio para o mercado interno chinês e parceiros do Sul Global",
+        "A decisão judicial impulsionará o Estado chinês a aumentar o financiamento e a autonomia de ecossistemas próprios de inovação técnica"
+      ],
+      "limites_da_evidencia": "Detalhes de acordos confidenciais entre bancos internacionais e o Departamento de Justiça e relatórios específicos de inteligência não são abertos ao escrutínio público.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Confirmada a precisão literal da citação em inglês (Al Jazeera English) e mantida a integridade do enquadramento factual.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N007",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "China’s Huawei found guilty of trade secrets conspiracy, fraud in US trial",
+          "publicado": "2026-11-24",
+          "url": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss"
+        },
+        {
+          "id": "N018",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "publicado": "2026-11-24",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "CHN",
+          "pais": "China",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 24.7344421687689,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra o peso estrutural da produção industrial na China, base de sustentação da infraestrutura tecnológica de empresas como a Huawei."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Transbordamento da guerra na Ucrânia para a Líbia e rearranjos geopolíticos no Mediterrâneo",
+      "paises_iso3": [
+        "LBY",
+        "UKR",
+        "RUS",
+        "TUR"
+      ],
+      "fontes_ids": [
+        "N011",
+        "N054",
+        "N057",
+        "N071"
+      ],
+      "fatos_verificaveis": [
+        "A Ucrânia realizou um ataque com drones contra o navio de guerra russo Merkury atracado em Bengasi, na Líbia, segundo o presidente Volodymyr Zelenskyy (NPR World) e autoridades locais (Al Jazeera English).",
+        "O ataque causou a morte de pelo menos 10 tripulantes líbios e russos, conforme autoridades locais citadas pela imprensa (Al Jazeera English).",
+        "O comandante militar do leste líbio, Khalifa Haftar, viajou a Ancara para reuniões diplomáticas após o incidente (Al Jazeera English).",
+        "A Missão de Apoio das Nações Unidas na Líbia (UNSMIL) solicitou uma investigação independente sobre os ataques no porto de Bengasi (UN News)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A rádio pública norte-americana (NPR) enquadra a operação como parte da expansão geográfica global do conflito russo-ucraniano. A Al Jazeera enfatiza o cálculo político da Turquia e a tentativa de mediação entre as facções líbias de Trípoli e Bengasi. O governo de Trípoli condenou o uso do território líbio para operações militares estrangeiras.",
+      "citacao": "neither Russia nor Ukraine had the right to conduct military operations",
+      "citacao_fonte_id": "N011",
+      "contexto_historico": "Desde a intervenção armada da OTAN em 2011 e a derrubada de Muammar Gaddafi, a Líbia permanece dividida entre o Governo de Unidade Nacional em Trípoli (reconhecido internacionalmente e apoiado militarmente pela Turquia) e o Exército Nacional Líbrio (LNA) liderado por Khalifa Haftar no leste (apoiado por forças russas e potências regionais). O conflito iniciado na Ucrânia em 2022 expandiu-se para teatros periféricos onde ativos logísticos e militares russos se encontram vulneráveis.",
+      "relacoes_de_trabalho": "A desestruturação estatal da Líbia precarizou o mercado de trabalho local, impulsionando a informalidade e a contratação de combatentes e trabalhadores logísticos submetidos a contingentes militares estrangeiros. Na Rússia e na Ucrânia, a mobilização militar contínua afeta a composição produtiva da força de trabalho, deslocando contingentes industriais e agrícolas para o esforço de guerra.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Explica a disputa entre potências por áreas de influência, rotas marítimas e posições estratégicas no Mediterrâneo."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra como a independência formal da Líbia é limitada pela ingerência militar e política de atores externos."
+        }
+      ],
+      "contradicao_principal": "O antagonismo entre a projeção geopolítico-militar de potências externas na bacia do Mediterrâneo e a integridade territorial fragmentada do Estado líbio.",
+      "analise_materialista": "A incursão ucraniana contra posições russas na Líbia evidencia como disputas intercapitalistas centrais se desdobram em territórios periféricos desestabilizados. A Líbia, desestruturada como Estado centralizado desde 2011, converteu-se em entroncamento logístico e militar para projeção de poder geopolítico no Mediterrâneo Central. A presença naval russa em Bengasi atende à necessidade de suporte às suas redes de influência e suprimento na África, enquanto a Ucrânia busca degradar a capacidade russa fora do teatro europeu. Paralelamente, a reaproximação diplomática entre o comando do leste líbio e Ancara expressa o pragmatismo das elites locais em negociar concessões territoriais e marítimas em troca de sustentação política e reconhecimento de poder. A leitura materialista sugere que os acordos de delimitação marítima e a mediação política encobrem a disputa pela apropriação de recursos naturais e pelo controle de infraestruturas estratégicas.",
+      "explicacoes_alternativas": "Análises liberais e institucionalistas sustentam que a movimentação diplomática busca restabelecer o equilíbrio político interno na Líbia mediante a mediação de atores regionais pragmáticos, visando a estabilização institucional e a contenção da violência armada no Mediterrâneo.",
+      "hipoteses": [
+        "A aproximação de Haftar com a Turquia visa barganhar o apoio de Ancara às pretensões políticas de sua família na governança federal líbia em troca da ratificação de acordos marítimos."
+      ],
+      "limites_da_evidencia": "A existência de acordos operacionais velados entre forças ucranianas e facções locais baseia-se em declarações atribuídas a autoridades regionais, sem confirmação documental independente.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Verificada a fidelidade da citação literal e dos ids de fontes.",
+        "Ajustado o resumo da checagem para manter concisão e objetividade.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N011",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Libya’s Haftar visits Turkiye days after Ukraine hits Russian warship",
+          "publicado": "2026-11-24",
+          "url": "https://www.aljazeera.com/news/2026/11/24/libyas-haftar-visits-turkiye-days-after-ukraine-hits-russian-warship?traffic_source=rss"
+        },
+        {
+          "id": "N054",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
+          "publicado": "2026-11-24",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns"
+        },
+        {
+          "id": "N057",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Zelenskyy hails Ukraine's attack on a Russian warship docked at a naval base in Libya",
+          "publicado": "2026-11-23",
+          "url": "https://www.npr.org/2026/11/23/g-s1-155017/ukraine-attack-russian-warship-libya"
+        },
+        {
+          "id": "N071",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Libya: UN mission urges probe into Benghazi port attacks",
+          "publicado": "2026-11-23",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168857"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 4,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "LBY",
+          "pais": "Libya",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 137.658573201308,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a alta vulnerabilidade e dependência da economia líbia em relação ao comércio e fluxos externos."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Centralização estatal e disputa pela renda petroleira no Curdistão iraquiano",
+      "paises_iso3": [
+        "IRQ"
+      ],
+      "fontes_ids": [
+        "N013"
+      ],
+      "fatos_verificaveis": [
+        "O Primeiro-Ministro do Iraque, Ali al-Zaidi, ordenou que forças federais assumam o controle de campos de petróleo e postos de fronteira em regiões sob administração curda (Al Jazeera English).",
+        "A medida foi oficialmente justificada pelo governo central como uma ação para combater o contrabando de petróleo (Al Jazeera English)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera enquadra a decisão como uma ofensiva do governo central de Bagdá para reprimir o contrabando e reafirmar a autoridade federal sobre a infraestrutura petrolífera curda.",
+      "citacao": "ordered federal forces to take control of oilfields",
+      "citacao_fonte_id": "N013",
+      "contexto_historico": "O Governo Regional do Curdistão (KRG) manteve autonomia considerável na extração e comercialização de petróleo nas últimas décadas. As disputas constitucionais e financeiras sobre a repartição das receitas petrolíferas e a legitimidade dos contratos assinados pelo KRG têm sido fonte constante de atrito político e jurídico com Bagdá.",
+      "relacoes_de_trabalho": "O setor de hidrocarbonetos é o principal garantidor das receitas estatais iraquianas, sustentando o funcionalismo público em meio a altas taxas de desemprego. Redes informais de trabalho operam nas rotas de circulação e contrabando de combustíveis nas áreas fronteiriças precarizadas.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra o emprego do aparato coercitivo do Estado para assegurar o controle territorial e o acesso a recursos econômicos."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a centralização da renda petroleira pelo Estado federal iraquiano e a autonomia regional curda no controle da produção de hidrocarbonetos.",
+      "analise_materialista": "Análise preliminar (evidência escassa): A ordem de retomada dos campos petrolíferos pelas forças federais iraquianas reflete a disputa pela apropriação da renda do petróleo, pilar essencial do financiamento do aparato estatal de Bagdá. O combate ao contrabando atua como mediação discursiva e jurídica para respaldar a reconfiguração do controle territorial e econômico sobre recursos estratégicos. Em uma formação social marcada por dependência de exportações primárias, a capacidade de controlar a extração e a comercialização de hidrocarbonetos define o poder político e financeiro das distintas frações da classe dominante regional e federal.",
+      "explicacoes_alternativas": "A perspectiva da governança pública e do direito administrativo interpreta a intervenção federal como um passo legal necessário para combater a evasão de divisas, padronizar a gestão dos recursos naturais e garantir o cumprimento da constituição iraquiana.",
+      "hipoteses": [
+        "A movimentação de Bagdá visa reforçar a posição negociadora do governo federal em futuras negociações orçamentárias com a liderança curda."
+      ],
+      "limites_da_evidencia": "A informação fundamenta-se em um único despacho de poucas linhas, impedindo a verificação da extensão da presença militar no terreno ou da resposta das autoridades curdas.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a descrição em como_se_aplica (V. I. Lenin, O Estado e a Revolução) para evitar atribuir análises do fato atual ao autor clássico.",
+        "Mantido o enquadramento de análise preliminar curta por limitação de evidências."
+      ],
+      "fontes": [
+        {
+          "id": "N013",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Iraq targets oil smugglers, orders Kurdish oilfield takeover",
+          "publicado": "2026-11-24",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/24/iraq-targets-oil-smugglers-orders-kurdish-oilfield-takeover?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRQ",
+          "pais": "Iraq",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 15.485,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a pressão social e o desemprego estrutural em uma economia altamente dependente da renda petroleira estatal."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Contestação judicial na RD Congo expõe contradições ambientais e de classe na cadeia global do cobalto",
+      "paises_iso3": [
+        "COD",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N052"
+      ],
+      "fatos_verificaveis": [
+        "Vinte e sete moradores de Kolwezi, na RD Congo, moveram ação judicial contra a mineradora COMMUS (propriedade da multinacional chinesa Zijin) e o governo congolês alegando poluição e falta de fiscalização ambiental",
+        "Estudo publicado em junho por Source International, RAID, Afrewatch e Universidade de Lubumbashi apontou níveis de partículas finas (PM2.5) de três a seis vezes superiores às diretrizes da OMS na região da mina COMMUS",
+        "Segundo a rádio pública norte-americana NPR, a RD Congo responde por mais de 70% da produção mundial de cobalto e é o segundo maior produtor de cobre",
+        "Segundo a NPR, os Estados Unidos assinaram parceria econômica com a RD Congo visando atrair investimentos norte-americanos e competir com a presença chinesa na mineração local"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A NPR (mídia pública dos EUA) enfatiza os custos socioambientais da mineração e cita a disputa geopolítica entre EUA e China. A mineradora Zijin e os ministérios de Minas e Meio Ambiente da RD Congo não responderam aos pedidos de comentário da reportagem.",
+      "citacao": "Our children are the first victims",
+      "citacao_fonte_id": "N052",
+      "contexto_historico": "A província de Lualaba e o cinturão de cobre da RD Congo possuem histórico de extrativismo mineral voltado ao abastecimento externo. A expansão da transição energética global aumentou a demanda por cobalto e cobre locais.",
+      "relacoes_de_trabalho": "Moradores e trabalhadores de Kolwezi enfrentam degradação ambiental e riscos à saúde atribuídos à atividade mineradora, vivenciando alta vulnerabilidade social em zona extrativa.",
+      "referencial": [
+        {
+          "ficha_id": "T005",
+          "conceito": "Acumulação primitiva, violência e colonialismo",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 31 (ed. inglesa; cap. 24 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch31.htm",
+          "trecho": "capital comes dripping from head to foot, from every pore, with blood and dirt",
+          "idioma": "en",
+          "como_se_aplica": "Permite examinar a degradação das condições de vida comunitária na periferia como dimensão do extrativismo nas cadeias globais de valor."
+        },
+        {
+          "ficha_id": "T015",
+          "conceito": "Exportação de capital",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 4",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+          "trecho": "Typical of the latest stage of capitalism, when monopolies rule, is the export of capital",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se à expansão de investimentos corporativos transnacionais para exploração de recursos estratégicos em países dependentes."
+        }
+      ],
+      "contradicao_principal": "Oposição entre a acumulação de capital corporativo na cadeia global de baterias e as condições de saúde e subsistência das populações locais em Kolwezi.",
+      "analise_materialista": "Em caráter preliminar, a leitura materialista indica que a ação judicial em Kolwezi reflete as assimetrias da divisão internacional do trabalho na cadeia de transição energética. Os custos ambientais e humanos da extração de cobalto e cobre recaem sobre as populações locais na periferia global. A ação conjunta contra a mineradora e o Estado sugere as limitações regulatórias em economias dependentes de investimentos extrativos externos, enquanto a rivalidade entre EUA e China evidencia a disputa por matérias-primas estratégicas.",
+      "explicacoes_alternativas": "A perspectiva liberal sustenta que a ação judicial reflete o fortalecimento da cidadania e da governança ambiental na RD Congo, podendo pressionar por melhores práticas de responsabilidade corporativa e regulatória.",
+      "hipoteses": [
+        "O processo judicial pode ser instrumentalizado em discussões políticas sobre a revisão de concessões minerárias no país",
+        "A repercussão de denúncias ambientais pode levar mineradoras a adotarem medidas compensatórias para mitigar riscos reputacionais"
+      ],
+      "limites_da_evidencia": "Item baseado em fonte única (NPR), sem manifestação oficial da empresa COMMUS/Zijin ou das autoridades governamentais congolesas, e com base em estudos de poluição sem pesquisa epidemiológica completa.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a análise materialista para tom preliminar e extensão concisa por se basear em fonte única (NPR World).",
+        "Atribuídas alegações quantitativas e geopolíticas expressamente à NPR.",
+        "Rebaixada a confiança de 'média' para 'baixa' devido à ausência de fontes independentes adicionais e de respostas dos réus."
+      ],
+      "fontes": [
+        {
+          "id": "N052",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+          "publicado": "2026-11-24",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "COD",
+          "pais": "Congo, Dem. Rep.",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 81.5143422309767,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": ""
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Escalação de narrativas de dissuasão espacial e ampliação da rivalidade militar entre OTAN e Rússia",
+      "paises_iso3": [
+        "RUS"
+      ],
+      "fontes_ids": [
+        "N022",
+        "N035",
+        "N044"
+      ],
+      "fatos_verificaveis": [
+        "O Secretário-Geral da OTAN, Mark Rutte, declarou que a aliança defenderá a infraestrutura espacial após relatos da imprensa alemã sobre supostos planos russos de lançar um satélite armado com ogiva nuclear",
+        "O Kremlin e a embaixada russa em Berlim rejeitaram as reportagens, classificando as acusações baseadas em fontes anônimas como infundadas e parte de uma campanha de propaganda",
+        "Rússia e Estados Unidos são signatários do Tratado do Espaço Sideral de 1967, que proíbe o posicionamento de armas de destruição em massa em órbita",
+        "O teste nuclear Starfish Prime, realizado pelos EUA em 1962, gerou pulsos eletromagnéticos que afetaram comunicações e causaram falhas em satélites nos meses subsequentes"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "BBC, France 24 e Deutsche Welle enfatizam o potencial destrutivo de explosões nucleares no espaço e a resposta da OTAN. O Kremlin e a diplomacia russa enquadram os relatos como campanha de propaganda sem provas.",
+      "citacao": "the ultimate nightmare scenario",
+      "citacao_fonte_id": "N022",
+      "contexto_historico": "A infraestrutura orbital tornou-se ativo central para telecomunicações, navegação e inteligência militar desde a Guerra Fria. O Tratado do Espaço de 1967 estabeleceu restrições a armas de destruição em massa em órbita, mas disputas sobre tecnologias antissatélite persistem entre potências.",
+      "relacoes_de_trabalho": "A escalada de orçamentos e sistemas de defesa espacial direciona recursos públicos para o complexo industrial-militar de potências estatais em detrimento de demandas sociais civis.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Explica como a rivalidade geopolítica entre blocos impulsiona a disputa por controle e segurança de infraestruturas estratégicas orbitais."
+        },
+        {
+          "ficha_id": "T010",
+          "conceito": "As ideias da classe dominante",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "A Ideologia Alemã",
+          "ano": 1846,
+          "secao": "Parte I (Feuerbach), seção B, 'Classe dominante e ideias dominantes'",
+          "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
+          "trecho": "The ideas of the ruling class are in every epoch the ruling ideas",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar como relatórios de inteligência na imprensa moldam narrativas de segurança e legitimam gastos de defesa."
+        }
+      ],
+      "contradicao_principal": "Oposição entre a utilidade civil e global da infraestrutura de satélites e sua submissão à lógica de concorrência militar entre potências.",
+      "analise_materialista": "A leitura materialista sugere que as acusações e declarações sobre armas orbitais refletem a extensão da competição geopolítica para o domínio espacial. A infraestrutura de satélites sustenta serviços civis cruciais e sistemas de comando militar. A ameaça de militarização ou destruição de ativos orbitais colocaria em risco forças produtivas globais. O vazamento de relatórios não confirmados na imprensa ocidental atua na produção de consenso para justificar prioridades orçamentárias de defesa da OTAN, enquanto a negação russa busca preservar sua posição diplomática, evidenciando as tensões sobre o regime de tratados espaciais.",
+      "explicacoes_alternativas": "A perspectiva liberal de relações internacionais interpreta o conflito como um dilema de segurança exacerbado pela falta de mecanismos de inspeção no Tratado do Espaço Sideral, recomendando novos acordos multilaterais de transparência.",
+      "hipoteses": [
+        "A circulação de relatórios sobre ameaças orbitais pode ser utilizada para acelerar autorizações orçamentárias para sistemas defensivos de satélites na OTAN",
+        "A intensificação das disputas no espaço pode impulsionar o desenvolvimento de redes orbitais redundantes e regionalizadas"
+      ],
+      "limites_da_evidencia": "Alegações baseadas em fontes anônimas de inteligência divulgadas pela mídia alemã, sem provas materiais expostas publicamente.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustadas as formulações da análise materialista para evitar conclusões categóricas sem prova direta.",
+        "Confirmado o status de checagem divergente frente aos desmentidos do governo russo.",
+        "Mantida a confiança em nível médio devido à falta de confirmação independente dos relatórios de inteligência.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N022",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+          "publicado": "2026-11-24",
+          "url": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N035",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Russian nuclear satellites plan 'foolhardy', expert says",
+          "publicado": "2026-11-24",
+          "url": "https://www.france24.com/en/russian-nuclear-satellites-plan-foolhardy-expert-says"
+        },
+        {
+          "id": "N044",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "What happens if a nuclear weapon explodes in space?",
+          "publicado": "2026-11-24",
+          "url": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 3,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "RUS",
+          "pais": "Russian Federation",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 13.6558110636678,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": ""
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Estratégia de equilíbrio diplomático e limites da cooperação militar entre Coreia do Norte, Rússia e China",
+      "paises_iso3": [
+        "PRK",
+        "RUS",
+        "CHN",
+        "UKR"
+      ],
+      "fontes_ids": [
+        "N042"
+      ],
+      "fatos_verificaveis": [
+        "Segundo a Deutsche Welle, citando o ex-oficial ucraniano Andrii Kovalenko, a Coreia do Norte mantém cerca de 8.500 militares de apoio na Rússia e uma unidade de mísseis na região de Voronezh.",
+        "Segundo declarações de Volodymyr Zelenskyy citadas na Deutsche Welle, a Rússia recebe dezenas de mísseis balísticos norte-coreanos mensalmente.",
+        "Segundo declarações atribuídas a fontes ucranianas e analistas sul-coreanos na Deutsche Welle, um alegado pedido russo de mais de 30.000 tropas adicionais não se concretizou até novembro de 2026."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública alemã (Deutsche Welle) interpreta o cenário como estratégia de contenção de Pyongyang para preservar laços com Pequim e mitigar riscos, enquanto analistas sul-coreanos destacam a busca por tecnologia bélica e a avaliação de custos por Moscou.",
+      "citacao": "containment strategy",
+      "citacao_fonte_id": "N042",
+      "contexto_historico": "A Península Coreana vive sob as estruturas da Guerra Fria e do armistício de 1953, com histórico de diplomacia pendular de Pyongyang entre Moscou e Pequim para salvaguardar sua autonomia.",
+      "relacoes_de_trabalho": "A força de trabalho da Coreia do Norte apresenta elevado percentual em emprego vulnerável. O envio de contingentes militares e técnicos ao exterior é apontado por analistas como mecanismo de captação de divisas estrangeiras gerido pelo Estado.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "O conceito de imperialismo como rivalidade entre potências permite analisar acordos de cooperação militar e fornecimento de armas no quadro de disputas geopolíticas globais."
+        }
+      ],
+      "contradicao_principal": "A necessidade de Pyongyang de obter divisas e assistência tecnológica da Rússia versus o imperativo de preservar sua dependência econômica e diplomática em relação à China.",
+      "analise_materialista": "A cooperação militar entre a Coreia do Norte e a Rússia responde a imperativos materiais imediatos: suprimento de munições para cobrir gargalos industriais russos e obtenção de divisas e tecnologia para Pyongyang. Contudo, a leitura materialista sugere que eventuais limites no destacamento de tropas refletem a dependência estrutural da Coreia do Norte em relação aos fluxos comerciais e energéticos com a China. Pyongyang atua para diversificar parcerias sem comprometer seu elo vital com Pequim.",
+      "explicacoes_alternativas": "A perspectiva liberal de relações internacionais sustenta que a moderação norte-coreana resulta de dissuasão diplomática direta de Pequim para impedir a escalada de sanções e a instabilidade regional.",
+      "hipoteses": [
+        "A contenção no envio de tropas é utilizada como alavanca de negociação por Pyongyang para exigir tecnologias militares de maior valor agregado de Moscou."
+      ],
+      "limites_da_evidencia": "A ausência de posicionamento e documentos oficiais dos governos da Coreia do Norte e da Rússia impede verificar se a limitação no contingente decorre de recusa de Pyongyang ou de decisão de Moscou.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Remoção de números citados de memória no texto sobre força de trabalho para atender à Regra 2.",
+        "Ajuste da atribuição factual nos itens de fatos verificáveis para explicitar a origem nas fontes ucranianas e sul-coreanas."
+      ],
+      "fontes": [
+        {
+          "id": "N042",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Is North Korea holding back on sending Russia more troops?",
+          "publicado": "2026-11-24",
+          "url": "https://www.dw.com/en/is-north-korea-holding-back-on-sending-russia-more-troops/a-80033025?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "PRK",
+          "pais": "Korea, Dem. People's Rep.",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 56.765621444692,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o nível de vulnerabilidade no emprego da força de trabalho norte-coreana."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Incidência de mísseis russos na Polônia e desgaste da infraestrutura energética ucraniana",
+      "paises_iso3": [
+        "RUS",
+        "UKR",
+        "POL"
+      ],
+      "fontes_ids": [
+        "N055",
+        "N058",
+        "N069"
+      ],
+      "fatos_verificaveis": [
+        "Três mísseis de cruzeiro russos atingiram área rural no sudeste da Polônia a cerca de 30 milhas da fronteira ucraniana durante ofensiva aérea contra a Ucrânia, segundo relatórios da NPR.",
+        "O navio de carga russo Sparta II sofreu ataque por drone no Mar Báltico e foi rebocado por embarcações de Moscou após auxílio finlandês e estoniano no combate ao incêndio, segundo a NPR.",
+        "Ataques à rede elétrica ucraniana deixaram populações civis sem aquecimento e água no inverno, motivando reunião de emergência do Conselho de Segurança da ONU, conforme a UN News."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A rádio pública dos EUA (NPR) enfatiza a preocupação com o transbordamento do conflito para território da OTAN e a segurança da navegação no Báltico. A ONU foca nas consequências humanitárias sobre a população civil ucraniana e nos riscos aos suprimentos globais de grãos.",
+      "citacao": "intentional provocation",
+      "citacao_fonte_id": "N055",
+      "contexto_historico": "A Polônia integra a OTAN desde 1999 e atua como eixo logístico decisivo para o apoio ocidental à Ucrânia. A infraestrutura energética ucraniana tem sido alvo recorrente de ataques durante o inverno.",
+      "relacoes_de_trabalho": "A destruição da infraestrutura de energia e água afeta diretamente as condições de reprodução da força de trabalho ucraniana. Na Polônia, a proximidade com o teatro militar aumenta os custos de segurança e logística do setor produtivo.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "O conceito de imperialismo como disputa entre blocos geopolíticos ajuda a analisar o risco de expansão territorial do conflito entre potências."
+        }
+      ],
+      "contradicao_principal": "A estratégia russa de degradação da infraestrutura ucraniana versus o objetivo da OTAN de conter violações de seu espaço territorial sem deflagrar confronto direto.",
+      "analise_materialista": "Os ataques contra a infraestrutura energética ucraniana visam desarticular as bases materiais de sustentação da economia de guerra e da reprodução social na Ucrânia. A incidência de mísseis em território polonês e os ataques marítimos expõem os riscos materiais do conflito sobre cadeias de suprimento e rotas comerciais na Europa. A leitura materialista aponta que a destruição de ativos energéticos e a perturbação do transporte no Mar Negro e no Báltico oneram diretamente a população trabalhadora ucraniana e elevam custos logísticos internacionais.",
+      "explicacoes_alternativas": "A tese de erro operacional sugere que a queda de mísseis na Polônia decorreu de falhas de guia ou desvios provocados por sistemas de defesa antiaérea, descartando intenção de provocação direta contra a OTAN.",
+      "hipoteses": [
+        "A trajetória de mísseis próximos às fronteiras da OTAN busca testar a prontidão e o tempo de resposta dos sistemas de defesa antiaérea aliados."
+      ],
+      "limites_da_evidencia": "Na ausência de relatórios conclusivos das investigações polonesas e da OTAN, não é possível determinar categoricamente se a entrada de mísseis no espaço aéreo polonês foi intencional ou acidental.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Remoção de valores numéricos informados no texto de relações de trabalho em conformidade com a Regra 2.",
+        "Ajuste da checagem para explicitar que a confirmação dos incidentes poloneses baseia-se na NPR.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N055",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Russian incursions into NATO territory are increasing",
+          "publicado": "2026-11-23",
+          "url": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing"
+        },
+        {
+          "id": "N058",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Ukraine war spilling into NATO territory",
+          "publicado": "2026-11-22",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6050236/ukraine-war-spilling-into-nato-territory"
+        },
+        {
+          "id": "N069",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Security Council LIVE: Winter attacks on Ukraine's power grid and Black Sea shipping threaten lives and global food supplies",
+          "publicado": "2026-11-23",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168859"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 3,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "POL",
+          "pais": "Poland",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 15.0456983931731,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a relevância do setor industrial de transformação na economia polonesa."
+        },
+        {
+          "pais_iso3": "UKR",
+          "pais": "Ukraine",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 8.31869736566018,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica o peso reduzido do setor industrial de transformação ucraniano afetado pela destruição infraestrutural."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Acumulação imobiliária e disputas fundiárias na costa albanesa",
+      "paises_iso3": [
+        "ALB",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N050",
+        "N059"
+      ],
+      "fatos_verificaveis": [
+        "Uma empresa associada a Jared Kushner adquiriu 300 acres de terra na costa albanesa por mais de US$ 130 milhões para desenvolvimento imobiliário e turístico (segundo a NPR).",
+        "Moradores locais afirmam ter a posse histórica da terra desde o período otomano e relatam perda de propriedade após a estatização promovida pelo governo socialista no pós-Segunda Guerra Mundial (segundo a NPR).",
+        "Promotores albaneses declararam que terras ligadas ao empreendimento podem ter sido adquiridas ilegalmente mediante falsificação de documentos por intermediários locais (segundo a NPR)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A NPR (veículo público norte-americano) contrapõe os investimentos de capital imobiliário internacional às reivindicações de moradores locais, destacando processos judiciais por falsificação de títulos contra intermediários locais.",
+      "citacao": "purchased 300 acres of Albanian land for more than $130 million",
+      "citacao_fonte_id": "N059",
+      "contexto_historico": "Com o fim do regime socialista em 1991, a Albânia iniciou processos de restituição de terras estatizadas após a Segunda Guerra Mundial. A transição foi marcada por fragilidades institucionais na regulação fundiária coastal.",
+      "relacoes_de_trabalho": "A conversão de áreas rurais e de pesca em complexos turísticos de luxo tende a reestruturar a força de trabalho local, deslocando pequenos produtores rurais para empregos precários no setor de serviços e turismo.",
+      "referencial": [
+        {
+          "ficha_id": "T032",
+          "conceito": "Expropriação de terras e propriedade privada imposta",
+          "autor": "Ho Chi Minh",
+          "obra": "Relatório sobre as questões nacional e colonial (V Congresso da Internacional Comunista)",
+          "ano": 1924,
+          "secao": "Relatório",
+          "url": "https://www.marxists.org/reference/archive/ho-chi-minh/works/1924/07/08.htm",
+          "trecho": "abolished the right of collective ownership and replaced it by private ownership",
+          "idioma": "en",
+          "como_se_aplica": "Explica o processo de substituição de posses comunitárias ou históricas por propriedade privada individual voltada a empreendimentos comerciais."
+        },
+        {
+          "ficha_id": "T015",
+          "conceito": "Exportação de capital",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 4",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+          "trecho": "Typical of the latest stage of capitalism, when monopolies rule, is the export of capital",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra a mobilização de capital financeiro de países centrais para aquisição de ativos imobiliários em economias periféricas."
+        }
+      ],
+      "contradicao_principal": "O conflito entre os direitos de posse invocados por moradores locais e a promoção de grandes projetos imobiliários voltados à captação de capital estrangeiro.",
+      "analise_materialista": "A aquisição de terras na costa albanesa reflete dinâmicas de expansão do capital imobiliário em áreas periféricas pós-socialistas. O desmantelamento da propriedade estatal a partir de 1991 sem um sistema definitivo de regularização fundiária criou margem para disputas de títulos e apropriação por elites locais. Investidores internacionais aproveitam a infraestrutura pública recente (como novos aeroportos) para capturar a valorização de ativos litorâneos. A atuação do Estado albanês prioriza a atração de fluxos de capital externo e a modernização turística, o que entra em choque com a permanência das comunidades locais.",
+      "explicacoes_alternativas": "A perspectiva liberal argumenta que empreendimentos turísticos internacionais atrem investimento direto externo, dinamizam a infraestrutura regional e geram receitas fiscais e empregos para o país.",
+      "hipoteses": [
+        "A resolução dos processos judiciais sobre falsificação de títulos pode sofrer pressões econômicas devido ao montante investido na região.",
+        "A expansão turística de luxo pode elevar o custo de vida local e pressionar o deslocamento de moradores tradicionais."
+      ],
+      "limites_da_evidencia": "A apuração baseia-se unicamente em matérias da NPR, sem acesso às peças completas dos processos judiciais albaneses ou auditoria independente das cadeias de custódia dos títulos.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustado 'status_checagem' para 'não verificado' devido à falta de verificação web e por depender de matérias do mesmo veículo (NPR).",
+        "Reforçada a atribuição de fonte às declarações fáticas contidas nas reportagens.",
+        "Ajustada a redação do referencial teórico para evitar atribuições diretas aos autores sobre os fatos atuais."
+      ],
+      "fontes": [
+        {
+          "id": "N050",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Who really owns the Albanian land Jared Kushner wants to turn into a 5-star resort?",
+          "publicado": "2026-11-24",
+          "url": "https://www.npr.org/2026/11/24/g-s1-154623/albania-jared-kushner-land-deal-protests"
+        },
+        {
+          "id": "N059",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Luxury development planned on land some Albanians say is theirs, not Jared Kushner's",
+          "publicado": "2026-11-22",
+          "url": "https://www.npr.org/2026/11/22/nx-s1-6012022/luxury-development-planned-on-land-some-albanians-say-is-theirs-not-jared-kushners"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 2,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "ALB",
+          "pais": "Albania",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 46.0319331948614,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mede a proporção de emprego vulnerável na força de trabalho da Albânia."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Integração econômica regional e dependência infraestrutural entre Nepal e Índia",
+      "paises_iso3": [
+        "NPL",
+        "IND"
+      ],
+      "fontes_ids": [
+        "N046"
+      ],
+      "fatos_verificaveis": [
+        "O primeiro-ministro do Nepal, Balendra Shah, realizou visita oficial de Estado à Índia com foco em cooperação econômica, trânsito e infraestrutura (segundo a DW).",
+        "O governo indiano anunciou um pacote de financiamento de US$ 1,63 bilhão para o Nepal, sendo US$ 380 milhões em doações e o restante em empréstimos concessionais para reconstrução pós-inundações (segundo a DW).",
+        "As deliberações bilaterais priorizaram comércio e conectividade, sem abordar diretamente as disputas territoriais sobre Kalapani, Lipulekh e Limpiyadhura (segundo a DW)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle destaca o pragmatismo do novo primeiro-ministro nepalês ao focar na captação de recursos econômicos para reconstrução, postergando contendas fronteiriças históricas.",
+      "citacao": "Modi announced a package of $1.63 billion to help rebuild flood-hit areas",
+      "citacao_fonte_id": "N046",
+      "contexto_historico": "O Nepal é um país sem saída para o mar que depende substancialmente da Índia para rotas comerciais, trânsito de mercadorias e suprimento de energia. As disputas fronteiriças no Himalaia surgem periodicamente como ponto de fricção política.",
+      "relacoes_de_trabalho": "A economia nepalesa apresenta elevada taxa de trabalho vulnerável. A destruição de infraestruturas produtivas por desastres naturais agrava a precarização ocupacional e aumenta a urgência de investimentos em reconstrução.",
+      "referencial": [
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se à análise de Estados formalmente soberanos que mantêm forte dependência infraestrutural e financeira em relação a vizinhos de maior porte econômico."
+        },
+        {
+          "ficha_id": "T015",
+          "conceito": "Exportação de capital",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 4",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch04.htm",
+          "trecho": "Typical of the latest stage of capitalism, when monopolies rule, is the export of capital",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra o uso de financiamento e investimentos externos para consolidar a integração econômica e a influência regional."
+        }
+      ],
+      "contradicao_principal": "A tensão entre a necessidade urgente de recursos econômicos e infraestruturais do Nepal e a defesa de suas reivindicações de soberania territorial frente à Índia.",
+      "analise_materialista": "A reaproximação diplomática nepalesa em relação a Nova Deli responde a restrições econômicas e geográficas concretas. Na condição de país sem litoral afetado por desastres naturais, a reprodução econômica do Nepal depende do acesso a financiamento e conexões de transporte sob controle indiano. O pacote de auxílio financeiro de US$ 1,63 bilhão (segundo a DW) consolida a posição da Índia como principal parceiro e credor na região. A ausência do debate sobre as divisas territoriais de Kalapani, Lipulekh e Limpiyadhura reflete a priorização da reconstrução infraestrutural imediata sobre contestações geopolíticas.",
+      "explicacoes_alternativas": "A análise diplomática convencional sustenta que o adiamento de controvérsias territoriais busca construir confiança mútua por meio de cooperação econômica pragmática antes de negociar fronteiras sensíveis.",
+      "hipoteses": [
+        "A execução dos empréstimos concessionais pode vincular a contratação de obras e insumos a fornecedores indianos.",
+        "A suspensão temporária da pauta fronteiriça pode gerar desgaste político interno para o governo nepalês perante setores nacionalistas."
+      ],
+      "limites_da_evidencia": "Os termos detalhados dos acordos de empréstimo concessional e eventuais condicionalidades financeiras não foram tornados públicos no relato fornecido.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Alterado 'status_checagem' para 'não verificado' por contar com fonte única (DW) e sem verificação web disponível.",
+        "Rebaixado nível de 'confianca' de 'alta' para 'média' devido à escassez de fontes independentes adicionais.",
+        "Inserida atribuição explícita da fonte DW ao mencionar a cifra citada no texto da análise."
+      ],
+      "fontes": [
+        {
+          "id": "N046",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Nepal's new PM eyes closer ties with India amid lingering disputes",
+          "publicado": "2026-11-23",
+          "url": "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "NPL",
+          "pais": "Nepal",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 42.5520448428369,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a importância do comércio exterior em relação ao PIB do Nepal."
+        },
+        {
+          "pais_iso3": "NPL",
+          "pais": "Nepal",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 76.9782128968763,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o alto nível de emprego vulnerável na estrutura laboral nepalesa."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Condicionalidades constitucionais e o impasse na adesão da Macedônia do Norte à UE",
+      "paises_iso3": [
+        "MKD",
+        "BGR"
+      ],
+      "fontes_ids": [
+        "N040",
+        "N047"
+      ],
+      "fatos_verificaveis": [
+        "A Macedônia do Norte obteve o status de candidata à União Europeia em 2005 e abriu formalmente negociações em julho de 2022, mas ainda não abriu nenhum cluster negocial.",
+        "Após a resolução da disputa do nome com a Grécia pelo Acordo de Prespa em 2018, a Bulgária vetou o avanço das conversações em novembro de 2020 por divergências relativas a história, língua e identidade.",
+        "O quadro negocial de 2022 exige que a Macedônia do Norte altere sua Constituição para incluir a minoria búlgara, mudança que depende de aprovação por dois terços no parlamento.",
+        "Segundo pesquisa do instituto Societas Civilis citada pela Deutsche Welle, 71% da população macedônia apoia a adesão à UE, mas apenas 24% apoia as alterações constitucionais exigidas (11% entre étnicos macedônios)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A representação da União Europeia enquadra o impasse como responsabilidade da Macedônia do Norte em cumprir as condições do quadro negocial, enquanto a presidência e analistas macedônios apontam o risco de sucessivas exigências unilaterais por parte da Bulgária motivadas por dinâmicas de política doméstica.",
+      "citacao": "the handbrake on its accession negotiations is still on",
+      "citacao_fonte_id": "N047",
+      "contexto_historico": "A regra de unanimidade para o alargamento da União Europeia permite que Estados-membros convertam controvérsias bilaterais em poder de veto processual. A Macedônia do Norte enfrentou um bloqueio grego de 13 anos resolvido com a alteração do nome constitucional em 2018. Contudo, a Bulgária passou a exigir o reconhecimento oficial da minoria búlgara e a revisão de narrativas históricas sobre a identidade macedônia como pré-requisito para o avanço das negociações de adesão ao bloco europeu.",
+      "relacoes_de_trabalho": "A longa paralisia na integração europeia retém o país em uma posição periférica na divisão regional do trabalho. A busca por acesso ao mercado único visa atrair capital estrangeiro e dinamizar o emprego, mas a incerteza estimula a emigração contínua da força de trabalho macedônia.",
+      "referencial": [
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra como processos de integração condicionados subordinam aspectos constitucionais de Estados periféricos às exigências políticas de membros do bloco."
+        }
+      ],
+      "contradicao_principal": "A contradição entre o interesse da elite macedônia em acessar o mercado comunitário europeu e a resistência da população local a concessões que afetam a soberania constitucional e a identidade nacional.",
+      "analise_materialista": "A análise sob o prisma do materialismo histórico demonstra que as normas de unanimidade da União Europeia permitem a instrumentalização de disputas históricas por governos de Estados-membros para consumo político interno. O impasse macedônio revela como frações políticas na Bulgária utilizam a pauta identitária para obter coesão eleitoral, impondo bloqueios à integração de economias vizinhas dependentes. Para a classe trabalhadora macedônia, o arrasto de mais de duas décadas no status de candidato mantém o país em uma posição subalterna na divisão internacional do trabalho europeia, funcionando como reserva de mão de obra sem as garantias legais da cidadania comunitária. A imposição de reformas constitucionais a partir de exigências externas gera um despasso estrutural entre as aspirações de mobilidade econômica e a rejeição popular à perda de autonomia formal.",
+      "explicacoes_alternativas": "A perspectiva institucionalista liberal argumenta que a adesão à UE requer a estrita observância do acervo comunitário e o consenso entre os membros existentes, sustentando que as exigências pactuadas em 2022 buscam garantir a proteção das minorias e a estabilidade regional de acordo com as regras formais do bloco.",
+      "hipoteses": [
+        "A persistência do impasse reduzirá o apoio popular à integração europeia na Macedônia do Norte, fortalecendo discursos soberanistas e o alinhamento com outros atores geopolíticos."
+      ],
+      "limites_da_evidencia": "Os textos fornecidos não detalham o impacto econômico setorial do atraso na abertura dos clusters negociais nem os volumes de investimentos diretos retidos pelo impasse.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustado status_checagem para 'não verificado' por ausência de verificacao_web e pluralidade de campos de fontes.",
+        "Rebaixada a confiança de 'alta' para 'média' devido às limitações de fontes.",
+        "Removido dado oficial da Bulgária para priorizar os indicadores do país central da questão (Macedônia do Norte)."
+      ],
+      "fontes": [
+        {
+          "id": "N040",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "EU enlargement: Why do some EU member states use their vetoes to block the accession of certain candidate countries?",
+          "publicado": "2026-11-24",
+          "url": "https://www.dw.com/en/eu-enlargement-why-do-some-eu-member-states-use-their-vetoes-to-block-the-accession-of-certain-candidate-countries/a-80034401?maca=en-rss-en-world-4025-xml-mrss"
+        },
+        {
+          "id": "N047",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "North Macedonia remains stalled on its EU path after 21 years as a candidate",
+          "publicado": "2026-11-23",
+          "url": "https://www.dw.com/en/north-macedonia-remains-stalled-on-its-eu-path-after-21-years-as-a-candidate/a-80020841?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 2,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "MKD",
+          "pais": "North Macedonia",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 133.043033840548,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a elevada dependência da economia macedônia do comércio exterior."
+        },
+        {
+          "pais_iso3": "MKD",
+          "pais": "North Macedonia",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 12.256,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica o patamar do desemprego estrutural na Macedônia do Norte."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Crise na cadeia de suprimentos de medicamentos e estrangulamento financeiro no Irã",
+      "paises_iso3": [
+        "IRN"
+      ],
+      "fontes_ids": [
+        "N041"
+      ],
+      "fatos_verificaveis": [
+        "Pacientes no Irã enfrentam escassez de medicamentos essenciais, incluindo insulina, clorpromazina, tratamentos para doença de Parkinson e quimioterápicos.",
+        "Segundo representante da Food and Drug Administration do Irã e farmacêuticos locais citados pela Deutsche Welle, a desvalorização cambial, o controle de preços e o endividamento hospitalar corroeram a rentabilidade de fabricantes locais e paralisaram distribuidoras.",
+        "Farmácias especializadas relatam falta de mais de 100 itens de alta complexidade, levando à ampliação do mercado paralelo onde os preços chegam a até 10 vezes o valor oficial.",
+        "Autoridades iranianas e trabalhadores do setor afirmam que sanções bancárias, de seguros e marítimas impostas pelos EUA bloqueiam a importação de insumos, enquanto o Departamento de Estado dos EUA sustenta que há isenções humanitárias e atribui a crise à corrupção e má gestão interna."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "Fontes locais e governamentais iranianas atribuem a crise ao bloqueio financeiro e marítimo exercido pelas sanções dos EUA combinado à depreciação da moeda, ao passo que o Departamento de Estado norte-americano argumenta que as sanções preveem isenções de bens médicos e culpa a elite governante iraniana por má alocação de recursos.",
+      "citacao": "drugs can no longer be found in the official supply chain",
+      "citacao_fonte_id": "N041",
+      "contexto_historico": "O setor de saúde iraniano opera sob o impacto de sanções financeiras e comerciais unilaterais impostas pelos Estados Unidos. Embora acordos internacionais prevejam exceções de caráter humanitário para alimentos e remédios, o desligamento das instituições financeiras do Irã dos circuitos bancários mundiais dificulta a abertura de cartas de crédito e o pagamento de fretes marítimos e aéreos para a compra de insumos farmacêuticos.",
+      "relacoes_de_trabalho": "A escassez de suprimentos essenciais deteriora as condições de reprodução da força de trabalho no Irã, afetando de forma desproporcional as famílias da classe trabalhadora dependentes da rede pública e de seguros de saúde. O atraso nos repasses das seguradoras sobrecarrega financeiramente os estabelecimentos de saúde e obriga os trabalhadores a arcar com custos elevados no mercado paralelo.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "Explica os efeitos do estrangulamento financeiro internacional sobre a circulação de mercadorias vitais em países periféricos sancionados."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a existência formal de isenções humanitárias nas sanções internacionais e a realidade concreta do bloqueio financeiro que inviabiliza a importação de insumos médicos essenciais.",
+      "analise_materialista": "Em caráter preliminar, a análise materialista baseada em fonte única indica que as sanções financeiras e restrições marítimas impostas pelos EUA elevam os custos de importação e restringem insumos de saúde no Irã. Tais pressões externas combinam-se a gargalos domésticos, como desvalorização cambial e atrasos de repasses a farmácias, transferindo o ônus da crise de desabastecimento e do mercado informal para a classe trabalhadora.",
+      "explicacoes_alternativas": "A interpretação oficial do governo dos EUA sustenta que a escassez decorre da ineficiência burocrática interna, do controle rígido de preços que desestimula a produção local e da priorização de recursos estatais para outros setores por parte do governo iraniano.",
+      "hipoteses": [
+        "A persistência dos gargalos bancários e cambiais ampliará o mercado informal de insumos farmacêuticos sem controle sanitário, elevando os índices de complicações em pacientes com doenças crônicas no Irã."
+      ],
+      "limites_da_evidencia": "A matéria baseia-se em relatos anônimos de profissionais de saúde e declarações institucionais de uma única fonte jornalística, sem apresentar dados estatísticos agregados sobre o volume total da produção farmacêutica retida ou importações canceladas.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Status de checagem ajustado para 'não verificado' por se tratar de fonte única sem verificação web.",
+        "Confiança rebaixada de 'média' para 'baixa' em conformidade com as lacunas de evidência.",
+        "Análise materialista reduzida a menos de 80 palavras e explicitamente marcada como preliminar conforme regra de evidência escassa."
+      ],
+      "fontes": [
+        {
+          "id": "N041",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Why Iran's medicine supply chain is failing",
+          "publicado": "2026-11-24",
+          "url": "https://www.dw.com/en/why-iran-s-medicine-supply-chain-is-failing/a-80035268?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-24",
+  "gerado_em": "2026-11-24T23:47:00+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-3.7-flash",
+    "gemini-3.8-flash",
+    "gemini-3.6-flash"
+  ],
+  "modelo": "gemini-3.7-flash, gemini-3.8-flash, gemini-3.6-flash",
+  "fontes_consultadas": {
+    "Brasil de Fato": "vazio",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_404",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "erro_http_403",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 71,
+  "textos_integrais_lidos": 22,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 35.2,
+  "aviso_metodologico": "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de leitura, não provas. Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
