@@ -1,0 +1,1080 @@
+{
+  "biblioteca": {
+    "fichas_total": 38,
+    "fichas_conferidas": 38,
+    "ignoradas": []
+  },
+  "avisos_execucao": [
+    "Busca na web sem cota (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite.",
+    "Sem cota na hora da chamada (erro 429) nos modelos: gemini-3.7-flash, gemini-3.8-flash.",
+    "Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'."
+  ],
+  "manchete_do_dia": "Protecionismo, Disputas Materiais e Conflitos Armados Reconfiguram a Economia Global",
+  "resumo_executivo": "O protecionismo dos EUA e a extração mineral na África refletem disputas materiais globais. Na Europa e Oriente Médio, sanções, bloqueios de ajuda e ataques a infraestruturas afetam a reprodução social na Ucrânia, Rússia, Irã, Iêmen e territórios palestinos. Na Ásia, registram-se expansão nuclear e atritos diplomáticos, enquanto a Zâmbia reprime protestos e os EUA concedem licença para infraestrutura orbital de data centers à SpaceX.",
+  "itens": [
+    {
+      "regiao": "Global",
+      "titulo": "Protecionismo dos EUA e reconfiguração coercitiva do comércio mundial",
+      "paises_iso3": [
+        "USA",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N016",
+        "N035",
+        "N036"
+      ],
+      "fatos_verificaveis": [
+        "O Escritório do Representante Comercial dos EUA (USTR) anunciou propostas de tarifas de importação contra catorze jurisdições, atingindo China (até 40%), Vietnã (até 35%), União Europeia, Japão e outros parceiros (segundo a BBC).",
+        "A medida sucede a anulação jurídica prévia de tarifas emergenciais pela Suprema Corte dos EUA e apoia-se nos poderes do USTR para investigar práticas comerciais externas (segundo a BBC).",
+        "Autoridades norte-americanas justificam a iniciativa pela necessidade de proteger a base industrial doméstica contra supressão salarial e alegado excesso de capacidade de parceiros comerciais (segundo a BBC e France 24)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A BBC expõe a justificativa oficial de defesa da manufatura e do emprego norte-americano em contraponto aos alertas de economistas sobre inflação e retração comercial. A France 24 veicula críticas que definem a medida como ataque indiscriminado de Donald Trump, pleiteando coordenação multilateral perante o comércio com a China.",
+      "citacao": "level the playing field for American workers and chart a new, more sustainable course",
+      "citacao_fonte_id": "N016",
+      "contexto_historico": "Desde o pós-Segunda Guerra Mundial, a hegemonia econômica norte-americana combinou abertura comercial com centralidade financeira do dólar. Contudo, nas últimas décadas, a deslocalização produtiva em favor do Leste Asiático, sobretudo da China, aprofundou déficits comerciais contínuos e o declínio manufatureiro relativo nos EUA.",
+      "relacoes_de_trabalho": "O discurso estatal norte-americano atribui a perda de competitividade à supressão salarial no exterior. Entretanto, a classe trabalhadora nos EUA enfrenta perda histórica de empregos industriais e avanço de postos precarizados, enquanto o encarecimento de mercadorias importadas via tarifas tende a pressionar os salários reais dos consumidores.",
+      "referencial": [
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Explica como o mercado mundial entrelaça produção e consumo além das fronteiras nacionais, gerando atritos quando Estados impõem barreiras."
+        },
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Ilumina a rivalidade entre potências e a disputa monopolista por mercados e proteção de bases produtivas nacionais."
+        }
+      ],
+      "contradicao_principal": "Disputa intercapitalista entre o Estado hegemônico em declínio manufatureiro relativo e centros produtivos concorrentes, mediada pelo conflito de interesses entre capital importador e base industrial interna.",
+      "analise_materialista": "O recurso a tarifas punitivas manifesta a dificuldade do capitalismo norte-americano em reverter a perda de centralidade manufatureira por mecanismos puramente concorrenciais. Sob a alegação de resguardar postos de trabalho e coibir distorções externas, o Estado emprega coerção regulatória para forçar o redirecionamento de fluxos de capital. Todavia, barreiras tarifárias não desfazem a interdependência construída pela divisão internacional do trabalho; antes, tendem a encarecer insumos intermediários e o consumo da classe trabalhadora doméstica. A medida evidencia o esgotamento dos arranjos multilaterais de livre-comércio na administração da concorrência entre capitais em escala global.",
+      "explicacoes_alternativas": "A teoria econômica neoclássica sustenta que tarifas configuram distorções ineficientes que reduzem o bem-estar agregado, elevam custos de produção e convidam a retaliações, devendo a eficiência ser buscada pelo livre-comércio e pela governança multilateral.",
+      "hipoteses": [
+        "A elevação tarifária pode estimular a triangulação de mercadorias chinesas por meio de economias terceiras menos tributadas.",
+        "A incidência de tarifas sobre aliados históricos pode ampliar divergências comerciais e regulatórias entre os EUA e a União Europeia."
+      ],
+      "limites_da_evidencia": "As fontes não apresentam o rol detalhado de mercadorias atingidas nem trazem posicionamentos oficiais ou planos de retaliação formal dos governos da China, UE ou demais jurisdições afetadas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustado 'status_checagem' para 'não verificado' devido à ausência de verificação web e pela dependência exclusiva de emissoras públicas do campo ocidental, conforme Regra 10."
+      ],
+      "fontes": [
+        {
+          "id": "N016",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "US announces new tariffs on host of countries including China",
+          "publicado": "2026-11-26",
+          "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N035",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "New US tariffs: 'Trump lashing out really indiscriminately', expert says",
+          "publicado": "2026-11-25",
+          "url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says"
+        },
+        {
+          "id": "N036",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "New US tariffs: 'Trump lashing out really indiscriminately', expert says",
+          "publicado": "2026-11-25",
+          "url": "https://www.france24.com/en/new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 3,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 10.5250313827085,
+          "ano": "2021",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a reduzida fatia da manufatura no PIB dos EUA, contextualizando a pressão por reindustrialização via tarifas."
+        },
+        {
+          "pais_iso3": "CHN",
+          "pais": "China",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 24.7344421687689,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia o peso substantivo da indústria transformadora na economia chinesa em contraste com os EUA."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Extração de minerais de transição na RD Congo e litígio sobre passivos socioambientais",
+      "paises_iso3": [
+        "COD",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N061"
+      ],
+      "fatos_verificaveis": [
+        "Vinte e sete moradores de Kolwezi, na RD Congo, acionaram judicialmente a mineradora COMMUS (controlada pela chinesa Zijin) e o governo congolês, alegando danos de saúde causados por poluição mineral (segundo a NPR).",
+        "Estudo da entidade Source International com a Universidade de Lubumbashi registrou concentrações de material particulado PM2.5 até seis vezes superiores aos limites da OMS perto da mina COMMUS (segundo a NPR).",
+        "A RD Congo responde por mais de 70% da extração mundial de cobalto e é o segundo produtor global de cobre, matérias-primas centrais para acumuladores de veículos elétricos (segundo a NPR).",
+        "A mineradora Zijin e os ministérios de Minas e Meio Ambiente congoleses não responderam aos pedidos de esclarecimento da emissora (segundo a NPR)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A NPR aborda a ação enfatizando os impactos humanos do avanço dos veículos elétricos e pontua a concorrência estratégica dos EUA frente à dominância de investimentos chineses na exploração mineral no Congo.",
+      "citacao": "Our children are the first victims",
+      "citacao_fonte_id": "N061",
+      "contexto_historico": "A República Democrática do Congo tem sua trajetória marcada por ciclos de pilhagem de recursos naturais desde o período colonial belga até disputas contemporâneas pelo controle de bacias mineiras vitais, preservando sua posição dependente no comércio global.",
+      "relacoes_de_trabalho": "Comunidades lindeiras aos enclaves de extração convivem com infraestrutura sanitária precária e contaminação do ar e da água, suportando os passivos físicos e reprodutivos das operações sem absorver os rendimentos gerados pela cadeia mineral.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "Ajuda a examinar a subordinação contínua de países periféricos ricos em matérias-primas na engrenagem de acumulação global."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar a fratura entre soberania formal estatal e dependência concreta frente a corporações e potências extrativistas."
+        }
+      ],
+      "contradicao_principal": "Conflito entre as exigências de acumulação e abastecimento da cadeia de transição energética e as condições materiais de vida e saúde das populações locais da periferia africana.",
+      "analise_materialista": "Em leitura preliminar balizada por fonte única, o processo em Kolwezi indica como a transição energética do capitalismo central apoia-se na apropriação extrativa de matérias-primas na periferia. O capital minerador tende a externalizar custos ecológicos e sanitários sobre a reprodução social das populações vizinhas, sob leniência regulatória estatal decorrente da dependência orçamentária de royalties. Ademais, o recente interesse dos EUA em concorrer com capitais chineses no setor aponta para uma disputa intercapitalista pelo controle do fornecimento mineral, e não para a superação da espoliação regional.",
+      "explicacoes_alternativas": "Visões institucionais e regulatórias interpretam o problema como decorrência de carências na fiscalização pública congolesa, propondo auditorias ambientais e maior conformidade corporativa com normas ESG para mitigar litígios.",
+      "hipoteses": [
+        "A judicialização de passivos ambientais pode ser instrumentalizada politicamente no âmbito da concorrência entre potências pelo acesso a minerais estratégicos congoleses.",
+        "A incapacidade de fiscalização do Estado congolês decorre de sua sujeição orçamentária às receitas e investimentos gerados pelas grandes concessionárias de mineração."
+      ],
+      "limites_da_evidencia": "A matéria depende de relatos testemunhais e de um estudo de particulados sem investigação epidemiológica conclusiva de nexo causal clínico, além de carecer de resposta formal dos demandados.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixada a confiança de 'média' para 'baixa' em razão da dependência de fonte jornalística única (NPR), sem contraditório de Zijin ou do governo congolês.",
+        "Análise materialista sintetizada e explicitamente caracterizada como preliminar, conforme as diretrizes para evidência escassa e fonte única da Regra 5."
+      ],
+      "fontes": [
+        {
+          "id": "N061",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "The human cost of the electric vehicle boom is at the center of a lawsuit in Congo",
+          "publicado": "2026-11-24",
+          "url": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "COD",
+          "pais": "Congo, Dem. Rep.",
+          "indicador": "SI.POV.GINI",
+          "nome_indicador": "Índice de Gini (desigualdade de renda)",
+          "valor": 44.7,
+          "ano": "2020",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o nível de disparidade distributiva interna em uma economia intensamente explorada por enclaves de exportação mineral."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Ataques de longo alcance da Ucrânia contra base aérea russa",
+      "paises_iso3": [
+        "UKR",
+        "RUS"
+      ],
+      "fontes_ids": [
+        "N009"
+      ],
+      "fatos_verificaveis": [
+        "Segundo o Estado-Maior ucraniano, forças do país atacaram a base aérea de Savasleyka, na região russa de Nijni Novgorod, danificando cinco aeronaves (três caças MiG-31 e dois bombardeiros Su-34)",
+        "A Rússia não comentou de imediato o informe militar ucraniano",
+        "Ataques ucranianos com drones reduziram em 45% o processamento em refinarias russas desde o fim de outubro, segundo fontes da indústria citadas pela Al Jazeera"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera reporta as alegações militares ucranianas destacando a estratégia de atingir alvos na retaguarda russa, pontuando que Moscou não comentou o relatório de imediato.",
+      "citacao": "Savasleyka airbase had been hit in the latest long-range attacks",
+      "citacao_fonte_id": "N009",
+      "contexto_historico": "Desde a invasão russa de fevereiro de 2022, o conflito se desdobra em uma guerra de atrito de alta intensidade, com uso crescente de ataques de profundidade contra infraestrutura militar e energética de ambos os lados.",
+      "relacoes_de_trabalho": "Mobilização e desgaste contínuo da força de trabalho alocada nas indústrias de refino e de defesa, submetida a jornadas intensificadas e risco de bombardeios.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar a escalada militar como dimensão do choque armado interestatal por controle geopolítico e esferas de influência."
+        }
+      ],
+      "contradicao_principal": "Choque antagônico entre a ofensiva militar russa e a sustentação material da resistência armada ucraniana, dependente de fluxos externos.",
+      "analise_materialista": "A incursão ucraniana contra aeródromos e refinarias na retaguarda russa responde à necessidade de desgastar a infraestrutura material que alimenta a ofensiva russa, buscando compensar a desvantagem em meios na linha de contato. O dado reportado de queda de 45% no refino sinaliza custos de reposição impostos por armas assimétricas como drones. Todavia, como a alegação de avarias em cinco aeronaves repousa apenas em fonte militar ucraniana, a extensão do dano operativo permanece não comprovada.",
+      "explicacoes_alternativas": "Análises estritamente táticas apontam que incursões a aeródromos buscam coagir as forças aeroespaciais russas a dispersar vetores de lançamento para além do alcance de drones, reduzindo o tempo de reação e a cadência de ataques.",
+      "hipoteses": [
+        "A intensificação de ataques contra bases aéreas visa compelir as forças armadas russas a redistribuir sistemas de defesa antiaérea da frente para a defesa territorial interna."
+      ],
+      "limites_da_evidencia": "A alegação de perdas materiais específicas (danos a caças MiG-31 e Su-34) provém unicamente do Estado-Maior de Kiev, sem confirmação visual ou manifestação oficial russa.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Atribuído formalmente no texto o dado de 45% de refino a fontes da indústria reportadas pelo veículo.",
+        "Rebaixada a confiança de média para baixa devido à dependência exclusiva de alegações de uma das partes do conflito sem corroboração independente."
+      ],
+      "fontes": [
+        {
+          "id": "N009",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Ukraine attacks Russian military base, says five planes struck",
+          "publicado": "2026-11-26",
+          "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "RUS",
+          "pais": "Russian Federation",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 13.6558110636678,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a participação da manufatura russa na economia, base sobre a qual se sustenta a reposição do complexo militar-industrial sob atrito bélico contínuo."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Expansão de armas nucleares táticas na Coreia do Norte",
+      "paises_iso3": [
+        "PRK"
+      ],
+      "fontes_ids": [
+        "N007"
+      ],
+      "fatos_verificaveis": [
+        "Kim Jong Un instruiu a expansão do desdobramento de armas nucleares táticas para diferentes missões, segundo informou a mídia estatal KCNA",
+        "A KCNA reportou declaração de Kim afirmando que a capacidade de produção de material nuclear do país está sendo sistematicamente ampliada",
+        "Kim afirmou que qualquer tentativa de negar o status nuclear norte-coreano será tratada como declaração aberta de guerra",
+        "As declarações coincidiram com atritos na Zona Desmilitarizada (DMZ) após explosão de mina terrestre em setembro que feriu três militares sul-coreanos"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A agência KCNA apresenta a expansão nuclear como garantia inviolável de sobrevivência estatal, ao passo que governos ocidentais e Seul enquadram os testes e pronunciamentos como escalada desestabilizadora na península.",
+      "citacao": "Our nuclear capability is now a reality",
+      "citacao_fonte_id": "N007",
+      "contexto_historico": "A Península Coreana opera sob regime de armistício desde 1953. Sob sanções internacionais contínuas e presença militar dos Estados Unidos na região, a Coreia do Norte priorizou capacidades assimétricas nucleares para assegurar a permanência do regime.",
+      "relacoes_de_trabalho": "Mobilização estatal centralizada da força de trabalho e de quadros técnico-científicos voltados prioritariamente ao complexo armamentista e nuclear em detrimento de outros ramos da produção social.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "O aparato militarizado ilustra a centralidade do poder armado na salvaguarda e reprodução do aparelho estatal."
+        }
+      ],
+      "contradicao_principal": "Contradição antagônica entre o cerco político-militar exercido pela aliança liderada por Washington e a busca do Estado norte-coreano por garantir sua subsistência soberana via armamento estratégico.",
+      "analise_materialista": "O anúncio de expansão de artefatos táticos reflete a tentativa material de dissuadir forças convencionais tecnologicamente superiores na península com armas de emprego direto de menor custo relativo. Em uma economia sob bloqueio e sanções severas, a dispersão de ogivas táticas funciona como instrumento assimétrico voltado a inviabilizar incursões terrestres na DMZ. A constitucionalização do status nuclear reforça a blindagem institucional da burocracia governamental frente a pressões desnuclearizadoras externas.",
+      "explicacoes_alternativas": "Enfoques analíticos liberais interpretam a retórica nuclear recorrente como instrumento de pressão diplomática para forçar a retomada de negociações e o afrouxamento de sanções econômicas.",
+      "hipoteses": [
+        "A diretriz operacional para artefatos nucleares táticos indica uma transição da doutrina militar norte-coreana, passando da pura dissuasão estratégica para planos de uso tático no campo de batalha em caso de ruptura do armistício."
+      ],
+      "limites_da_evidencia": "A notícia apoia-se estritamente em despachos da agência estatal norte-coreana (KCNA); a localização das instalações e os volumes efetivos de material físsil produzido não foram auditados externamente.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Corrigido o status_checagem para 'não verificado', dado que as informações partem de veículo estatal único (KCNA) sem verificação web ou inspeções independentes.",
+        "Rebaixada a confiança de média para baixa pela carência de confirmação técnica independente das capacidades materiais alegadas."
+      ],
+      "fontes": [
+        {
+          "id": "N007",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+          "publicado": "2026-11-26",
+          "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "PRK",
+          "pais": "Korea, Dem. People's Rep.",
+          "indicador": "SL.TLF.TOTL.IN",
+          "nome_indicador": "Força de trabalho total (pessoas)",
+          "valor": 17696854,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Expressa a dimensão total da força de trabalho mobilizada sob gestão estatal para sustentar as atividades produtivas e a infraestrutura de defesa sob isolamento econômico."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Recrutamento de trabalhadores indianos para as forças armadas russas na Ucrânia",
+      "paises_iso3": [
+        "IND",
+        "RUS",
+        "UKR"
+      ],
+      "fontes_ids": [
+        "N042"
+      ],
+      "fatos_verificaveis": [
+        "Segundo petição do Ministério das Relações Exteriores da Índia (MEA) à Suprema Corte, cerca de 267 indianos ingressaram nas forças armadas russas desde o início da guerra, com 139 desmobilizados, 51 mortos e paradeiro de 77 desconhecido.",
+        "Dois cidadãos indianos, Gurpreet Singh Randhawa e Sahil Majothi, renderam-se às forças ucranianas após integrarem unidades militares russas, segundo a DW.",
+        "O primeiro-ministro indiano Narendra Modi tratou do tema com Vladimir Putin em julho de 2024, obtendo promessa de desmobilização dos recrutados sob engano, mas alistamentos continuaram a ser registrados pelo governo indiano.",
+        "Segundo o ex-diplomata indiano Anil Trigunayat à DW, intermediários cobravam taxas de 300.000 a 500.000 rúpias e retinham mais de 30% dos salários de trabalhadores recrutados."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle adota enquadramento focado em exploração laboral e vulnerabilidade migratória, contrapondo o desespero econômico e enganos cometidos por agências privadas ao alistamento consciente de quem busca ganhos financeiros ou passaporte russo.",
+      "citacao": "people will go to any lengths to get some sort of employment",
+      "citacao_fonte_id": "N042",
+      "contexto_historico": "A Índia mantém estreita cooperação técnica, militar e comercial com Moscou desde a Guerra Fria, recusando-se a aderir às sanções ocidentais pós-2022. Ao mesmo tempo, o país possui volumosa emigração de força de trabalho para mercados internacionais, historicamente intermediada por agências privadas propensas a práticas abusivas de cobrança de taxas e retenção salarial.",
+      "relacoes_de_trabalho": "Relatos de trabalhadores indicam esquemas de endividamento inicial por taxas de recrutamento abusivas (até 500.000 rúpias) e retenção salarial de mais de 30% por intermediários. A retenção relatada de passaportes e a transferência de contratos de trabalho civil para zonas de conflito militar configuram coerção extraeconômica sobre força de trabalho desregulamentada.",
+      "referencial": [
+        {
+          "ficha_id": "T004",
+          "conceito": "Acumulação de riqueza e de miséria (lei geral)",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 25 (ed. inglesa; cap. 23 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm",
+          "trecho": "accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation",
+          "idioma": "en",
+          "como_se_aplica": "Ajuda a compreender como a pressão de contingentes populacionais em busca de emprego na periferia compele frações vulneráveis a aceitarem condições contratuais extremas e riscos vitais."
+        }
+      ],
+      "contradicao_principal": "Tensão entre a necessidade de sobrevivência material de trabalhadores periféricos vulneráveis e o esforço de mobilização militar estatal que recorre à atração de força de trabalho estrangeira prévia ou deliberadamente desprotegida.",
+      "analise_materialista": "O fluxo de cidadãos indianos para o front ucraniano expressa as pressões estruturais da reprodução social na periferia global. Diante de limitações materiais no mercado doméstico, frações proletárias recorrem a canais de migração mediados por agentes privados predatórios. Conforme apontado pelo MEA e por ex-diplomatas, coexistem situações de fraude contratual manifesta e casos de adesão movida por incentivos salariais ou busca de nacionalização russa. Em termos de relações interestatais, a dependência mútua no comércio bilateral de hidrocarbonetos e armas impõe limites práticos à capacidade de coerção diplomática de Nova Délhi sobre Moscou para estancar de imediato as redes de agenciamento.",
+      "explicacoes_alternativas": "Análises de relações internacionais e jurídicas tratam o caso principalmente como problema de fraude transnacional promovida por redes ilícitas privadas, brechas consulares de regulação ou decisões individuais autônomas baseadas no cálculo de ganhos salariais versus risco legal e bélico.",
+      "hipoteses": [
+        "A persistência de contratações após as tratativas diplomáticas de alto nível sugere que comandos militares regionais ou intermediários russos mantêm canais informais de recrutamento desvinculados dos compromissos protocolares da cúpula política."
+      ],
+      "limites_da_evidencia": "A narrativa sobre engodo compulsório apoia-se em depoimentos individuais de combatentes capturados e no documento do MEA indiano, sem acesso aos contratos militares russos ou posicionamento detalhado do Ministério da Defesa da Rússia.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Atribuídos explicitamente à petição do MEA e aos depoimentos na reportagem da DW os números de combatentes, baixas e relatos de retenção de passaporte.",
+        "Ressalvada a coexistência, documentada pelo MEA, entre indianos enganados por agências e indivíduos que se alistaram voluntariamente visando ganhos financeiros e passaporte russo."
+      ],
+      "fontes": [
+        {
+          "id": "N042",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Why Indian nationals are still ending up in Russia's war on Ukraine",
+          "publicado": "2026-11-25",
+          "url": "https://www.dw.com/en/why-indian-nationals-are-still-ending-up-in-russia-s-war-on-ukraine/a-80048537?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IND",
+          "pais": "India",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 4.219,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a taxa de desemprego na Índia, contextualizando as pressões sobre o mercado de trabalho que levam trabalhadores vulneráveis a buscar oportunidades de alto risco no exterior."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Atritos diplomáticos sino-japoneses na cúpula da APEC em Shenzhen",
+      "paises_iso3": [
+        "JPN",
+        "CHN"
+      ],
+      "fontes_ids": [
+        "N051"
+      ],
+      "fatos_verificaveis": [
+        "A primeira-ministra do Japão, Sanae Takaichi, teve recepção considerada discreta e sem honras festivas na cúpula da APEC em Shenzhen, em novembro de 2026, além de não realizar reunião bilateral formal com Xi Jinping.",
+        "Em novembro de 2025, Takaichi declarou no Parlamento japonês que qualquer contingência em relação a Taiwan ameaçaria a segurança nacional do Japão.",
+        "Em resposta às declarações japonesas sobre Taiwan, a China impôs restrições à exportação de terras raras para o Japão, baniu frutos do mar japoneses e recomendou desestímulo ao turismo ao país vizinho."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A DW enquadra os incidentes protocolares e sanções comerciais como instrumentos de retaliação e coação de Pequim em resposta ao alinhamento de segurança de Tóquio sobre Taiwan, enfatizando a dependência japonesa de insumos minerais e a cautela da diplomacia dos EUA.",
+      "citacao": "Beijing believes it holds more cards than in the past",
+      "citacao_fonte_id": "N051",
+      "contexto_historico": "As relações bilaterais sino-japonesas carregam tensões históricas herdadas da ocupação militar japonesa na década de 1930, disputas territoriais sobre as ilhas Senkaku/Diaoyu e fricções em torno do tratado de segurança entre Japão e Estados Unidos, contrastando com décadas de integração industrial mútua iniciada após a normalização de 1972.",
+      "relacoes_de_trabalho": "As barreiras comerciais chinesas sobre terras raras e a proibição a produtos pesqueiros japoneses exercem impacto direto sobre as condições de trabalho e emprego nas indústrias fabris de alta tecnologia e no setor pesqueiro costeiro do Japão dependentes desses fluxos.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar a disputa interestatal entre potências como expressão de rivalidades pelo controle de mercados, rotas marítimas estratégicas e acesso a matérias-primas críticas."
+        }
+      ],
+      "contradicao_principal": "Conflito entre o alinhamento político-militar do Japão à estratégia securitária em torno de Taiwan e sua dependência concreta de insumos e matérias-primas monopolizados pela cadeia produtiva chinesa.",
+      "analise_materialista": "O esfriamento diplomático em Shenzhen expressa como contradições na base produtiva regional limitam manobras superestruturais. O Estado japonês busca explicitar garantias de segurança ao redor de Taiwan em convergência com sua aliança com Washington, mas depara-se com a alavancagem comercial de Pequim, que detém controle expressivo sobre o refino de terras raras essenciais à indústria fabril nipônica. As restrições ao comércio e a frieza protocolar operam como instrumentos de pressão interestatal. Por outro lado, a leitura materialista indica que o recurso chinês à coação comercial alimenta contraditoriamente os setores do capital monopolista e da burocracia militar japonesa que demandam expansão de gastos bélicos e diversificação de cadeias produtivas fora da China.",
+      "explicacoes_alternativas": "Abordagens diplomáticas liberais e realistas explicam o atrito como reflexo de cálculo individual de governantes, sensibilidades nacionalistas acumuladas e infrações a protocolos diplomáticos tradicionais.",
+      "hipoteses": [
+        "O desnível verificado nas escadas do avião presidencial pode ter derivado de erro técnico operacional aeroportuário e não necessariamente de instrução deliberada de desfeita diplomática."
+      ],
+      "limites_da_evidencia": "A cobertura depende de percepções de consultores ocidentais e de reportagem de imprensa japonesa, sem confirmação documental direta das razões do Ministério das Relações Exteriores chinês para as escolhas protocolares.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a descrição do incidente da escada do avião para registrar a hipótese de falha operacional, evitando tom assertivo sobre intenção deliberada.",
+        "Reforçada a atribuição dos relatos sobre o jantar oficial à reportagem do Yomiuri e de analistas à DW, destacando a ausência de posicionamento oficial chinês."
+      ],
+      "fontes": [
+        {
+          "id": "N051",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "After Japan's APEC snub, what's next for its China ties?",
+          "publicado": "2026-11-23",
+          "url": "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "JPN",
+          "pais": "Japan",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 18.817440470747,
+          "ano": "2024",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o peso da indústria de transformação na economia japonesa, evidenciando a base produtiva exposta a restrições de insumos críticos de terras raras."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Reorganização infraestrutural e inflexão política nas relações Hungria-Ucrânia",
+      "paises_iso3": [
+        "HUN",
+        "UKR"
+      ],
+      "fontes_ids": [
+        "N040"
+      ],
+      "fatos_verificaveis": [
+        "O primeiro-ministro húngaro Peter Magyar e o presidente ucraniano Volodymyr Zelenskyy reuniram-se em Uzhhorod, na Ucrânia, segundo a Deutsche Welle.",
+        "As conversas abordaram o fornecimento de diesel húngaro à Ucrânia, o uso de instalações ucranianas de estocagem de gás e obras de conexão fronteiriça e ferroviária, sem a assinatura de acordos formais, segundo a reportagem.",
+        "Peter Magyar manteve a recusa húngara ao envio e ao trânsito de armas destinadas à Ucrânia pelo território de seu país, segundo a Deutsche Welle."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle enquadra o encontro como um recomeço histórico após as tensões sob Viktor Orbán. O governo húngaro ressalta a defesa dos direitos da minoria étnica húngara e laços humanitários, enquanto o governo ucraniano busca desbloquear o apoio diplomático e as vias para a integração à União Europeia.",
+      "citacao": "We've finally put a stop to this completely unnecessary and inexplicable political escalation.",
+      "citacao_fonte_id": "N040",
+      "contexto_historico": "As relações entre Budapeste e Kyiv deterioraram-se fortemente nos anos anteriores devido ao veto húngaro a pacotes de apoio financeiro da União Europeia e a divergências sobre o tratamento e direitos linguísticos da minoria étnica húngara na região da Transcarpátia.",
+      "relacoes_de_trabalho": "Trabalhadores da minoria húngara da Transcarpátia atuam nas forças armadas ucranianas na linha de frente do conflito. O aprimoramento de ferrovias e postos fronteiriços condiciona o fluxo e a mobilidade da força de trabalho transfronteiriça entre a Ucrânia e a Europa Central.",
+      "referencial": [
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "A busca por acordos em diesel, gás e ferrovias ilustra como os imperativos materiais do comércio exterior pressionam governos a negociar infraestrutura física."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "A posição de trânsito e o peso decisório de Estados vizinhos expõem as vulnerabilidades e dependências do processo de integração europeia da Ucrânia."
+        }
+      ],
+      "contradicao_principal": "A busca de cooperação econômica e diplomática para integração europeia em choque com as restrições húngaras quanto ao trânsito de armas e à proteção de sua minoria.",
+      "analise_materialista": "A leitura materialista sugere que a reaproximação diplomática entre Budapeste e Kyiv decorre de interesses logísticos e energéticos objetivos: abastecimento de diesel, escoamento de transporte e utilização da capacidade ucraniana de armazenamento de gás. Apesar da retórica conciliatória em Uzhhorod, a recusa húngara em autorizar o trânsito de armas preserva a linha de contenção geopolítica de Budapeste. Como os dados dependem de uma única matéria jornalística sem tratados formais assinados, as conclusões permanecem preliminares.",
+      "explicacoes_alternativas": "A visão institucional e liberal atribui a guinada nas relações bilaterais à mudança de governo em Budapeste, considerando-a fruto da vontade política individual de Peter Magyar e de uma opção democrática pela distensão e pelos direitos das minorias.",
+      "hipoteses": [
+        "O interesse de petroleiras e empresas de energia húngaras na infraestrutura ucraniana pressionou o novo gabinete a flexibilizar a postura diplomática.",
+        "A abertura de conexões ferroviárias diretas visa facilitar o fluxo comercial de mercadorias no contexto de reconstrução econômica parcial da Ucrânia."
+      ],
+      "limites_da_evidencia": "Baseada em fonte única ocidental e sem assinatura de tratados formais que oficializem os projetos de infraestrutura discutidos.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a redação da análise materialista para demarcar seu caráter interpretativo ('a leitura materialista sugere') e manter proporcionalidade diante da fonte única.",
+        "Corrigido erro formal de digitação no rascunho anterior ('húngira' por 'húngara')."
+      ],
+      "fontes": [
+        {
+          "id": "N040",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
+          "publicado": "2026-11-25",
+          "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Estrangulamento financeiro e crise de abastecimento no sistema de saúde do Irã",
+      "paises_iso3": [
+        "IRN"
+      ],
+      "fontes_ids": [
+        "N047"
+      ],
+      "fatos_verificaveis": [
+        "Farmácias no Irã registram desabastecimento de remédios essenciais, como insulina e antipsicóticos, segundo relatos de moradores e funcionários do setor farmacêutico à Deutsche Welle.",
+        "A desvalorização cambial, a defasagem no controle de preços e os atrasos nos repasses das seguradoras aos hospitais desestruturaram a rede de distribuição de fármacos, segundo autoridade da agência regulatória iraniana (IFDA).",
+        "O Departamento de Estado dos EUA afirma que suas sanções preveem isenções para alimentos e medicamentos, enquanto autoridades de saúde iranianas sustentam que sanções financeiras, bancárias e bloqueios ao frete inviabilizam importações essenciais."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A diplomacia norte-americana atribui a escassez à corrupção e à má gestão de recursos da elite governante iraniana. Em contraste, autoridades e profissionais de saúde do Irã destacam que as sanções financeiras e restrições bancárias criam barreiras intransponíveis para a compra e liquidação de insumos médicos.",
+      "citacao": "My life depends on regular access to this insulin.",
+      "citacao_fonte_id": "N047",
+      "contexto_historico": "O complexo médico-farmacêutico iraniano atua sob regimes rigorosos de sanções financeiras ocidentais que, embora formalmente prevejam isenções humanitárias, geram barreiras no sistema bancário internacional para pagamentos, seguros de carga e aquisição de matérias-primas e equipamentos.",
+      "relacoes_de_trabalho": "Trabalhadores de farmácias e do sistema hospitalar lidam com atrasos salariais e de repasses institucionais, além de racionamento operacional. Pacientes trabalhadores enfrentam perda real de renda e são empurrados para compras informais a preços inflacionados.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "As sanções bancárias impostas por potências hegemônicas ilustram o mecanismo de estrangulamento financeiro sobre cadeias essenciais de uma nação dependente de insumos."
+        },
+        {
+          "ficha_id": "T004",
+          "conceito": "Acumulação de riqueza e de miséria (lei geral)",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 25 (ed. inglesa; cap. 23 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm",
+          "trecho": "accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation",
+          "idioma": "en",
+          "como_se_aplica": "A precarização do acesso a insumos farmacêuticos básicos evidencia a deterioração das condições materiais necessárias à reprodução física da classe trabalhadora."
+        }
+      ],
+      "contradicao_principal": "A pressão do regime sancionador e das restrições cambiais em contraposição às exigências biológicas de sobrevivência e saúde da população trabalhadora.",
+      "analise_materialista": "A escassez no fornecimento médico decorre da articulação entre a coerção financeira externa e os entraves distributivos internos. Embora os EUA aleguem isenções humanitárias, os bloqueios cambiais e bancários oneram o comércio exterior e travam a aquisição de insumos farmacêuticos ativos. No plano doméstico, a depreciação da moeda e a inadimplência entre seguradoras, hospitais e distribuidores privados levam à retenção de estoques e ao desvio para mercados informais. A análise é circunscrita e preliminar, tendo em vista a dependência de relatos orais e fonte única ocidental.",
+      "explicacoes_alternativas": "A tese defendida por órgãos ocidentais sustenta que a crise sanitária resulta preponderantemente de ineficiência burocrática, fixação artificial de preços pelo governo e apropriação indevida de divisas estatais por grupos ligados ao regime iraniano.",
+      "hipoteses": [
+        "O estrangulamento das linhas de crédito internacionais incentiva a especulação e a retenção de medicamentos por intermediários da cadeia privada de distribuição.",
+        "A escassez relativa de divisas induz o governo a escalonar subsídios cambiais, penalizando tratamentos crônicos de menor escala produtiva local."
+      ],
+      "limites_da_evidencia": "Matéria baseada em relatos pontuais e anônimos concedidos à imprensa estrangeira, sem auditorias contábeis ou verificação independente sobre a escala do desabastecimento nacional.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a descrição dos bloqueios externos na análise para refletir como alegação das partes e trabalhadores citados na reportagem, evitando tom factual absoluto.",
+        "Reforçada a ressalva metodológica de análise preliminar decorrente do uso de fonte única e relatos anônimos."
+      ],
+      "fontes": [
+        {
+          "id": "N047",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Why Iran's medicine supply chain is failing",
+          "publicado": "2026-11-24",
+          "url": "https://www.dw.com/en/why-iran-s-medicine-supply-chain-is-failing/a-80035268?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRN",
+          "pais": "Iran, Islamic Rep.",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 60.2426223967467,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "O indicador de comércio exterior em proporção ao PIB evidencia o peso dos fluxos transfronteiriços para a economia iraniana e a vulnerabilidade decorrente de restrições bancárias e logísticas externas"
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América do Norte",
+      "titulo": "EUA concedem licença orbital à SpaceX para infraestrutura de data centers",
+      "paises_iso3": [
+        "USA"
+      ],
+      "fontes_ids": [
+        "N028"
+      ],
+      "fatos_verificaveis": [
+        "A Federal Communications Commission (FCC) dos EUA aprovou o plano da SpaceX para lançar até um milhão de satélites destinados a data centers orbitais",
+        "A autorização regulatória emitida pela FCC vigora até o ano de 2040"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública ocidental (France 24) enquadra a decisão como um passo importante na corrida tecnológica para mover infraestrutura computacional para o espaço, destacando a posição da SpaceX e mencionando os desafios técnicos.",
+      "citacao": "deploy up to one million satellites to build data centers in orbit",
+      "citacao_fonte_id": "N028",
+      "contexto_historico": "A concessão de licenças orbitais a empresas privadas insere-se na trajetória recente de comercialização do setor espacial nos EUA, impulsionada por desregulamentações e parcerias público-privadas desde o final do século XX.",
+      "relacoes_de_trabalho": "A expansão computacional espacial baseia-se em mão de obra altamente qualificada em engenharia e tecnologia no país sede, articulada com cadeias produtivas globais de hardware.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "O conceito auxilia na interpretação do papel do Estado em conceder direitos de infraestrutura estratégica a grandes corporações privadas nacionais."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a apropriação corporativa privada de frequências e órbitas e o espaço sideral como bem comum internacional.",
+      "analise_materialista": "Análise preliminar: segundo a France 24, a FCC autorizou a SpaceX a lançar até um milhão de satélites até 2040 para criar data centers orbitais. Sob a ótica materialista, o aparato estatal atua na garantia de concessões jurídicas que viabilizam a expansão de capital de corporações de tecnologia sobre a infraestrutura digital espacial, consolidando a posição do capital nacional na concorrência internacional por capacidade computacional.",
+      "explicacoes_alternativas": "Abordagens de mercado argumentam que a concessão estatal promove eficiência e inovação tecnológica, permitindo atender à crescente demanda global por processamento de dados por meio do investimento privado.",
+      "hipoteses": [
+        "A transferência de infraestrutura de dados para a órbita busca contornar gargalos terrestres de energia e espaço físico em solo norte-americano."
+      ],
+      "limites_da_evidencia": "Informação restrita a um único despacho da France 24, sem detalhamento dos investimentos financeiros exigidos ou de manifestações de órgãos reguladores internacionais.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a redação da análise materialista para reforçar o caráter preliminar e evitar termos categóricos não sustentados pelas fontes.",
+        "Mantida a confiança baixa devido à dependência de uma única matéria jornalística sumária."
+      ],
+      "fontes": [
+        {
+          "id": "N028",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "US authorizes SpaceX to launch up to one million satellites for orbital data centers",
+          "publicado": "2026-11-26",
+          "url": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "ONU adverte para risco de atrocidades e impactos na subsistência em territórios palestinos",
+      "paises_iso3": [
+        "PSE",
+        "ISR"
+      ],
+      "fontes_ids": [
+        "N062",
+        "N064"
+      ],
+      "fatos_verificaveis": [
+        "O Alto Comissário de Direitos Humanos da ONU, Volker Türk, alertou para o risco crescente de atrocidades cometidas por Israel contra palestinos e destacou a escalada de violência na Cisjordânia ocupada",
+        "Reportagem da ONU registra que viúvas em Gaza assumem sozinhas o trabalho de sustentar a família, buscar água e prover abrigo provisório em tendas"
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "O serviço de notícias da ONU enfatiza a gravidade da crise de direitos humanos e o impacto humanitário sobre a população civil palestina, focando nas condições de vulnerabilidade de mulheres e famílias em Gaza.",
+      "citacao": "warned of a widening risk of further atrocity crimes by Israel",
+      "citacao_fonte_id": "N062",
+      "contexto_historico": "A deterioração social e econômica nos territórios palestinos decorre de um longo histórico de ocupação militar, restrições à circulação e fragmentação territorial, que fragilizaram a estrutura produtiva local.",
+      "relacoes_de_trabalho": "A paralisia das atividades econômicas formais nos territórios ocupados transfere o fardo da reprodução social básica para o trabalho não remunerado de mulheres e viúvas em condições de extrema privação.",
+      "referencial": [
+        {
+          "ficha_id": "T005",
+          "conceito": "Acumulação primitiva, violência e colonialismo",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 31 (ed. inglesa; cap. 24 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch31.htm",
+          "trecho": "capital comes dripping from head to foot, from every pore, with blood and dirt",
+          "idioma": "en",
+          "como_se_aplica": "Auxilia na leitura de como métodos de controle territorial e violência impactam e desorganizam as bases materiais de sobrevivência da população."
+        },
+        {
+          "ficha_id": "T020",
+          "conceito": "Nações oprimidas e nações opressoras",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations",
+          "idioma": "en",
+          "como_se_aplica": "Aplica-se ao enquadramento das assimetrias de poder e direitos entre um Estado ocupante e uma população sob ocupação militar."
+        }
+      ],
+      "contradicao_principal": "A contradição entre os imperativos do controle militar territorial e as necessidades vitais e direitos de sobrevivência da população civil habitante.",
+      "analise_materialista": "Os alertas divulgados pela ONU apontam que o agravamento da violência e da destruição de infraestrutura na Cisjordânia e em Gaza inviabiliza as condições mínimas de reprodução da vida. De acordo com as matérias do UN News, o colapso dos meios normais de subsistência força as famílias a dependerem de tarefas diárias de sobrevivência realizadas prioritariamente por mulheres em alojamentos provisórios. Sob a ótica materialista, a privação continuada de infraestrutura básica compromete a sustentabilidade material da sociedade palestina submetida ao controle militar.",
+      "explicacoes_alternativas": "Autoridades israelenses argumentam que as intervenções militares e de segurança são medidas de defesa contra grupos armados, atribuindo os danos sociais e a crise de infraestrutura às ações dessas organizações.",
+      "hipoteses": [
+        "A contínua degradação das condições habitações e sanitárias eleva a pressão por deslocamentos populacionais de longo prazo."
+      ],
+      "limites_da_evidencia": "Cobertura baseada exclusivamente em veículos institucionais da ONU, sem inclusão de respostas das autoridades governamentais de Israel no material avaliado.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a confiança para 'baixa' devido à dependência exclusiva de comunicados de uma única instituição multilateral (ONU).",
+        "Revisada a análise materialista para assegurar estrita Rastreabilidade com os relatos das matérias e evitar generalizações não comprovadas."
+      ],
+      "fontes": [
+        {
+          "id": "N062",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Türk warns of widening risk of atrocity crimes against Palestinians",
+          "publicado": "2026-11-25",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
+        },
+        {
+          "id": "N064",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+          "publicado": "2026-11-25",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168875"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 2,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "PSE",
+          "pais": "West Bank and Gaza",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 24.42,
+          "ano": "2022",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a elevada taxa de desemprego nos territórios palestinos anterior ao agravamento recente da crise."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Bloqueio de ajuda e deslocamento forçado no conflito do Iêmen",
+      "paises_iso3": [
+        "YEM"
+      ],
+      "fontes_ids": [
+        "N067",
+        "N068"
+      ],
+      "fatos_verificables": [
+        "O chefe de ajuda emergencial da ONU, Tom Fletcher, alertou que a guerra no Iêmen impede o acesso de famílias a alimentos e remédios essenciais, com impacto crítico na cidade de Taiz (segundo a ONU).",
+        "Mais de 364 mil pessoas foram deslocadas no Iêmen desde o início de agosto de 2026 em decorrência da insegurança e dos combates, segundo o Escritório das Nações Unidas para a Coordenação de Assuntos Humanitários (OCHA)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A cobertura institucional da ONU foca na crise humanitária e na privação de suprimentos básicos, sem detalhar os interesses econômicos e geopolíticos das facções em combate.",
+      "citacao": "preventing families from accessing the food and medicine they need to survive",
+      "citacao_fonte_id": "N067",
+      "contexto_historico": "O conflito prolongado no Iêmen destruiu a infraestrutura produtiva e os serviços públicos do país, tornando ampla parcela da população dependente de assistência internacional.",
+      "relacoes_de_trabalho": "A paralisia da atividade econômica formal e a destruição dos meios de vida agrários empurram a força de trabalho para a informalidade extrema e o deslocamento forçado.",
+      "referencial": [
+        {
+          "ficha_id": "T004",
+          "conceito": "Acumulação de riqueza e de miséria (lei geral)",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 25 (ed. inglesa; cap. 23 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm",
+          "trecho": "accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation",
+          "idioma": "en",
+          "como_se_aplica": "A paralisação da produção e a privação de suprimentos ilustram a produção de miséria decorrente do colapso das forças produtivas durante a guerra."
+        }
+      ],
+      "contradicao_principal": "A oposição entre as necessidades materiais básicas de reprodução da população civil e as táticas militares de cerco e controle territorial pelas partes em conflito.",
+      "analise_materialista": "Análise preliminar: Com base em despachos institucionais da ONU, o bloqueio ao transporte de alimentos e remédios em Taiz expõe o estrangulamento das condições de reprodução da população vulnerável. Sob a perspectiva materialista, a interrupção dos fluxos de suprimentos e o deslocamento de mais de 364 mil pessoas evidenciam como o conflito armado destrói as bases produtivas locais, convertendo a privação material em instrumento coercitivo e aprofundando a dependência de ajuda externa.",
+      "explicacoes_alternativas": "A abordagem liberal-institucional atribui a crise humanitária prioritariamente a entraves logísticos, insegurança operacional no terreno e entraves burocráticos no acesso das agências de socorro.",
+      "hipoteses": [
+        "O bloqueio de suprimentos em Taiz atua como instrumento deliberado de pressão econômica contra populações em áreas sob controle de facções rivais."
+      ],
+      "limites_da_evidencia": "A análise baseia-se exclusivamente em dois boletins da ONU, sem detalhamento sobre a responsabilidade de cada facção militar específica no bloqueio dos suprimentos.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a análise materialista para manter extensão concisa (até 80 palavras) adequada à evidência escassa.",
+        "Mantido o status 'não verificado' devido à dependência exclusiva de boletins da ONU sem checagem externa."
+      ],
+      "fontes": [
+        {
+          "id": "N067",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Yemen war: Emergency aid chief calls for access to war-hit communities",
+          "publicado": "2026-11-25",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168872"
+        },
+        {
+          "id": "N068",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "World News in Brief: Vaccine crisis in Yemen, aid for Ukraine, another UNRWA staffer killed",
+          "publicado": "2026-11-24",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168871"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 2,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "YEM",
+          "pais": "Yemen, Rep.",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 17.322,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Reflete a desestruturação do mercado de trabalho formal em meio ao conflito e à crise econômica"
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Proibição de protestos na Zâmbia e disputas sobre o mandato presidencial",
+      "paises_iso3": [
+        "ZMB"
+      ],
+      "fontes_ids": [
+        "N015"
+      ],
+      "fatos_verificables": [
+        "A polícia da Zâmbia proibiu uma manifestação da sociedade civil contra a remoção dos limites de mandato presidencial, justificando a medida pelo risco de confrontos com um grupo jovem pró-governo.",
+        "Três organizações alinhadas ao partido governista (UPND) peticionaram a Assembleia Nacional para remover os limites constitucionais de mandato do presidente Hakainde Hichilema.",
+        "O Ministro do Interior, Clement Andeleki, defendeu o banimento dos protestos e declarou que o presidente não busca um terceiro mandato.",
+        "A Missão de Observação Eleitoral da União Europeia apontou irregularidades na reeleição de Hichilema em agosto, incluindo a suspensão temporária da contagem e o desdobramento de tropas."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera destaca as restrições às liberdades políticas e o aprisionamento de opositores; o governo zambiano enquadra a proibição dos protestos como medida cautelar de segurança pública.",
+      "citacao": "Zambian authorities have banned a planned protest against calls to remove presidential term limits",
+      "citacao_fonte_id": "N015",
+      "contexto_historico": "Hakainde Hichilema assumiu o poder em 2021 com promessas de reformas democráticas, mas a deterioração econômica e os questionamentos eleitorais recentes acentuaram as tensões políticas no país.",
+      "relacoes_de_trabalho": "A disputa política ocorre em uma formação social caracterizada por elevada desigualdade social e vulnerabilidade da população trabalhadora às oscilações econômicas.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "A intervenção policial na proibição de protestos exemplifica o uso do aparato repressivo estatal para conter a oposição política e manter a ordem estabelecida."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a tentativa do grupo político dominante de preservar o controle do Estado e as demandas da sociedade civil pela manutenção das garantias constitucionais.",
+      "analise_materialista": "Análise preliminar (fonte única): O veto policial aos protestos contra a alteração dos mandatos presidenciais na Zâmbia ilustra o emprego da força pública para conter a oposição e assegurar a estabilidade do grupo governante. A justificativa governamental fundada na prevenção de distúrbios atua como mediação legal para desmobilizar atos contrários ao regime. Do ponto de vista materialista, o controle do aparato executivo garante a administração dos recursos públicos e a intermediação com capitalistas nacionais e estrangeiros, tornando as normas de sucessão presidencial ponto central de disputa de poder.",
+      "explicacoes_alternativas": "A perspectiva institucionalista argumenta que a proibição da passeata foi uma decisão puramente técnica de gestão da segurança pública para evitar violência entre facções rivais nas ruas.",
+      "hipoteses": [
+        "A movimentação parlamentar pela remoção dos limites de mandato visa garantir continuidade regulatória e política para grandes projetos de investimento e financiamentos internacionais."
+      ],
+      "limites_da_evidencia": "Matéria baseada em relatos jornalísticos de uma única fonte (Al Jazeera), sem acesso ao texto oficial das petições nem dados sobre as facções políticas envolvidas.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixado status_checagem para 'não verificado' por se tratar de fonte única sem confirmação web.",
+        "Rebaixada a confiança de 'média' para 'baixa' devido à limitação de fontes disponíveis."
+      ],
+      "fontes": [
+        {
+          "id": "N015",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Zambia bans protest against push to remove presidential term limits",
+          "publicado": "2026-11-26",
+          "url": "https://www.aljazeera.com/news/2026/11/26/zambia-bans-protest-against-push-to-remove-presidential-term-limits?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "ZMB",
+          "pais": "Zambia",
+          "indicador": "SI.POV.GINI",
+          "nome_indicador": "Índice de Gini (desigualdade de renda)",
+          "valor": 51.5,
+          "ano": "2022",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mede o nível de desigualdade de renda que contextualiza as disputas pelo controle das instâncias estatais"
+        }
+      ],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-26",
+  "gerado_em": "2026-11-26T04:37:15+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-3.8-flash",
+    "gemini-3.7-flash",
+    "gemini-3.6-flash"
+  ],
+  "modelo": "gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash",
+  "fontes_consultadas": {
+    "Brasil de Fato": "vazio",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_413",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "erro_http_403",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 73,
+  "textos_integrais_lidos": 9,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 25.4,
+  "aviso_metodologico": "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de leitura, não provas. Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
