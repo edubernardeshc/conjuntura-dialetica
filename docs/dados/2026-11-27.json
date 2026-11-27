@@ -1,0 +1,1155 @@
+{
+  "biblioteca": {
+    "fichas_total": 38,
+    "fichas_conferidas": 38,
+    "ignoradas": []
+  },
+  "avisos_execucao": [
+    "Busca na web sem cota (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite.",
+    "Sem cota na hora da chamada (erro 429) nos modelos: gemini-3.8-flash.",
+    "Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'."
+  ],
+  "manchete_do_dia": "Restrições industriais, disputas por recursos e tensões territoriais marcam o panorama internacional",
+  "resumo_executivo": "Conforme relatórios e análises do dia, restrições industriais afetam o suporte bélico à Ucrânia, enquanto a União Europeia busca assegurar minerais críticos. No Oriente Médio e na África, conflitos armados e disputas pela renda petrolífera pressionam populações e a estabilidade territorial. Em paralelo, a Argentina formaliza reformas de solvência monetária, a Coreia do Norte reforça sua deterrença nuclear e arranjos no Sudeste Asiático contornam controles estatais sobre capacidade computacional.",
+  "itens": [
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Ataque fatal a técnicos ocidentais no Kuwait e aprofundamento do conflito com o Irã",
+      "paises_iso3": [
+        "IRN",
+        "KWT",
+        "ITA",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N005",
+        "N015",
+        "N025"
+      ],
+      "fatos_verificaveis": [
+        "Dois técnicos italianos da fabricante de armas alemã Rheinmetall morreram e outras pessoas ficaram feridas após ataque com drones contra instalação no Kuwait (segundo a BBC e autoridades locais).",
+        "Kuwait e Itália atribuíram o ataque a drones de fabricação iraniana, enquanto o chanceler iraniano negou autoria e classificou o episódio como suspeito (segundo BBC e Al Jazeera).",
+        "Donald Trump afirmou a tropas dos EUA ter a vitória ao alcance, ameaçou atacar alvos no Irã e minimizou a cooperação militar de China e Rússia com Teerã (segundo Al Jazeera)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A BBC foca o impacto sobre os trabalhadores europeus da indústria de defesa e as reações institucionais da Itália e União Europeia, que tratam o fato como agressão externa inaceitável. A Al Jazeera enfatiza o discurso de Trump para militares norte-americanos e destaca a versão iraniana de que o ataque pode constituir provocação deliberada para justificar nova escalada.",
+      "citacao": "Two highly valued employees lost their lives while carrying out their professional duties",
+      "citacao_fonte_id": "N025",
+      "contexto_historico": "A presença militar ocidental no Golfo consolidou-se desde a Guerra do Golfo (1991), integrando a infraestrutura das monarquias locais ao aparato bélico dos EUA e da OTAN. A escalada recente decorre da conflagração deflagrada por ataques de EUA e Israel ao Irã em fevereiro de 2026, seguida de represálias iranianas contra bases e ativos militares no Golfo.",
+      "relacoes_de_trabalho": "Os dois italianos eram empregados assalariados da Rheinmetall prestando manutenção em baterias antiaéreas para as forças kuwaitianas. O caso evidencia como técnicos de empresas armamentistas do centro capitalista são mobilizados para operar e conservar sistemas de defesa em áreas conflagradas da periferia, transferindo o risco de combate a trabalhadores especializados sob contratos corporativos.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Ajuda a examinar o papel de conglomerados armamentistas europeus como a Rheinmetall na manutenção da infraestrutura coercitiva e das rotas de circulação de capital no Golfo."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar como Estados formalmente independentes mantêm dependência direta de tecnologia, assistência técnica militar e corporações bélicas de potências centrais para sua defesa."
+        }
+      ],
+      "contradicao_principal": "O antagonismo entre a projeção militar dos EUA e seus parceiros no Golfo e a contestação material regional executada pelo Estado iraniano contra a presença bélica ocidental.",
+      "analise_materialista": "O incidente letal no Kuwait expõe a integração direta de corporações bélicas europeias no dispositivo de segurança das monarquias do Golfo. A leitura materialista sugere que a integridade desses Estados depende concretamente da força de trabalho técnica e do capital fixo de monopólios ocidentais de armamento. Ao atingir sistemas mantidos por operadores privados europeus, o atrito regional eleva os custos operacionais da infraestrutura militar aliada. O discurso de Trump combina intimidações a Teerã com a promessa de negociação, indicando a tentativa de obter concessões estratégicas sem incorrer nos custos econômicos de um conflito terrestre pleno. Do lado iraniano, o repúdio à autoria e a denúncia de provocação refletem o temor de que vítimas europeias unifiquem a diplomacia transatlântica em favor de sanções mais severas contra seu comércio exterior.",
+      "explicacoes_alternativas": "Abordagens liberal-institucionais e realistas sustentam que o incidente decorre unicamente de agressão revisionista iraniana contra infraestruturas vizinhas, interpretando a atuação dos técnicos europeus como cooperação rotineira de autodefesa legítima frente a ameaças estatais desestabilizadoras.",
+      "hipoteses": [
+        "Ataques contra instalações no Kuwait podem buscar dissuadir os governos do Golfo de ceder espaço e apoio logístico a operações norte-americanas.",
+        "A morte de funcionários europeus pode ser utilizada diplomaticamente para legitimar maior engajamento direto de países da União Europeia na vigilância do Golfo."
+      ],
+      "limites_da_evidencia": "As notícias não fornecem perícia independente do trajeto dos drones ou confirmação inequívoca de que o alvo pretendido incluía deliberadamente os funcionários da Rheinmetall.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Substituída a menção a 'instalação militar' por 'instalação' no texto factual, conforme as matérias que usam o termo oficial kuwaitiano 'vital site'.",
+        "Ajustada a contagem e concisão da aplicação conceitual para assegurar aderência ao limite de palavras.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N005",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Trump downplays Russia, China support for Iran during talks with US troops",
+          "publicado": "2026-11-27",
+          "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss"
+        },
+        {
+          "id": "N015",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
+          "publicado": "2026-11-27",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss"
+        },
+        {
+          "id": "N025",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+          "publicado": "2026-11-26",
+          "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 3,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "KWT",
+          "pais": "Kuwait",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 93.9909162684119,
+          "ano": "2024",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o elevado peso do comércio exterior na economia do Kuwait, evidenciando sua vulnerabilidade material a bloqueios e ameaças à segurança regional."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Atritos em Washington sobre o apoio militar e constrangimentos estruturais da guerra na Ucrânia",
+      "paises_iso3": [
+        "USA",
+        "RUS",
+        "UKR"
+      ],
+      "fontes_ids": [
+        "N008",
+        "N016",
+        "N038"
+      ],
+      "fatos_verificaveis": [
+        "Volodymyr Zelenskyy relatou atrasos na entrega de mísseis Patriot pelos EUA e criticou Donald Trump por se referir a Vladimir Putin como amigo (segundo a BBC).",
+        "Donald Trump afirmou ter pedido a Vladimir Putin para conter operações militares na Europa e declarou que um acordo de paz rápido é viável (segundo Al Jazeera e France 24).",
+        "A Ucrânia ampliou ataques contra refinarias russas e navios de carga, enquanto a Rússia mantém bombardeios de mísseis e drones contra Kiev e outras cidades (segundo Al Jazeera e BBC).",
+        "A União Europeia negocia um pacote de empréstimo de cerca de 45 bilhões de euros para a Ucrânia em meio a divergências orçamentárias internas (segundo Al Jazeera)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A BBC enfatiza a escassez de munições de defesa aérea em Kiev, os impactos civis dos bombardeios russos e a apreensão ucraniana perante a política externa norte-americana. A Al Jazeera detalha as dificuldades na aprovação do orçamento plurianual europeu, os ataques ucranianos a refinarias na Rússia e alegações sobre armas norte-coreanas. A France 24 concentra-se nas declarações de Trump após reunião com o comando da OTAN.",
+      "citacao": "The deficit of these missiles - that is people's lives",
+      "citacao_fonte_id": "N016",
+      "contexto_historico": "A conflagração em território ucraniano insere-se na disputa geopolítica em torno da expansão da OTAN e da redefinição das esferas de influência na Europa Oriental. Desde 2022, o conflito assumiu o feitio de uma prolongada guerra de atrito industrial que demanda massiva mobilização financeira e tecnológica. A mudança de tom em Washington sob Trump expõe fissuras sobre a partilha de custos e a prioridade dos fronts defensivos do bloco ocidental.",
+      "relacoes_de_trabalho": "A população trabalhadora na Ucrânia enfrenta convocação militar compulsória, destruição de infraestruturas vitais e colapso de postos de trabalho formais, enquanto despesas públicas dependem de transferências financeiras externas. Na Rússia, operários de complexos energéticos e do setor bélico estão expostos a turnos intensificados e a ataques por drones ucranianos.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Apoia a compreensão da rivalidade entre grandes potências capitalistas por influência geopolítica, mercados e posições estratégicas na Europa Oriental."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Permite analisar a vulnerabilidade da Ucrânia, formalmente soberana mas materialmente dependente de fluxos externos de armas, comunicação por satélite e crédito."
+        }
+      ],
+      "contradicao_principal": "A contradição entre os requisitos imediatos de armamentos e solvência de Kiev e a reconfiguração estratégica de Washington voltada a transferir custos à União Europeia e conter desgastes orçamentários.",
+      "analise_materialista": "O déficit de sistemas de interceptação aérea apontado por Kiev evidencia as restrições industriais e a concorrência de demandas no complexo militar-industrial dos Estados Unidos, agora repartido entre a Ucrânia e o Oriente Médio. A leitura materialista sugere que as tentativas de Trump de pressionar por termos de armistício refletem a necessidade de contenção de custos fiscais e desgaste logístico pelo Estado norte-americano, visando focar recursos em outros teatros hegemônicos. Paralelamente, as discussões sobre o empréstimo de cerca de 45 bilhões de euros na União Europeia revelam as divisões distributivas entre as burguesias europeias frente ao aperto fiscal. Diante de tais limites externos, a Ucrânia recorre a ataques contra navios e refinarias russas para tentar desorganizar as bases materiais da renda energética que sustentam as operações militares de Moscou.",
+      "explicacoes_alternativas": "Enfoques liberais e institucionalistas atribuem a morosidade nos envios de armas e nos empréstimos europeus unicamente à complexidade burocrática parlamentar e ao voluntarismo de Trump, desconsiderando restrições estruturais de capacidade industrial e concorrência interimperialista.",
+      "hipoteses": [
+        "A priorização do fornecimento militar a aliados no Oriente Médio pode prolongar a escassez de munições antiaéreas para a defesa das cidades ucranianas.",
+        "Condicionalidades fiscais associadas a empréstimos europeus tendem a impor maior pressão sobre os serviços públicos e as condições salariais na Ucrânia."
+      ],
+      "limites_da_evidencia": "As notícias não detalham os quantitativos exatos de mísseis Patriot retidos pelos EUA nem o conteúdo substancial das negociações reservadas havidas em Abu Dhabi.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Atribuídas as cifras financeiras diretamente ao texto noticioso da Al Jazeera.",
+        "Ajustada a redação da aplicação conceitual de V. I. Lenin, Imperialismo, fase superior do capitalismo e V. I. Lenin, Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista) para assegurar objetividade metodológica sem supor intenções de autores históricos sobre a conjuntura atual.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N008",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Zelenskyy warns of major Russian attack as Trump urges Putin to ‘pull back’",
+          "publicado": "2026-11-27",
+          "url": "https://www.aljazeera.com/news/2026/11/27/zelenskyy-warns-of-major-russian-attack-as-trump-urges-putin-to-pull-back?traffic_source=rss"
+        },
+        {
+          "id": "N016",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+          "publicado": "2026-11-26",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "id": "N038",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Trump urges Putin to end 'military aggression' in Europe",
+          "publicado": "2026-11-26",
+          "url": "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe"
+        }
+      ],
+      "cobertura": {
+        "fontes": 3,
+        "artigos": 3,
+        "campos": 3
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "UKR",
+          "pais": "Ukraine",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 77.1802739924807,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Ilustra o peso do comércio exterior na Ucrânia e sua dependência de rotas internacionais e canais de financiamento transfronteiriço para sustentar o esforço de guerra."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Acordo comercial UE-Indonésia e a corrida por minerais críticos",
+      "paises_iso3": [
+        "IDN"
+      ],
+      "fontes_ids": [
+        "N046"
+      ],
+      "fatos_verificaveis": [
+        "União Europeia e Indonésia firmaram acordo comercial que prevê a eliminação gradual de tarifas sobre mais de 98% das categorias de produtos ao longo de 15 anos, segundo a Deutsche Welle.",
+        "O acordo visa facilitar o acesso europeu a minerais críticos, especialmente o níquel, e reduzir dependências estratégicas da UE em relação à China, segundo analistas citados pela Deutsche Welle.",
+        "O governo indonésio planeja utilizar a parceria para desenvolver capacidade industrial de refino doméstico de minérios, buscando reter maior valor de seus recursos naturais, segundo a Deutsche Welle."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle adota enquadramento focado na diversificação de parcerias da União Europeia e nas oportunidades para a transição ecológica do bloco, ao mesmo tempo em que registra a meta indonésia de industrializar seus minérios e os alertas de especialistas sobre riscos socioambientais nas áreas extrativas.",
+      "citacao": "linking markets of 730 million people",
+      "citacao_fonte_id": "N046",
+      "contexto_historico": "O acordo é resultado de quase uma década de negociações em um cenário de disputa internacional por matérias-primas essenciais à transição energética e digital. Historicamente, a Indonésia busca superar o papel de mera exportadora primária, estimulando o refino e o processamento doméstico para alterar sua inserção na divisão internacional do trabalho.",
+      "relacoes_de_trabalho": "O pacto abrange ramos manufatureiros intensivos em força de trabalho, como calçados, vestuário e têxteis, além das cadeias de mineração. Especialistas alertam para a pressão sobre as condições laborais e os requisitos de rastreabilidade europeus diante do quadro de alta vulnerabilidade de parte significativa da classe trabalhadora local.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Explica a corrida das potências industriais por acesso a fontes estratégicas de matérias-primas críticas e novos mercados de investimento."
+        },
+        {
+          "ficha_id": "T037",
+          "conceito": "Independência política formal e dependência econômica, financeira e militar",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses, ponto 11",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "set up states that are wholly dependent upon them economically, financially and militarily",
+          "idioma": "en",
+          "como_se_aplica": "Ilumina a contradição entre a soberania política formal do Estado indonésio e sua inserção subordinada nas cadeias globais de valor."
+        }
+      ],
+      "contradicao_principal": "Tensão entre a necessidade do bloco europeu de suprir sua transição energética com matérias-primas minerais e o projeto estatal indonésio de retenção de valor via processamento industrial doméstico.",
+      "analise_materialista": "O pacto comercial expressa a estratégia da União Europeia de mitigar vulnerabilidades em suas cadeias produtivas por meio do suprimento assegurado de insumos estratégicos, como o níquel, reduzindo a dependência frente à China. Para setores produtivos e o Estado indonésios, o tratado representa uma aposta na captação de investimentos externos e expansão exportadora. A leitura materialista sugere, contudo, que exigências regulatórias e assimetrias tecnológicas podem atuar como barreiras ao avanço industrial autônomo da periferia, reproduzindo a drenagem de recursos primários para os polos centrais de acumulação.",
+      "explicacoes_alternativas": "A ótica liberal-institucionalista defende que o acordo é um instrumento de ganhos mútuos baseado em vantagens comparativas, ampliando a eficiência alocativa, o emprego e padrões regulatórios socioambientais em benefício de mais de 700 milhões de consumidores.",
+      "hipoteses": [
+        "Normas técnicas e exigências ambientais europeias podem ser mobilizadas para restringir importações de manufaturados processados na Indonésia, mantendo o fluxo primordialmente em matérias-primas."
+      ],
+      "limites_da_evidencia": "A matéria se baseia em declarações institucionais e opiniões de analistas, sem detalhar cronogramas tarifários por produto nem as cláusulas de investimento específicas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação do contexto histórico para evitar afirmações generalizantes sobre decretos específicos não citados no despacho.",
+        "Modulado o tom da análise materialista de categórico para interpretativo ('a leitura materialista sugere'), mantendo o rigor conceitual.",
+        "Conferida a citação literal em Deutsche Welle (6 palavras)."
+      ],
+      "fontes": [
+        {
+          "id": "N046",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "EU-Indonesia trade deal opens new markets, but challenges remain",
+          "publicado": "2026-11-26",
+          "url": "https://www.dw.com/en/eu-indonesia-trade-deal-opens-new-markets-but-challenges-remain/a-80059568?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IDN",
+          "pais": "Indonesia",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 49.9563947518921,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia que quase metade da força de trabalho indonésia atua em condições vulneráveis."
+        }
+      ],
+      "numeros_nao_verificados": [
+        "700 milhões"
+      ]
+    },
+    {
+      "regiao": "Global",
+      "titulo": "Arbitragem de semicondutores e data centers no Sudeste Asiático",
+      "paises_iso3": [
+        "CHN",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N049"
+      ],
+      "fatos_verificaveis": [
+        "Empresas chinesas estão alugando capacidade de processamento de inteligência artificial em data centers na Malásia para contornar controles de exportação de chips dos EUA, segundo a Deutsche Welle com base em think tanks do setor.",
+        "Corporações estadunidenses como Amazon, Google, Microsoft e Oracle investiram bilhões de dólares em infraestrutura digital na Malásia, enquanto grupos chineses como Alibaba Cloud e ByteDance/TikTok também operam capacidade na região, segundo a DW.",
+        "Em meados de 2025, os EUA ameaçaram sobretaxar importações malaias em 25% para coibir a evasão aos controles de exportação de semicondutores, segundo relatório citado pela DW."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle adota enquadramento focado na rivalidade geopolítica e de segurança nacional dos EUA, caracterizando o uso de infraestrutura malaia como evasão de sanções e sublinhando a vulnerabilidade de países intermediários a pressões tarifárias unilaterais.",
+      "citacao": "Southeast Asia was becoming an offshore hub for Chinese AI enclaves",
+      "citacao_fonte_id": "N049",
+      "contexto_historico": "A conjuntura reflete a intensificação das medidas de controle de exportação de semicondutores avançados e equipamentos de litografia impostas pelos EUA contra a China, gerando rotas indiretas de acesso à capacidade computacional em países do Sudeste Asiático.",
+      "relacoes_de_trabalho": "A expansão de centros de dados em Johor aproveita custos reduzidos de energia e infraestrutura com promessa governamental de geração de postos de trabalho locais, embora tais estruturas altamente automatizadas demandem contingente de trabalho vivo reduzido na fase operacional.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "Ajuda a compreender a disputa interestatal e intercapitalista pelo controle monopolista de tecnologias de ponta e capacidade de cálculo."
+        },
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Evidencia a contradição entre as redes cosmopolitas e fluidas de serviços digitais e as tentativas estatais de contenção territorial."
+        }
+      ],
+      "contradicao_principal": "Choque entre a política estatal dos EUA de contenção tecnológica extraterritorial e o dinamismo de mercado das redes transnacionais de dados exploradas pelo capital chinês.",
+      "analise_materialista": "O arrendamento remoto de capacidade computacional ilustra os limites materiais da coerção estatal em isolar segmentos da divisão internacional do trabalho interconectada. Conforme indicam os dados citados na reportagem, o capital chinês recorre a enclaves extraterritoriais para contornar embargos de hardware, enquanto monopólios de nuvem estadunidenses expandem capacidade comercializável no Sudeste Asiático. A ameaça tarifária dos Estados Unidos contra a Malásia expõe o recurso ao aparato estatal para proteger posições monopolistas em detrimento da dinâmica concorrencial aberta.",
+      "explicacoes_alternativas": "A ótica da segurança nacional defende que as restrições e ameaças tarifárias visam impedir a aplicação militar de tecnologias de duplo uso pela China, tratando o monitoramento de data centers como salvaguarda regulatória indispensável.",
+      "hipoteses": [
+        "A pressão coercitiva de Washington sobre centros de dados regionais pode acelerar investimentos estatais chineses na autossuficiência de sua cadeia de semicondutores."
+      ],
+      "limites_da_evidencia": "Grande parte dos volumes de computação remota provém de estimativas de um único think tank (IFP), sem acesso aos dados proprietários de provedores de nuvem.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Atribuídas expressamente aos relatórios e think tanks citados na matéria as estimativas sobre a computação em nuvem chinesa.",
+        "Verificada a literalidade da citação em Deutsche Welle (10 palavras).",
+        "Preservados os indicadores econômicos pertinentes de CHN e USA."
+      ],
+      "fontes": [
+        {
+          "id": "N049",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+          "publicado": "2026-11-26",
+          "url": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "CHN",
+          "pais": "China",
+          "indicador": "NV.IND.MANF.ZS",
+          "nome_indicador": "Indústria de transformação (% do PIB)",
+          "valor": 24.7344421687689,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o peso expressivo da manufatura na economia chinesa, base de sustentação da corrida por automação e IA."
+        },
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 30769700000000,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Dimensiona o poder econômico do Estado norte-americano na aplicação extraterritorial de sanções e ameaças tarifárias."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América Latina",
+      "titulo": "Blindagem monetária e reforma eleitoral na Argentina de Milei",
+      "paises_iso3": [
+        "ARG"
+      ],
+      "fontes_ids": [
+        "N014"
+      ],
+      "fatos_verificaveis": [
+        "A Câmara dos Deputados da Argentina aprovou definitivamente projeto que proíbe o Banco Central de emitir moeda para financiar gastos do governo, fixando a manutenção do valor monetário como sua missão primordial, por 141 votos a favor, nenhum contra e 99 abstenções (segundo a Al Jazeera English).",
+        "O Senado argentino havia suprimido do texto a cláusula que exigia quórum qualificado de dois terços para destituir diretores do Banco Central (segundo a Al Jazeera English).",
+        "O Senado avançou, por 43 votos a 29, proposta de reforma eleitoral que suspende as primárias presidenciais, reduz financiamento público partidário e extingue o debate presidencial obrigatório (segundo a Al Jazeera English).",
+        "Sob o governo Milei, a taxa de inflação desacelerou, mas a pobreza cresceu e analistas econômicos apontam desaceleração da atividade econômica (segundo a Al Jazeera English)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera English contrasta a retórica do governo Milei — que celebra o fim do que chamou de décadas de pilhagem no Banco Central — com críticas da oposição, que acusam tentativa de manipulação das regras eleitorais para viabilizar reeleição, além de destacar os impactos sociais do arrocho fiscal.",
+      "citacao": "defining its “primary and fundamental mission” as maintaining the value of the country’s currency",
+      "citacao_fonte_id": "N014",
+      "contexto_historico": "A Argentina enfrentou nas últimas décadas recorrentes crises cambiais e regimes de alta inflação, superando 200% em 2023. Administrações anteriores recorreram reiteradamente à emissão de moeda pelo Banco Central para cobrir rombos orçamentários em meio a restrições de liquidez externa e negociações de dívida com credores internacionais.",
+      "relacoes_de_trabalho": "Ao vedar o financiamento monetário do déficit, a legislação impõe rigidez ao gasto público, afetando o custeio de serviços públicos, benefícios previdenciários e a remuneração de servidores, o que tende a intensificar a pressão sobre a reprodução material dos setores assalariados.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "A legislação expressa o uso da estrutura jurídica e estatal para impor disciplina fiscal e proteger o valor dos ativos monetários em detrimento de gastos distributivos."
+        },
+        {
+          "ficha_id": "T004",
+          "conceito": "Acumulação de riqueza e de miséria (lei geral)",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 25 (ed. inglesa; cap. 23 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch25.htm",
+          "trecho": "accumulation of misery, agony of toil, slavery, ignorance, brutality, mental degradation",
+          "idioma": "en",
+          "como_se_aplica": "Ilumina a correlação entre estabilização monetária focada na contração de demanda e o crescimento da vulnerabilidade e da pobreza entre as classes trabalhadoras."
+        }
+      ],
+      "contradicao_principal": "Contradição entre a exigência do capital credor e financeiro por estabilização monetária estrita e a necessidade de financiamento público para a subsistência e serviços básicos da classe trabalhadora.",
+      "analise_materialista": "A interdição da senhoriagem para financiar o Tesouro formaliza na superestrutura jurídica a subordinação das contas públicas à solvência monetária estrita. Ao eliminar o canal de socorro monetário do Estado, a gestão Milei amarra o equilíbrio fiscal ao corte de despesas correntes — salários do funcionalismo, seguridade social e custeio básico —, transferindo o ônus da estabilização de preços para a base assalariada. Em paralelo, a tentativa de suspender eleições primárias e restringir debates públicos sugere um cálculo político de blindagem governamental contra o desgaste eleitoral precoce gerado pelo aumento da pobreza e pela recessão econômica.",
+      "explicacoes_alternativas": "Correntes econômicas liberais defendem que a proibição de emissão elimina a dominância fiscal e o imposto inflacionário, estabelecendo bases de previsibilidade monetária necessárias para viabilizar investimentos produtivos.",
+      "hipoteses": [
+        "A suspensão das primárias pretende reduzir o desgaste eleitoral do oficialismo diante das repercussões sociais imediatas do programa de austeridade."
+      ],
+      "limites_da_evidencia": "A notícia única não traz projeções quantitativas do impacto do fechamento dessa linha de liquidez sobre o orçamento de 2027 nem a íntegra das votações por partido.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Precisado o placar da votação na Câmara (141 a favor, 0 contra e 99 abstenções) conforme a notícia.",
+        "Ajustada a redação da análise materialista para manter rigor conceitual e separar claramente hipótese política de constatações fáticas."
+      ],
+      "fontes": [
+        {
+          "id": "N014",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Argentina bars Central Bank from printing money to fund government spending",
+          "publicado": "2026-11-27",
+          "url": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "ARG",
+          "pais": "Argentina",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 22.2688789059329,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra a fatia da força de trabalho em empregos vulneráveis, exposta a perdas de renda em momentos de ajuste fiscal."
+        },
+        {
+          "pais_iso3": "ARG",
+          "pais": "Argentina",
+          "indicador": "SI.POV.GINI",
+          "nome_indicador": "Índice de Gini (desigualdade de renda)",
+          "valor": 42.4,
+          "ano": "2024",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Expressa o patamar de desigualdade distributiva no país antes das reformas monetárias em curso."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Centralização petrolífera de Bagdá e tensão autonomista em Erbil",
+      "paises_iso3": [
+        "IRQ"
+      ],
+      "fontes_ids": [
+        "N042"
+      ],
+      "fatos_verificaveis": [
+        "Manifestantes foram às ruas em Erbil em protesto contra a decisão do governo de Bagdá de assumir operações petrolíferas e postos de fronteira antes sob controle curdo (segundo a Deutsche Welle).",
+        "O premiê iraquiano Ali al-Zaidi justificou o plano como repressão ao contrabando de petróleo, e forças federais fecharam duas passagens de fronteira com Síria e Irã (segundo a Deutsche Welle).",
+        "A Suprema Corte Federal iraquiana validou as ordens federais e restringiu a jurisdição do Governo Regional Curdo às linhas anteriores a 19 de março de 2003, transferindo a gestão de poços em Kirkuk, Diyala, Salahuddin e Nínive para o ministério federal (segundo a Deutsche Welle).",
+        "Partidos curdos rivais declararam que a centralização viola a Constituição de 2005 e busca restabelecer um regime centralizado no Iraque (segundo a Deutsche Welle)."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle destaca a mobilização curda como reação a um ataque à autonomia regional, enquanto sublinha a alegação do governo central de coibir contrabando e restabelecer a legalidade constitucional sobre as fronteiras e recursos.",
+      "citacao": "places approval for oil exports from the region under the authority of the federal oil ministry",
+      "citacao_fonte_id": "N042",
+      "contexto_historico": "A Constituição iraquiana de 2005 reconheceu a autonomia do Curdistão após a invasão liderada pelos EUA em 2003. O Artigo 140 previa plebiscitos para resolver disputas territoriais em províncias petrolíferas como Kirkuk, os quais nunca ocorreram, e forças curdas expandiram o controle territorial na esteira do confronto contra o Estado Islâmico.",
+      "relacoes_de_trabalho": "Como a receita estatal do Iraque provém quase inteiramente da comercialização do petróleo, a disputa pelas receitas de extração e tarifas de passagem incide diretamente sobre o pagamento regular de salários a funcionários públicos e trabalhadores da cadeia de energia e logística de ambas as esferas administrativas.",
+      "referencial": [
+        {
+          "ficha_id": "T021",
+          "conceito": "Direito das nações à autodeterminação",
+          "autor": "V. I. Lenin",
+          "obra": "O direito das nações à autodeterminação",
+          "ano": 1914,
+          "secao": "seção 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1914/self-det/ch01.htm",
+          "trecho": "the political separation of these nations from alien national bodies",
+          "idioma": "en",
+          "como_se_aplica": "A reivindicação curda de autonomia sobre fronteiras e recursos confronta a soberania legal e territorial reivindicada pelo Estado central unificado."
+        },
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "O controle sobre postos aduaneiros e forças de segurança materializa a função do aparato estatal como detentor coercitivo dos recursos econômicos em disputa."
+        }
+      ],
+      "contradicao_principal": "Disputa material entre o governo central de Bagdá e a administração regional curda pela apropriação e distribuição das rendas da exportação de hidrocarbonetos e tarifas alfandegárias.",
+      "analise_materialista": "O litígio entre Bagdá e Erbil tem como fundamento objetivo o controle sobre a renda da terra petrolífera, que sustenta o orçamento público iraquiano e as estruturas de patronagem de ambos os polos de poder. Ao impor a tutela federal sobre poços em províncias disputadas e fechar passagens fronteiriças com a Síria e o Irã, o Executivo iraquiano busca restabelecer o monopólio fiscal sobre o escoamento de óleo e tarifas alfandegárias. Para a liderança curda, a perda dessas fontes de divisas compromete sua base material autônoma e sua capacidade de folha de pagamento, impulsionando a união conjuntural de facções locais rivais em defesa do controle regional dos fluxos de mercadorias.",
+      "explicacoes_alternativas": "Argumentos institucionais do governo iraquiano sustentam que as ações visam combater a corrupção aduaneira, neutralizar o contrabando de combustível e fazer cumprir os limites constitucionais da federação.",
+      "hipoteses": [
+        "A centralização aduaneira pode provocar interrupções nos fluxos de exportação de petróleo do norte iraquiano e impasses distributivos no repasse de verbas orçamentárias à região curda."
+      ],
+      "limites_da_evidencia": "A matéria única não traz balanços das receitas arrecadadas pelos postos fechados nem declarações dos países vizinhos (Síria e Irã) sobre o impacto nos fluxos de fronteira.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Removida a ficha V. I. Lenin, Imperialismo, fase superior do capitalismo (imperialismo monopolista), que forçava um enquadramento de disputa entre potências imperialistas em um litígio intra-estatal, substituindo-a por V. I. Lenin, O Estado e a Revolução (papel do Estado na coerção e disputas materiais).",
+        "Ajustada a redação da análise materialista para ancorar com precisão os interesses na renda petrolífera sem generalizações indevidas."
+      ],
+      "fontes": [
+        {
+          "id": "N042",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings",
+          "publicado": "2026-11-26",
+          "url": "https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRQ",
+          "pais": "Iraq",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 77.1389393108395,
+          "ano": "2024",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Ilustra o peso desproporcional do comércio transfronteiriço e das exportações de óleo na composição do produto iraquiano."
+        },
+        {
+          "pais_iso3": "IRQ",
+          "pais": "Iraq",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 15.485,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra o nível de desemprego aberto em uma economia cuja sustentação salarial depende das rendas do setor estatal."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Expansão nuclear norte-coreana e o impasse estratégico na Península Coreana",
+      "paises_iso3": [
+        "PRK",
+        "USA",
+        "KOR"
+      ],
+      "fontes_ids": [
+        "N053"
+      ],
+      "fatos_verificaveis": [
+        "Kim Jong Un inspecionou duas instalações de produção de materiais nucleares (uma inaugurada e outra em expansão), além de uma base de equipamentos e um instituto de pesquisa (segundo a KCNA e a NPR).",
+        "Imagens divulgadas pela KCNA registraram Kim ao lado de centrífugas de enriquecimento de urânio e estruturas associadas a ogivas nucleares.",
+        "A liderança norte-coreana declarou que o reforço nuclear é irreversível diante da ameaça de compartilhamento nuclear e proliferação de submarinos nucleares entre EUA e Coreia do Sul.",
+        "A Coreia do Norte não respondeu publicamente à proposta de diálogo reiterada por Donald Trump durante sua recente viagem à Ásia.",
+        "O Ministério da Defesa da Coreia do Sul declarou manter prontidão militar contra as ameaças de Pyongyang no quadro da aliança com os EUA."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A NPR enquadra a visita de Kim Jong Un a instalações nucleares como exibição de força destinada a sustentar um regime autoritário e desdenhar aberturas diplomáticas dos EUA. Já o comunicado norte-coreano (KCNA) enquadra a medida como autodefesa necessária e legítima contra a política hostil de Washington e o cerco militarizado exercido pela aliança entre Estados Unidos e Coreia do Sul.",
+      "citacao": "basic U.S. position that North Korea must denuclearize remains unchanged",
+      "citacao_fonte_id": "N053",
+      "contexto_historico": "A divisão da Península Coreana e o armistício de 1953, nunca convertido em tratado definitivo de paz, consolidaram um estado de guerra latente. Ao longo das últimas décadas, sucessivas tentativas de negociação falharam diante da recusa dos EUA em retirar sanções e cessar exercícios militares conjuntos com Seul, enquanto Pyongyang avançou no desenvolvimento balístico e atômico como garantia de sobrevivência de seu Estado perante a pressão norte-americana.",
+      "relacoes_de_trabalho": "A economia norte-coreana opera sob severa militarização e sanções internacionais, canalizando recursos e contingentes técnicos para o complexo militar-estatal. Do lado sul-coreano, a base industrial e tecnológica sustenta um complexo produtivo integrado às cadeias globais e à logística militar da aliança com Washington, subordinando as forças produtivas de ambos os países à lógica de prontidão bélica.",
+      "referencial": [
+        {
+          "ficha_id": "T023",
+          "conceito": "Contradição principal",
+          "autor": "Mao Tsé-Tung",
+          "obra": "Sobre a Contradição",
+          "ano": 1937,
+          "secao": "seção 4",
+          "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+          "trecho": "one of them is necessarily the principal contradiction",
+          "idioma": "en",
+          "como_se_aplica": "O conceito permite analisar o antagonismo geopolítico e militar entre a soberania estatal de Pyongyang e o cerco militar liderado pelos Estados Unidos como a contradição principal que condiciona as tensões regionais."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a estratégia de dissuasão nuclear norte-coreana como garantia de sobrevivência estatal e o imperativo de hegemonia estratégica dos EUA na Ásia-Pacífico, apoiado na aliança militar com a Coreia do Sul.",
+      "analise_materialista": "A leitura materialista sugere que a aceleração do programa nuclear da Coreia do Norte não constitui mero voluntarismo ou busca de barganha diplomática, mas uma necessidade de deterrença estrutural contra o cerco militar dos Estados Unidos na Bacia do Pacífico. A recusa de Pyongyang em aceitar a exigência unilateral de desnuclearização reflete a memória histórica das intervenções ocidentais contra Estados desarmados. Washington, ao mesmo tempo em que oferece canais de contato personalizados via retórica de cúpula, mantém intocada sua base material de pressão: sanções econômicas, projeção naval e manobras conjuntas com Seul. A Coreia do Sul atua como elo industrial e territorial dessa frente, ancorando tropas norte-americanas e integrando sistemas avançados de contenção militar. Como os fatos disponíveis derivam de única fonte de imprensa pública ocidental cobrindo despachos estatais norte-coreanos e sul-coreanos, a análise sobre o ritmo real de expansão do enriquecimento de urânio permanece sujeita a confirmações técnicas independentes.",
+      "explicacoes_alternativas": "Analistas liberais e de relações internacionais institucionalistas argumentam que o programa nuclear visa precipuamente à chantagem diplomática e à legitimação interna da liderança de Kim Jong Un, sugerindo que Pyongyang rejeita o diálogo por desinteresse de se integrar à ordem baseada em regras internacionais.",
+      "hipoteses": [
+        "A exibição de ogivas táticas visa garantir paridade tática na linha de fronteira e desestimular incursões convencionais da aliança Seul-Washington antes da conferência partidária de fim de ano."
+      ],
+      "limites_da_evidencia": "A notícia baseia-se em fotos e notas de agência oficial estatal (KCNA) parcialmente borradas e em avaliações de inteligência não reveladas, impedindo a checagem autônoma da capacidade operacional das usinas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação de 'como_se_aplica' da ficha Mao Tsé-Tung, Sobre a Contradição para garantir tom estritamente metodológico e analítico.",
+        "Preservada a classificação de status_checagem como 'não verificado' em razão de fonte ocidental única repercutindo agência oficial norte-coreana sem confirmação externa independente."
+      ],
+      "fontes": [
+        {
+          "id": "N053",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+          "publicado": "2026-11-26",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Violência armada, disputa de recursos e crise sanitária em Ituri",
+      "paises_iso3": [
+        "COD"
+      ],
+      "fontes_ids": [
+        "N052",
+        "N064"
+      ],
+      "fatos_verificaveis": [
+        "O surto de Ebola provocado pelo vírus Bundibugyo no leste da RD Congo ultrapassou 12.000 casos confirmados, com quase metade resultando em morte (segundo dados do Ministério da Saúde congolês reportados pela NPR).",
+        "Confrontos armados entre o exército da RD Congo e a milícia Convenção para a Revolução Popular (CRP) em Iga-Barrière e Djugu forçaram novas ondas de deslocamento populacional em Ituri.",
+        "A violência armada interrompeu o rastreamento epidemiológico, isolou comunidades e forçou o fechamento ou desabastecimento de centros de tratamento de saúde.",
+        "Capacetes-azuis da MONUSCO evacuaram 10 profissionais de saúde que estavam abrigados sob fogo cruzado no Hospital Geral de Referência de Akwe."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A NPR prioriza a dimensão da tragédia humanitária e médica, destacando as falhas de infraestrutura, os números de vítimas do Ebola e a violência de grupos armados locais. A comunicação oficial da ONU (UN News) enfatiza o papel protetor e logístico de seus contingentes de paz (MONUSCO), destacando a evacuação bem-sucedida de profissionais de saúde e o suporte operacional às populações refugiadas.",
+      "citacao": "fighting has displaced thousands of people and threatened access to essential health services",
+      "citacao_fonte_id": "N064",
+      "contexto_historico": "O leste da República Democrática do Congo vive em estado crônico de conflito armado desde as guerras regionais da década de 1990. A proliferação de mais de uma centena de facções armadas e milícias, incluindo grupos formados por antigos chefes militares, entrelaça-se diretamente com o controle territorial de jazidas minerais estratégicas destinadas à exportação, em um quadro de ausência histórica de serviços estatais universais de saúde e saneamento.",
+      "relacoes_de_trabalho": "A grande maioria da força de trabalho no leste da RDC atua na subsistência agrícola precária ou no garimpo artesanal mineral sob coerção miliciana, privada de proteção social e estabilidade. Os trabalhadores da saúde operam sob condições extremas de insegurança física, com escassez de suprimentos e alto risco biológico frente ao vírus Bundibugyo.",
+      "referencial": [
+        {
+          "ficha_id": "T005",
+          "conceito": "Acumulação primitiva, violência e colonialismo",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 31 (ed. inglesa; cap. 24 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch31.htm",
+          "trecho": "capital comes dripping from head to foot, from every pore, with blood and dirt",
+          "idioma": "en",
+          "como_se_aplica": "A categoria elucida como a coerção violenta e a fragmentação armada do território operam a expropriação de recursos locais para exportação, desarticulando a reprodução social comunitária."
+        }
+      ],
+      "contradicao_principal": "A contradição entre o controle territorial de áreas ricas em minérios para abastecimento das cadeias externas e a destruição das condições materiais mínimas de saúde e reprodução da vida das populações locais.",
+      "analise_materialista": "A crise sanitária decorrente do surto de Ebola em Ituri não pode ser compreendida apenas como uma fatalidade epidemiológica, mas como resultado da inserção periférica e violenta da República Democrática do Congo na divisão internacional do trabalho. O conflito armado em cidades mineradoras como Iga-Barrière decorre da disputa pelo controle territorial e extração de recursos naturais voltados à exportação, financiada por redes que se reproduzem em meio à debilidade do Estado central. Nesse contexto, a infraestrutura viária e hospitalar é cronicamente precarizada, inviabilizando medidas profiláticas básicas como isolamento, testagem e sepultamento seguro. As missões de paz da ONU atuam pontualmente na contenção logística imediata para resgatar pessoal técnico e patrulhar campos de refugiados, sem intervir nas bases materiais e nas redes extrativas que retroalimentam os conflitos armados. A desconfiança das comunidades em relação a equipes externas decorre do histórico abandono institucional e de intervenções exógenas que drenam recursos sem contrapartida em infraestrutura pública.",
+      "explicacoes_alternativas": "Abordagens institucionais e de governança atribuem a crise primordialmente ao déficit de capacidade estatal, à corrupção administrativa, à ausência de vacinas ou tratamentos aprovados para a cepa Bundibugyo e à desinformação popular sobre medidas sanitárias.",
+      "hipoteses": [
+        "O avanço de grupos armados sobre rotas estratégicas em Ituri busca forçar a cobrança de tributos informais sobre o transporte de minérios e mercadorias aproveitando-se do foco das forças de segurança na crise do Ebola."
+      ],
+      "limites_da_evidencia": "Os registros de contágios e mortes dependem de notificações oficiais do Ministério da Saúde congolês em áreas acessíveis, não cobrindo integralmente localidades sob controle exclusivo de milícias armadas.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação de 'como_se_aplica' da ficha Karl Marx, O Capital, Livro I para rigor conceitual materialista (expropriação violenta e destruição da reprodução social).",
+        "Suprimidas menções soltas a minerais não citados no texto das notícias, mantendo o enquadramento estrito nas economias de extração e cidades mineradoras reportadas (Iga-Barrière).",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N052",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "Congo Ebola outbreak reaches 12,000 cases as some responders evacuate",
+          "publicado": "2026-11-26",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders"
+        },
+        {
+          "id": "N064",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "DR Congo: Peacekepers step up civilian protection amid fighting in Ituri",
+          "publicado": "2026-11-26",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168883"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 2,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "COD",
+          "pais": "Congo, Dem. Rep.",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 81.5143422309767,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra que a esmagadora maioria da força de trabalho congolesa se encontra em ocupações vulneráveis, privada de vínculos formais de emprego e proteção social."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Sucessão no BCE e os impasses da dívida soberana na Zona do Euro",
+      "paises_iso3": [
+        "ESP"
+      ],
+      "fontes_ids": [
+        "N033"
+      ],
+      "fatos_verificaveis": [
+        "Líderes europeus acordaram a indicação do ex-presidente do Banco da Espanha, Pablo Hernández de Cos, para substituir Christine Lagarde na presidência do Banco Central Europeu, segundo a France 24.",
+        "A autoridade monetária europeia enfrenta pressão diante da inflação, dos custos de empréstimo e do endividamento público, segundo o veículo francês."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A France 24 relata a sucessão de forma estritamente factual e institucional, focando na missão técnica do banco central de conter a inflação e administrar o endividamento, sem explorar disputas fiscais entre governos do bloco.",
+      "citacao": "faces pressure to tackle high inflation, borrowing costs, and government debt",
+      "citacao_fonte_id": "N033",
+      "contexto_historico": "O Tratado de Maastricht estabeleceu o BCE com mandato voltado à estabilidade de preços. As tensões fiscais na Zona do Euro ganharam relevância crítica após 2010, evidenciando contradições entre a disciplina monetária e o peso das dívidas de economias do sul europeu.",
+      "relacoes_de_trabalho": "Taxas de juros elevadas e restrições fiscais tendem a conter despesas públicas e investimentos, pressionando as condições de contratação e os serviços essenciais consumidos pelos assalariados.",
+      "referencial": [
+        {
+          "ficha_id": "T017",
+          "conceito": "Estados usurários e Estados devedores (rentismo)",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 8",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm",
+          "trecho": "a handful of usurer states and a vast majority of debtor states",
+          "idioma": "en",
+          "como_se_aplica": "Auxilia na leitura de como arranjos monetários supranacionais lidam com relações de dívida pública e exigências de solvência."
+        }
+      ],
+      "contradicao_principal": "A tensão entre a contenção da inflação por meio de custos de crédito mais altos e o encarecimento da rolagem das dívidas soberanas dos Estados-membros.",
+      "analise_materialista": "Em análise preliminar motivada pela brevidade do despacho, a leitura materialista sugere que a política monetária de um banco central supranacional expressa a mediação prioritária dos interesses do capital financeiro. A contenção inflacionária via juros restritivos preserva o valor dos ativos líquidos, mas encarece a dívida dos Estados e freia investimentos sociais, limitando a margem orçamentária dos governos membros.",
+      "explicacoes_alternativas": "A visão ortodoxa e institucionalista sustenta que a escolha prioriza competência técnica para ancorar expectativas inflacionárias, garantindo estabilidade de preços indispensável ao crescimento sustentável.",
+      "hipoteses": [
+        "A indicação de uma liderança espanhola pode buscar mitigar atritos entre os blocos norte e sul da Zona do Euro quanto às metas fiscais."
+      ],
+      "limites_da_evidencia": "A cobertura fornecida restringe-se a uma menção telegráfica, carecendo de detalhes sobre as negociações diplomáticas e os termos da indicação.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Análise materialista encurtada para menos de 80 palavras e explicitamente marcada como preliminar devido à escassez da evidência (despacho único e sumário).",
+        "Confiança rebaixada de média para baixa pela extrema brevidade e ausência de dados empíricos no despacho."
+      ],
+      "fontes": [
+        {
+          "id": "N033",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Spain's De Cos chosen as next ECB president",
+          "publicado": "2026-11-26",
+          "url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "ESP",
+          "pais": "Spain",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 10.376,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a taxa de desemprego na Espanha, país de origem do presidente indicado, sensível a oscilações de juros."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Ofensiva em Gaza, fragmentação da Cisjordânia e desarticulação da reprodução social",
+      "paises_iso3": [
+        "ISR",
+        "PSE"
+      ],
+      "fontes_ids": [
+        "N037",
+        "N065",
+        "N067"
+      ],
+      "fatos_verificaveis": [
+        "Ataques e disparos israelenses deixaram 10 palestinos mortos em Gaza, segundo informações de funcionários dos hospitais Shifa e Mártires de Al-Aqsa reportadas pela France 24.",
+        "O Alto Comissário da ONU para Direitos Humanos alertou sobre o risco de crimes de atrocidade por Israel, registrando 42.666 palestinos deslocados na Cisjordânia desde outubro de 2023 e quase dois milhões em Gaza.",
+        "Mais de 86.000 lares em Gaza passaram a ser chefiados por mulheres, com 68% delas sem abrigo adequado e 67% necessitando de auxílio financeiro emergencial, segundo a UN Women citada pela ONU."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A France 24 foca na dinâmica operacional imediata de ataque e eventual resposta de grupos armados, enquanto as matérias da ONU articulam as perdas à estrutura continuada de bloqueio, segregação na Cisjordânia e sobrecarga doméstica imposta às mulheres em campos de refugiados.",
+      "citacao": "undermines any prospect of a contiguous future Palestinian State",
+      "citacao_fonte_id": "N065",
+      "contexto_historico": "A ocupação dos territórios palestinos desde 1967 é marcada pela expansão de assentamentos civis considerados ilegais pelo direito internacional. Em Gaza, o bloqueio sistemático iniciado em 2007 isolou a economia regional, quadro dramaticamente agravado pelas operações militares e demolições que se seguiram a outubro de 2023.",
+      "relacoes_de_trabalho": "A destruição dos meios físicos de subsistência e do mercado assalariado em Gaza empurrou a população para a sobrevivência informal extrema e ampliou a jornada de trabalho reprodutivo não pago, absorvida primordialmente por viúvas e chefes de família.",
+      "referencial": [
+        {
+          "ficha_id": "T005",
+          "conceito": "Acumulação primitiva, violência e colonialismo",
+          "autor": "Karl Marx",
+          "obra": "O Capital, Livro I",
+          "ano": 1867,
+          "secao": "cap. 31 (ed. inglesa; cap. 24 nas edições brasileiras)",
+          "url": "https://www.marxists.org/archive/marx/works/1867-c1/ch31.htm",
+          "trecho": "capital comes dripping from head to foot, from every pore, with blood and dirt",
+          "idioma": "en",
+          "como_se_aplica": "Ajuda a interpretar a apropriação territorial, demolições e deslocamentos populacionais como processos de despossessão e violência extraeconômica."
+        },
+        {
+          "ficha_id": "T020",
+          "conceito": "Nações oprimidas e nações opressoras",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations",
+          "idioma": "en",
+          "como_se_aplica": "Permite qualificar a relação assimétrica de domínio militar e cerco econômico exercida sobre a população palestina nos territórios ocupados."
+        }
+      ],
+      "contradicao_principal": "O antagonismo entre a política israelense de expansão territorial e controle populacional e as condições materiais de sobrevivência da população palestina.",
+      "analise_materialista": "Os relatórios da ONU evidenciam que as operações bélicas e administrativas atingem as próprias bases materiais da existência palestina. Na Cisjordânia, a remoção forçada de comunidades e o avanço dos assentamentos fragmentam a continuidade territorial e impedem a articulação produtiva autônoma. Em Gaza, a destruição generalizada da infraestrutura física e habitacional submete quase dois milhões de civis ao deslocamento contínuo. Sob a ótica da reprodução social, os dados da UN Women indicam que a mortalidade e o cerco sobrecarregam dezenas de milhares de lares geridos por mulheres, forçadas a compensar a aniquilação dos serviços essenciais com jornadas extenuantes de trabalho não pago para garantir água, alimento e abrigo, revelando a expropriação sistemática das condições de reprodução da vida.",
+      "explicacoes_alternativas": "Autoridades israelenses afirmam que as ações militares visam desarticular estruturas do Hamas para proteger sua população, argumentando que baixas civis decorrem do uso de infraestrutura urbana densa por grupos militantes.",
+      "hipoteses": [
+        "A inviabilização das condições de sobrevivência material em Gaza e a segregação viária na Cisjordânia atuam de fato para provocar o esvaziamento populacional e a anexação de facto de parcelas territoriais."
+      ],
+      "limites_da_evidencia": "O cerco militar e a restrição ao trabalho de peritos e jornalistas internacionais independentes no terreno limitam o monitoramento integral dos danos e das baixas em tempo real.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Removido o dado de desemprego de Israel em 'dados_selecionados', pois não sustenta diretamente o argumento da destruição material e da crise de reprodução social em Gaza e na Cisjordânia, para as quais não constam dados na tabela oficial.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N037",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Hamas weighs response after Israel kills 10 people in Gaza",
+          "publicado": "2026-11-26",
+          "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza"
+        },
+        {
+          "id": "N065",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Türk warns of widening risk of atrocity crimes against Palestinians",
+          "publicado": "2026-11-25",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168879"
+        },
+        {
+          "id": "N067",
+          "nome": "UN News",
+          "campo": "Instituição multilateral (ONU)",
+          "perfil_editorial": "Serviço de notícias da ONU; reflete a posição institucional e os limites diplomáticos do sistema multilateral.",
+          "titulo_original": "Gaza’s widows raise their families alone: ‘We do our duties twice over, but where are our rights?’",
+          "publicado": "2026-11-25",
+          "url": "https://news.un.org/feed/view/en/story/2026/11/1168875"
+        }
+      ],
+      "cobertura": {
+        "fontes": 2,
+        "artigos": 3,
+        "campos": 2
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Reaproximação tática entre Hungria e Ucrânia e cooperação energética transfronteiriça",
+      "paises_iso3": [
+        "HUN",
+        "UKR"
+      ],
+      "fontes_ids": [
+        "N051"
+      ],
+      "fatos_verificaveis": [
+        "O primeiro-ministro húngaro Peter Magyar reuniu-se com o presidente ucraniano Volodymyr Zelenskyy em Uzhhorod, na região da Transcarpátia, segundo a Deutsche Welle.",
+        "As conversas abordaram fornecimento de diesel húngaro à Ucrânia, uso de depósitos de gás ucranianos por empresas húngaras e projetos de infraestrutura de transporte, segundo a Deutsche Welle.",
+        "Magyar declarou solidariedade à Ucrânia frente à Rússia, mas manteve a recusa ao fornecimento e ao trânsito de armas por território húngaro, segundo a Deutsche Welle."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle enquadra o encontro como um recomeço histórico pró-europeu após os atritos do período Orbán, destacando gestos simbólicos e a superação de vetos diplomáticos, embora reconheça limites nas concessões militares e tensões persistentes sobre minorias.",
+      "citacao": "We stand with Ukraine against the Russian aggressor.",
+      "citacao_fonte_id": "N051",
+      "contexto_historico": "As relações entre Budapeste e Kiev deterioraram-se fortemente nos anos anteriores devido a disputas sobre a legislação linguística e educacional ucraniana que afeta a minoria étnica húngara na Transcarpátia, bem como pela oposição de Viktor Orbán a sanções contra a Rússia e ao financiamento europeu à Ucrânia. A região transfronteiriça historicamente conecta a Europa Central aos corredores energéticos e logísticos do Leste Europeu.",
+      "relacoes_de_trabalho": "A força de trabalho na Transcarpátia, historicamente marcada por migrações pendulares entre Ucrânia e Hungria, sofre o impacto direto do recrutamento militar para a guerra e da instabilidade econômica. A reconstrução de infraestruturas ferroviárias e fronteiriças mobiliza trabalhadores em setores de transporte e logística sujeitos às condições de insegurança em zona de conflito.",
+      "referencial": [
+        {
+          "ficha_id": "T023",
+          "conceito": "Contradição principal",
+          "autor": "Mao Tsé-Tung",
+          "obra": "Sobre a Contradição",
+          "ano": 1937,
+          "secao": "seção 4",
+          "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-1/mswv1_17.htm",
+          "trecho": "one of them is necessarily the principal contradiction",
+          "idioma": "en",
+          "como_se_aplica": "Permite identificar como a disputa geopolítica regional condiciona e hierarquiza as negociações práticas de infraestrutura e trânsito fronteiriço entre os dois Estados."
+        }
+      ],
+      "contradicao_principal": "Oposição entre a necessidade de Kiev de destravar a integração europeia e o imperativo de Budapeste de preservar salvaguardas energéticas e evitar envolvimento militar direto.",
+      "analise_materialista": "O diálogo bilateral reflete uma reorganização de interesses materiais imediatos de ambas as lideranças estatais. Para a Ucrânia, dependente de fluxos comerciais e apoio financeiro externo, a normalização com Budapeste é requisito prático para conter vetos institucionais na União Europeia e assegurar importação de combustíveis refinados (como diesel). Para o governo húngaro sob Magyar, a distensão política atenua o isolamento diplomático perante o bloco comunitário sem desestabilizar acordos energéticos internos, mantendo a recusa ao envio de armamentos para conter riscos políticos domésticos e tensões regionais.",
+      "explicacoes_alternativas": "Abordagens liberais e construtivistas explicam a cúpula prioritariamente como mudança de vontade política e renovação de liderança democrática, atribuindo a reaproximação aos valores europeus compartilhados pelo novo governo e à diplomacia pessoal entre chefes de Estado.",
+      "hipoteses": [
+        "A cooperação em gás e combustíveis pode representar um compromisso pragmático de partilha de infraestrutura que viabilize dividendos a capitais húngaros no pós-guerra."
+      ],
+      "limites_da_evidencia": "A notícia cobre apenas intenções e declarações bilaterais; nenhum acordo vinculante foi formalmente assinado durante o evento.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação da análise materialista para substituir 'burguesias de Estado' por formulações empiricamente mais precisas sobre aparelhos estatais e governos.",
+        "Refinada a aplicação da ficha Mao Tsé-Tung, Sobre a Contradição para evitar tom determinista."
+      ],
+      "fontes": [
+        {
+          "id": "N051",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Peter Magyar meets Volodymyr Zelenskyy: Hungary and Ukraine make a fresh start after the icy relations of the Viktor Orban era",
+          "publicado": "2026-11-25",
+          "url": "https://www.dw.com/en/peter-magyar-meets-volodymyr-zelenskyy-hungary-and-ukraine-make-a-fresh-start-after-the-icy-relations-of-the-viktor-orban-era/a-80054175?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "UKR",
+          "pais": "Ukraine",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 77.1802739924807,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra o peso do comércio exterior na economia ucraniana, destacando a relevância de rotas logísticas e vizinhos comerciais."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Ataque armado contra a Guarda Nacional em Sanam e insegurança no Sahel",
+      "paises_iso3": [
+        "NER",
+        "MLI"
+      ],
+      "fontes_ids": [
+        "N004"
+      ],
+      "fatos_verificaveis": [
+        "Ao menos 13 membros da Guarda Nacional do Níger morreram e 20 ficaram feridos em ataque contra um complexo militar em Sanam, região de Tillaberi, segundo o Ministério da Defesa do Níger citado pela Al Jazeera.",
+        "O ministério nigerino classificou o ataque como ação terrorista e informou ter abatido atacantes e destruído infraestrutura logística, segundo a Al Jazeera.",
+        "A autoria do atentado permanece sem confirmação pública, segundo a Al Jazeera."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera reporta o episódio com foco no balanço militar emitido pelo Ministério da Defesa do Níger e insere a ocorrência no quadro regional mais amplo de instabilidade na fronteira com Mali e Nigéria.",
+      "citacao": "At least 13 members of Niger’s National Guard have been killed",
+      "citacao_fonte_id": "N004",
+      "contexto_historico": "A zona fronteiriça entre Níger, Mali e Burquina Fasso (fronteira tripla do Liptako-Gourma) enfrenta mais de uma década de insurgências armadas de grupos jihadistas e milícias comunitárias, em meio a crises de governança estatal e recentes rupturas político-militares na região.",
+      "relacoes_de_trabalho": "As tropas regulares e guardas nacionais são integradas predominantemente por recrutas e praças da classe trabalhadora empobrecida, atuando em zonas rurais conflagradas onde a economia agropastoril de subsistência é permanentemente desestruturada pela violência e deslocamentos.",
+      "referencial": [
+        {
+          "ficha_id": "T028",
+          "conceito": "Sem investigação não há direito à palavra",
+          "autor": "Mao Tsé-Tung",
+          "obra": "Contra o culto dos livros",
+          "ano": 1930,
+          "secao": "seção 1",
+          "url": "https://www.marxists.org/reference/archive/mao/selected-works/volume-6/mswv6_11.htm",
+          "trecho": "No investigation, no right to speak",
+          "idioma": "en",
+          "como_se_aplica": "Exige rigor metodológico e contenção de generalizações teóricas devido à escassez de dados factuais e ausência de verificação autônoma no terreno."
+        }
+      ],
+      "contradicao_principal": "Conflito entre o esforço do aparelho de Estado centralizado em manter o controle territorial e a proliferação de grupos armados irregulares nas periferias rurais.",
+      "analise_materialista": "Análise preliminar: a violência armada recorrente na região de Tillaberi evidencia a fragilidade do Estado periférico em garantir o controle territorial diante de redes armadas transfronteiriças, cuja reprodução se apoia no controle de rotas de contrabando e na fragilidade das condições materiais de vida das populações agropastoris locais.",
+      "explicacoes_alternativas": "Análises de segurança tradicional enfatizam o extremismo religioso ideológico e a porosidade desértica das fronteiras como causas autônomas e suficientes da insurgência militar.",
+      "hipoteses": [
+        "O ataque pode ter tido o objetivo de saquear munições e veículos para abastecer células operacionais transfronteiriças."
+      ],
+      "limites_da_evidencia": "Despacho pontual com fonte única governamental, sem reivindicação de autoria nem detalhes sobre os grupos agressores.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Preservada a análise concisa e proporcional à brevidade do despacho oficial.",
+        "Confirmada a ausência de dados macroeconômicos aplicáveis diretamente da tabela oficial."
+      ],
+      "fontes": [
+        {
+          "id": "N004",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "At least 13 Niger soldiers killed in Sanam armed attack",
+          "publicado": "2026-11-27",
+          "url": "https://www.aljazeera.com/news/2026/11/27/at-least-13-niger-soldiers-killed-in-sanam-armed-attack?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-27",
+  "gerado_em": "2026-11-27T04:38:21+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-3.8-flash",
+    "gemini-3.7-flash"
+  ],
+  "modelo": "gemini-3.8-flash, gemini-3.7-flash",
+  "fontes_consultadas": {
+    "Brasil de Fato": "erro_http_404",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_413",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "erro_http_403",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 73,
+  "textos_integrais_lidos": 16,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 20.3,
+  "aviso_metodologico": "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de leitura, não provas. Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
