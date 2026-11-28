@@ -1,0 +1,984 @@
+{
+  "biblioteca": {
+    "fichas_total": 38,
+    "fichas_conferidas": 38,
+    "ignoradas": []
+  },
+  "avisos_execucao": [
+    "Busca na web sem cota (erro 429) nos modelos: gemini-3.8-flash, gemini-3.7-flash, gemini-3.6-flash, gemini-3.5-flash-lite, gemini-3.1-flash-lite.",
+    "Sem cota na hora da chamada (erro 429) nos modelos: gemini-3.7-flash, gemini-3.8-flash.",
+    "Causa provável: limites do plano gratuito da API do Gemini (modelos Pro e busca na web costumam exigir o plano pago).",
+    "A verificação independente na web não funcionou em nenhum fato: todos os itens ficam 'não verificados'.",
+    "O modelo de análise principal ('gemini-3.8-flash') não respondeu; foram usados: gemini-3.6-flash."
+  ],
+  "manchete_do_dia": "Impasses fiscais, protecionismo e tensões geopolíticas marcam o cenário internacional",
+  "resumo_executivo": "Tensões geopolíticas e pressões fiscais marcam a agenda global. Na Europa, a França enfrenta revisão de crédito e disputa comercial com o Brasil, enquanto a UE lida com impasses orçamentários. No Oriente Médio, destacam-se a intervenção dos EUA contra navio iraniano e ataques em Gaza. A Ucrânia busca cessar-fogo marítimo para escoar grãos, a Coreia do Norte expande seu programa nuclear, Uganda retira tropas da RDC e Porto Rico enfrenta crise energética privatizada.",
+  "itens": [
+    {
+      "regiao": "América Latina",
+      "titulo": "Controvérsia comercial sobre exportação de carne entre Brasil e França",
+      "paises_iso3": [
+        "BRA",
+        "FRA"
+      ],
+      "fontes_ids": [
+        "N019"
+      ],
+      "fatos_verificaveis": [
+        "O presidente francês Emmanuel Macron qualificou a carne dos países do Mercosul, especialmente do Brasil, como 'dopada' em reunião com sindicatos agrícolas, celebrando restrições da União Europeia adotadas em setembro, segundo a BBC World.",
+        "O governo do Brasil lamentou publicamente as declarações de Macron, afirmando que elas espalham desinformação e contrariam evidências técnicas e científicas sobre a produção de proteína animal no país, segundo a BBC World.",
+        "A União Europeia proibiu produtos de origem animal do Brasil sob a justificativa do uso de antimicrobianos na pecuária, segundo a BBC World.",
+        "O Brasil exportou cerca de US$ 1,84 bilhão em carne bovina para o mercado da União Europeia em 2025, segundo dados do Ministério da Agricultura do Brasil citados pela BBC World."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A BBC World contrapõe o enquadramento do governo francês — que justifica as restrições por critérios sanitários e apoio a fazendeiros locais — à narrativa do governo brasileiro, que classifica as medidas como protecionismo político e defende o rigor sanitário de seu sistema produtivo.",
+      "citacao": "spread misinformation and contradict the widely available technical and scientific evidence",
+      "citacao_fonte_id": "N019",
+      "contexto_historico": "A disputa comercial entre União Europeia e Mercosul dura décadas e envolve resistências do setor agrário europeu — em especial o francês — frente ao avanço de produtos agrícolas sul-americanos. O protecionismo agrícola na Europa costuma erguer barreiras não tarifárias de caráter regulatório e sanitário.",
+      "relacoes_de_trabalho": "De um lado, o agronegócio exportador brasileiro atua fortemente na produção em escala para o mercado global. Do outro, fazendeiros franceses pressionam o Estado por salvaguardas que protejam seu padrão de vida e custos de produção diante da concorrência de produtores da periferia do sistema-mundo.",
+      "referencial": [
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Explica a expansão do comércio global de mercadorias agrícolas e as disputas por mercados de consumo entre o centro e a periferia."
+        },
+        {
+          "ficha_id": "T010",
+          "conceito": "As ideias da classe dominante",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "A Ideologia Alemã",
+          "ano": 1846,
+          "secao": "Parte I (Feuerbach), seção B, 'Classe dominante e ideias dominantes'",
+          "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
+          "trecho": "The ideas of the ruling class are in every epoch the ruling ideas",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra como discursos ideológicos e alegações sanitárias são mobilizados pela classe dominante europeia para defender seus mercados."
+        }
+      ],
+      "contradicao_principal": "A oposição entre os interesses do capital agrário exportador brasileiro e os interesses protecionistas de produtores agrários franceses e europeus.",
+      "analise_materialista": "A controvérsia em torno da carne brasileira expõe como salvaguardas sanitárias e discursos regulatórios servem como mediações ideológicas para defender interesses econômicos protecionistas no centro do capitalismo mundial. A declaração de Emmanuel Macron visa satisfazer a base social agrária francesa, reprimindo a concorrência de mercadorias mais baratas oriundas do Sul Global. A leitura materialista sugere que a imposição de restrições por parte da União Europeia atua como barreira não tarifária para preservar a renda da terra e o mercado interno europeu em um momento de tensões nas negociações do acordo UE-Mercosul. Por sua vez, o Estado brasileiro defende as frações da burguesia agrária exportadora, dependentes da inserção no mercado internacional e da arrecadação de divisas. A disputa reflete a divisão internacional do trabalho, na qual economias periféricas exportam bens primários e enfrentam bloqueios normativos erguidos pelos países centrais.",
+      "explicacoes_alternativas": "A perspectiva liberal-institucional argumenta que as sanções e restrições europeias fundamentam-se no princípio da precaução e em rígidos padrões de vigilância sanitária voltados à proteção da saúde pública e dos consumidores locais.",
+      "hipoteses": [
+        "As declarações de Macron visem conter o descontentamento e os protestos do eleitorado agrícola francês.",
+        "A União Europeia utilize barreiras sanitárias como instrumento de pressão diplomática nas negociações comerciais com o Mercosul."
+      ],
+      "limites_da_evidencia": "Os dados disponíveis não trazem os relatórios técnicos completos da auditoria europeia nem detalham o impacto financeiro direto sofrido pelos produtores afetados.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Ajustada a redação da contradição principal para corrigir pequenos desvios sintáticos.",
+        "Verificada a integridade da citação e a correta atribuição de fatos à fonte BBC World."
+      ],
+      "fontes": [
+        {
+          "id": "N019",
+          "nome": "BBC World",
+          "campo": "Mídia pública ocidental (Reino Unido)",
+          "perfil_editorial": "Emissora pública britânica, financiada por taxa de licença; enquadramento liberal-institucional ocidental.",
+          "titulo_original": "Brazil pushes back on Macron calling its meat 'doped'",
+          "publicado": "2026-11-27",
+          "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "BRA",
+          "pais": "Brazil",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 35.2914822615074,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o grau de inserção do comércio exterior na economia brasileira."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Proposta de cessar-fogo no Mar Negro para escoamento de grãos ucranianos",
+      "paises_iso3": [
+        "UKR",
+        "RUS"
+      ],
+      "fontes_ids": [
+        "N029"
+      ],
+      "fatos_verificaveis": [
+        "A Ucrânia apresentou uma proposta de cessar-fogo no Mar Negro para permitir o escoamento de exportações de alimentos e enviou os detalhes a aliados internacionais, aguardando resposta russa, segundo a France 24.",
+        "O anúncio ocorreu um dia após a Rússia atacar dois navios graneleiros estrangeiros perto do porto de Odesa, segundo autoridades ucranianas citadas pela France 24."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A matéria da France 24 foca na iniciativa diplomática ucraniana para garantir a segurança alimentar global, destacando os alegados ataques russos contra navios de grãos como fator de instabilidade.",
+      "citacao": "Ukraine made a Black Sea ceasefire offer to enable food exports",
+      "citacao_fonte_id": "N029",
+      "contexto_historico": "O Mar Negro é uma via marítima crucial para o transporte de grãos ucranianos e russos destinados aos mercados mundiais. Desde o início da guerra em 2022, o escoamento agrícola esteve sujeito a bloqueios militares, negociações mediadas internacionalmente e ataques a infraestruturas portuárias.",
+      "relacoes_de_trabalho": "A interrupção das rotas afeta tripulantes de navios mercantes e trabalhadores agrícolas ucranianos, cujas fontes de renda e postos de trabalho dependem diretamente da continuidade das exportações agrícolas.",
+      "referencial": [
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "Permite compreender a relevância das vias marítimas do Mar Negro para o mercado mundial de alimentos e cadeias globais de suprimento."
+        }
+      ],
+      "contradicao_principal": "A contradição entre os objetivos de guerra da Rússia em sufocar a logística militar e econômica ucraniana e a necessidade do capital agrário ucraniano de escoar sua produção.",
+      "analise_materialista": "Análise preliminar (evidência escassa): A proposta ucraniana de cessar-fogo no Mar Negro visa garantir o escoamento de grãos e a arrecadação de divisas necessárias para sustentar a economia de guerra do país. Os alegados ataques a navios graneleiros evidenciam o uso do bloqueio logístico marítimo como tática para encarecer fretes e seguros, desestabilizando o comércio exterior ucraniano e afetando a circulação internacional de mercadorias alimentícias.",
+      "explicacoes_alternativas": "Análises de relações internacionais argumentam que a proposta ucraniana reflete um esforço genuíno para evitar crises humanitárias de fome global e engajar a comunidade internacional em negociações pragmáticas de cessar-fogo.",
+      "hipoteses": [
+        "A Ucrânia busque pressionar a diplomacia russa perante países em desenvolvimento dependentes de grãos importados.",
+        "A Rússia condicionará qualquer acordo no Mar Negro ao alívio de sanções sobre seus próprios produtos agrícolas e fertilizantes."
+      ],
+      "limites_da_evidencia": "A evidência restringe-se a um informe curto de uma única fonte com alegações do governo ucraniano, sem manifestação oficial do lado russo.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Corrigida a chave fatos_verificables para fatos_verificaveis.",
+        "Verificada a limitação de palavras na análise preliminar devido à escassez de dados da fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N029",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Ukraine submits Black Sea ceasefire offer, awaits Russian response",
+          "publicado": "2026-11-27",
+          "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "UKR",
+          "pais": "Ukraine",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 77.1802739924807,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Evidencia a elevadíssima dependência da economia ucraniana em relação ao comércio internacional."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Intervenção militar dos EUA contra navio comercial vindo do Irã",
+      "paises_iso3": [
+        "USA",
+        "IRN"
+      ],
+      "fontes_ids": [
+        "N012"
+      ],
+      "fatos_verificaveis": [
+        "As forças armadas dos Estados Unidos desativaram um navio comercial após a embarcação deixar um porto iraniano e ignorar avisos de parada, segundo a Al Jazeera.",
+        "Teerã prometeu quebrar o bloqueio marítimo, cuja operação custou 2 bilhões de dólares aos EUA desde sua reinstituição em julho, segundo a Al Jazeera."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera destaca o custo financeiro da operação para os cofres norte-americanos (2 bilhões de dólares) e a posição do Irã de desafiar o cerco, enfatizando o caráter coercitivo da ação militar.",
+      "citacao": "disabled a commercial ship after it left an Iranian port",
+      "citacao_fonte_id": "N012",
+      "contexto_historico": "Os Estados Unidos mantêm sanções e restrições de navegação contra o Irã em diferentes fases desde 1979, intensificadas após a saída unilateral do acordo JCPOA em 2018. A imposição de bloqueios marítimos visa cortar o fluxo de comércio exterior e o acesso de Teerã a divisas internacionais.",
+      "relacoes_de_trabalho": "Tripulações de navios mercantes em zonas de bloqueio operam sob elevados riscos à vida e insegurança jurídica, enquanto as sanções afetam as condições gerais de trabalho e renda da população iraniana.",
+      "referencial": [
+        {
+          "ficha_id": "T016",
+          "conceito": "Sistema mundial de opressão colonial e estrangulamento financeiro",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo (Prefácio às edições francesa e alemã)",
+          "ano": 1920,
+          "secao": "Prefácio",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/pref02.htm",
+          "trecho": "a world system of colonial oppression and of the financial strangulation",
+          "idioma": "en",
+          "como_se_aplica": "O conceito de estrangulamento financeiro e coerção auxilia a compreender a imposição de bloqueios marítimos por uma potência para constranger a circulação mercantil de um país submetido a sanções."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a projeção militar dos EUA para assegurar sanções econômicas e a tentativa do Irã de manter suas rotas comerciais marítimas ativas.",
+      "analise_materialista": "Em análise preliminar, a desativação da embarcação mercantil por forças norte-americanas exemplifica o uso da força militar estatal para assegurar o cerco econômico. O custo reportado de 2 bilhões de dólares reflete a alocação de recursos materiais para policiar rotas marítimas estratégicas. Na perspectiva materialista, bloqueios atuam como interdição coercitiva do comércio exterior. A promessa de Teerã em romper o cerco expressa a necessidade de manter fluxos de exportação para a reprodução econômica do país.",
+      "explicacoes_alternativas": "Analistas de segurança internacional sustentam que a interdição naval é uma medida para fazer cumprir regimes de sanções e conter riscos à navegação regional.",
+      "hipoteses": [
+        "A ação militar de interceptação pode elevar os custos de frete e seguro marítimo no Golfo Pérsico."
+      ],
+      "limites_da_evidencia": "Evidência escassa proveniente de uma única fonte curta, sem especificações sobre a bandeira da embarcação, o tipo de carga ou os métodos técnicos de desativação.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a análise materialista para explicitar seu caráter preliminar conforme a regra de evidência escassa."
+      ],
+      "fontes": [
+        {
+          "id": "N012",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "US disables ship attempting to breach Iran blockade",
+          "publicado": "2026-11-27",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IRN",
+          "pais": "Iran, Islamic Rep.",
+          "indicador": "NE.TRD.GNFS.ZS",
+          "nome_indicador": "Comércio exterior (% do PIB)",
+          "valor": 60.2426223967467,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mede o peso do comércio exterior na economia iraniana, setor diretamente atingido por bloqueios marítimos."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Uganda anuncia retirada militar do leste da República Democrática do Congo",
+      "paises_iso3": [
+        "UGA",
+        "COD"
+      ],
+      "fontes_ids": [
+        "N028",
+        "N035"
+      ],
+      "fatos_verificaveis": [
+        "O exército de Uganda anunciou a intenção de retirar suas tropas da cidade de Lubero, no leste da RDC (Kivu do Norte), segundo a France 24.",
+        "O anúncio ocorreu após o chefe do exército de Uganda, Muhoozi Kainerugaba, ameaçar tomar o controle da cidade de Walikale, desencadeando crise diplomática entre os dois países, segundo a France 24."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A France 24 retrata a retirada como desdobramento de uma crise diplomática provocada por declarações intempestivas do chefe do exército ugandense, filho do presidente Yoweri Museveni, destacando o impacto nas relações bilaterais.",
+      "citacao": "withdraw troops from a key town in North Kivu",
+      "citacao_fonte_id": "N028",
+      "contexto_historico": "O leste da RDC é afetado por conflitos armados e intervenções militares locais e regionais desde as Guerras do Congo nos anos 1990. A província de Kivu do Norte concentra recursos minerais estratégicos e rotas comerciais disputadas.",
+      "relacoes_de_trabalho": "A presença e o deslocamento de tropas armadas no leste da RDC provocam insegurança para camponeses locais e desorganizam a produção agrícola e a mineração de subsistência.",
+      "referencial": [],
+      "contradicao_principal": "O conflito entre a projeção de poder militar de Uganda no leste da RDC e a soberania territorial do governo congolês.",
+      "analise_materialista": "A leitura materialista sugere que a decisão de Uganda de retirar tropas de Lubero reflete os limites de uma intervenção militar em território vizinho diante de atritos diplomáticos com Kinshasa. A ameaça do comando militar ugandense sobre Walikale e a subsequente crise diplomática evidenciam como fricções políticas e riscos de custos militares mais elevados constrangem a manutenção da presença armada estrangeira na região de Kivu do Norte.",
+      "explicacoes_alternativas": "A perspectiva diplomática argumenta que a retirada visa desescalar o impasse governamental e conter o impacto das declarações do comandante militar, visando preservar a cooperação bilateral.",
+      "hipoteses": [
+        "A retirada das forças ugandenses de Lubero pode alterar a dinâmica de controle de segurança por outros atores armados atuantes na província."
+      ],
+      "limites_da_evidencia": "Matérias resumidas de uma única emissora que não fornecem o contingente de soldados envolvidos nem o cronograma detalhado da retirada.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustado o status de checagem para 'não verificado' por ausência de fontes de campos distintos ou verificação web.",
+        "Rebaixada a confiança para 'baixa' devido ao caráter resumido e de fonte única (France 24).",
+        "Removida a ficha teórica Karl Marx, O Capital, Livro I por não ser diretamente aplicável aos fatos noticiados."
+      ],
+      "fontes": [
+        {
+          "id": "N028",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Uganda to withdraw troops from DR Congo",
+          "publicado": "2026-11-27",
+          "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo"
+        },
+        {
+          "id": "N035",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "Uganda to withdraw troops from DR Congo town after army chief's threat sparks row",
+          "publicado": "2026-11-27",
+          "url": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 2,
+        "campos": 1
+      },
+      "citacao_verificada": false,
+      "dados": [
+        {
+          "pais_iso3": "COD",
+          "pais": "Congo, Dem. Rep.",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 81.5143422309767,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o elevado índice de trabalho vulnerável na RDC, agravado pela instabilidade militar e territorial."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Global",
+      "titulo": "Inserção de trabalhadores indianos na Alemanha e gargalos na reprodução da força de trabalho",
+      "paises_iso3": [
+        "DEU",
+        "IND"
+      ],
+      "fontes_ids": [
+        "N047"
+      ],
+      "fatos_verificaveis": [
+        "Segundo a Deutsche Welle, o número de trabalhadores indianos sujeitos a contribuições de previdência social na Alemanha cresceu sete vezes no último decênio, ultrapassando 140.000 profissionais.",
+        "Um estudo da Fundação Bertelsmann de 2024 citado pela Deutsche Welle estimou que a Alemanha necessita de 288.000 trabalhadores qualificados estrangeiros por ano até 2040.",
+        "Trabalhadores enfrentam barreiras linguísticas e resistência de conselhos de empresa no segmento Mittelstand, segundo relatos citados pela emissora."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública alemã (DW) enquadra o recrutamento como uma necessidade econômica diante do declínio demográfico, destacando entraves burocráticos, linguísticos e o temor de trabalhadores locais quanto ao rebaixamento salarial.",
+      "citacao": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+      "citacao_fonte_id": "N047",
+      "contexto_historico": "A economia alemã historicamente recorreu a acordos de recrutamento de mão de obra no pós-Segunda Guerra Mundial para suprir escassez industrial. Com o envelhecimento populacional recente e a desaceleração dos fluxos migratórios da Europa Central e Oriental, empresas alemãs passaram a buscar força de trabalho em economias da periferia global, como a Índia.",
+      "relacoes_de_trabalho": "O recrutamento de trabalhadores indianos para funções técnicas e operacionais reflete a busca por suprir gargalos demográficos. A contratação direta via aprendizado (Ausbildung) contrasta com a intermediação por agências e o uso de vistos Vander Elst via Leste Europeu, que podem aumentar a vulnerabilidade jurídica dos migrantes.",
+      "referencial": [
+        {
+          "ficha_id": "T018",
+          "conceito": "Superlucros monopolistas e suborno de camadas do operariado (aristocracia operária)",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 8",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm",
+          "trecho": "the economic possibility of such bribery, whatever its form may be, requires high monopolist profits",
+          "idioma": "en",
+          "como_se_aplica": "A hesitação de conselhos de fábrica reflete o receio da força de trabalho local de ter seus salários e posições no centro do capitalismo pressionados pela atração de trabalhadores periféricos."
+        },
+        {
+          "ficha_id": "T013",
+          "conceito": "Mercado mundial e produção cosmopolita",
+          "autor": "Karl Marx e Friedrich Engels",
+          "obra": "Manifesto do Partido Comunista",
+          "ano": 1848,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/marx/works/1848/communist-manifesto/ch01.htm",
+          "trecho": "given a cosmopolitan character to production and consumption in every country",
+          "idioma": "en",
+          "como_se_aplica": "A integração de trabalhadores indianos nas cadeias produtivas alemãs exemplifica o caráter cosmopolita assumido pela atração da força de trabalho no mercado mundial."
+        }
+      ],
+      "contradicao_principal": "O par de interesses opostos entre a necessidade do capital alemão de atrair força de trabalho qualificada e barata da periferia e a resistência protecionista de conselhos operários e barreiras institucionais de integração.",
+      "analise_materialista": "Premissa baseada exclusivamente em Deutsche Welle. A atração de trabalhadores da Índia pela Alemanha insere-se na dinâmica de reprodução da força de trabalho no centro industrial perante a transição demográfica. A contratação de profissionais periféricos permite às empresas alemãs preencher lacunas produtivas reduzindo custos com a formação inicial dessa mão de obra. Ao mesmo tempo, exigências linguísticas e contratuais atenuam a mobilidade do trabalhador. O receio relatado de conselhos operários sobre o impacto nos salários evidencia como a divisão internacional do trabalho pode gerar clivagens no seio da classe trabalhadora.",
+      "explicacoes_alternativas": "Uma explicação liberal sustenta que o recrutamento transnacional reflete a eficiência da alocação de mercado entre oferta excessiva de trabalho qualificado na Índia e demanda não atendida na Alemanha, em benefício mútuo das partes via ganhos salariais e preenchimento de vagas.",
+      "hipoteses": [
+        "A intermediação por agências terceirizadas e regimes de vistos via terceiros países (Vander Elst) tende a fragilizar a estabilidade jurídica dos migrantes.",
+        "O aumento de exigências linguísticas pode atuar indiretamente como filtro de contenção salarial e limitação da mobilidade patronal."
+      ],
+      "limites_da_evidencia": "Estudo amparado em única matéria jornalística (DW), sem acesso direto aos contratos de trabalho ou dados primários sobre a rotatividade dos trabalhadores indianos no Mittelstand.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixada a confiança de média para baixa devido à dependência exclusiva de uma única fonte (Deutsche Welle) sem confirmação independente.",
+        "Ajustada a análise materialista para ressaltar o caráter preliminar decorrente da fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N047",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Indian workers fill Germany's labor gaps but face hurdles and risks",
+          "publicado": "2026-11-27",
+          "url": "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "IND",
+          "pais": "India",
+          "indicador": "SL.EMP.VULN.ZS",
+          "nome_indicador": "Emprego vulnerável (% do emprego total, estimativa OIT)",
+          "valor": 71.583962506186,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Ilustra a elevada prevalência de emprego vulnerável no mercado de trabalho indiano, impulsionando a migração."
+        },
+        {
+          "pais_iso3": "DEU",
+          "pais": "Germany",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 3.711,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mostra a baixa taxa de desemprego na Alemanha, associada ao déficit estrutural de mão de obra."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Oriente Médio",
+      "titulo": "Ataque militar israelense contra infraestrutura de saúde da MSF em Gaza",
+      "paises_iso3": [
+        "ISR",
+        "PSE"
+      ],
+      "fontes_ids": [
+        "N007"
+      ],
+      "fatos_verificaveis": [
+        "Segundo a Al Jazeera English, um ataque aéreo israelense atingiu uma clínica gerida pela organização Médicos Sem Fronteiras (MSF) em Gaza, matando dois vigias.",
+        "A MSF afirmou que se tratou de um ataque direto, ressaltando que seus logotipos estavam visíveis e que Israel conhecia a localização exata da instalação.",
+        "As Forças de Defesa de Israel sustentaram que as duas vítimas eram combatentes do Hamas."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera destaca a denúncia da MSF de ataque direto a instalações identificadas, enquanto registra o argumento militar israelense de que as vítimas seriam integrantes do Hamas.",
+      "citacao": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+      "citacao_fonte_id": "N007",
+      "contexto_historico": "No âmbito do conflito na Faixa de Gaza, o impacto sobre infraestruturas de saúde e instalações humanitárias tem sido recorrentemente relatado por organismos internacionais, afetando a prestação de serviços básicos à população sob ocupação.",
+      "relacoes_de_trabalho": "Trabalhadores da saúde e apoio operam sob graves riscos físicos e degradação severa das condições materiais de trabalho em ambiente de conflito armado.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "O aparato militar estatal é mobilizado para a coerção e controle territorial no conflito, atuando à revelia de salvaguardas institucionais civis."
+        }
+      ],
+      "contradicao_principal": "O antagonismo entre as operações militares estatais de controle territorial e a manutenção das condições mínimas de assistência médica à população local.",
+      "analise_materialista": "Evidência escassa e de fonte única (Al Jazeera English). A análise é preliminar. O ataque relatado a uma clínica da MSF reflete a degradação das condições materiais de suporte à vida em Gaza. A paralisação de serviços médicos reduz a capacidade de atendimento da população em área sob ação militar. A divergência entre a alegação militar de atingir combatentes e a denúncia da organização médica sobre o ataque a uma instalação sinalizada expõe o uso de enquadramentos de segurança para justificar ações ostensivas.",
+      "explicacoes_alternativas": "A versão militar oficial sustenta que o ataque visou combatentes do Hamas localizados na área da clínica, sem intenção de atingir a estrutura médica ou civis.",
+      "hipoteses": [
+        "A degradação continuada de instalações médicas compromete sensivelmente a capacidade de atendimento básico da população civil no local."
+      ],
+      "limites_da_evidencia": "Evidência restrita a um despacho jornalístico curto de um único veículo (Al Jazeera), sem verificação independente no local ou confirmação pericial neutra das identidades das vítimas.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Mantida confiança baixa devido à escassez de detalhes e uso de fonte única (Al Jazeera English).",
+        "Ajustada a redação para garantir rigor na distinção entre fatos atribuídos às partes e hipóteses analíticas.",
+        "(Sistema) Sem verificação independente na web, o selo foi mantido como 'não verificado' e a confiança limitada a 'média', independentemente das notas acima."
+      ],
+      "fontes": [
+        {
+          "id": "N007",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Israel kills two MSF staff in targeted strike on Gaza clinic",
+          "publicado": "2026-11-28",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/israel-kills-two-msf-staff-in-targeted-strike-on-gaza-clinic?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "PSE",
+          "pais": "West Bank and Gaza",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 24.42,
+          "ano": "2022",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Demonstra o elevado nível de desemprego e a vulnerabilidade estrutural da população no território palestino."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Pressão financeira e rigor fiscal sobre o crédito soberano francês",
+      "paises_iso3": [
+        "FRA"
+      ],
+      "fontes_ids": [
+        "N027"
+      ],
+      "fatos_verificaveis": [
+        "A agência de classificação S&P alterou a perspectiva do crédito da França de 'estável' para 'negativa', segundo a France 24.",
+        "A revisão foi justificada por crescentes pressões orçamentárias, fraco crescimento econômico e maiores custos com juros que dificultam a redução do déficit fiscal, segundo a France 24."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A emissora pública France 24 aborda a revisão da perspectiva sob enquadramento técnico-financeiro, enfatizando as limitações orçamentárias e os desafios macroeconômicos do governo francês.",
+      "citacao": "revised France’s outlook to 'negative' from 'stable' on Friday",
+      "citacao_fonte_id": "N027",
+      "contexto_historico": "A economia francesa enfrenta dificuldades fiscais decorrentes de baixo crescimento produtivo e encargos com dívida soberana, contexto agravado pela elevação das taxas de juros no bloco europeu para conter a inflação recente.",
+      "relacoes_de_trabalho": "A sinalização das agências de risco costuma ser utilizada para fundamentar políticas de contenção de gastos públicos, pressionando por reformas que afetam serviços essenciais e postos de trabalho no setor público.",
+      "referencial": [
+        {
+          "ficha_id": "T017",
+          "conceito": "Estados usurários e Estados devedores (rentismo)",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 8",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch08.htm",
+          "trecho": "a handful of usurer states and a vast majority of debtor states",
+          "idioma": "en",
+          "como_se_aplica": "Ilustra como agências de risco e mercados de crédito exercem pressão e disciplinamento financeiro sobre o orçamento do Estado."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a exigência dos credores por austeridade para assegurar o serviço da dívida e a demanda social por investimentos públicos.",
+      "analise_materialista": "Em análise preliminar baseada em relato único e sumário da France 24, a alteração da perspectiva de crédito pela S&P sinaliza a pressão de credores sobre a política fiscal do Estado francês. A leitura materialista sugere que rebaixamentos de rating funcionam como vetores ideológicos e econômicos que pressionam governos por austeridade fiscal, tendendo a deslocar os custos do ajuste para a classe trabalhadora mediante redução de serviços públicos e despesas sociais.",
+      "explicacoes_alternativas": "A visão liberal-ortodoxa argumenta que as agências de risco cumprem um papel técnico de sinalização de mercado, alertando sobre a insustentabilidade das contas públicas e encorajando governos a buscarem a responsabilidade fiscal.",
+      "hipoteses": [
+        "A sinalização da S&P intensificará a pressão por cortes de gastos sociais e reformas fiscais no orçamento francês."
+      ],
+      "limites_da_evidencia": "A notícia é extremamente curta e não fornece o percentual do déficit fiscal francês nem as medidas específicas propostas pelo governo.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Corrigido erro gramatical em fatos_verificaveis ('justificativa' para 'justificada').",
+        "Reduzida a análise materialista para menos de 80 palavras e explicitada como análise preliminar devido à escassez de detalhes na fonte única (France 24).",
+        "Rebaixado nível de confiança de 'média' para 'baixa' em razão do caráter sumário do despacho."
+      ],
+      "fontes": [
+        {
+          "id": "N027",
+          "nome": "France 24",
+          "campo": "Mídia pública ocidental (França)",
+          "perfil_editorial": "Emissora internacional financiada pelo Estado francês.",
+          "titulo_original": "S&P revises France's outlook from 'stable' to 'negative'",
+          "publicado": "2026-11-27",
+          "url": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "FRA",
+          "pais": "France",
+          "indicador": "SL.UEM.TOTL.ZS",
+          "nome_indicador": "Desemprego (% da força de trabalho, estimativa OIT)",
+          "valor": 7.542,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Indica a taxa de desemprego no mercado de trabalho francês no contexto de fraco crescimento econômico."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Impasse orçamentário na UE sobre financiamento à Ucrânia e tributação de empresas de tecnologia dos EUA",
+      "paises_iso3": [
+        "USA",
+        "UKR",
+        "FRA"
+      ],
+      "fontes_ids": [
+        "N040"
+      ],
+      "fatos_verificaveis": [
+        "Líderes da UE interromperam sem acordo as negociações do orçamento de longo prazo (2028-2034) na cúpula de Bruxelas, segundo a Deutsche Welle.",
+        "A Alemanha exigiu a inclusão de um empréstimo adicional de €45 bilhões para a Ucrânia e a elevação de recursos para competitividade e defesa (de 17,7% para 27,7%), cortando fundos agrícolas e de coesão (de 59,1% para 42,4%), segundo a Deutsche Welle.",
+        "A Eslováquia acusou a Alemanha de chantagem ao se opor ao financiamento militar ucraniano, posição acompanhada por Hungria, Chéquia e Bulgária, segundo a Deutsche Welle.",
+        "A proposta de uma taxa digital de 3% sobre empresas de tecnologia para arrecadar €5 bilhões anuais enfrenta oposição da Irlanda, onde grandes empresas de tecnologia dos EUA mantêm sedes europeias, segundo a Deutsche Welle."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública alemã enquadra o impasse como um choque entre o bloco dos contribuintes líquidos liderados pela Alemanha e os beneficiários de coesão, destacando divergências sobre o apoio militar à Ucrânia e a oposição irlandesa à taxa digital.",
+      "citacao": "left without a deal and didn't even attempt to resume discussions",
+      "citacao_fonte_id": "N040",
+      "contexto_historico": "As negociações do orçamento plurianual da UE historicamente contrapõem contribuintes líquidos e receptores de fundos, contexto agora tensionado pela reorientação para gastos de defesa e divergências sobre tributação digital.",
+      "relacoes_de_trabalho": "O redirecionamento de verbas orçamentárias da agricultura e fundos de coesão para defesa e competitividade afeta o financiamento de regiões periféricas e setores agrícolas do bloco.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "A disputa por verbas estatais de defesa e tributação de corporações transnacionais reflete contradições de mercados e capitais na fase monopolista."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a prioridade atribuída pelos maiores contribuintes ao rearmamento e à projeção geopolítica versus a manutenção dos fundos de coesão territorial nos membros receptores.",
+      "analise_materialista": "Com base na cobertura da Deutsche Welle, o impasse orçamentário na União Europeia expõe disputas pela destinação do fundo público comunitário. A exigência alemã de reorientar recursos de coesão e agricultura para a defesa e o suporte à Ucrânia atende a interesses do complexo de segurança e defesa, enquanto governos opositores buscam preservar as transferências regionais. Paralelamente, a oposição da Irlanda à taxa digital de 3% evidencia a contradição entre a busca por receita própria da UE e a preservação de vantagens atrativas ao capital monopolista de tecnologia dos EUA.",
+      "explicacoes_alternativas": "A perspectiva institucionalista da ciência política interpreta as divergências como dinâmica usual de barganha de soma nula na UE, na qual líderes adotam táticas rígidas antes de alcançar um compromisso final.",
+      "hipoteses": [
+        "A tentativa de redirecionar verbas para o setor de defesa aumentará a resistência de governos receptores de fundos agrícolas e de coesão."
+      ],
+      "limites_da_evidencia": "A matéria da Deutsche Welle é a única fonte sobre o fato no conjunto e não detalha a posição individual de todos os 27 Estados-membros.",
+      "confianca": "média",
+      "revisao_notas": [
+        "Explicitada a dependência das premissas em relação à cobertura exclusiva da Deutsche Welle (Deutsche Welle).",
+        "Ajustada a análise materialista para enquadrar as interpretações diretamente nos dados e fatos fornecidos na fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N040",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Divisions deepen between EU member states after tense budget summit",
+          "publicado": "2026-11-27",
+          "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [
+        {
+          "pais_iso3": "USA",
+          "pais": "United States",
+          "indicador": "NY.GDP.MKTP.CD",
+          "nome_indicador": "PIB (US$ correntes)",
+          "valor": 30769700000000,
+          "ano": "2025",
+          "fonte": "Banco Mundial (WDI)",
+          "por_que_importa": "Mensiona o tamanho da economia dos EUA, sede das multinacionais de tecnologia afetadas pela proposta de imposto digital."
+        }
+      ],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Ásia",
+      "titulo": "Expansão nuclear norte-coreana e impasse geopolítico no Leste Asiático",
+      "paises_iso3": [
+        "PRK",
+        "USA",
+        "KOR"
+      ],
+      "fontes_ids": [
+        "N054"
+      ],
+      "fatos_verificaveis": [
+        "Segundo a rádio pública estadunidense NPR, o líder norte-coreano Kim Jong Un inspecionou instalações de produção de materiais nucleares e defendeu a expansão do arsenal atômico do país.",
+        "Segundo a agência estatal KCNA citada pela NPR, Kim justificou as medidas citando ameaças nucleares crescentes dos EUA e a cooperação militar com a Coreia do Sul.",
+        "A visita ocorreu após a Coreia do Norte não responder publicamente às ofertas de encontro feitas pelo presidente dos EUA, Donald Trump, durante viagem à Ásia.",
+        "O Ministério da Defesa da Coreia do Sul declarou que toma a sério as declarações sobre armas nucleares táticas e mantém prontidão conjunta sob a aliança com os EUA."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A mídia pública ocidental (NPR) enquadra o evento como demonstração de força autoritária para rejeitar a desnuclearização e sinalizar poder diplomático. Em contrapartida, a narrativa oficial norte-coreana (KCNA) apresenta a ampliação nuclear como medida indispensável e irreversível de legítima defesa frente à presença militar dos EUA e da Coreia do Sul na região.",
+      "citacao": "variable nuclear threats approaching the Korean Peninsula moment by moment",
+      "citacao_fonte_id": "N054",
+      "contexto_historico": "A Península Coreana permanece sob o regime de armistício desde 1953. O programa nuclear da Coreia do Norte foi desenvolvido ao longo das últimas décadas como mecanismo de dissuasão estratégica diante da presença de tropas e armas dos EUA na região. Negociações diplomáticas anteriores sobre desnuclearização colapsaram devido a divergências fundamentais quanto ao alívio de sanções econômicas e às garantias recíprocas de segurança.",
+      "relacoes_de_trabalho": "Os dados disponíveis na notícia restringem-se a aspectos de infraestrutura militar e política externa do Estado, não fornecendo informações sobre relações de trabalho ou condições produtivas da população.",
+      "referencial": [
+        {
+          "ficha_id": "T020",
+          "conceito": "Nações oprimidas e nações opressoras",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations",
+          "idioma": "en",
+          "como_se_aplica": "O conceito auxilia a examinar a relação entre potências militares e países sob pressão e sanções no sistema internacional."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a estratégia geopolítica de contenção militar dos EUA no Pacífico Ocidental e a busca da Coreia do Norte por dissuasão nuclear soberana para garantir a preservação de seu regime.",
+      "analise_materialista": "Análise preliminar (baseada em fonte única): A aceleração do programa nuclear pela Coreia do Norte responde à lógica material de dissuasão assimétrica contra o cerco militar promovido pela aliança entre EUA e Coreia do Sul. Sob a perspectiva materialista, os investimentos em capacidade de enriquecimento de urânio e artefatos táticos representam a constituição de infraestrutura de defesa para compensar a desproporção de poder econômico e militar convencional dos seus adversários. A recusa em dialogar nos termos de desnuclearização impostos por Washington expressa a leitura de Pyongyang de que a garantia de sobrevivência estatal reside na manutenção de sua capacidade militar soberana.",
+      "explicacoes_alternativas": "Análises liberais de relações internacionais argumentam que o desenvolvimento nuclear norte-coreano busca criar poder de barganha político para negociar concessões econômicas e alívio de sanções, além de servir a propósitos de coesão política interna e consolidação da liderança do regime.",
+      "hipoteses": [
+        "A prioridade a armas táticas visa contrabalançar exercícios militares conjuntos entre forças sul-coreanas e estadunidenses na fronteira."
+      ],
+      "limites_da_evidencia": "Informações restritas ao relato da NPR e imagens divulgadas pelo próprio governo norte-coreano, sem verificação técnica independente sobre o estágio real das instalações.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Rebaixada a confiança de 'média' para 'baixa' em conformidade com as diretrizes sobre itens de fonte única.",
+        "Ajustada a redação de 'como_se_aplica' do referencial para evitar inferência de opinião do autor teórico sobre o fato recente."
+      ],
+      "fontes": [
+        {
+          "id": "N054",
+          "nome": "NPR World",
+          "campo": "Mídia pública ocidental (EUA)",
+          "perfil_editorial": "Rádio pública norte-americana, com financiamento misto (doações, patrocínio e verbas públicas).",
+          "titulo_original": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+          "publicado": "2026-11-26",
+          "url": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "África",
+      "titulo": "Denúncias de violência transfronteiriça e repressão a dissidentes tanzanianos no Quênia",
+      "paises_iso3": [
+        "TZA",
+        "KEN"
+      ],
+      "fontes_ids": [
+        "N005"
+      ],
+      "fatos_verificaveis": [
+        "Segundo a Al Jazeera, o ativista de oposição tanzaniano Twaha Salim Mwaipaya foi interceptado e levado por indivíduos não identificados em Machakos County, Quênia, em 25 de outubro de 2026.",
+        "Organizações como Anistia Internacional, KNCHR, FIDH e OMCT classificaram o desaparecimento de Mwaipaya como possível desaparecimento forçado e pediram investigações.",
+        "O inspetor-geral da polícia do Quênia, Douglas Kanja, declarou perante a Alta Corte de seu país que o ativista não está sob custódia policial.",
+        "A matéria relata a abdução anterior da ativista Maria Sarungi Tsehai em Nairóbi, em janeiro de 2025, libertada após mobilização pública.",
+        "Em maio de 2026, a presidente da Tanzânia, Samia Suluhu Hassan, em coletiva conjunta com o presidente do Quênia, William Ruto, fez declarações defendendo o uso de coerção física contra manifestantes que cruzassem a fronteira."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera e ONGs internacionais enquadram o caso como um padrão de repressão transnacional violenta contra ativistas políticos refugiados no Quênia. Autoridades policiais quenianas negam envolvimento no desaparecimento, enquanto diplomatas da Tanzânia afirmam acompanhar a situação sem relatórios conclusivos.",
+      "citacao": "We do not have him in our custody",
+      "citacao_fonte_id": "N005",
+      "contexto_historico": "Tanzânia e Quênia possuem laços diplomáticos e comerciais estreitos como membros fundadores da Comunidade da África Oriental (EAC). A mobilidade populacional e o asilo de opositores políticos no país vizinho são históricos. No entanto, o aumento de denúncias de perseguição a dissidentes do partido de oposição Chadema coincide com a intensificação da cooperação em segurança entre governos da região.",
+      "relacoes_de_trabalho": "O fato aborda ativismo político e atuação do aparato policial, sem reportar dados diretos sobre relações laborais ou estrutura de classes produtoras.",
+      "referencial": [
+        {
+          "ficha_id": "T019",
+          "conceito": "O Estado como produto de antagonismos de classe",
+          "autor": "V. I. Lenin",
+          "obra": "O Estado e a Revolução",
+          "ano": 1917,
+          "secao": "cap. 1",
+          "url": "https://www.marxists.org/archive/lenin/works/1917/staterev/ch01.htm",
+          "trecho": "The state is a product and a manifestation of the irreconcilability of class antagonisms",
+          "idioma": "en",
+          "como_se_aplica": "O conceito auxilia no exame de como aparatos policiais estatais atuam para conter a oposição política e assegurar a estabilidade dos regimes."
+        }
+      ],
+      "contradicao_principal": "A oposição entre a atuação dos aparatos de segurança estatal para preservar a estabilidade dos governos regionais e a demanda de ativistas por direitos civis e de asilo.",
+      "analise_materialista": "Análise preliminar (baseada em fonte única): As alegações de ações operacionais clandestinas contra dissidentes tanzanianos em território queniano sugerem mecanismos informais de cooperação policial transfronteiriça. Do ponto de vista materialista, o alinhamento entre as elites estatais vizinhas visa garantir a estabilidade política e conter focos de oposição que possam desestabilizar acordos bilaterais ou questionar o domínio das frações governantes na Comunidade da África Oriental.",
+      "explicacoes_alternativas": "Abordagens institucionais sugerem que os desaparecimentos podem ser obra de grupos criminosos autônomos ou decorrer de disputas pessoais e falhas de inteligência local, sem coordenação ou autorização dos governos estatais envolvidos.",
+      "hipoteses": [
+        "Existe coordenação não oficial entre setores de segurança da Tanzânia e do Quênia para neutralizar opositores políticos no exterior."
+      ],
+      "limites_da_evidencia": "Baseia-se em um único despacho de imprensa e depoimentos de atingidos; não há investigações periciais conclusivas que identifiquem a autoria dos sequestros.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Corrigida a chave 'fatos_verificables' para 'fatos_verificaveis'.",
+        "Rebaixada a confiança de 'média' para 'baixa' em conformidade com as diretrizes de escassez de fontes."
+      ],
+      "fontes": [
+        {
+          "id": "N005",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Hunted beyond borders: Allegations of Tanzanian repression in Kenya",
+          "publicado": "2026-11-28",
+          "url": "https://www.aljazeera.com/news/2026/11/28/hunted-beyond-borders-allegations-of-tanzanian-repression-in-kenya?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "Europa",
+      "titulo": "Falência da Norse Atlantic e choque energético na aviação comercial",
+      "paises_iso3": [
+        "NOR",
+        "IRN"
+      ],
+      "fontes_ids": [
+        "N042"
+      ],
+      "fatos_verificaveis": [
+        "A unidade operacional da companhia aérea norueguesa de baixo custo Norse Atlantic entrou com pedido de falência após suspender voos, segundo a Deutsche Welle.",
+        "De acordo com a Deutsche Welle, a alta nos preços do querosene de aviação em 2026, atribuída aos conflitos no Irã e restrições no Estreito de Ormuz, agravou a crise financeira da empresa.",
+        "Os arrendadores de aeronaves rescindiram contratos relativos a todas as 12 aeronaves da frota operada pela Norse Atlantic, relata a emissora."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Deutsche Welle enquadra a falência como consequência direta do choque externo nos custos de combustível gerado pela escalada militar no Oriente Médio e pelas perturbações no Estreito de Ormuz, sublinhando a fragilidade de companhias aéreas de baixo custo com margens operacionais reduzidas.",
+      "citacao": "The Board of Norse Atlantic Airways AS has made the difficult decision",
+      "citacao_fonte_id": "N042",
+      "contexto_historico": "O setor de aviação comercial vinha enfrentando fragilidades financeiras desde a redução do tráfego aéreo causada pela pandemia de COVID-19 em 2020. Em 2026, com os ataques dos Estados Unidos ao Irã e a redução do tráfego pelo Estreito de Ormuz, os preços dos combustíveis de aviação registraram altas superiores às observadas logo após o conflito na Ucrânia em 2022, pressionando transportadoras já debilitadas.",
+      "relacoes_de_trabalho": "O encerramento das operações e a suspensão de voos geram risco iminente de demissões para tripulantes e trabalhadores de suporte, demonstrando como a instabilidade dos insumos energéticos é transferida para a precarização e perda de empregos na força de trabalho do setor de transportes.",
+      "referencial": [
+        {
+          "ficha_id": "T014",
+          "conceito": "Imperialismo como estágio monopolista do capitalismo",
+          "autor": "V. I. Lenin",
+          "obra": "Imperialismo, fase superior do capitalismo",
+          "ano": 1916,
+          "secao": "cap. 7",
+          "url": "https://www.marxists.org/archive/lenin/works/1916/imp-hsc/ch07.htm",
+          "trecho": "imperialism is the monopoly stage of capitalism",
+          "idioma": "en",
+          "como_se_aplica": "A disputa por recursos energéticos estratégicos no Oriente Médio desestabiliza mercados mundiais, afetando a rentabilidade de capitais com menor margem de absorção de choques."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a dependência do setor de transportes em relação a combustíveis fósseis e as crises geopolíticas derivadas da disputa por fontes energéticas.",
+      "analise_materialista": "Análise preliminar baseada em fonte única. O colapso financeiro da unidade operacional da Norse Atlantic exemplifica a vulnerabilidade de empresas aéreas de baixo custo expostas a choques geopolíticos no preço do combustível. A disparada dos custos do querosene de aviação, associada à guerra no Irã, sobrecarregou a estrutura da empresa já debilitada por prejuízos anteriores. A rescisão rápida dos contratos pelas arrendadoras de aeronaves demonstra como o capital financeiro busca conter perdas ao primeiro sinal de insolvência.",
+      "explicacoes_alternativas": "A análise liberal e de gestão corporativa enfatiza falhas no modelo de negócios da empresa, como a superexposição ao segmento de voos de longo curso de baixo custo e a ausência de proteções financeiras eficazes (hedge) contra a volatilidade do preço do petróleo.",
+      "hipoteses": [
+        "A crise de combustíveis impulsionará a concentração do mercado aéreo europeu em grandes conglomerados mais capitalizados em detrimento de companhias independentes."
+      ],
+      "limites_da_evidencia": "A limitação de dados financeiros detalhados sobre as subsidiárias do grupo dificulta a análise sobre a extensão do impacto patrimonial total.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Ajustada a análise materialista para manter o limite de 80 palavras aplicável a itens baseados em fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N042",
+          "nome": "Deutsche Welle",
+          "campo": "Mídia pública ocidental (Alemanha)",
+          "perfil_editorial": "Emissora internacional financiada pelo governo federal alemão.",
+          "titulo_original": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+          "publicado": "2026-11-27",
+          "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-xml-mrss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    },
+    {
+      "regiao": "América Latina",
+      "titulo": "Protestos populares e crise do modelo privatizado de energia em Porto Rico",
+      "paises_iso3": [
+        "PRI",
+        "USA"
+      ],
+      "fontes_ids": [
+        "N008"
+      ],
+      "fatos_verificaveis": [
+        "Milhares de porto-riquenhos protestaram em San Juan no 'Dia da Indignação Nacional' contra o custo de vida e as tarifas de eletricidade, segundo a Al Jazeera.",
+        "A Suprema Corte de Porto Rico aprovou a anulação do contrato governamental com a empresa privada Luma Energy, responsável pela distribuição e transmissão elétrica na ilha, relata a fonte.",
+        "A Associação de Indústrias de Porto Rico declarou que o cancelamento do contrato pode desestimular investimentos privados na reconstrução da rede elétrica."
+      ],
+      "status_checagem": "não verificado",
+      "checagem_resumo": "A verificação independente na web não estava disponível nesta execução.",
+      "enquadramentos_comparados": "A Al Jazeera destaca a mobilização popular, sindical e de estudantes contra as tarifas elevadas e as falhas nos serviços públicos privatizados, ao passo que projeta a reação do setor industrial preocupado com a segurança jurídica para investimentos de capital privado.",
+      "citacao": "monthly electricity bills for some residential customers recently rose about 18 percent",
+      "citacao_fonte_id": "N008",
+      "contexto_historico": "Porto Rico permanece sob a condição de território não incorporado dos Estados Unidos. A infraestrutura de energia da ilha, fragilizada por anos de desinvestimento e destruída pelo Furacão Maria em 2017, foi concedida à Luma Energy sob um programa de privatização incentivado pelas políticas de austeridade impostas para gerir a dívida pública do território.",
+      "relacoes_de_trabalho": "O aumento progressivo das tarifas de energia corrói os salários reais de trabalhadores e os rendimentos fixos de aposentados, alimentando a articulação entre sindicatos, organizações estudantis e comunitárias em defesa do poder de compra da população.",
+      "referencial": [
+        {
+          "ficha_id": "T020",
+          "conceito": "Nações oprimidas e nações opressoras",
+          "autor": "V. I. Lenin",
+          "obra": "Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista)",
+          "ano": 1920,
+          "secao": "Teses",
+          "url": "https://www.marxists.org/archive/lenin/works/1920/jun/05.htm",
+          "trecho": "between the oppressed, dependent and subject nations and the oppressing, exploiting and sovereign nations",
+          "idioma": "en",
+          "como_se_aplica": "A relação entre os Estados Unidos e o território de Porto Rico reflete a assimetria entre nação opressora e território dependente, manifestada na privatização de serviços essenciais."
+        }
+      ],
+      "contradicao_principal": "A contradição entre a garantia de lucros privados em serviços de infraestrutura e o direito da população trabalhadora ao acesso contínuo a bens essenciais.",
+      "analise_materialista": "Análise preliminar baseada em fonte única. Os protestos em San Juan e a anulação judicial do contrato da Luma Energy expõem contradições da privatização de infraestrutura básica em territórios dependentes. A concessão do serviço elétrico ao setor privado resultou na elevação de tarifas e falhas frequentes de fornecimento, onerando a população trabalhadora. A preocupação da Associação de Indústrias com a segurança jurídica reflete a prioridade dada às garantias do capital investido em detrimento das demandas sociais urgentes por serviços essenciais.",
+      "explicacoes_alternativas": "A perspectiva liberal e corporativa sustenta que a deterioração do serviço decorre de problemas estruturais herdados da estatal anterior e que a ruptura contratual cria insegurança jurídica, afastando o capital privado necessário para modernizar a rede.",
+      "hipoteses": [
+        "A revogação do contrato com a Luma Energy pode reabrir o debate sobre a reestatização e o controle público dos serviços essenciais em Porto Rico."
+      ],
+      "limites_da_evidencia": "A falta de detalhes sobre o plano de transição governamental pós-Luma Energy limita a compreensão de como o serviço será gerido no curto prazo.",
+      "confianca": "baixa",
+      "revisao_notas": [
+        "Substituída a ficha teórica V. I. Lenin, Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista) por V. I. Lenin, Esboço de teses sobre as questões nacional e colonial (II Congresso da Internacional Comunista), pois Porto Rico é um território não incorporado dos EUA e não um Estado formalmente independente.",
+        "Sintetizada a análise materialista para adequá-la ao limite de 80 palavras correspondente a itens de fonte única."
+      ],
+      "fontes": [
+        {
+          "id": "N008",
+          "nome": "Al Jazeera English",
+          "campo": "Mídia financiada pelo Estado (Catar)",
+          "perfil_editorial": "Rede de notícias financiada pelo governo do Catar; agenda editorial ligada à política externa do país.",
+          "titulo_original": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+          "publicado": "2026-11-28",
+          "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss"
+        }
+      ],
+      "cobertura": {
+        "fontes": 1,
+        "artigos": 1,
+        "campos": 1
+      },
+      "citacao_verificada": true,
+      "dados": [],
+      "numeros_nao_verificados": []
+    }
+  ],
+  "data": "2026-11-28",
+  "gerado_em": "2026-11-28T04:21:36+00:00",
+  "modo": "completo",
+  "modelos": [
+    "gemini-3.6-flash"
+  ],
+  "modelo": "gemini-3.6-flash",
+  "fontes_consultadas": {
+    "Brasil de Fato": "erro_http_404",
+    "Peoples Dispatch": "desatualizado",
+    "TeleSUR English": "erro_http_404",
+    "Africa Is a Country": "ok",
+    "Al Jazeera English": "ok",
+    "BBC World": "ok",
+    "The Guardian World": "erro_http_403",
+    "France 24": "ok",
+    "Deutsche Welle": "ok",
+    "NPR World": "ok",
+    "UN News": "ok"
+  },
+  "total_noticias_coletadas": 70,
+  "textos_integrais_lidos": 9,
+  "fatos_verificados_na_web": 0,
+  "duracao_minutos": 23.7,
+  "aviso_metodologico": "Referencial teórico declarado: marxismo-leninismo-maoísmo (Marx, Engels, Lenin, Mao Tsé-Tung e Ho Chi Minh). Os trechos citados são curtos e conferidos nas páginas do Marxists Internet Archive; os conceitos são ferramentas de leitura, não provas. Análise gerada por IA a partir de notícias de fontes com perfis editoriais distintos. Números vêm do Banco Mundial (preenchidos pelo código, não pelo modelo). Links e citações são conferidos automaticamente. A verificação na web é uma checagem auxiliar. O contexto histórico vem do conhecimento geral do modelo e deve ser conferido. A análise materialista é uma interpretação, não um fato."
+}
